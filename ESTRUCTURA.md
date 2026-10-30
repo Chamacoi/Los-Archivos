@@ -150,7 +150,7 @@ a alguien; las elisiones se marcan.
   alargando el capítulo siguiente.
 - Recuento por script cuando haya texto; mientras no haya, la tabla es la cuenta.
 
-### Recuento real (v16)
+### Recuento real (v35)
 
 Los números de esta tabla los escribe `escritura/bin/nk contar --actualizar` entre las marcas
 `nk:recuento`; no se editan a mano. El método de recuento está declarado en `libro.json`:
@@ -160,6 +160,7 @@ Los números de esta tabla los escribe `escritura/bin/nk contar --actualizar` en
 | Cap. | Palabras | Presupuesto | Desviación | Acumulado parte |
 |---|---|---|---|---|
 | I.1 | 2.798 | 3.025 | -7,5 % | 2.798 / 190.552 |
+| I.2 | 2.727 | 3.025 | -9,9 % | 5.525 / 190.552 |
 <!-- /nk:recuento -->
 
 La desviación se anota; no se compensa alargando el capítulo siguiente. El acumulado de la parte

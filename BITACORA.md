@@ -484,3 +484,17 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   errores, 0 avisos). Nada escrito en `MANUSCRITO/`; I.2 sigue pendiente de orden del autor.
 - **Sesión cerrada (v34).** Anotados los desfases de §0, README y ESTRUCTURA; queda la revisión de
   citas (F-24 a F-34) antes de dar la publicación por cerrada.
+
+## v35 — 2026-10-30
+
+- **I.2 escrito y aprobado (decisión 48).** «Los otros días», **2.727 palabras** (−9,9 % sobre
+  3.025), 5 secciones, 8,6 % de palabras en documentos citados. Cubre el mapa de I.1: el taller, la
+  lista de averías, el cuadrante de oficios, el arco generacional y El Servidor presente y no
+  siempre hablante (C-5: dice «Antes», calla y lee la fórmula de cierre).
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos. `nk contar --actualizar`: I.1
+  2.798 + I.2 2.727 = **5.525 palabras**, 2/126 capítulos. `ESTRUCTURA.md` actualizada.
+- **Aprobación del autor:** «Se aprueba» (2026-10-30). Fija la voz para I.3. Actualizados
+  `APUNTES.md` §0 y §3, `README.md`, `MANUSCRITO/00-LEEME.md` y `libro.json` (nota de recuento de
+  I.1 corregida a 2.798).
+- **Sesión cerrada (v35).** Commit del capítulo y de los apuntes; subida a `origin/main`. Siguiente:
+  **I.3 «La división»**, pendiente de orden del autor; queda la revisión de citas (F-24 a F-34).

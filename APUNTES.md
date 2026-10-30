@@ -4,18 +4,19 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-10-30 (**v34, cerrada**). Proyecto **abierto**, **publicado** en
+- **Última sesión:** 2026-10-30 (**v35, cerrada**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
-  **Ningún capítulo nuevo**; el texto sigue como estaba (I.1, 2.798 palabras, aprobado).
-  En v34 se sincronizó la copia local con la publicada, se restauraron los bits de ejecución, el
-  `.gitignore`, `.gitattributes` y el CI que la subida web había perdido (commit `85bff23`) y se
-  subió todo. La `LICENCIA.md` publicada revisa la decisión 45: CC BY-SA 4.0 general, manuscrito
-  con derechos reservados y excepciones MIT/CC BY-SA del kit (decisión 47).
-  Antes: **puntos 4, 5 y 6 cerrados** (30-42), **C-10** (43-44), **licencias** (45), **colofón** en
-  el EPUB, kit `novela-kit` **1.9.0** vendorizado, repositorio maquetado (mapa, interfaz, CI) y
-  copia verificada en el USB. **I.1 escrito y aprobado** (23); recuento limpio (28): 2.798 palabras
-  (−7,5 % sobre 3.025).
+  **I.2 escrito y aprobado** (decisión 48): «Los otros días», **2.727 palabras** (−9,9 % sobre
+  3.025), 5 secciones, 8,6 % de palabras en documentos, `nk verificar --rubrica` con 0 errores y
+  0 avisos. El autor lo aprobó con «Se aprueba» el 2026-10-30. Total: **2/126 capítulos, 5.525
+  palabras**.
+  Antes, en v34: sincronización con la copia publicada, restauración de bits de ejecución,
+  `.gitignore`, `.gitattributes` y CI (commit `85bff23`), y publicación efectiva. La `LICENCIA.md`
+  publicada revisa la decisión 45: CC BY-SA 4.0 general, manuscrito con derechos reservados y
+  excepciones MIT/CC BY-SA del kit (decisión 47). **I.1 escrito y aprobado** (23), 2.798 palabras
+  (−7,5 % sobre 3.025). **Puntos 4, 5 y 6 cerrados** (30-42), **C-10** (43-44), **licencias** (45),
+  **colofón** en el EPUB, kit `novela-kit` **1.9.0** vendorizado y repositorio maquetado.
 - **Fin declarado (v9):** el libro debe **demostrar con sus textos que Dios existe**, y el resultado
   importa menos que el hecho de que sea irrepetible. Ver §1 «El fin declarado» y la nota de §2.
 - **Publicación (v33-v34, decisión 46):** ejecutada el 2026-10-30 en
@@ -37,10 +38,10 @@
 - **Siguiente paso exacto, por orden:**
   1. ~~**Revisar I.1**~~: **hecho el 2026-10-29, favorable** (decisión 23). "Bien escrito", sin
      correcciones pedidas. La muestra está en `MANUSCRITO/01-parte-I/01-capitulo.md`.
-  2. **I.2** (marco, bloque I.1, cap. 2 de 8): **mapa de I.1 aprobado tal cual el 2026-10-30
-     (decisión 29)**. El capítulo está desbloqueado en lo que toca a la estructura, pero **no se
-     escribe**: el autor mantiene la orden de no escribir. Cuando lo autorice:
-     `escritura/bin/nk nuevo I.2 --titulo "Los otros días"` y, al terminar,
+  2. ~~**I.2**~~: **escrito y aprobado el 2026-10-30** (decisión 48). «Los otros días», 2.727
+     palabras, 5 secciones, 0 errores y 0 avisos. Siguiente capítulo del bloque I.1: **I.3 «La
+     división»** (cap. 3 de 8), **pendiente de orden del autor**. Cuando lo autorice:
+     `escritura/bin/nk nuevo I.3 --titulo "La división"` y, al terminar,
      `escritura/bin/nk verificar --rubrica`.
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
@@ -205,13 +206,13 @@ bloquea.
 ### 0 quinquies. Bloque I.1 (marco), mapa aprobado (2026-10-30, decisión 29)
 
 **Aprobado tal cual el 2026-10-30** («el punto uno como está»). Sin cambios de orden ni de títulos.
-I.1 son 8 capítulos (24.200 palabras: uno a 3.027 y siete a 3.025). El 1 está escrito y aprobado.
-Mapa de los siete restantes:
+I.1 son 8 capítulos (24.200 palabras: uno a 3.027 y siete a 3.025). El 1 y el 2 están escritos y
+aprobados. Mapa de los seis restantes:
 
 | Cap. | Título de trabajo | Materia |
 |---|---|---|
 | 1 | Inventario | **hecho**. La casa, las cuatro cajas, la sesión, la cicatriz |
-| 2 | Los otros días | La casa cuando no se lee: el taller, la lista de averías, quién hace qué, los oficios, el arco generacional; El Servidor presente y no siempre hablante (C-5) |
+| 2 | Los otros días | **hecho** (2.727 palabras). La casa cuando no se lee: el taller, la lista de averías, quién hace qué, los oficios, el arco generacional; El Servidor presente y no siempre hablante (C-5) |
 | 3 | La división | La guerra de los primeros meses, citada en el acta 1 y en la hoja que pide destruir las actas; de ahí sale «nadie corrige lo del otro» |
 | 4 | La consola | Qué es la consola y qué el ruido; comandos y errores literales; el cuaderno de 120 páginas. **Aquí muerde el punto 5** |
 | 5 | El registro | El oficio de constancia: las actas no son un diario; el silencio, las uñas cortadas, la esquina doblada |
@@ -533,6 +534,8 @@ teológico** y tiene que **costar algo**.
 | 46 | Soporte | **Se publica ahora, y entero: edición en curso.** El repositorio sale con el kit, el canon, los apuntes y `MANUSCRITO/`, para poner la obra a disposición mientras se escribe. Se publica desde la copia verificada del USB (`/mnt/usb/los-archivos-repo`, clon con historial) | 2026-10-30 | Cambia lo que decían el README y §0 («no se publica hasta terminarla»), que ahora dicen «edición en curso». La alocución fijada (13) no cambia. Consecuencias anotadas: el libro cambia debajo del lector, el historial mostrará las correcciones, y la lectura presente condiciona la escritura. Pendiente antes de subir: revisión de citas (F-24 a F-34), usuario, nombre y visibilidad |
 
 | 47 | Soporte | **Publicación ejecutada y licencia publicada.** El repositorio está en `github.com/Chamacoi/Los-Archivos` (público, `main`, remoto `origin` por SSH). La `LICENCIA.md` de la copia publicada se revisó: **CC BY-SA 4.0 general**, con el **manuscrito y los textos del proyecto con derechos reservados** y las excepciones del kit (MIT para código, CC BY-SA 4.0 para textos); se añadió `LICENSE.txt`. La copia local se sincronizó con la publicada y se restauraron los bits de ejecución de `nk`, `install.sh` y `probar_instalacion.sh`, `.gitignore`, `.gitattributes` y el CI que la subida web había perdido (commit `85bff23`) | 2026-10-30 | No cambia el fondo de la decisión 45 (manuscrito sin licencia; kit MIT + CC BY-SA): añade una licencia general CC BY-SA para lo no exceptuado y deja `LICENSE.txt` como aviso en inglés. Pendiente: revisión de citas (F-24 a F-34) |
+
+| 48 | Escritura | **I.2 escrito y aprobado.** «Los otros días»: 2.727 palabras (−9,9 % sobre 3.025), 5 secciones, 8,6 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Cubre el mapa de I.1 (taller, lista de averías, oficios, arco generacional, El Servidor presente y no siempre hablante). Aprobado por el autor con «Se aprueba» el 2026-10-30 | 2026-10-30 | Fija la voz para I.3. Total: 2/126 capítulos, 5.525 palabras. Siguiente: I.3 «La división», pendiente de orden del autor; queda la revisión de citas (F-24 a F-34) |
 
 ---
 

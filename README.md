@@ -5,8 +5,8 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo; I.1 escrito y aprobado (2.798 palabras con el método limpio). Siguiente: I.2
-  (marco, bloque I.1), pendiente de orden del autor para escribir.
+  C-1 a C-10 completo; I.1 e I.2 escritos y aprobados (2.798 + 2.727 palabras con el método
+  limpio; 2/126 capítulos). Siguiente: I.3 «La división», pendiente de orden del autor.
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
 - **Soporte:** texto plano versionado en esta Raspberry, kit `escritura/` y exportación a EPUB;
@@ -255,7 +255,9 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Programar la escritura: kit `novela-kit` y `libro.json` (2026-10-30).
 - [x] Decidir el método de recuento: **palabras limpias** (2026-10-30, decisión 28).
 - [x] Dar el visto bueno al mapa de I.1 (2026-10-30, decisión 29).
-- [ ] Escribir I.2 (pendiente de orden del autor).
+- [x] Escribir y aprobar I.2, «Los otros días»: 2.727 palabras, 0 errores y 0 avisos
+      (2026-10-30, decisión 48).
+- [ ] Escribir I.3, «La división» (pendiente de orden del autor).
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).

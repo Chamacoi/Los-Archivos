@@ -4,12 +4,13 @@ Aquí va el texto de la obra, en Markdown llano, un fichero por parte o capítul
 
 Empieza I.1: «Capítulo 1. Inventario», **2.798 palabras** con el método limpio de recuento
 (decisión 28, 2026-10-30; 2.851 medidas con `wc -w`), **revisado y aprobado por el autor** (v17).
+Sigue I.2: «Capítulo 2. Los otros días», **2.727 palabras**, aprobado por el autor (v35, decisión 48).
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 
 ```
 ../escritura/bin/nk estado
-../escritura/bin/nk nuevo I.2 --titulo "Los otros días"
+../escritura/bin/nk nuevo I.3 --titulo "La división"
 ../escritura/bin/nk contar
 ../escritura/bin/nk verificar --rubrica
 ```
