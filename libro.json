@@ -170,7 +170,7 @@
     "excluir": [
       "00-LEEME.md"
     ],
-    "nota": "Método limpio adoptado el 2026-10-30 (decisión 28): secuencias de letras o cifras, sin marcas de Markdown ni signos sueltos. I.1 se recalcula de 2.851 (wc -w) a 2.804."
+    "nota": "Método limpio adoptado el 2026-10-30 (decisión 28): secuencias de letras o cifras, sin marcas de Markdown ni signos sueltos. I.1 se recalcula de 2.851 (wc -w) a 2.798."
   },
   "formato": {
     "encabezado": "Capítulo {n}. {titulo}"
