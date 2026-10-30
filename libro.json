@@ -1,0 +1,227 @@
+{
+  "kit": "1.0.0",
+  "libro": {
+    "titulo": "Los archivos",
+    "autor": "Chamacoi",
+    "fuente": "El Servidor (C-2): el archivo y la omnisciencia",
+    "idioma": "es-ES",
+    "objetivo_palabras": 381104,
+    "salida": "salida",
+    "objetivo_tipo": "referencia",
+    "tolerancia_total": 0.1,
+    "colofon": "© 2026 Chamacoi. Todos los derechos reservados.\nEl relato no lleva firma: el libro es el archivo y su fuente es El Servidor. Esta firma es editorial."
+  },
+  "partes": [
+    {
+      "id": "I",
+      "titulo": "Los que oyeron",
+      "dir": "MANUSCRITO/01-parte-I",
+      "capitulos": 63,
+      "palabras": 190552,
+      "presupuesto": {
+        "reparto": {
+          "3025": 40,
+          "3024": 23
+        }
+      },
+      "bloques": [
+        {
+          "id": "I.1",
+          "titulo": "El archivo",
+          "capitulos": [
+            1,
+            8
+          ]
+        },
+        {
+          "id": "I.2",
+          "titulo": "El anuncio",
+          "capitulos": [
+            9,
+            24
+          ]
+        },
+        {
+          "id": "I.3",
+          "titulo": "La comunidad",
+          "capitulos": [
+            25,
+            44
+          ]
+        },
+        {
+          "id": "I.4",
+          "titulo": "La faena",
+          "capitulos": [
+            45,
+            62
+          ]
+        },
+        {
+          "id": "I.5",
+          "titulo": "El suelo",
+          "capitulos": [
+            63,
+            63
+          ]
+        }
+      ],
+      "anclajes": [
+        {
+          "hecho": "E-01 (2008)",
+          "estudio": "E-01",
+          "capitulo": 63
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "titulo": "Los que leyeron",
+      "dir": "MANUSCRITO/02-parte-II",
+      "capitulos": 63,
+      "palabras": 190552,
+      "presupuesto": {
+        "reparto": {
+          "3025": 40,
+          "3024": 23
+        }
+      },
+      "bloques": [
+        {
+          "id": "II.1",
+          "titulo": "Los que leyeron",
+          "capitulos": [
+            1,
+            8
+          ]
+        },
+        {
+          "id": "II.2",
+          "titulo": "La siembra",
+          "capitulos": [
+            9,
+            20
+          ]
+        },
+        {
+          "id": "II.3",
+          "titulo": "La faena de los lectores",
+          "capitulos": [
+            21,
+            40
+          ]
+        },
+        {
+          "id": "II.4",
+          "titulo": "El concilio",
+          "capitulos": [
+            41,
+            54
+          ]
+        },
+        {
+          "id": "II.5",
+          "titulo": "La plaga",
+          "capitulos": [
+            55,
+            57
+          ]
+        },
+        {
+          "id": "II.6",
+          "titulo": "El archivo",
+          "capitulos": [
+            58,
+            63
+          ]
+        }
+      ],
+      "anclajes": [
+        {
+          "hecho": "E-03 (2019)",
+          "estudio": "E-03",
+          "capitulo": 9
+        },
+        {
+          "hecho": "E-02 (2020-2023)",
+          "estudio": "E-02",
+          "capitulos": [
+            55,
+            57
+          ]
+        },
+        {
+          "hecho": "C-10 (reunión de los que desaparecen)",
+          "canon": "C-10",
+          "capitulos": [
+            58,
+            63
+          ]
+        }
+      ]
+    }
+  ],
+  "presupuesto": {
+    "tolerancia": 0.2
+  },
+  "manuscrito": "MANUSCRITO",
+  "conteo": {
+    "metodo": "palabras",
+    "excluir": [
+      "00-LEEME.md"
+    ],
+    "nota": "Método limpio adoptado el 2026-10-30 (decisión 28): secuencias de letras o cifras, sin marcas de Markdown ni signos sueltos. I.1 se recalcula de 2.851 (wc -w) a 2.804."
+  },
+  "formato": {
+    "encabezado": "Capítulo {n}. {titulo}"
+  },
+  "rubrica": {
+    "secciones": [
+      3,
+      6
+    ],
+    "citas_pct": [
+      0.03,
+      0.45
+    ],
+    "yo_maximo": 0
+  },
+  "seguimiento": [
+    "README.md",
+    "ESTRUCTURA.md"
+  ],
+  "canon": "APUNTES.md",
+  "glosario": "GLOSARIO.md",
+  "verificacion": {
+    "sin_nombres": true,
+    "nombres_permitidos": [
+      "Boomer",
+      "Equis",
+      "Milenial",
+      "Zeta",
+      "Alfa",
+      "El Servidor",
+      "Token Insight",
+      "Beresheet",
+      "Arch Mission Foundation",
+      "SpaceIL",
+      "Israel Aerospace Industries",
+      "National Geographic",
+      "SARS-CoV-2"
+    ],
+    "prohibiciones": [
+      "nos quedó esta paz"
+    ],
+    "patrones": [],
+    "tecnicismos": [],
+    "tecnicismos_permitidos": [],
+    "ego_extra": [],
+    "solo_en_citas": [
+      "mesías",
+      "mesias"
+    ]
+  },
+  "exportacion": {
+    "formato": "epub"
+  }
+}

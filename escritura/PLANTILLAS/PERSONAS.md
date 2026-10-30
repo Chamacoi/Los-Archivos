@@ -1,0 +1,16 @@
+# PERSONAS — «{{TITULO}}»
+
+Fichas de quienes aparecen. **Vacío a propósito** hasta que el autor dé nombres (regla: no se
+inventan identidades). Mientras no los dé, se escribe por oficio o papel.
+
+Plantilla de ficha:
+
+```
+## [nombre o papel]
+
+- **Cómo se le nombra en el texto:** …
+- **Oficio:** …
+- **Generación:** …
+- **Qué sabe y qué no:** …
+- **Qué pierde:** …
+```

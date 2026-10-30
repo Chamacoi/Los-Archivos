@@ -1,0 +1,68 @@
+{
+  "kit": "1.9.0",
+  "libro": {
+    "titulo": "El cuaderno de mareas",
+    "autor": "Chamacoi",
+    "fuente": "El cuaderno y la sala (obra de muestra; todo es ficticio)",
+    "idioma": "es-ES",
+    "objetivo_palabras": 9600,
+    "salida": "salida"
+  },
+  "partes": [
+    {
+      "id": "I",
+      "titulo": "Los que anotan",
+      "dir": "MANUSCRITO/01-parte-I",
+      "capitulos": 4,
+      "palabras": 4800
+    },
+    {
+      "id": "II",
+      "titulo": "Los que copian",
+      "dir": "MANUSCRITO/02-parte-II",
+      "capitulos": 4,
+      "palabras": 4800
+    }
+  ],
+  "presupuesto": {
+    "tolerancia": 0.2
+  },
+  "conteo": {
+    "metodo": "palabras",
+    "excluir": [
+      "00-LEEME.md"
+    ]
+  },
+  "formato": {
+    "encabezado": "Capítulo {n}. {titulo}"
+  },
+  "rubrica": {
+    "secciones": [
+      3,
+      6
+    ],
+    "citas_pct": [
+      0.03,
+      0.45
+    ],
+    "yo_maximo": 0
+  },
+  "seguimiento": [
+    "README.md",
+    "ESTRUCTURA.md"
+  ],
+  "canon": "APUNTES.md",
+  "glosario": "GLOSARIO.md",
+  "verificacion": {
+    "sin_nombres": true,
+    "nombres_permitidos": [],
+    "prohibiciones": [
+      "nos quedó esta paz",
+      "en definitiva"
+    ],
+    "patrones": []
+  },
+  "exportacion": {
+    "formato": "epub"
+  }
+}

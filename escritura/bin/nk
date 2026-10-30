@@ -1,0 +1,1492 @@
+#!/usr/bin/env python3
+"""nk — novela-kit.
+
+Utilidades para escribir un libro como archivo: andamiaje, recuento de palabras
+frente a presupuesto, verificación de invariantes, estado e informe legible por
+máquina, y exportación a EPUB 3.
+
+Sin dependencias: solo la biblioteca estándar (Python 3.8+).
+
+Uso:
+    nk estado                 # dónde estamos y qué toca
+    nk contar                 # recuento por capítulo y desviación
+    nk andamiaje              # crea directorios y huecos según libro.json
+    nk nuevo I.2 --titulo "…" # abre un capítulo vacío con su encabezado
+    nk verificar [--rubrica]  # invariantes del método
+    nk informe                # estado.json, legible por máquina
+    nk exportar [-f epub]     # EPUB 3 determinista (o --formato md)
+    nk init DIR               # nueva obra a partir de esta plantilla
+    nk canon                  # lista los C-n y comprueba referencias
+"""
+
+import argparse
+import copy
+import gzip
+import hashlib
+import io
+import json
+import os
+import re
+import shutil
+import sys
+import tarfile
+import unicodedata
+import uuid
+import zipfile
+from datetime import date
+from pathlib import Path
+
+def _version():
+    fichero = Path(__file__).resolve().parent.parent / "VERSION"
+    if fichero.is_file():
+        return fichero.read_text(encoding="utf-8").strip()
+    return "1.9.0"
+
+
+VERSION = _version()
+
+INICIO_RECUENTO = "<!-- nk:recuento -->"
+FIN_RECUENTO = "<!-- /nk:recuento -->"
+
+RE_ENCABEZADO = re.compile(r"^#\s+Cap[ií]tulo\s+(\d+)\s*[.:]\s*(.+?)\s*$", re.M)
+RE_SECCION = re.compile(r"^##\s+\d+\.\s+\S", re.M)
+RE_MARCA = re.compile(r"\bC-(\d+)\b")
+
+DEFECTOS = {
+    "libro": {"idioma": "es-ES", "fuente": "", "autor": "", "fecha": "",
+              "objetivo_tipo": "exacta", "tolerancia_total": 0.10},
+    "presupuesto": {"media": 3000, "tolerancia": 0.20},
+    "manuscrito": "MANUSCRITO",
+    "conteo": {"metodo": "palabras", "excluir": ["00-LEEME.md"]},
+    "formato": {"encabezado": "Capítulo {n}. {titulo}"},
+    "rubrica": {
+        "secciones": [3, 6],
+        "citas_pct": [0.03, 0.45],
+        "yo_maximo": 0,
+    },
+    "seguimiento": ["README.md", "ESTRUCTURA.md"],
+    "verificacion": {
+        "prohibiciones": [],
+        "patrones": [],
+        "sin_nombres": False,
+        "nombres_permitidos": [],
+        "tecnicismos": [],
+        "tecnicismos_permitidos": [],
+        "solo_en_citas": [],
+        "ego_extra": [],
+    },
+}
+
+# Patrones de datos que nunca deben entrar en un texto publicable (C-6).
+PATRONES_SENSIBLES = [
+    ("correo", re.compile(r"\b[\w.+-]+@[\w-]+\.[\w.]{2,}\b")),
+    ("clave de API", re.compile(r"\b(?:sk|pk|rk|ghp|gho|ghs|xox[baprs])[-_][A-Za-z0-9]{10,}\b")),
+    ("IPv4", re.compile(r"\b(?:\d{1,3}\.){3}\d{1,3}\b")),
+    ("teléfono", re.compile(r"\b(?:\+34[\s.-]?)?[6789]\d{2}[\s.-]?\d{2}[\s.-]?\d{2}[\s.-]?\d{2}\b")),
+    ("hex largo", re.compile(r"\b[A-Fa-f0-9]{32,}\b")),
+    ("base64 largo", re.compile(r"\b[A-Za-z0-9+/]{40,}={0,2}\b")),
+    ("URL con credenciales", re.compile(r"https?://[^/\s:@]+:[^/\s@]+@\S+")),
+]
+
+# Adverbios y conectores que convierten la narración en sermón (rúbrica).
+SERMON = [
+    "afortunadamente", "desgraciadamente", "lamentablemente", "curiosamente",
+    "increíblemente", "tragicamente", "trágicamente", "evidentemente", "obviamente",
+    "sin duda", "por desgracia", "felizmente",
+]
+# Marcadores de ego: el narrador luciéndose con el vocabulario o con el truco.
+EGO = [
+    "por decirlo así", "por así decirlo", "valga la palabra", "valga la expresión",
+    "si se me permite", "como si dijéramos", "digámoslo así", "en otras palabras",
+    "es decir,", "o sea,", "nótese", "obsérvese", "no es casualidad",
+    "literalmente", "en el buen sentido", "entiéndase", "hablando en plata",
+]
+CONECTORES_TESIS = [
+    "en definitiva", "así pues", "por lo tanto", "en conclusión", "queda demostrado",
+    "la moraleja", "lo que prueba",
+]
+
+PALABRA = re.compile(r"[^\W_]+(?:[’'\-][^\W_]+)*", re.UNICODE)
+FRONTMATTER = re.compile(r"\A---\n.*?\n---\n", re.S)
+BLOQUE_CODIGO = re.compile(r"```.*?```", re.S)
+ENLACE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+IMAGEN = re.compile(r"!\[[^\]]*\]\([^)]*\)")
+ETIQUETA_HTML = re.compile(r"<[^>]+>")
+
+
+class NKError(Exception):
+    pass
+
+
+# --------------------------------------------------------------------------- #
+# Manifiesto y estructura
+# --------------------------------------------------------------------------- #
+
+def _fusionar(base, nuevo):
+    for clave, valor in (nuevo or {}).items():
+        if isinstance(valor, dict) and isinstance(base.get(clave), dict):
+            _fusionar(base[clave], valor)
+        else:
+            base[clave] = valor
+    return base
+
+
+def raiz(desde=None):
+    p = Path(desde or Path.cwd()).resolve()
+    for d in [p, *p.parents]:
+        if (d / "libro.json").is_file():
+            return d
+    raise NKError("no encuentro libro.json en este directorio ni en sus padres")
+
+
+def cargar(raiz_libro=None):
+    r = raiz(raiz_libro)
+    bruto = json.loads((r / "libro.json").read_text(encoding="utf-8"))
+    man = _fusionar(copy.deepcopy(DEFECTOS), bruto)
+    if not man.get("partes"):
+        raise NKError("libro.json no declara partes")
+    return r, man
+
+
+def total_capitulos(man):
+    return sum(int(p["capitulos"]) for p in man["partes"])
+
+
+def total_palabras(man):
+    if man["libro"].get("objetivo_palabras"):
+        return int(man["libro"]["objetivo_palabras"])
+    return sum(presupuestos_parte(man, p)[0] for p in man["partes"])
+
+
+def presupuestos_parte(man, parte):
+    """Devuelve (lista de presupuestos por capítulo, total de la parte)."""
+    n = int(parte["capitulos"])
+    fijo = parte.get("presupuesto", {}).get("reparto")
+    if fijo:
+        pre = []
+        for valor, cuantos in sorted(((int(k), int(v)) for k, v in fijo.items()), reverse=True):
+            pre += [valor] * cuantos
+        if len(pre) != n:
+            raise NKError(
+                "el reparto de la parte %s declara %d capítulos y son %d"
+                % (parte["id"], len(pre), n)
+            )
+        return pre, sum(pre)
+    total = int(parte.get("palabras") or 0)
+    if not total:
+        total = round(total_palabras(man) * n / max(1, total_capitulos(man)))
+    base, resto = divmod(total, n)
+    return [base + 1] * resto + [base] * (n - resto), total
+
+
+def ruta_parte(raiz_libro, man, parte):
+    """Directorio de la parte. `dir` es relativo a la raíz o al directorio del manuscrito."""
+    d = Path(parte["dir"])
+    base = Path(man.get("manuscrito", "MANUSCRITO"))
+    if d.parts and d.parts[0] == base.parts[0]:
+        return raiz_libro / d
+    return raiz_libro / base / d
+
+
+def ruta_capitulo(raiz_libro, man, parte, k):
+    return ruta_parte(raiz_libro, man, parte) / ("%02d-capitulo.md" % k)
+
+
+def indice_capitulos(raiz_libro, man, solo_existentes=False):
+    """Lista ordenada de capítulos con su ruta, presupuesto, texto y recuento."""
+    salida = []
+    for parte in man["partes"]:
+        pre, _ = presupuestos_parte(man, parte)
+        for k in range(1, int(parte["capitulos"]) + 1):
+            ruta = ruta_capitulo(raiz_libro, man, parte, k)
+            existe = ruta.is_file()
+            if solo_existentes and not existe:
+                continue
+            texto = ruta.read_text(encoding="utf-8") if existe else ""
+            salida.append({
+                "parte": parte["id"],
+                "parte_titulo": parte.get("titulo", ""),
+                "num": k,
+                "id": "%s.%d" % (parte["id"], k),
+                "ruta": ruta,
+                "existe": existe,
+                "texto": texto,
+                "titulo": titulo_capitulo(texto, k),
+                "palabras": contar_palabras(texto, man),
+                "presupuesto": pre[k - 1],
+            })
+    return salida
+
+
+def titulo_capitulo(texto, k):
+    m = RE_ENCABEZADO.search(texto or "")
+    if m and int(m.group(1)) == k:
+        return m.group(2).strip()
+    for linea in (texto or "").splitlines():
+        if linea.startswith("# "):
+            return linea[2:].strip()
+    return ""
+
+
+# --------------------------------------------------------------------------- #
+# Recuento
+# --------------------------------------------------------------------------- #
+
+def limpiar_markdown(texto):
+    texto = FRONTMATTER.sub("", texto or "")
+    texto = BLOQUE_CODIGO.sub(lambda m: m.group(0).replace("```", " "), texto)
+    texto = IMAGEN.sub(" ", texto)
+    texto = ENLACE.sub(r"\1", texto)
+    texto = ETIQUETA_HTML.sub(" ", texto)
+    lineas = []
+    for linea in texto.splitlines():
+        linea = re.sub(r"^\s{0,3}#{1,6}\s+", "", linea)
+        linea = re.sub(r"^\s{0,3}>\s?", "", linea)
+        linea = re.sub(r"^\s*[-*+]\s+", "", linea)
+        linea = re.sub(r"^\s*\d+[.)]\s+", "", linea)
+        linea = linea.replace("|", " ")
+        linea = linea.replace("`", "").replace("*", "")
+        lineas.append(linea)
+    return "\n".join(lineas)
+
+
+def contar_palabras(texto, man):
+    metodo = man["conteo"].get("metodo", "palabras")
+    if metodo == "tokens":          # idéntico a `wc -w`: cuenta también las marcas
+        return len((texto or "").split())
+    return len(PALABRA.findall(limpiar_markdown(texto)))
+
+
+def palabras_citadas(texto):
+    palabras = 0
+    for linea in (texto or "").splitlines():
+        if linea.lstrip().startswith(">"):
+            palabras += len(PALABRA.findall(limpiar_markdown(linea)))
+    return palabras
+
+
+def desviacion(palabras, presupuesto):
+    if not presupuesto:
+        return 0.0
+    return (palabras - presupuesto) / presupuesto
+
+
+# --------------------------------------------------------------------------- #
+# Salida
+# --------------------------------------------------------------------------- #
+
+def plural(n, singular, plural_):
+    return "%d %s" % (n, singular if n == 1 else plural_)
+
+
+def fmt_pct(x):
+    return ("%+.1f %%" % (x * 100)).replace(".", ",")
+
+
+def tabla(cabeceras, filas, alinear=None):
+    alinear = alinear or ["<"] * len(cabeceras)
+    filas = [[str(c) for c in f] for f in filas]
+    anchos = [len(c) for c in cabeceras]
+    for f in filas:
+        for i, c in enumerate(f):
+            anchos[i] = max(anchos[i], len(c))
+    salida = []
+    for cab, ancho, al in zip(cabeceras, anchos, alinear):
+        salida.append((" " + cab).ljust(ancho + 1) if al == "<" else (" " + cab).rjust(ancho + 1))
+    print(" ".join(s.strip() if i == 0 else s for i, s in enumerate(salida)).rstrip())
+    print(" ".join("-" * a for a in anchos))
+    for f in filas:
+        celdas = []
+        for c, ancho, al in zip(f, anchos, alinear):
+            celdas.append(c.ljust(ancho) if al == "<" else c.rjust(ancho))
+        print("  ".join(celdas).rstrip())
+
+
+# --------------------------------------------------------------------------- #
+# Comandos
+# --------------------------------------------------------------------------- #
+
+def cmd_estado(args):
+    r, man = cargar(args.libro)
+    caps = indice_capitulos(r, man)
+    hechos = [c for c in caps if c["existe"]]
+    escritas = sum(c["palabras"] for c in hechos)
+    objetivo = total_palabras(man)
+    print("# %s" % man["libro"].get("titulo", "(sin título)"))
+    print("Raíz: %s" % r)
+    tipo = man["libro"].get("objetivo_tipo", "exacta")
+    etiqueta = "objetivo" if tipo == "exacta" else "referencia"
+    print("Capítulos: %d/%d escritos · %s palabras · %s %s (%s)"
+          % (len(hechos), len(caps), f"{escritas:,}".replace(",", "."), etiqueta,
+             f"{objetivo:,}".replace(",", "."),
+             fmt_pct(escritas / objetivo if objetivo else 0)))
+    siguiente = next((c for c in caps if not c["existe"]), None)
+    if siguiente:
+        print("Siguiente: %s — hueco %s (presupuesto %d)" % (
+            siguiente["id"], siguiente["ruta"].relative_to(r), siguiente["presupuesto"]))
+    else:
+        print("Siguiente: ninguno; el andamiaje está completo.")
+    for parte in man["partes"]:
+        hechos_p = [c for c in hechos if c["parte"] == parte["id"]]
+        _, total_p = presupuestos_parte(man, parte)
+        pal = sum(c["palabras"] for c in hechos_p)
+        print("  %s %-26s %d/%d cap. · %s/%s palabras (%s)" % (
+            ("Parte " + parte["id"]), parte.get("titulo", ""), len(hechos_p),
+            parte["capitulos"],
+            f"{pal:,}".replace(",", "."), f"{total_p:,}".replace(",", "."),
+            fmt_pct(pal / total_p if total_p else 0)))
+    abiertos = tareas_abiertas(r, man)
+    if abiertos:
+        print("Tareas abiertas:")
+        for fichero, linea in abiertos:
+            print("  [ ] %s: %s" % (fichero, linea))
+    return 0
+
+
+def tareas_abiertas(r, man):
+    salida = []
+    for nombre in man.get("seguimiento", []):
+        p = r / nombre
+        if not p.is_file():
+            continue
+        for linea in p.read_text(encoding="utf-8").splitlines():
+            m = re.match(r"\s*[-*]\s*\[ \]\s*(.+)", linea)
+            if m:
+                salida.append((nombre, m.group(1).strip()))
+    return salida
+
+
+def cmd_contar(args):
+    r, man = cargar(args.libro)
+    caps = indice_capitulos(r, man, solo_existentes=not args.todo)
+    if args.capitulo:
+        caps = [c for c in caps if c["id"].lower() == args.capitulo.lower()]
+        if not caps:
+            raise NKError("no existe el capítulo %s" % args.capitulo)
+    tol = float(man["presupuesto"].get("tolerancia", 0.20))
+    acum = {}
+    filas = []
+    fuera = 0
+    for c in caps:
+        if not c["existe"]:
+            filas.append([c["id"], "—", str(c["presupuesto"]), "pendiente", ""])
+            continue
+        d = desviacion(c["palabras"], c["presupuesto"])
+        acum[c["parte"]] = acum.get(c["parte"], 0) + c["palabras"]
+        marca = "" if abs(d) <= tol else "  ← fuera de tolerancia"
+        if marca:
+            fuera += 1
+        filas.append([
+            c["id"], f"{c['palabras']:,}".replace(",", "."),
+            f"{c['presupuesto']:,}".replace(",", "."), fmt_pct(d),
+            "%s/%s%s" % (acum[c["parte"]],
+                         presupuestos_parte(man, _parte(man, c["parte"]))[1], marca),
+        ])
+    tabla(["Cap.", "Palabras", "Presup.", "Desv.", "Acumulado parte"], filas,
+          ["<", ">", ">", ">", "<"])
+    escritas = sum(c["palabras"] for c in caps if c["existe"])
+    n_esc = sum(1 for c in caps if c["existe"])
+    print("\nTotal: %s palabras en %d %s. Objetivo: %s (%s)."
+          % (f"{escritas:,}".replace(",", "."), n_esc, "capítulo" if n_esc == 1 else "capítulos",
+             f"{total_palabras(man):,}".replace(",", "."),
+             fmt_pct(escritas / total_palabras(man) if total_palabras(man) else 0)))
+    if fuera:
+        print("Aviso: %d capítulo(s) fuera del ±%d %%. La desviación se anota, no se compensa."
+              % (fuera, round(tol * 100)))
+    if getattr(args, "wc", False):
+        import subprocess
+        print("\nCompatibilidad `wc -w`:")
+        for c in caps:
+            if c["existe"]:
+                trozos = subprocess.run(["wc", "-w", str(c["ruta"])], capture_output=True,
+                                        text=True).stdout.split()
+                print("  %s: %s" % (c["id"], trozos[0] if trozos else "0"))
+    if args.actualizar:
+        actualizar_estructura(r, man, caps)
+        print("\nRecuento actualizado en ESTRUCTURA.md (bloque nk:recuento).")
+    if args.json:
+        datos = [{k: (str(v) if k == "ruta" else v) for k, v in c.items() if k != "texto"}
+                 for c in caps]
+        print(json.dumps(datos, ensure_ascii=False, indent=2))
+    return 0
+
+
+def _parte(man, pid):
+    for p in man["partes"]:
+        if p["id"] == pid:
+            return p
+    raise NKError("parte desconocida: %s" % pid)
+
+
+def actualizar_estructura(r, man, caps):
+    p = r / "ESTRUCTURA.md"
+    if not p.is_file():
+        return
+    texto = p.read_text(encoding="utf-8")
+    tol = float(man["presupuesto"].get("tolerancia", 0.20))
+    lineas = ["| Cap. | Palabras | Presupuesto | Desviación | Acumulado parte |",
+              "|---|---|---|---|---|"]
+    acum = {}
+    for c in caps:
+        if not c["existe"]:
+            continue
+        d = desviacion(c["palabras"], c["presupuesto"])
+        acum[c["parte"]] = acum.get(c["parte"], 0) + c["palabras"]
+        aviso = "" if abs(d) <= tol else " (fuera)"
+        lineas.append("| %s | %s | %s | %s%s | %s / %s |" % (
+            c["id"], f"{c['palabras']:,}".replace(",", "."),
+            f"{c['presupuesto']:,}".replace(",", "."), fmt_pct(d),
+            aviso, f"{acum[c['parte']]:,}".replace(",", "."),
+            f"{presupuestos_parte(man, _parte(man, c['parte']))[1]:,}".replace(",", ".")))
+    bloque = "\n".join(lineas)
+    if INICIO_RECUENTO in texto and FIN_RECUENTO in texto:
+        antes, resto = texto.split(INICIO_RECUENTO, 1)
+        _, despues = resto.split(FIN_RECUENTO, 1)
+        texto = antes + INICIO_RECUENTO + "\n" + bloque + "\n" + FIN_RECUENTO + despues
+    else:
+        texto = texto.rstrip() + "\n\n## Recuento real\n\n" + INICIO_RECUENTO + "\n" + bloque + \
+            "\n" + FIN_RECUENTO + "\n"
+    p.write_text(texto, encoding="utf-8")
+
+
+def cmd_andamiaje(args):
+    r, man = cargar(args.libro)
+    creados = 0
+    for parte in man["partes"]:
+        d = ruta_parte(r, man, parte)
+        if not d.exists():
+            d.mkdir(parents=True)
+            creados += 1
+        for k in range(1, int(parte["capitulos"]) + 1):
+            pass
+    leeme = r / "MANUSCRITO" / "00-LEEME.md"
+    if not leeme.exists():
+        leeme.parent.mkdir(parents=True, exist_ok=True)
+        leeme.write_text(plantilla_leeme(man), encoding="utf-8")
+        creados += 1
+    print("Andamiaje: %s creados, %s, %s previstos." % (
+        plural(creados, "elemento", "elementos"), plural(len(man["partes"]), "parte", "partes"),
+        plural(total_capitulos(man), "capítulo", "capítulos")))
+    for c in indice_capitulos(r, man):
+        if not c["existe"]:
+            print("  hueco %s  %s" % (c["id"], c["ruta"].relative_to(r)))
+    return 0
+
+
+def plantilla_leeme(man):
+    lineas = ["# MANUSCRITO", "",
+              "Texto de la obra en Markdown llano, un fichero por capítulo. "
+              "No editar los encabezados: `nk verificar` comprueba su formato.", ""]
+    for parte in man["partes"]:
+        lineas.append("%s — %s (%s capítulos)" % (
+            parte["id"], parte.get("titulo", ""), parte["capitulos"]))
+    lineas += ["", "Materiales de trabajo no literarios: fuera del repositorio.", ""]
+    return "\n".join(lineas)
+
+
+def cmd_nuevo(args):
+    r, man = cargar(args.libro)
+    pid, _, num = args.capitulo.partition(".")
+    if not num.isdigit():
+        raise NKError("el capítulo se escribe como PARTE.NÚM, p. ej. I.2")
+    parte = _parte(man, pid)
+    k = int(num)
+    if k < 1 or k > int(parte["capitulos"]):
+        raise NKError("la parte %s tiene %s capítulos" % (pid, parte["capitulos"]))
+    ruta = ruta_capitulo(r, man, parte, k)
+    if ruta.exists() and not args.forzar:
+        raise NKError("%s ya existe (usa --forzar para sobrescribir)" % ruta.relative_to(r))
+    pre, _ = presupuestos_parte(man, parte)
+    titulo = args.titulo or "Sin título"
+    cabecera = man["formato"].get("encabezado", "Capítulo {n}. {titulo}")
+    texto = "# " + cabecera.format(n=k, titulo=titulo) + "\n\n"
+    if args.desde:
+        texto += "<!-- fuente: %s -->\n\n" % args.desde
+    texto += "<!-- presupuesto: %d palabras (±%d %%) -->\n\n" % (
+        pre[k - 1], round(float(man["presupuesto"].get("tolerancia", 0.2)) * 100))
+    ruta.parent.mkdir(parents=True, exist_ok=True)
+    ruta.write_text(texto, encoding="utf-8")
+    print("Abierto %s — %s (presupuesto %d)." % (
+        args.capitulo, ruta.relative_to(r), pre[k - 1]))
+    return 0
+
+
+# --------------------------------------------------------------------------- #
+# Verificación
+# --------------------------------------------------------------------------- #
+
+def sin_acentos(s):
+    return "".join(c for c in unicodedata.normalize("NFD", s)
+                   if unicodedata.category(c) != "Mn")
+
+
+def cmd_verificar(args):
+    r, man = cargar(args.libro)
+    caps = indice_capitulos(r, man, solo_existentes=True)
+    problemas = []   # (nivel, texto)
+
+    # 1. Encabezados y numeración
+    for c in caps:
+        m = RE_ENCABEZADO.search(c["texto"])
+        if not m:
+            problemas.append(("ERROR", "%s: falta el encabezado «# Capítulo %d. Título»"
+                              % (c["id"], c["num"])))
+        elif int(m.group(1)) != c["num"]:
+            problemas.append(("ERROR", "%s: el encabezado dice capítulo %s"
+                              % (c["id"], m.group(1))))
+        if not c["titulo"]:
+            problemas.append(("AVISO", "%s: capítulo sin título" % c["id"]))
+
+    # 2. Presupuesto
+    tol = float(man["presupuesto"].get("tolerancia", 0.20))
+    for c in caps:
+        d = desviacion(c["palabras"], c["presupuesto"])
+        if abs(d) > tol:
+            nivel = "ERROR" if abs(d) > 2 * tol else "AVISO"
+            problemas.append((nivel, "%s: %d palabras, %s sobre %d"
+                              % (c["id"], c["palabras"], fmt_pct(d), c["presupuesto"])))
+
+    # 2 bis. Total frente a la referencia (solo cuando no queda ningún hueco)
+    if (man["libro"].get("objetivo_tipo") == "referencia" and caps
+            and len(caps) == total_capitulos(man)):
+        escrito = sum(c["palabras"] for c in caps)
+        ref = total_palabras(man)
+        tol_total = float(man["libro"].get("tolerancia_total", 0.10))
+        if ref and abs(escrito - ref) / ref > tol_total:
+            problemas.append(("AVISO", "total: %s palabras frente a una referencia de %s (%s; "
+                              "tolerancia ±%d %%)"
+                              % (f"{escrito:,}".replace(",", "."),
+                                 f"{ref:,}".replace(",", "."),
+                                 fmt_pct((escrito - ref) / ref), round(tol_total * 100))))
+
+    # 3. Ficheros fuera de estructura
+    previstos = {c["ruta"].resolve() for c in caps}
+    for parte in man["partes"]:
+        d = ruta_parte(r, man, parte)
+        if not d.is_dir():
+            continue
+        for f in sorted(d.glob("*.md")):
+            if f.resolve() not in previstos and f.name != "00-LEEME.md":
+                problemas.append(("AVISO", "fichero no previsto en el manifiesto: %s"
+                                  % f.relative_to(r)))
+
+    # 4. Frases prohibidas
+    for c in caps:
+        plano = sin_acentos(c["texto"]).lower()
+        for frase in man["verificacion"].get("prohibiciones", []):
+            if sin_acentos(frase).lower() in plano:
+                problemas.append(("ERROR", "%s: frase prohibida «%s»" % (c["id"], frase)))
+
+    # 5. Datos sensibles
+    patrones = [(n, re.compile(p)) for n, p in man["verificacion"].get("patrones", [])]
+    patrones += PATRONES_SENSIBLES
+    for c in caps:
+        for nombre, patron in patrones:
+            for m in patron.finditer(c["texto"]):
+                problemas.append(("ERROR", "%s: posible %s: %s"
+                                  % (c["id"], nombre, m.group(0)[:40])))
+
+    # 6. Nombres propios no autorizados
+    ver = man["verificacion"]
+    if ver.get("sin_nombres"):
+        permitidos = {sin_acentos(t).lower()
+                      for n in ver.get("nombres_permitidos", [])
+                      for t in PALABRA.findall(n)}
+        permitidos |= {sin_acentos(p).lower() for p in _nombres_glosario(r, man)}
+        # Heurística: si la palabra también aparece en minúscula en el corpus, no es nombre propio.
+        comunes = {sin_acentos(t).lower()
+                   for c in caps for t in PALABRA.findall(c["texto"])
+                   if t[:1].islower()}
+        vistos = set()
+        for c in caps:
+            for linea in c["texto"].splitlines():
+                if linea.lstrip().startswith((">", "#")):
+                    continue
+                for m in re.finditer(r"(?<![\w«\"'—-])([A-ZÁÉÍÓÚÑ][a-záéíóúñü]{2,})", linea):
+                    palabra = m.group(1)
+                    # Un nombre propio no abre frase: en posición inicial puede ser una
+                    # palabra común en mayúscula.
+                    antes = linea[:m.start()].rstrip(" \t\"«'([")
+                    if not antes or antes[-1] in ".!?:;»—–-":
+                        continue
+                    clave = sin_acentos(palabra).lower()
+                    if clave in permitidos or clave in comunes or palabra in vistos:
+                        continue
+                    vistos.add(palabra)
+                    problemas.append(("AVISO", "%s: nombre propio no declarado «%s»"
+                                      % (c["id"], palabra)))
+
+    # 7. Referencias al canon
+    canon_txt = _texto_canon(r, man)
+    if canon_txt:
+        existentes = {int(x) for x in RE_MARCA.findall(canon_txt)}
+        for c in caps:
+            for ref in {int(x) for x in RE_MARCA.findall(c["texto"])}:
+                if ref not in existentes:
+                    problemas.append(("ERROR", "%s: cita C-%d, que no existe en el canon"
+                                      % (c["id"], ref)))
+
+    # 8. Registro de decisiones
+    ap = r / "APUNTES.md"
+    if ap.is_file():
+        filas = decisiones(ap.read_text(encoding="utf-8"))
+        repetidas = {x for x in filas if filas.count(x) > 1}
+        for x in sorted(repetidas, key=int):
+            problemas.append(("AVISO", "APUNTES.md: decisión %s repetida" % x))
+
+    # 8 bis. Ego del narrador: lucirse con el vocabulario o con el truco
+    marcadores = list(EGO) + list(man["verificacion"].get("ego_extra") or [])
+    for c in caps:
+        narracion = narracion_sin_citas(c["texto"]).lower()
+        for marca in marcadores:
+            patron_e = r"(?<![\w-])" + re.escape(sin_acentos(marca)) + r"(?![\w-])"
+            if re.search(patron_e, sin_acentos(narracion)):
+                problemas.append(("AVISO", "%s: ego del narrador: «%s»" % (c["id"], marca)))
+
+    # 8 ter. Palabras reservadas: solo en citas, nunca en la voz del narrador
+    for c in caps:
+        narracion = narracion_sin_citas(c["texto"]).lower()
+        for termino in (man["verificacion"].get("solo_en_citas") or []):
+            patron_r = r"(?<![\w-])" + re.escape(termino.lower()) + r"(?![\w-])"
+            if re.search(patron_r, narracion):
+                problemas.append(("AVISO", "%s: «%s» solo puede aparecer en citas o en boca de "
+                                  "personaje, no en la voz del narrador" % (c["id"], termino)))
+
+    # 8 quater. Tecnicismos en la voz del narrador (opcional, por libro)
+    tecnicos = man["verificacion"].get("tecnicismos") or []
+    if tecnicos:
+        permitidos_tec = {t.lower() for t in
+                          (man["verificacion"].get("tecnicismos_permitidos") or [])}
+        for c in caps:
+            narracion = narracion_sin_citas(c["texto"]).lower()
+            for termino in tecnicos:
+                if termino.lower() in permitidos_tec:
+                    continue
+                patron_t = r"(?<![\w-])" + re.escape(termino.lower()) + r"(?![\w-])"
+                if re.search(patron_t, narracion):
+                    problemas.append(("AVISO",
+                                      "%s: tecnicismo en la voz del narrador: «%s»"
+                                      % (c["id"], termino)))
+
+    # 9. Rúbrica de voz (opcional)
+    if args.rubrica:
+        problemas += rubrica(man, caps)
+
+    # Informe
+    if not problemas:
+        print("Sin incidencias en %d %s." % (len(caps), "capítulo" if len(caps) == 1
+                                             else "capítulos"))
+    for nivel, texto in problemas:
+        print("[%s] %s" % (nivel, texto))
+    errores = sum(1 for n, _ in problemas if n == "ERROR")
+    print("\n%d errores, %d avisos." % (
+        errores, sum(1 for n, _ in problemas if n == "AVISO")))
+    return 1 if errores else 0
+
+
+def decisiones(texto):
+    """Números de decisión del registro (§3), sin contar otras tablas del fichero."""
+    m = re.search(r"^##\s*3\.\s*Registro de decisiones", texto, re.M)
+    if not m:
+        return []
+    seccion = texto[m.start():]
+    fin = re.search(r"^##\s*4\.", seccion, re.M)
+    if fin:
+        seccion = seccion[:fin.start()]
+    return [linea.split("|")[1].strip()
+            for linea in seccion.splitlines()
+            if linea.startswith("|") and linea.count("|") >= 5
+            and linea.split("|")[1].strip().isdigit()]
+
+
+def narracion_sin_citas(texto):
+    """Texto sin líneas de cita ni citas en línea: solo la voz del narrador."""
+    lineas = [ln for ln in (texto or "").splitlines() if not ln.lstrip().startswith(">")]
+    limpio = "\n".join(lineas)
+    limpio = re.sub(r"«[^»]*»", " ", limpio)
+    limpio = re.sub(r"“[^”]*”", " ", limpio)
+    return limpio
+
+
+def _nombres_glosario(r, man):
+    p = r / man.get("glosario", "GLOSARIO.md")
+    if not p.is_file():
+        return []
+    return re.findall(r"^[-*]\s*\*\*(.+?)\*\*", p.read_text(encoding="utf-8"), re.M)
+
+
+def _texto_canon(r, man):
+    p = r / man.get("canon", "APUNTES.md")
+    if not p.is_file():
+        return ""
+    texto = p.read_text(encoding="utf-8")
+    m = re.search(r"^##\s*4\.\s*Canon", texto, re.M)
+    return texto[m.start():] if m else ""
+
+
+def rubrica(man, caps):
+    cfg = {**DEFECTOS["rubrica"], **(man.get("rubrica") or {})}
+    salida = []
+    for c in caps:
+        txt = c["texto"]
+        lineas = [ln for ln in txt.splitlines() if ln.strip()]
+        if not lineas:
+            continue
+        secciones = len(RE_SECCION.findall(txt))
+        if not (cfg["secciones"][0] <= secciones <= cfg["secciones"][1]):
+            salida.append(("AVISO", "%s: %d secciones numeradas (se esperan %d-%d)"
+                           % (c["id"], secciones, cfg["secciones"][0], cfg["secciones"][1])))
+        ratio = palabras_citadas(txt) / max(1, c["palabras"])
+        if not (cfg["citas_pct"][0] <= ratio <= cfg["citas_pct"][1]):
+            salida.append(("AVISO", "%s: citas del %d %% de las palabras (se espera %d-%d %%)"
+                           % (c["id"], round(ratio * 100), round(cfg["citas_pct"][0] * 100),
+                              round(cfg["citas_pct"][1] * 100))))
+        # Las citas —en línea o en bloque— son documentos: no son voz del narrador.
+        narracion = limpiar_markdown(narracion_sin_citas(txt)).lower()
+        yo = len(re.findall(r"\b(?:yo|mí|mía|mío|mis|me)\b", narracion))
+        if yo > cfg["yo_maximo"]:
+            salida.append(("AVISO", "%s: %d marcas de primera persona en la narración (máx. %d)"
+                           % (c["id"], yo, cfg["yo_maximo"])))
+        for palabra in SERMON:
+            if palabra in narracion:
+                salida.append(("AVISO", "%s: valoración del narrador «%s»"
+                               % (c["id"], palabra)))
+        cierre = sin_acentos(narracion.strip().splitlines()[-1]).lower()
+        for conector in CONECTORES_TESIS:
+            if cierre.startswith(sin_acentos(conector)):
+                salida.append(("AVISO", "%s: el capítulo cierra con tesis («%s»)"
+                               % (c["id"], conector)))
+    return salida
+
+
+# --------------------------------------------------------------------------- #
+# Informe legible por máquina
+# --------------------------------------------------------------------------- #
+
+def cmd_informe(args):
+    r, man = cargar(args.libro)
+    caps = indice_capitulos(r, man)
+    tol = float(man["presupuesto"].get("tolerancia", 0.20))
+    datos = {
+        "kit": VERSION,
+        "libro": man["libro"].get("titulo"),
+        "objetivo_palabras": total_palabras(man),
+        "objetivo_tipo": man["libro"].get("objetivo_tipo", "exacta"),
+        "capitulos": total_capitulos(man),
+        "escritos": sum(1 for c in caps if c["existe"]),
+        "palabras": sum(c["palabras"] for c in caps if c["existe"]),
+        "metodo_conteo": man["conteo"].get("metodo"),
+        "tolerancia": tol,
+        "partes": [],
+    }
+    for parte in man["partes"]:
+        pc = [c for c in caps if c["parte"] == parte["id"]]
+        _, total_p = presupuestos_parte(man, parte)
+        datos["partes"].append({
+            "id": parte["id"], "titulo": parte.get("titulo"),
+            "capitulos": int(parte["capitulos"]),
+            "presupuesto": total_p,
+            "escritos": sum(1 for c in pc if c["existe"]),
+            "palabras": sum(c["palabras"] for c in pc if c["existe"]),
+        })
+    datos["detalle"] = [{
+        "id": c["id"], "titulo": c["titulo"], "escrito": c["existe"],
+        "palabras": c["palabras"], "presupuesto": c["presupuesto"],
+        "desviacion": round(desviacion(c["palabras"], c["presupuesto"]), 4),
+        "fuera_de_tolerancia": c["existe"] and abs(desviacion(c["palabras"],
+                                                             c["presupuesto"])) > tol,
+        "fichero": str(c["ruta"].relative_to(r)),
+    } for c in caps]
+    datos["tareas_abiertas"] = [t for _, t in tareas_abiertas(r, man)]
+    destino = Path(args.salida) if args.salida else r / "estado.json"
+    destino.write_text(json.dumps(datos, ensure_ascii=False, indent=2) + "\n",
+                       encoding="utf-8")
+    print("Informe escrito en %s" % destino)
+    return 0
+
+
+def cmd_canon(args):
+    r, man = cargar(args.libro)
+    canon = _texto_canon(r, man)
+    if not canon:
+        print("No hay sección «## 4. Canon» en %s." % man.get("canon", "APUNTES.md"))
+        return 0
+    entradas = re.findall(r"^###\s+C-(\d+)\.\s*(.+)$", canon, re.M)
+    for num, titulo in entradas:
+        print("C-%-3s %s" % (num, titulo))
+    print("\n%d entradas de canon." % len(entradas))
+    return 0
+
+
+# --------------------------------------------------------------------------- #
+# Exportación
+# --------------------------------------------------------------------------- #
+
+def _esc(s):
+    return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+
+def _enlinea(s):
+    s = _esc(s)
+    s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
+    s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
+    s = re.sub(r"(?<![\w*])\*([^*\n]+)\*(?![\w*])", r"<em>\1</em>", s)
+    return s
+
+
+def _html(texto, es_portada=False):
+    salida = []
+    bloque = []
+    tipo = None
+    for linea in (texto or "").splitlines():
+        vacia = not linea.strip()
+        if vacia:
+            if bloque:
+                salida.append(_bloque_html(tipo, bloque))
+                bloque, tipo = [], None
+            continue
+        actual = None
+        if linea.startswith("### "):
+            actual = "h3"
+        elif linea.startswith("## "):
+            actual = "h2"
+        elif linea.startswith("# "):
+            actual = "h1"
+        elif linea.lstrip().startswith(">"):
+            actual = "bq"
+        elif re.match(r"^\s*(?:---+|\*\*\*+)\s*$", linea):
+            actual = "hr"
+        elif re.match(r"^\s*(?:[-*+]|\d+[.)])\s+", linea):
+            actual = "ul"
+        if actual == "hr":
+            if bloque:
+                salida.append(_bloque_html(tipo, bloque))
+                bloque, tipo = [], None
+            salida.append("<hr/>")
+            continue
+        if tipo != actual:
+            if bloque:
+                salida.append(_bloque_html(tipo, bloque))
+            bloque, tipo = [], actual
+        bloque.append(linea)
+    if bloque:
+        salida.append(_bloque_html(tipo, bloque))
+    return "\n".join(salida)
+
+
+def _bloque_html(tipo, lineas):
+    if tipo == "h1":
+        return "<h1>%s</h1>" % _enlinea(lineas[0][2:].strip())
+    if tipo == "h2":
+        return "<h2>%s</h2>" % _enlinea(lineas[0][3:].strip())
+    if tipo == "h3":
+        return "<h3>%s</h3>" % _enlinea(lineas[0][4:].strip())
+    if tipo == "bq":
+        parrafos = []
+        for ln in lineas:
+            parrafos.append(_enlinea(re.sub(r"^\s*>\s?", "", ln).rstrip("<br/>")))
+        return "<blockquote><p>%s</p></blockquote>" % "<br/>".join(parrafos)
+    if tipo == "ul":
+        items = [re.sub(r"^\s*(?:[-*+]|\d+[.)])\s+", "", ln) for ln in lineas]
+        return "<ul>%s</ul>" % "".join("<li>%s</li>" % _enlinea(i) for i in items)
+    texto = " ".join(ln.strip() for ln in lineas)
+    return "<p>%s</p>" % _enlinea(texto)
+
+
+CSS = """body{font-family:Georgia,'Times New Roman',serif;line-height:1.5;margin:1.2em}
+h1,h2,h3{font-weight:normal;line-height:1.25}h1{font-size:1.6em;margin:0 0 1.2em}
+h2{font-size:1.2em;margin:1.8em 0 .6em}blockquote{margin:1em 0 1em 1em;padding-left:.8em;
+border-left:2px solid #999;color:#333}code{font-family:monospace;font-size:.9em}
+p{text-indent:1.4em;margin:0;text-align:justify}p:first-child,h1+p,h2+p,blockquote p{
+text-indent:0}"""
+
+
+def xhtml(titulo, cuerpo):
+    return ("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
+            "<!DOCTYPE html>\n"
+            "<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"es\" lang=\"es\">\n"
+            "<head><meta charset=\"utf-8\"/><title>%s</title>"
+            "<link rel=\"stylesheet\" type=\"text/css\" href=\"../style.css\"/></head>\n"
+            "<body>\n%s\n</body>\n</html>\n") % (_esc(titulo), cuerpo)
+
+
+def _zip_escribir(z, nombre, datos, comprimir=True):
+    info = zipfile.ZipInfo(nombre, date_time=(2020, 1, 1, 0, 0, 0))
+    info.compress_type = zipfile.ZIP_DEFLATED if comprimir else zipfile.ZIP_STORED
+    info.external_attr = 0o644 << 16
+    z.writestr(info, datos.encode("utf-8"))
+
+
+def cmd_exportar(args):
+    r, man = cargar(args.libro)
+    caps = [c for c in indice_capitulos(r, man) if c["existe"]]
+    if not caps:
+        raise NKError("no hay capítulos escritos que exportar")
+    titulo_libro = man["libro"].get("titulo", "(sin título)")
+    autor = man["libro"].get("autor", "")
+    idioma = man["libro"].get("idioma", "es-ES")
+    fecha = man["libro"].get("fecha") or date.today().isoformat()
+    base = man["libro"].get("salida", "salida")
+
+    if args.formato == "md":
+        trozos = []
+        for c in caps:
+            trozos.append(c["texto"].rstrip())
+        destino = Path(args.salida or (base + ".md"))
+        destino.write_text("\n\n".join(trozos) + "\n", encoding="utf-8")
+        print("Markdown combinado: %s (%d capítulos)" % (destino, len(caps)))
+        return 0
+
+    destino = Path(args.salida or (base + ".epub"))
+    identificador = "urn:uuid:%s" % uuid.uuid5(
+        uuid.NAMESPACE_URL, "nk:" + titulo_libro + ":" + str(len(caps)))
+    nombres = ["text/cap-%03d.xhtml" % i for i in range(1, len(caps) + 1)]
+    with zipfile.ZipFile(destino, "w") as z:
+        _zip_escribir(z, "mimetype", "application/epub+zip", comprimir=False)
+        _zip_escribir(z, "META-INF/container.xml",
+                      "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
+                      "<container version=\"1.0\" "
+                      "xmlns=\"urn:oasis:names:tc:opendocument:xmlns:container\">\n"
+                      "<rootfiles><rootfile full-path=\"OEBPS/content.opf\" "
+                      "media-type=\"application/oebps-package+xml\"/></rootfiles>"
+                      "</container>\n")
+        manifiesto = []
+        spine = []
+        nav_items = []
+        for c, nombre in zip(caps, nombres):
+            texto = c["texto"]
+            m = RE_ENCABEZADO.search(texto)
+            titulo_cap = m.group(0)[2:].strip() if m else c["titulo"]
+            cuerpo = _html(texto)
+            _zip_escribir(z, "OEBPS/" + nombre, xhtml(titulo_cap, cuerpo))
+            manifiesto.append("<item id=\"%s\" href=\"%s\" media-type=\"application/xhtml+xml\"/>"
+                              % (Path(nombre).stem.replace("-", "_"), nombre))
+            spine.append("<itemref idref=\"%s\"/>" % Path(nombre).stem.replace("-", "_"))
+            nav_items.append("<li><a href=\"%s\">%s</a></li>" % (nombre, _esc(titulo_cap)))
+        _zip_escribir(z, "OEBPS/style.css", CSS)
+        portada = ("<h1>%s</h1>%s" % (_esc(titulo_libro),
+                                      "<p>%s</p>" % _esc(autor) if autor else ""))
+        _zip_escribir(z, "OEBPS/text/portada.xhtml", xhtml(titulo_libro, portada))
+        manifiesto.insert(0, "<item id=\"portada\" href=\"text/portada.xhtml\" "
+                             "media-type=\"application/xhtml+xml\"/>")
+        spine.insert(0, "<itemref idref=\"portada\"/>")
+        colofon = man["libro"].get("colofon")
+        if colofon:
+            cuerpo_colofon = "".join("<p>%s</p>" % _enlinea(l.strip())
+                                     for l in str(colofon).splitlines() if l.strip())
+            _zip_escribir(z, "OEBPS/text/colofon.xhtml",
+                          xhtml("Colofón", cuerpo_colofon))
+            manifiesto.append("<item id=\"colofon\" href=\"text/colofon.xhtml\" "
+                              "media-type=\"application/xhtml+xml\"/>")
+            spine.append("<itemref idref=\"colofon\"/>")
+        nav = ("<nav epub:type=\"toc\" id=\"toc\"><h2>Índice</h2><ol>%s</ol></nav>"
+               % "".join(nav_items))
+        nav_doc = ("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html>\n"
+                   "<html xmlns=\"http://www.w3.org/1999/xhtml\" "
+                   "xmlns:epub=\"http://www.idpf.org/2007/ops\" xml:lang=\"es\" lang=\"es\">\n"
+                   "<head><meta charset=\"utf-8\"/><title>Índice</title>"
+                   "<link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/></head>\n"
+                   "<body>%s</body></html>\n") % nav
+        _zip_escribir(z, "OEBPS/nav.xhtml", nav_doc)
+        manifiesto.append("<item id=\"nav\" href=\"nav.xhtml\" media-type=\"application/xhtml+xml\" "
+                          "properties=\"nav\"/>")
+        manifiesto.append("<item id=\"css\" href=\"style.css\" media-type=\"text/css\"/>")
+        opf = ("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
+               "<package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" "
+               "unique-identifier=\"bookid\" xml:lang=\"%s\">\n"
+               "<metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n"
+               "<dc:identifier id=\"bookid\">%s</dc:identifier>\n"
+               "<dc:title>%s</dc:title>\n%s"
+               "<dc:language>%s</dc:language>\n"
+               "<dc:date>%s</dc:date>\n"
+               "<meta property=\"dcterms:modified\">%sT00:00:00Z</meta>\n"
+               "</metadata>\n<manifest>\n%s\n</manifest>\n<spine>\n%s\n</spine>\n</package>\n")
+        opf = opf % (
+            idioma, identificador, _esc(titulo_libro),
+            ("<dc:creator>%s</dc:creator>\n" % _esc(autor)) if autor else "",
+            idioma, fecha, fecha,
+            "\n".join(manifiesto), "\n".join(spine))
+        _zip_escribir(z, "OEBPS/content.opf", opf)
+    print("EPUB: %s (%d capítulos, %s)" % (destino, len(caps), identificador))
+    return 0
+
+
+# --------------------------------------------------------------------------- #
+# init
+# --------------------------------------------------------------------------- #
+
+MAPA_PLANTILLAS = {
+    "README-libro.md": "README.md",
+    "APUNTES.md": "APUNTES.md",
+    "BITACORA.md": "BITACORA.md",
+    "ESTRUCTURA.md": "ESTRUCTURA.md",
+    "GLOSARIO.md": "GLOSARIO.md",
+    "PERSONAS.md": "PERSONAS.md",
+    "FUENTES.md": "FUENTES.md",
+    "CRONOLOGIA.md": "CRONOLOGIA.md",
+    "MANUSCRITO-00-LEEME.md": "MANUSCRITO/00-LEEME.md",
+    "SINOPSIS-00-indice.md": "SINOPSIS/00-indice.md",
+    "ESTUDIOS-00-indice.md": "ESTUDIOS/00-indice.md",
+}
+
+
+def cmd_init(args):
+    destino = Path(args.directorio).expanduser().resolve()
+    if destino.exists() and any(destino.iterdir()) and not args.forzar:
+        raise NKError("%s no está vacío (usa --forzar)" % destino)
+    kit = Path(__file__).resolve().parent.parent
+    destino.mkdir(parents=True, exist_ok=True)
+
+    for nombre in ("METODO", "PROMPTS", "PLANTILLAS", "EJEMPLO", "pruebas"):
+        origen = kit / nombre
+        if origen.is_dir():
+            shutil.copytree(origen, destino / nombre, dirs_exist_ok=True,
+                            ignore=shutil.ignore_patterns("__pycache__", "*.pyc",
+                                                          "estado.json", "salida.epub"))
+    for nombre in ("AGENTS.md", "PROTOCOLO.md", "PUBLICAR.md", "install.sh", "VERSION",
+                   "LICENSE-CODIGO", "LICENSE-TEXTO"):
+        origen = kit / nombre
+        if origen.is_file():
+            shutil.copy2(origen, destino / nombre)
+    (destino / "bin").mkdir(exist_ok=True)
+    shutil.copy2(Path(__file__).resolve(), destino / "bin" / "nk")
+    (destino / "bin" / "nk").chmod(0o755)
+
+    for origen, rel in MAPA_PLANTILLAS.items():
+        o = kit / "PLANTILLAS" / origen
+        if o.is_file():
+            (destino / rel).parent.mkdir(parents=True, exist_ok=True)
+            texto = o.read_text(encoding="utf-8")
+            texto = (texto.replace("{{TITULO}}", args.titulo)
+                          .replace("{{AUTOR}}", args.autor or "")
+                          .replace("{{FUENTE}}", args.fuente or ""))
+            (destino / rel).write_text(texto, encoding="utf-8")
+
+    partes = []
+    per = max(1, args.capitulos // max(1, args.partes))
+    for i in range(args.partes):
+        pid = "I" if i == 0 else ("II" if i == 1 else str(i + 1))
+        partes.append({
+            "id": pid,
+            "titulo": "Parte %s" % pid,
+            "dir": "%02d-parte-%s" % (i + 1, pid),
+            "capitulos": per,
+        })
+    man = {
+        "kit": VERSION,
+        "libro": {
+            "titulo": args.titulo,
+            "autor": args.autor or "",
+            "fuente": args.fuente or "",
+            "idioma": "es-ES",
+            "objetivo_palabras": args.objetivo,
+            "salida": "salida",
+        },
+        "partes": partes,
+        "presupuesto": {"tolerancia": 0.20},
+        "conteo": {"metodo": "palabras"},
+        "verificacion": {"prohibiciones": [], "sin_nombres": False,
+                         "nombres_permitidos": []},
+    }
+    (destino / "libro.json").write_text(
+        json.dumps(man, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print("Obra creada en %s (%s × %s, %d palabras objetivo)." % (
+        destino, plural(args.partes, "parte", "partes"),
+        plural(per, "capítulo", "capítulos"), args.objetivo))
+    print("Siguiente: revisa libro.json y APUNTES.md, luego `bin/nk andamiaje`.")
+    return 0
+
+
+# --------------------------------------------------------------------------- #
+# paquete: artefactos publicables (tarball, hashes, instalador)
+# --------------------------------------------------------------------------- #
+
+INCLUIR_PAQUETE = [
+    "AGENTS.md", "PROTOCOLO.md", "README.md", "install.sh", "VERSION",
+    "LICENSE-CODIGO", "LICENSE-TEXTO", "bin", "METODO", "PROMPTS",
+    "PLANTILLAS", "EJEMPLO", "pruebas",
+]
+EXCLUIR_PAQUETE = {"__pycache__", ".git", "dist", "estado.json", "salida.epub"}
+
+
+def ficheros_paquete(kit):
+    elegidos = []
+    for nombre in INCLUIR_PAQUETE:
+        p = kit / nombre
+        if p.is_file():
+            elegidos.append(p)
+        elif p.is_dir():
+            for f in p.rglob("*"):
+                if not f.is_file() or f.suffix == ".pyc":
+                    continue
+                if set(f.relative_to(kit).parts) & EXCLUIR_PAQUETE:
+                    continue
+                elegidos.append(f)
+    return sorted(set(elegidos), key=lambda x: str(x.relative_to(kit)))
+
+
+def _tar_gz_determinista(kit, ficheros, destino, nombre_raiz):
+    """Tarball reproducible: mismo contenido, mismos bytes (mtime 0, sin uid/gid)."""
+    bruto = io.BytesIO()
+    with tarfile.open(fileobj=bruto, mode="w", format=tarfile.PAX_FORMAT) as tf:
+        for f in ficheros:
+            datos = f.read_bytes()
+            info = tarfile.TarInfo("%s/%s" % (nombre_raiz, f.relative_to(kit).as_posix()))
+            info.size = len(datos)
+            info.mtime = 0
+            info.uid = info.gid = 0
+            info.uname = info.gname = ""
+            info.mode = 0o755 if os.access(f, os.X_OK) else 0o644
+            tf.addfile(info, io.BytesIO(datos))
+    with open(destino, "wb") as fh:
+        with gzip.GzipFile(fileobj=fh, mode="wb", mtime=0) as gz:
+            gz.write(bruto.getvalue())
+
+
+def _sha256(ruta):
+    h = hashlib.sha256()
+    with open(ruta, "rb") as fh:
+        for trozo in iter(lambda: fh.read(65536), b""):
+            h.update(trozo)
+    return h.hexdigest()
+
+
+def cmd_paquete(args):
+    kit = Path(__file__).resolve().parent.parent
+    destino = Path(args.destino or (kit / "dist"))
+    destino.mkdir(parents=True, exist_ok=True)
+    version = (kit / "VERSION").read_text(encoding="utf-8").strip() \
+        if (kit / "VERSION").is_file() else VERSION
+    ficheros = ficheros_paquete(kit)
+    faltan = [n for n in ("install.sh", "PROTOCOLO.md", "AGENTS.md")
+              if not (kit / n).is_file()]
+    if faltan:
+        raise NKError("faltan ficheros para empaquetar: %s" % ", ".join(faltan))
+
+    for viejo in destino.glob("novela-kit-*.tar.gz"):
+        viejo.unlink()
+    nombre = "novela-kit-%s" % version
+    tarball = destino / (nombre + ".tar.gz")
+    _tar_gz_determinista(kit, ficheros, tarball, nombre)
+
+    (destino / "FICHEROS.txt").write_text(
+        "".join("%s  %s\n" % (_sha256(f), f.relative_to(kit).as_posix()) for f in ficheros),
+        encoding="utf-8")
+
+    sueltos = [tarball]
+    for n in ("install.sh", "PROTOCOLO.md", "PUBLICAR.md", "VERSION"):
+        if (kit / n).is_file():
+            shutil.copy2(kit / n, destino / n)
+            sueltos.append(destino / n)
+    (destino / "SHA256SUMS").write_text(
+        "".join("%s  %s\n" % (_sha256(p), p.name) for p in sueltos), encoding="utf-8")
+
+    print("Paquete %s en %s" % (version, destino))
+    for p in sorted(destino.iterdir(), key=lambda x: x.name):
+        if p.is_file():
+            print("  %-28s %8d B  %s" % (p.name, p.stat().st_size, _sha256(p)[:16]))
+    print("\n%d ficheros empaquetados. Publica el contenido de %s en una URL y reparte la orden:"
+          % (len(ficheros), destino))
+    print("\n  curl -fsSL https://TU-DOMINIO/install.sh | sh -s -- --dir mi-obra "
+          "--titulo \"Mi obra\" --capitulos 20 --objetivo 60000")
+    print("\nVer PUBLICAR.md (cuatro formas) y `nk distribuir` (bundle + hoja de entrega).")
+    return 0
+
+
+def cmd_distribuir(args):
+    """Paquete + git bundle + hoja de instrucciones: entrega sin publicar nada."""
+    import subprocess
+    kit = Path(__file__).resolve().parent.parent
+    destino = Path(args.destino or (kit / "dist"))
+    cmd_paquete(argparse.Namespace(destino=str(destino)))
+    version = (kit / "VERSION").read_text(encoding="utf-8").strip() \
+        if (kit / "VERSION").is_file() else VERSION
+    nombre = "novela-kit-%s" % version
+
+    bundle = destino / (nombre + ".bundle")
+    es_repo = (kit / ".git").exists()
+    if es_repo and shutil.which("git"):
+        if bundle.exists():
+            bundle.unlink()
+        subprocess.run(["git", "-C", str(kit), "bundle", "create", str(bundle), "--all"],
+                       check=True, capture_output=True, text=True)
+        ver = subprocess.run(["git", "bundle", "verify", str(bundle)],
+                             capture_output=True, text=True)
+        if ver.returncode != 0:
+            raise NKError("el bundle no verifica: %s" % ver.stderr.strip())
+        ramas = subprocess.run(["git", "-C", str(kit), "rev-list", "--count", "--all"],
+                               capture_output=True, text=True).stdout.strip()
+        print("Bundle: %s (%s commits, verificado)" % (bundle.name, ramas))
+    else:
+        bundle = None
+        print("Aviso: sin repositorio git; no se genera bundle." if not es_repo
+              else "Aviso: git no está instalado; no se genera bundle.")
+
+    hoja = destino / "COMO-DARLO.md"
+    hoja.write_text(hoja_entrega(kit, destino, version, bundle), encoding="utf-8")
+
+    sueltos = [p for p in sorted(destino.iterdir(), key=lambda x: x.name)
+               if p.is_file() and p.name != "SHA256SUMS"]
+    (destino / "SHA256SUMS").write_text(
+        "".join("%s  %s\n" % (_sha256(p), p.name) for p in sueltos), encoding="utf-8")
+    print("\n%d ficheros en %s, con SHA256SUMS al día." % (len(sueltos), destino))
+    print("Instrucciones para el agente: %s" % hoja)
+    return 0
+
+
+def hoja_entrega(kit, destino, version, bundle):
+    d = str(destino)
+    tar = "novela-kit-%s.tar.gz" % version
+    b = bundle.name if bundle else "(sin bundle: este directorio no es un repositorio git)"
+    return """# Cómo entregar esto a un agente (sin publicar nada)
+
+Generado por `nk distribuir`. Versión %(v)s. Directorio: `%(d)s`.
+
+Este paquete **no se ha subido a ninguna parte**: no hay remoto, ni URL pública, ni release. Todo se
+entrega por fichero local, que es lo que permite dárselo a un agente hoy y publicarlo cuando se
+quiera.
+
+## A. Solo lectura: un fichero
+
+El agente lee `PROTOCOLO.md` y construye el árbol él mismo. No ejecuta código.
+
+```
+curl -fsSL file://%(d)s/PROTOCOLO.md -o PROTOCOLO.md
+```
+
+Si el agente no puede leer rutas locales, se le pega el contenido (`cat PROTOCOLO.md`) o se le pasa
+el fichero por el canal que uses.
+
+## B. Instalación por `curl` local (sin servidor)
+
+`curl` acepta `file://`, así que no hace falta levantar nada:
+
+```
+curl -fsSL file://%(d)s/install.sh | sh -s -- \
+  --base file://%(d)s \
+  --dir mi-obra --titulo "Mi obra" --autor "Quien firma" \
+  --partes 2 --capitulos 20 --objetivo 60000
+```
+
+Comprueba el SHA-256 y deja la obra con el kit dentro. Si el agente corre en otra máquina o en un
+sandbox sin acceso a tu disco, usa C o D.
+
+## C. Repositorio completo por bundle (historial incluido)
+
+Un `.bundle` **es un repositorio**: se clona como si estuviera en un servidor, sin subirlo a
+ninguno.
+
+```
+git clone %(d)s/%(b)s novela-kit
+cd novela-kit
+git log --oneline          # historial completo
+git bundle verify %(d)s/%(b)s
+bin/nk --version
+```
+
+Y desde ahí, la obra:
+
+```
+bin/nk init ../mi-obra --titulo "Mi obra" --partes 2 --capitulos 20 --objetivo 60000
+```
+
+Ventaja frente al tarball: el agente ve el historial, las decisiones y las pruebas; puede comparar y
+revertir. Se puede firmar y verificar con GPG si hace falta.
+
+## D. Servidor local (para otro ordenador o un sandbox con red)
+
+```
+cd %(d)s && python3 -m http.server 8080
+```
+
+Y en el otro lado, la orden de B cambiando `file://$(d)s` por `http://IP-DEL-ORDENADOR:8080`.
+
+## E. Cuando sí se quiera publicar (más adelante)
+
+El repo ya está preparado: `.gitignore`, `.gitattributes`, `LICENSE-CODIGO`, `LICENSE-TEXTO`,
+`.github/workflows/pruebas.yml`. Sin nada que limpiar a mano.
+
+```
+gh repo create novela-kit --public --source . --push   # requiere decidirlo antes
+```
+
+O, sin `gh`: crear el repo vacío en la web, `git remote add origin …` y `git push -u origin main`.
+Un repositorio local **no es un respaldo**: el bundle sí sirve como copia.
+
+## F. Si lo que se entrega es una obra que ya existe
+
+No hace falta instalar nada: la obra lleva el kit dentro (`escritura/`). Se empaqueta su historial y
+se clona igual:
+
+```
+cd /ruta/a/la-obra && git bundle create /tmp/obra.bundle --all
+git clone /tmp/obra.bundle /tmp/obra
+cd /tmp/obra && escritura/bin/nk estado && escritura/bin/nk contar
+```
+
+Y si la obra aún no lleva el kit, se instala uno nuevo y se copian encima `APUNTES.md`, `SINOPSIS/`,
+`ESTUDIOS/`, `MANUSCRITO/` y `libro.json`: el manifiesto manda los números.
+
+## Qué pegarle al agente
+
+> Tienes el kit en `%(d)s` (o clonado de `%(b)s`). Lee `PROTOCOLO.md` y `AGENTS.md`.
+> Instala la obra con la orden de `COMO-DARLO.md` apartado B, o construye el árbol siguiendo
+> `PROTOCOLO.md` §2-§3 si no puedes ejecutar código.
+> Después: `bin/nk andamiaje`, `bin/nk nuevo I.1 --titulo "Primer capítulo"` y escribe el capítulo
+> según el presupuesto. Antes de dármelo: `bin/nk verificar --rubrica`.
+> No inventes canon, ni nombres, ni cifras. No publiques nada.
+
+## Aviso
+
+`%(tar)s` es reproducible: dos `nk paquete` seguidos dan el mismo SHA-256. Cualquier cambio en el
+paquete se ve en `SHA256SUMS`. Un agente debe revisar `install.sh` antes de ejecutarlo, aunque sea
+local.
+""" % {"v": version, "d": d, "b": b, "tar": tar}
+
+
+def _slug(texto):
+    import unicodedata
+    t = unicodedata.normalize("NFD", texto or "obra")
+    t = "".join(c for c in t if unicodedata.category(c) != "Mn")
+    t = re.sub(r"[^a-zA-Z0-9]+", "-", t).strip("-").lower()
+    return t or "obra"
+
+
+def cmd_respaldo(args):
+    """Copia de seguridad en un medio externo: bundle de git + (opcional) materiales."""
+    import subprocess
+    r, man = cargar(args.libro)
+    destino = Path(args.destino).expanduser()
+    if not destino.is_dir():
+        raise NKError("no existe el directorio de destino: %s" % destino)
+    if not (r / ".git").exists():
+        raise NKError("la raíz de la obra no es un repositorio git: %s" % r)
+    if not shutil.which("git"):
+        raise NKError("hace falta git para crear el bundle")
+    libres = shutil.disk_usage(destino).free
+    if libres < 20 * 1024 * 1024:
+        raise NKError("quedan menos de 20 MB libres en %s" % destino)
+
+    fecha = date.today().isoformat()
+    etiqueta = args.etiqueta or ("v" + (args.version or VERSION))
+    base = "%s-%s-%s" % (_slug(man["libro"].get("titulo")), fecha, etiqueta)
+    bundle = destino / (base + ".bundle")
+    subprocess.run(["git", "-C", str(r), "bundle", "create", str(bundle), "--all"],
+                   check=True, capture_output=True, text=True)
+    ver = subprocess.run(["git", "bundle", "verify", str(bundle)],
+                         capture_output=True, text=True)
+    if ver.returncode != 0:
+        raise NKError("el bundle no verifica: %s" % ver.stderr.strip())
+    commits = subprocess.run(["git", "-C", str(r), "rev-list", "--count", "--all"],
+                             capture_output=True, text=True).stdout.strip()
+    print("Bundle: %s (%s commits, verificado)" % (bundle.name, commits))
+
+    sumas = ["%s  %s" % (_sha256(bundle), bundle.name)]
+    materiales = Path(args.materiales).expanduser() if args.materiales else None
+    if materiales:
+        if not materiales.is_dir():
+            raise NKError("no existe el directorio de materiales: %s" % materiales)
+        import tarfile
+        tgz = destino / (base + "-materiales.tar.gz")
+        ficheros = sorted(p for p in materiales.rglob("*")
+                          if p.is_file() and "__pycache__" not in p.parts)
+        with tarfile.open(tgz, "w:gz") as tf:
+            for f in ficheros:
+                tf.add(f, arcname=str(Path(materiales.name) / f.relative_to(materiales)))
+        sumas.append("%s  %s" % (_sha256(tgz), tgz.name))
+        print("Materiales: %s (%d ficheros)" % (tgz.name, len(ficheros)))
+    (destino / (base + ".sha256")).write_text("\n".join(sumas) + "\n", encoding="utf-8")
+    print("Hashes: %s.sha256" % base)
+    print("\nPara restaurar en cualquier máquina:\n")
+    print("  git clone %s obra && cd obra" % bundle.name)
+    print("  escritura/bin/nk estado\n" if (r / "escritura").is_dir()
+          else "  bin/nk estado\n")
+    print("Un repositorio local no es un respaldo: esto sí.")
+    return 0
+
+
+# --------------------------------------------------------------------------- #
+# main
+# --------------------------------------------------------------------------- #
+
+def main(argv=None):
+    p = argparse.ArgumentParser(prog="nk", description="novela-kit")
+    p.add_argument("--version", action="version", version="nk " + VERSION)
+    p.add_argument("--libro", help="raíz de la obra (por defecto, se busca libro.json)")
+    sub = p.add_subparsers(dest="cmd")
+
+    sub.add_parser("estado", help="dónde estamos y qué toca").set_defaults(func=cmd_estado)
+    sub.add_parser("andamiaje", help="crea directorios y huecos").set_defaults(func=cmd_andamiaje)
+
+    c = sub.add_parser("contar", help="recuento y desviación")
+    c.add_argument("capitulo", nargs="?")
+    c.add_argument("--todo", action="store_true", help="incluye capítulos pendientes")
+    c.add_argument("--actualizar", action="store_true", help="reescribe el bloque de ESTRUCTURA.md")
+    c.add_argument("--json", action="store_true")
+    c.add_argument("--wc", action="store_true", help="compara con `wc -w`")
+    c.set_defaults(func=cmd_contar)
+
+    n = sub.add_parser("nuevo", help="abre un capítulo vacío")
+    n.add_argument("capitulo")
+    n.add_argument("--titulo")
+    n.add_argument("--desde", help="sinopsis o estudio de origen")
+    n.add_argument("--forzar", action="store_true")
+    n.set_defaults(func=cmd_nuevo)
+
+    v = sub.add_parser("verificar", help="invariantes del método")
+    v.add_argument("--rubrica", action="store_true", help="añade la rúbrica de voz")
+    v.set_defaults(func=cmd_verificar)
+
+    i = sub.add_parser("informe", help="estado.json legible por máquina")
+    i.add_argument("--salida")
+    i.set_defaults(func=cmd_informe)
+
+    e = sub.add_parser("exportar", help="EPUB 3 o Markdown combinado")
+    e.add_argument("-f", "--formato", choices=["epub", "md"], default="epub")
+    e.add_argument("--salida")
+    e.set_defaults(func=cmd_exportar)
+
+    sub.add_parser("canon", help="lista y comprueba el canon").set_defaults(func=cmd_canon)
+
+    ini = sub.add_parser("init", help="nueva obra a partir de la plantilla")
+    ini.add_argument("directorio")
+    ini.add_argument("--titulo", required=True)
+    ini.add_argument("--autor", default="")
+    ini.add_argument("--fuente", default="")
+    ini.add_argument("--partes", type=int, default=2)
+    ini.add_argument("--capitulos", type=int, default=20)
+    ini.add_argument("--objetivo", type=int, default=60000)
+    ini.add_argument("--forzar", action="store_true")
+    ini.set_defaults(func=cmd_init)
+
+    pa = sub.add_parser("paquete", help="tarball reproducible, hashes e instalador")
+    pa.add_argument("--destino", help="directorio de salida (por defecto dist/)")
+    pa.set_defaults(func=cmd_paquete)
+
+    di = sub.add_parser("distribuir",
+                        help="paquete + bundle de git + hoja de entrega (sin publicar)")
+    di.add_argument("--destino", help="directorio de salida (por defecto dist/)")
+    di.set_defaults(func=cmd_distribuir)
+
+    re_ = sub.add_parser("respaldo", help="bundle de git (+ materiales) en un medio externo")
+    re_.add_argument("--destino", required=True, help="USB o directorio de copia")
+    re_.add_argument("--etiqueta", help="sufijo de la copia (por defecto vVERSION)")
+    re_.add_argument("--version", help="versión para el nombre")
+    re_.add_argument("--materiales", help="directorio de materiales a empaquetar aparte")
+    re_.set_defaults(func=cmd_respaldo)
+
+    args = p.parse_args(argv)
+    if not getattr(args, "func", None):
+        p.print_help()
+        return 2
+    try:
+        return args.func(args)
+    except NKError as exc:
+        print("nk: %s" % exc, file=sys.stderr)
+        return 2
+    except BrokenPipeError:
+        return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
