@@ -31,7 +31,7 @@ los-archivos/
 ├── SINOPSIS/          hechos dictados por el autor, literales (S-01, S-02, S-03)
 ├── ESTUDIOS/          un estudio por sinopsis (E-01, E-02, E-03): el paso previo al capítulo
 ├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01-capitulo.md (lo escrito)
-├── escritura/         kit novela-kit 1.8.0 vendorizado: bin/nk, METODO/, PROMPTS/,
+├── escritura/         kit novela-kit 1.9.0 vendorizado: bin/nk, METODO/, PROMPTS/,
 │                      PLANTILLAS/, EJEMPLO/, pruebas/, PROTOCOLO.md, install.sh
 ├── .github/workflows/ CI: recuento y verificación en cada push (verificar.yml)
 ├── .gitattributes     finales de línea normalizados
@@ -139,8 +139,9 @@ el kit instalado. Modos de trabajo desde USB —y sus avisos con fat32/exFAT— 
 
 ## Control de versiones
 
-Repositorio **local**, rama `main`, **sin remoto**. No se publica ni se sincroniza con nada: la
-obra se publica cuando esté terminada, y eso será una decisión aparte (ver abajo).
+Repositorio **publicado**: `github.com/Chamacoi/Los-Archivos`, público, rama `main`, remoto
+`origin` por SSH (desde v34, decisión 47). La copia local se sincroniza con `git pull` y se sube
+con `git push`. Es una **edición en curso**: el libro cambia debajo del lector (decisión 46).
 
 - `git log --oneline` — historial por sesión.
 - `git diff HEAD~1` — qué cambió la última sesión.
@@ -225,7 +226,7 @@ Estado de la puesta a punto:
 - [x] **colofón** y metadatos del EPUB;
 - [x] CI de verificación (`.github/workflows/verificar.yml`);
 - [ ] revisión de citas y atribuciones a terceros (F-24 a F-34 y las que entren después);
-- [ ] remoto y visibilidad (usuario, nombre del repo, público o privado).
+- [x] remoto y visibilidad: `Chamacoi/Los-Archivos`, público, `main` por SSH (2026-10-30);
 
 El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para servir está en
 `escritura/dist/` (tarball, bundle, `install.sh`, `PROTOCOLO.md`, `COMO-DARLO.md`).
@@ -245,7 +246,7 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Cerrar el punto 3: criterio de selección (2026-10-29).
 - [x] Cerrar punto 4 (reparto: once personas, nombres de generación; 2026-10-30).
 - [x] Cerrar punto 5 (registro, tecnicismo, ego; 2026-10-30).
-- [ ] Cerrar el punto 6 (381.104 exacta, techo o referencia).
+- [x] Cerrar el punto 6: 381.104 es una **referencia**, no cifra exacta ni techo (2026-10-30).
 - [x] Fijar la estructura: escenario A, 2 partes × 63 capítulos, reparto por bloques y anclajes
       de E-01, E-02 y E-03 (2026-10-29).
 - [x] Escribir el primer capítulo como muestra de voz (I.1, 2.851 medidas con `wc -w`; 2.798 con
@@ -253,10 +254,11 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Revisar I.1 con el autor: aprobado, sin correcciones (2026-10-29).
 - [x] Programar la escritura: kit `novela-kit` y `libro.json` (2026-10-30).
 - [x] Decidir el método de recuento: **palabras limpias** (2026-10-30, decisión 28).
-- [ ] Dar el visto bueno al mapa de I.1 y escribir I.2.
+- [x] Dar el visto bueno al mapa de I.1 (2026-10-30, decisión 29).
+- [ ] Escribir I.2 (pendiente de orden del autor).
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
-- [ ] Decidir licencia y condiciones de publicación (solo al terminar la obra).
+- [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
 
 ## Cómo retomar
 

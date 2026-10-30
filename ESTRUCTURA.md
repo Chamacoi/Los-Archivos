@@ -171,9 +171,9 @@ se corrige con los capítulos siguientes.
       «Los que leyeron»).
 - [x] Punto 2: forma de la demostración, **axioma/frutos** (decisión 18); criterio de fracaso en
       `APUNTES.md` §2 y en «Criterio de fracaso y parada».
-- [ ] Punto 4: número y reparto de personas por generación.
-- [ ] Punto 5: grado de arcaísmo y trato de comandos y errores de consola.
-- [ ] Punto 6: si 381.104 es cifra exacta, techo o referencia.
+- [x] Punto 4: once personas, nombres de generación, edades y oficios (decisiones 30-35).
+- [x] Punto 5: registro, tecnicismo, ego y vocabulario religioso (decisiones 19, 37, 39-41).
+- [x] Punto 6: 381.104 es una **referencia** (decisión 42).
 - [x] Método de recuento: **palabras limpias** (decisión 28, 2026-10-30). I.1 = 2.798 (−7,5 %).
 - [ ] Deuda material con la naturaleza (E-02 §10.1).
 - [ ] Mecanismo del alivio en C-8/C-9 (E-03 §9).

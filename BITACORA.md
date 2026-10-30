@@ -469,3 +469,18 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   visibilidad del repo. La copia del USB se resincroniza con esta sesión.
 - **Sesión cerrada (v33).** `nk verificar --rubrica`: 0 errores, 0 avisos. Nada escrito en
   `MANUSCRITO/`; nada subido todavía.
+
+## v34 — 2026-10-30
+
+- **Publicación ejecutada (decisión 47).** El repositorio está en
+  `github.com/Chamacoi/Los-Archivos`, público, rama `main`, remoto `origin` por SSH. La `LICENCIA.md`
+  publicada revisa la decisión 45: CC BY-SA 4.0 general, manuscrito y textos del proyecto con
+  derechos reservados, y excepciones MIT/CC BY-SA del kit; se añadió `LICENSE.txt`.
+- **Copia local sincronizada con la publicada.** La subida web había perdido los bits de ejecución
+  de `nk`, `install.sh` y `probar_instalacion.sh`, además de `.gitignore`, `.gitattributes` y el
+  CI: restaurados y subidos en el commit `85bff23`. Backup previo en
+  `~/los-archivos-v33-2026-10-30.bundle` y rama `local-v33`.
+- **Verificado:** `nk 1.9.0`, `nk estado` (1/126, 2.798 palabras), `nk verificar --rubrica` (0
+  errores, 0 avisos). Nada escrito en `MANUSCRITO/`; I.2 sigue pendiente de orden del autor.
+- **Sesión cerrada (v34).** Anotados los desfases de §0, README y ESTRUCTURA; queda la revisión de
+  citas (F-24 a F-34) antes de dar la publicación por cerrada.

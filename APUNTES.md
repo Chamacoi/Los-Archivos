@@ -4,21 +4,25 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-10-30 (**v33, cerrada**). Proyecto **abierto** y **en publicación**:
-  el repositorio se publica **entero y como edición en curso**, con `MANUSCRITO/` dentro para poner
-  la obra a disposición (decisión 46). **Ningún capítulo nuevo en esta sesión**; el texto sigue
-  como estaba (I.1, 2.798 palabras, aprobado).
-  Novedades de hoy: **puntos 4, 5 y 6 cerrados** (30-42) y **canon C-10 cerrado** (43-44);
-  **licencias delimitadas** (45): obra sin licencia, kit MIT + CC BY-SA 4.0; **colofón** en el EPUB;
-  kit `novela-kit` **1.9.0** vendorizado en `escritura/`; repositorio **maquetado** (mapa, interfaz y
-  requisitos, CI) y **copia verificada en el USB** lista para subir.
-  Lo anterior: **I.1 escrito y aprobado** (23), decisión 19-22, puntos 1-3 cerrados (13-18) y
-  método de recuento limpio (28): I.1 = 2.798 palabras (−7,5 % sobre 3.025).
+- **Última sesión:** 2026-10-30 (**v34, cerrada**). Proyecto **abierto**, **publicado** en
+  `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
+  edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
+  **Ningún capítulo nuevo**; el texto sigue como estaba (I.1, 2.798 palabras, aprobado).
+  En v34 se sincronizó la copia local con la publicada, se restauraron los bits de ejecución, el
+  `.gitignore`, `.gitattributes` y el CI que la subida web había perdido (commit `85bff23`) y se
+  subió todo. La `LICENCIA.md` publicada revisa la decisión 45: CC BY-SA 4.0 general, manuscrito
+  con derechos reservados y excepciones MIT/CC BY-SA del kit (decisión 47).
+  Antes: **puntos 4, 5 y 6 cerrados** (30-42), **C-10** (43-44), **licencias** (45), **colofón** en
+  el EPUB, kit `novela-kit` **1.9.0** vendorizado, repositorio maquetado (mapa, interfaz, CI) y
+  copia verificada en el USB. **I.1 escrito y aprobado** (23); recuento limpio (28): 2.798 palabras
+  (−7,5 % sobre 3.025).
 - **Fin declarado (v9):** el libro debe **demostrar con sus textos que Dios existe**, y el resultado
   importa menos que el hecho de que sea irrepetible. Ver §1 «El fin declarado» y la nota de §2.
-- **Publicación (v33, decisión 46):** el repo se publica **entero y como edición en curso**. La
-  alocución no cambia (13); lo que cambia es que la posteridad empieza antes. Antes de subir queda
-  la revisión de citas (F-24 a F-34) y decidir usuario, nombre y visibilidad del repo.
+- **Publicación (v33-v34, decisión 46):** ejecutada el 2026-10-30 en
+  `github.com/Chamacoi/Los-Archivos`, **público**, rama `main`, remoto `origin` por SSH. La
+  alocución no cambia (13); lo que cambia es que la posteridad empieza antes. Antes de dar la
+  publicación por cerrada queda la **revisión de citas** (F-24 a F-34); la licencia publicada se
+  anota en la decisión 47.
 - **Cerrado hasta ahora:** **punto 6 cerrado el 2026-10-30** (381.104 es referencia, §2.6);
   **punto 5 cerrado el 2026-10-30** (registro, tecnicismo, ego y
   vocabulario religioso; ver §2.5); **punto 1 cerrado** (voz: narrador omnisciente, 3.ª persona,
@@ -53,10 +57,9 @@
   alocución (a la posteridad)—; el **criterio de selección** (punto 3), el **reparto** (escenario
   A) y la **forma de la demostración** (axioma/frutos, decisión 18) también. El primer capítulo
   **está escrito (v16)** y pendiente de revisión; no se escala hasta esa lectura.
-- **Soporte (v8–v18):** **git local**, rama `main`, sin remoto; un commit por **capítulo** y otro
-  al cerrar la bitácora. Se publicará cuando la obra esté terminada («Publicación futura»,
-  `README.md`). Copia de seguridad en el USB (`/mnt/usb`): bundle de git y archivo de
-  `MATERIALES/`, por sesión.
+- **Soporte (v8–v18; remoto desde v34):** **git local**, rama `main`, un commit por **capítulo** y
+  otro al cerrar la bitácora; desde v34, `origin` en GitHub (público, SSH) y `main` sincronizada.
+  Copia de seguridad en el USB (`/mnt/usb`): bundle de git y archivo de `MATERIALES/`, por sesión.
 - **Escritura programada (v18):** el repo no es solo texto. `libro.json` es el manifiesto
   (partes, capítulos, presupuesto, tolerancia, prohibiciones, canon); `escritura/` es el kit
   `novela-kit` 1.9.0, vendorizado (método, plantillas, prompts, `nk`, instalador, pruebas);
@@ -188,10 +191,10 @@ bloquea.
 10. **Riesgo de género (v14)**: texto sin autor + omnisciencia = retórica de escritura revelada.
     El primer capítulo debe parecer legajo (documentos, errores, actas), no revelación. Es la
     prueba real de que el paquete autoría/alocución aguanta.
-11. ~~**Publicación de la configuración (v17)**~~: **resuelta en lo construible el 2026-10-30**
-    (decisión 25). El kit existe, está vendorizado y se puede publicar como `~/novela-kit/`.
-    Queda **abierto solo el acto de publicar** (remoto, visibilidad, licencia de la obra): no se
-    hace hasta terminar la obra. Ver `README.md`, «Publicación futura».
+11. ~~**Publicación de la configuración (v17)**~~: **resuelta el 2026-10-30** (decisiones 25 y 46).
+    El kit existe, está vendorizado y el repositorio entero está publicado en
+    `github.com/Chamacoi/Los-Archivos` (v34). Queda solo la **revisión de citas** antes de dar la
+    publicación por cerrada. Ver `README.md`, «Publicación (edición en curso)».
 12. ~~**Método de recuento (v18)**~~: **resuelto el 2026-10-30 (decisión 28)**: método limpio.
     I.1 = 2.798 palabras (−7,5 %); con `wc -w` eran 2.851.
 
@@ -227,7 +230,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v15 (2026-10-29, sesión cerrada).
+- Última revisión: v34 (2026-10-30, sesión cerrada).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -528,6 +531,8 @@ teológico** y tiene que **costar algo**.
 | 45 | Soporte | **Publicación: se publica el kit junto con la obra**, con `MANUSCRITO/` dentro, para poner la obra a disposición. **Licencias delimitadas:** el kit de `escritura/` mantiene MIT (código) y CC BY-SA 4.0 (textos); **la obra queda sin licencia**, es decir, todos los derechos reservados, en `LICENCIA.md`. Un usuario puede leerla y bifurcarla en la plataforma, no reutilizarla. La licencia de la obra no hace falta para publicar y se puede conceder más adelante, con fecha | 2026-10-30 | El `README.md` y `LICENCIA.md` separan los dos ámbitos. El **colofón** va en `libro.json` y se imprime como última página del EPUB: titularidad de Chamacoi, ningún autor en el relato (decisiones 14-15). Consecuencia anotada: publicar una obra en curso cambia la lectura (ya no es solo «a la posteridad»), y la alocución fijada en la decisión 13 no cambia |
 
 | 46 | Soporte | **Se publica ahora, y entero: edición en curso.** El repositorio sale con el kit, el canon, los apuntes y `MANUSCRITO/`, para poner la obra a disposición mientras se escribe. Se publica desde la copia verificada del USB (`/mnt/usb/los-archivos-repo`, clon con historial) | 2026-10-30 | Cambia lo que decían el README y §0 («no se publica hasta terminarla»), que ahora dicen «edición en curso». La alocución fijada (13) no cambia. Consecuencias anotadas: el libro cambia debajo del lector, el historial mostrará las correcciones, y la lectura presente condiciona la escritura. Pendiente antes de subir: revisión de citas (F-24 a F-34), usuario, nombre y visibilidad |
+
+| 47 | Soporte | **Publicación ejecutada y licencia publicada.** El repositorio está en `github.com/Chamacoi/Los-Archivos` (público, `main`, remoto `origin` por SSH). La `LICENCIA.md` de la copia publicada se revisó: **CC BY-SA 4.0 general**, con el **manuscrito y los textos del proyecto con derechos reservados** y las excepciones del kit (MIT para código, CC BY-SA 4.0 para textos); se añadió `LICENSE.txt`. La copia local se sincronizó con la publicada y se restauraron los bits de ejecución de `nk`, `install.sh` y `probar_instalacion.sh`, `.gitignore`, `.gitattributes` y el CI que la subida web había perdido (commit `85bff23`) | 2026-10-30 | No cambia el fondo de la decisión 45 (manuscrito sin licencia; kit MIT + CC BY-SA): añade una licencia general CC BY-SA para lo no exceptuado y deja `LICENSE.txt` como aviso en inglés. Pendiente: revisión de citas (F-24 a F-34) |
 
 ---
 
