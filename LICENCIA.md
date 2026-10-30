@@ -1,33 +1,62 @@
-# Licencias
+# Licencia de este repositorio
 
-Este repositorio contiene **dos cosas distintas** y no llevan la misma licencia. La confusión entre
-ellas es el único riesgo real; la ausencia de licencia, no.
+Este repositorio combina varias capas de protección y licencia. La intención es dejar claro
+que no hay una sola regla para todo el contenido sin excepciones.
 
-| Qué | Dónde | Condición |
-|---|---|---|
-| **La obra**: el texto, el canon, los apuntes, el registro, la estructura, las sinopsis y los estudios | `MANUSCRITO/`, `APUNTES.md`, `ESTRUCTURA.md`, `PERSONAS.md`, `GLOSARIO.md`, `FUENTES.md`, `CRONOLOGIA.md`, `SINOPSIS/`, `ESTUDIOS/`, `BITACORA.md`, `libro.json`, este fichero | **© 2026 Chamacoi. Todos los derechos reservados.** Sin licencia concedida |
-| **El kit** `novela-kit`: código y textos del método | `escritura/` (excepto la muestra, que va con los textos del kit) | **MIT** para el código (`escritura/LICENSE-CODIGO`); **CC BY-SA 4.0** para los textos (`escritura/LICENSE-TEXTO`) |
-| **Materiales de trabajo** | `MATERIALES/` | No versionado, no publicable, derechos de sus autores |
+## 1. Licencia general del repositorio
 
-## Qué significa «sin licencia» para la obra
+Salvo que un archivo o carpeta indique otra cosa, el repositorio se distribuye bajo la
+licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).
 
-- **No** significa «sin derechos»: significa **todos los derechos reservados**. El texto es de su
-  titular por el solo hecho de escribirlo.
-- Se puede **leer** y, dentro de la plataforma donde esté publicado, usar las funciones que la
-  plataforma ofrece (ver, y bifurcar en el caso de GitHub, según sus condiciones de servicio).
-- **No** se puede copiar, adaptar, distribuir, traducir, publicar ni usar para entrenar sin permiso
-  escrito. Quien quiera algo de eso, lo pide.
-- Si algún día se concede una licencia (CC BY-SA, CC BY-ND, CC0 u otra), se añadirá aquí y en el
-  `README.md`, con fecha. **La concesión valdría desde ese momento; no se puede revocar para las
-  copias ya hechas**, y por eso no se concede «por si acaso».
+Esto significa que, salvo indicación contraria, se permite:
 
-## La obra escrita con el kit
+- copiar
+- redistribuir
+- mezclar
+- transformar
+- usar con fines comerciales
 
-Quien escriba un libro con `escritura/` **no queda sujeto** a MIT ni a CC BY-SA: el kit no reclama
-nada sobre lo que se escriba con él. Está dicho en `escritura/LICENSE-TEXTO` y se repite aquí.
+siempre que se mantenga la atribución adecuada y las obras derivadas se publiquen bajo la
+misma licencia.
 
-## Terceros
+## 2. Excepciones expresas
 
-Las citas, titulares y documentos de terceros que aparezcan en la obra conservan los derechos de sus
-autores y se usan en los términos que permite la ley (cita, reseña, parodia) o con permiso. El libro
-mayor está en `FUENTES.md`. Los datos personales se eliden y se marcan (C-6).
+Hay materiales con reglas específicas:
+
+- `escritura/LICENSE-CODIGO`: MIT
+- `escritura/LICENSE-TEXTO`: CC BY-SA 4.0
+- cualquier archivo o carpeta que declare una licencia distinta prevalece sobre esta nota
+  para ese ámbito concreto
+
+## 3. Derechos reservados
+
+La obra principal, el manuscrito, los textos del proyecto, la estructura, las sinopsis,
+los apuntes y otros materiales no explicitamente liberados bajo otra licencia siguen
+protegidos por derechos de autor.
+
+Esto significa que no se puede copiar, adaptar, distribuir, traducir, publicar o reutilizar
+el material protegido para entrenar modelos, publicar ediciones derivadas o usarlo
+comercialmente sin permiso previo por escrito del titular de los derechos.
+
+## 4. Ambigüedad y aclaración
+
+La intención aquí no es introducir conflicto ni invalidar licencias ya declaradas. La
+regla es simple:
+
+- si un archivo o carpeta dice algo concreto, eso prima;
+- si no dice nada, se aplica la licencia general del repositorio;
+- si un archivo declara derechos reservados, eso también debe respetarse.
+
+## 5. Atribución
+
+Cuando se reutilice material bajo la licencia aplicable, debe darse crédito a
+"Chamacoi" y, en su caso, a la parte del proyecto de la que procede el material.
+
+## 6. Nota final
+
+Este documento tiene valor aclaratorio y operativo. No sustituye la licencia específica
+que pueda aparecer en un archivo concreto, pero sí da una base común para entender el uso
+del repositorio.
+
+Si más adelante se decide liberar alguna parte de la obra bajo una licencia distinta, se
+añadirá esta decisión aquí y en el README con fecha.
