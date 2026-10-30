@@ -1,0 +1,7 @@
+# Texto plano con finales de línea normalizados: diffs legibles y sin ruido CRLF
+* text=auto eol=lf
+
+# Binarios que, si algún día entran, no deben normalizarse
+*.epub binary
+*.png binary
+*.jpg binary

@@ -1,0 +1,20 @@
+# Exportación y artefactos
+*.epub
+*.mobi
+*.pdf
+out/
+tmp/
+*.tmp
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
+
+# Material que no debe publicarse (datos de terceros, transcripciones sin depurar)
+privado/
+MATERIALES/
+__pycache__/
+*.pyc
+
+# Artefactos del kit (se regeneran con `escritura/bin/nk paquete`)
+escritura/dist/

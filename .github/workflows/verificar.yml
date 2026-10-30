@@ -1,0 +1,24 @@
+name: manuscrito
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verificar:
+    name: recuento y verificación
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Estado de la obra
+        run: escritura/bin/nk estado
+      - name: Recuento frente a presupuesto
+        run: escritura/bin/nk contar --todo
+      - name: Invariantes (encabezados, presupuesto, citas, ego, datos sensibles, canon)
+        run: escritura/bin/nk verificar --rubrica
+      - name: Informe legible por máquina
+        run: escritura/bin/nk informe --salida /tmp/estado.json && cat /tmp/estado.json | head -20
