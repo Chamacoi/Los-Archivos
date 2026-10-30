@@ -17,7 +17,7 @@ Este estudio tiene una dificultad que E-01 y E-02 no tenían, y conviene decirla
 fuente principal del hecho concluye lo contrario que el libro**.
 
 El artículo de *National Geographic* que el autor aportó (F-23), firmado originalmente por Laurent
-Palka, conservador del Muséum national d'histoire naturelle (F-34), no dice que los tardígrados se
+Palka, *maître de conférences* del Muséum national d'histoire naturelle (F-34), no dice que los tardígrados se
 hayan propagado: dice que **no pueden**. No pueden reactivarse sin agua líquida, oxígeno y
 microalgas, y la colonización de la Luna es, con sus palabras, imposible. La historia que hay que
 leer «a favor de la propagación de la naturaleza en el espacio» es, en su letra, la historia de un

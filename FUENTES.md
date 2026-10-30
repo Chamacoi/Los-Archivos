@@ -43,7 +43,7 @@ texto sin estar aquí. Estado: **abierto**.
 | F-31 | *Neolithic Flint Mines at Spiennes (Mons)*, UNESCO World Heritage Centre (copia en `MATERIALES/2026-10-27-unesco-spiennes.md`) | minas neolíticas de sílex; la mayor y más antigua concentración de minas del noroeste de Europa; pozos y galerías; explotación durante siglos | **institucional (UNESCO)** | 2026-10-27 |
 | F-32 | F. H. C. Crick y L. E. Orgel, *Directed panspermia*, *Icarus* 19 (1973), pp. 341-346, DOI 10.1016/0019-1035(73)90110-3 | hipótesis de la siembra deliberada de vida en el espacio; distinta de la panspermia natural | **revisión por pares** | 2026-10-27 |
 | F-33 | *Panel on Planetary Protection*, COSPAR (copia en `MATERIALES/2026-10-27-cospar-planetary-protection.html`) | política de protección planetaria; marco institucional del debate sobre contaminación lunar | **institucional (COSPAR)** | 2026-10-27 |
-| F-34 | *¿Están los tardígrados colonizando la Luna?*, Laurent Palka (Muséum national d'histoire naturelle), *The Conversation*, 2024 (copia en `MATERIALES/2026-10-27-theconversation-tardigrados-luna.html`) | artículo original de F-23; signado por un investigador; supervivencia al impacto, criptobiosis, imposibilidad de colonización y ética de la contaminación | divulgación académica | 2026-10-27 |
+| F-34 | *¿Están los tardígrados colonizando la Luna?*, Laurent Palka (*maître de conférences* del Muséum national d'histoire naturelle), *The Conversation*, 4 mar 2024 (copia en `MATERIALES/2026-10-27-theconversation-tardigrados-luna.html`) | artículo original de F-23; supervivencia al impacto, criptobiosis, imposibilidad de colonización y ética de la contaminación | divulgación académica | 2026-10-27 |
 
 ## Cierre de fuentes (2026-10-27)
 
@@ -72,7 +72,49 @@ hay claim.
 | Panspermia dirigida | **cubierto** con Crick y Orgel (1973) | F-32 |
 | Protección planetaria y contaminación lunar | **cubierto** con el panel de COSPAR | F-33 |
 
-**Regla de nivel.** F-24 a F-33 son institucionales, primarias o con revisión por pares. F-19 a
+**Regla de nivel.** F-24 a F-33 son institucionales, primarias o académicas; F-26 es un *working
+paper* sin revisión por pares. F-19 a
 F-23 y F-34 siguen siendo divulgación: solo sostienen contexto, nunca una afirmación delicada del
 libro. Si el texto convierte la imposibilidad de colonizar la Luna en afirmación propia, habrá que
 subir F-23/F-34 a artículo científico; hoy el libro solo **niega** que conste propagación.
+
+## Revisión de citas y atribuciones (v36, 2026-10-30)
+
+Revisadas las fuentes **F-24 a F-34** antes de dar la publicación por cerrada. Se comprobaron
+metadatos, enlaces y atribuciones; los enlaces se probaron el 2026-10-30 con un agente de
+navegador. El resultado no cambia ninguna afirmación del libro: corrige un cargo y deja
+constancia de los enlaces que no responden a peticiones automatizadas.
+
+| Fuente | Enlace o identificador | HTTP | Nota |
+|---|---|---|---|
+| F-23 | `nationalgeographic.com.es/ciencia/misterio-tardigrados-luna-sonda-beresheet_21764` | 403 | Bloquea peticiones automatizadas; se trabajó con la copia de `MATERIALES/`. Es **republicación de F-34**, no fuente independiente |
+| F-24 | `who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)` | 200 | Ficha actualizada el 27/11/2025; las cifras citadas son literales |
+| F-25 | `wwwnc.cdc.gov/eid/article/12/1/05-0979_article`; DOI `10.3201/eid1201.050979` | 200 | El DOI impreso por el CDC es válido. Crossref lo canonicaliza como `10.3201/eid1209.05-0979`; ambos resuelven al mismo artículo |
+| F-26 | `nber.org/papers/w27673`; DOI `10.3386/w27673` | 200 | *Working paper* del NBER, **sin revisión por pares**; así se cita ahora en E-02 |
+| F-27 | `fundeu.es/recomendacion/covid-19-mayusculas-minusculas/` | 200 | Grafía recomendada verificada |
+| F-28 | `blockchain.info/rawblock/0` | 200 | Bloque 0: 3 ene 2009, 18:15:05 UTC |
+| F-29 | `blockchain.info/rawblock/170` | 200 | Bloque 170: 12 ene 2009, 03:30:25 UTC |
+| F-30 | `metzdowd.com/pipermail/cryptography/2008-October/014810.html` | 200 | Mensaje del 31 oct 2008, 14:10 EDT |
+| F-31 | `whc.unesco.org/en/list/1006/` | 403 | Bloquea peticiones automatizadas; copia en `MATERIALES/`. URL y texto correctos |
+| F-32 | DOI `10.1016/0019-1035(73)90110-3` | 200 | *Icarus* 19(3), 1973, pp. 341-346; autores y título correctos |
+| F-33 | `cosparhq.cnes.fr/scientific-structure/panels/panel-on-planetary-protection-ppp/` | 200 | Panel de Protección Planetaria del COSPAR |
+| F-34 | `theconversation.com/estan-los-tardigrados-colonizando-la-luna-225011` | 200 | 4 mar 2024; cargo corregido: *maître de conférences*, no «conservador» |
+
+**Correcciones aplicadas.**
+
+1. **F-34 / E-03:** Laurent Palka es *maître de conférences* del Muséum national d'histoire
+   naturelle (MNHN), no «conservador». Corregido en esta tabla y en `E-03` §0.
+2. **F-26 / E-02:** el NBER 27673 es un *working paper*, no literatura con revisión por pares.
+   E-02 ya no dice «la literatura académica»: dice «un working paper del NBER».
+3. **F-25:** el DOI impreso por el CDC y el canónico de Crossref son distintos pero resuelven al
+   mismo artículo. Se conserva el impreso, que es el que muestra la fuente.
+
+**Lo que no se ha hecho y por qué.** No se reproduce texto íntegro de ninguna fuente: los estudios
+parafrasean y citan datos y conclusiones, y las citas literales son frases breves con su fila de
+`FUENTES.md`. Los derechos de los artículos y fichas siguen siendo de sus autores; el libro no los
+relicencia. F-23 y F-34 son el mismo artículo: no se usan como corroboración independiente, solo
+como dos localizaciones de la misma pieza.
+
+**Conclusión.** No quedan atribuciones incorrectas conocidas en F-24 a F-34. Las fuentes de nivel
+institucional, primario o con revisión por pares siguen sosteniendo los datos delicados; F-23/F-34
+solo sostienen contexto y la conclusión contraria que el libro debe dejar hablar.

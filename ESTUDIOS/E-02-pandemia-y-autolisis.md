@@ -251,8 +251,8 @@ sí.
 a SARS-CoV-2), y el texto no puede presentarla como hallazgo (C-8). La comparación correcta que
 reclama la sinopsis es canónica: el libro afirma la repetición como verdad de marco y deja que la
 ciencia diga lo suyo fuera del libro. Esa separación no es una concesión: es la condición para que
-la tesis se sostenga sin mentir. La literatura académica compara ambas pandemias en serio
-—mortalidad, fertilidad, economía, intervenciones— (F-26); el libro no necesita esa literatura
+la tesis se sostenga sin mentir. Un working paper del NBER compara ambas pandemias en serio
+—mortalidad, fertilidad, economía, intervenciones— (F-26); el libro no necesita ese trabajo
 para su tesis, pero le sirve para que la comparación no sea un capricho.
 
 **«Los acertados».** No son los que aciertan por casualidad, sino los que **entienden el modo** de

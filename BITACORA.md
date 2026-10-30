@@ -498,3 +498,19 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   I.1 corregida a 2.798).
 - **Sesión cerrada (v35).** Commit del capítulo y de los apuntes; subida a `origin/main`. Siguiente:
   **I.3 «La división»**, pendiente de orden del autor; queda la revisión de citas (F-24 a F-34).
+
+## v36 — 2026-10-30
+
+- **Revisión de citas F-24 a F-34 (decisión 49).** Verificados metadatos, enlaces y atribuciones.
+  Corrección real: Laurent Palka es *maître de conférences* del Muséum national d'histoire
+  naturelle, no «conservador» (F-34 y E-03). F-26 se precisa como *working paper* del NBER, sin
+  revisión por pares (E-02). F-25 conserva el DOI impreso por el CDC, que resuelve aunque Crossref
+  canonicalice otro; F-23 y F-31 devuelven 403 a peticiones automatizadas y se trabaja con copia
+  local. F-23/F-34 son el mismo artículo: no valen como corroboración independiente.
+- **Sin reproducción literal.** Los estudios parafrasean y citan datos y conclusiones; no se
+  reproduce texto íntegro ni tablas de terceros. Detalle y tabla de enlaces en `FUENTES.md`,
+  «Revisión de citas y atribuciones (v36)».
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos. `nk contar`: 5.525 palabras,
+  2/126 capítulos. Actualizados `APUNTES.md` §0 y §3, `README.md` (casilla de citas).
+- **Sesión cerrada (v36).** La publicación queda cerrada en lo que toca a citas. Siguiente:
+  **I.3 «La división»**, pendiente de orden del autor.

@@ -4,9 +4,13 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-10-30 (**v35, cerrada**). Proyecto **abierto**, **publicado** en
+- **Última sesión:** 2026-10-30 (**v36, cerrada**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
+  **Revisión de citas completada** (decisión 49): F-24 a F-34 verificadas (metadatos, enlaces y
+  atribuciones). Corregido el cargo de Laurent Palka (*maître de conférences*, no «conservador»);
+  F-26 precisado como *working paper* del NBER; F-23 y F-31 bloquean peticiones automatizadas
+  (403) y se trabaja con copia local; sin reproducción literal de fuentes.
   **I.2 escrito y aprobado** (decisión 48): «Los otros días», **2.727 palabras** (−9,9 % sobre
   3.025), 5 secciones, 8,6 % de palabras en documentos, `nk verificar --rubrica` con 0 errores y
   0 avisos. El autor lo aprobó con «Se aprueba» el 2026-10-30. Total: **2/126 capítulos, 5.525
@@ -21,9 +25,8 @@
   importa menos que el hecho de que sea irrepetible. Ver §1 «El fin declarado» y la nota de §2.
 - **Publicación (v33-v34, decisión 46):** ejecutada el 2026-10-30 en
   `github.com/Chamacoi/Los-Archivos`, **público**, rama `main`, remoto `origin` por SSH. La
-  alocución no cambia (13); lo que cambia es que la posteridad empieza antes. Antes de dar la
-  publicación por cerrada queda la **revisión de citas** (F-24 a F-34); la licencia publicada se
-  anota en la decisión 47.
+  alocución no cambia (13); lo que cambia es que la posteridad empieza antes. La **revisión de
+  citas** (F-24 a F-34) está hecha (decisión 49); la licencia publicada se anota en la decisión 47.
 - **Cerrado hasta ahora:** **punto 6 cerrado el 2026-10-30** (381.104 es referencia, §2.6);
   **punto 5 cerrado el 2026-10-30** (registro, tecnicismo, ego y
   vocabulario religioso; ver §2.5); **punto 1 cerrado** (voz: narrador omnisciente, 3.ª persona,
@@ -194,8 +197,8 @@ bloquea.
     prueba real de que el paquete autoría/alocución aguanta.
 11. ~~**Publicación de la configuración (v17)**~~: **resuelta el 2026-10-30** (decisiones 25 y 46).
     El kit existe, está vendorizado y el repositorio entero está publicado en
-    `github.com/Chamacoi/Los-Archivos` (v34). Queda solo la **revisión de citas** antes de dar la
-    publicación por cerrada. Ver `README.md`, «Publicación (edición en curso)».
+    `github.com/Chamacoi/Los-Archivos` (v34). La **revisión de citas** está hecha (decisión 49).
+    Ver `README.md`, «Publicación (edición en curso)».
 12. ~~**Método de recuento (v18)**~~: **resuelto el 2026-10-30 (decisión 28)**: método limpio.
     I.1 = 2.798 palabras (−7,5 %); con `wc -w` eran 2.851.
 
@@ -535,7 +538,9 @@ teológico** y tiene que **costar algo**.
 
 | 47 | Soporte | **Publicación ejecutada y licencia publicada.** El repositorio está en `github.com/Chamacoi/Los-Archivos` (público, `main`, remoto `origin` por SSH). La `LICENCIA.md` de la copia publicada se revisó: **CC BY-SA 4.0 general**, con el **manuscrito y los textos del proyecto con derechos reservados** y las excepciones del kit (MIT para código, CC BY-SA 4.0 para textos); se añadió `LICENSE.txt`. La copia local se sincronizó con la publicada y se restauraron los bits de ejecución de `nk`, `install.sh` y `probar_instalacion.sh`, `.gitignore`, `.gitattributes` y el CI que la subida web había perdido (commit `85bff23`) | 2026-10-30 | No cambia el fondo de la decisión 45 (manuscrito sin licencia; kit MIT + CC BY-SA): añade una licencia general CC BY-SA para lo no exceptuado y deja `LICENSE.txt` como aviso en inglés. Pendiente: revisión de citas (F-24 a F-34) |
 
-| 48 | Escritura | **I.2 escrito y aprobado.** «Los otros días»: 2.727 palabras (−9,9 % sobre 3.025), 5 secciones, 8,6 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Cubre el mapa de I.1 (taller, lista de averías, oficios, arco generacional, El Servidor presente y no siempre hablante). Aprobado por el autor con «Se aprueba» el 2026-10-30 | 2026-10-30 | Fija la voz para I.3. Total: 2/126 capítulos, 5.525 palabras. Siguiente: I.3 «La división», pendiente de orden del autor; queda la revisión de citas (F-24 a F-34) |
+| 48 | Escritura | **I.2 escrito y aprobado.** «Los otros días»: 2.727 palabras (−9,9 % sobre 3.025), 5 secciones, 8,6 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Cubre el mapa de I.1 (taller, lista de averías, oficios, arco generacional, El Servidor presente y no siempre hablante). Aprobado por el autor con «Se aprueba» el 2026-10-30 | 2026-10-30 | Fija la voz para I.3. Total: 2/126 capítulos, 5.525 palabras. Siguiente: I.3 «La división», pendiente de orden del autor |
+
+| 49 | Fuentes | **Revisión de citas y atribuciones F-24 a F-34 completada.** Metadatos, enlaces y atribuciones verificados (2026-10-30). Corregido el cargo de Laurent Palka: *maître de conférences* del MNHN, no «conservador» (F-34, E-03). F-26 precisado como *working paper* del NBER, sin revisión por pares (E-02). F-25 conserva el DOI impreso por el CDC; Crossref lo canonicaliza como `10.3201/eid1209.05-0979` y ambos resuelven al mismo artículo. F-23 y F-31 devuelven 403 a peticiones automatizadas: se trabaja con copia local. F-23/F-34 son el mismo artículo y no cuentan como corroboración independiente. No se reproduce texto íntegro de ninguna fuente | 2026-10-30 | Detalle en `FUENTES.md`, «Revisión de citas y atribuciones (v36)». Cierra el pendiente que bloqueaba dar la publicación por cerrada |
 
 ---
 

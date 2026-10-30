@@ -225,7 +225,8 @@ Estado de la puesta a punto:
 - [x] nombres y privacidad revisados (punto 4 y C-6);
 - [x] **colofón** y metadatos del EPUB;
 - [x] CI de verificación (`.github/workflows/verificar.yml`);
-- [ ] revisión de citas y atribuciones a terceros (F-24 a F-34 y las que entren después);
+- [x] revisión de citas y atribuciones a terceros: F-24 a F-34 verificadas, con una corrección
+      de cargo y sin reproducción literal (2026-10-30, decisión 49);
 - [x] remoto y visibilidad: `Chamacoi/Los-Archivos`, público, `main` por SSH (2026-10-30);
 
 El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para servir está en
