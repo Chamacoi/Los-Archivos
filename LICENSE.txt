@@ -1,0 +1,42 @@
+Repository-wide licensing notice
+
+This repository is distributed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0), unless a different license is expressly stated in
+a file or directory within the project.
+
+This repository contains distinct kinds of material, and the terms below apply as follows:
+
+1. Repository-wide material
+   The repository as a whole, including public documentation, notes, structure, indexes,
+   source texts, and general project documents, is covered by CC BY-SA 4.0 unless a
+   specific file or directory states a different license or restriction.
+
+2. Specific exceptions
+   The following materials retain their own licensing terms:
+   - escritura/LICENSE-CODIGO: MIT License
+   - escritura/LICENSE-TEXTO: Creative Commons Attribution-ShareAlike 4.0 International
+     (CC BY-SA 4.0)
+   - Any later file or folder that explicitly declares another license or restriction
+     overrides this notice for that scope only.
+
+3. Rights reserved
+   The manuscript, its content, its form, and the written material not expressly released under
+   another license remain protected by copyright. Copying, adapting, translating,
+   distributing, publishing, or using the protected material for model training, commercial
+   reuse, or derivative publication requires prior written permission from the copyright holder.
+
+4. Attribution
+   When this material is reused, modified, or redistributed under the applicable license,
+   attribution must be given to "Chamacoi" and, where appropriate, to the relevant project
+   component or file.
+
+5. No waiver
+   This licensing notice does not revoke or replace any separate license already included in
+   the repository. Where a file contains a specific notice, that notice prevails for that file
+   or directory.
+
+For the full legal text of the CC BY-SA 4.0 license, see:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+This repository notice is a practical legal statement and is intended to clarify usage
+without altering the permissions already granted by any file-specific license.
