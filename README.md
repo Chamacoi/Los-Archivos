@@ -97,11 +97,14 @@ la obra se puede leer y no se puede reutilizar. Si algún día se concede una, s
 ## Copia de seguridad y USB
 
 ```
-escritura/bin/nk respaldo --destino /media/usb --etiqueta v29 --materiales MATERIALES
+sudo modprobe exfat && sudo mount /mnt/usb      # si el USB no está montado
+escritura/bin/nk respaldo --destino /mnt/usb --etiqueta v38 --materiales MATERIALES
 ```
 
 Deja en el USB el bundle del historial (verificado), los materiales y un `SHA-256`, con nombre
-fechado (`los-archivos-2026-10-30-v29.bundle`). Se restaura con `git clone <bundle>` y funciona sin
+fechado (`los-archivos-2026-10-31-v38.bundle`). El USB de datos (`FFF9-E995`, exFAT) está en
+`/etc/fstab` con `nofail`; si no aparece montado, el módulo `exfat` no está cargado y basta con
+`sudo modprobe exfat`. Se restaura con `git clone <bundle>` y funciona sin
 el kit instalado. Modos de trabajo desde USB —y sus avisos con fat32/exFAT— en
 `escritura/PUBLICAR.md` §6.
 

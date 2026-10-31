@@ -555,4 +555,8 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
 - **Publicado y cerrado (v38, decisión 53).** El autor dio la orden de hacer todo lo pendiente sin
   correcciones: `nk contar --actualizar`, commit del capítulo y de los apuntes y `git push
   origin main`. I.4 se da por aprobado con esa orden. Siguiente: **I.5 «El registro»**, pendiente
-  de orden. Copia al USB no hecha: no hay medio montado.
+  de orden.
+- **Copia al USB hecha (v38).** USB de datos montado en `/mnt/usb` (exFAT, UUID `FFF9-E995`; hubo que
+  cargar el módulo: `sudo modprobe exfat`). `nk respaldo --destino /mnt/usb --etiqueta v38
+  --materiales MATERIALES`: bundle de 408 KB con los 65 commits (`git bundle verify`: «records a
+  complete history», `main` en `725555a`), materiales (27 ficheros) y `SHA-256` que coincide.
