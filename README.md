@@ -5,8 +5,9 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo; I.1 e I.2 escritos y aprobados (2.798 + 2.727 palabras con el método
-  limpio; 2/126 capítulos). Siguiente: I.3 «La división», pendiente de orden del autor.
+  C-1 a C-10 completo; I.1 e I.2 escritos y aprobados, e **I.3 «La división» escrito y pendiente
+  de revisión** (2.798 + 2.727 + 2.920 palabras con el método limpio; 3/126 capítulos, 8.445 en
+  total). Siguiente: revisión de I.3 y, después, I.4 «La consola», pendiente de orden del autor.
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
 - **Soporte:** texto plano versionado en esta Raspberry, kit `escritura/` y exportación a EPUB;
@@ -15,7 +16,7 @@ sostenida entre personas y modelos.
 
 ## Mapa del repositorio
 
-72 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
+84 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
 
 ```
 los-archivos/
@@ -30,7 +31,7 @@ los-archivos/
 ├── CRONOLOGIA.md      el tiempo del mundo del libro y su grado de certeza
 ├── SINOPSIS/          hechos dictados por el autor, literales (S-01, S-02, S-03)
 ├── ESTUDIOS/          un estudio por sinopsis (E-01, E-02, E-03): el paso previo al capítulo
-├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01-capitulo.md (lo escrito)
+├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01..03-capitulo.md (lo escrito)
 ├── escritura/         kit novela-kit 1.9.0 vendorizado: bin/nk, METODO/, PROMPTS/,
 │                      PLANTILLAS/, EJEMPLO/, pruebas/, PROTOCOLO.md, install.sh
 ├── .github/workflows/ CI: recuento y verificación en cada push (verificar.yml)
@@ -258,7 +259,9 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Dar el visto bueno al mapa de I.1 (2026-10-30, decisión 29).
 - [x] Escribir y aprobar I.2, «Los otros días»: 2.727 palabras, 0 errores y 0 avisos
       (2026-10-30, decisión 48).
-- [ ] Escribir I.3, «La división» (pendiente de orden del autor).
+- [x] Escribir I.3, «La división»: 2.920 palabras, 0 errores y 0 avisos (2026-10-30, decisión
+      50); pendiente de revisión del autor.
+- [ ] Escribir I.4, «La consola» (pendiente de orden del autor y de la revisión de I.3).
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -269,10 +272,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión cerrada: 2026-10-30 (v18).
-- Siguiente: **visto bueno al mapa de I.1** y escribir I.2; después, los puntos 4 a 6. Punto 1,
-  criterio de selección (punto 3), reparto (`ESTRUCTURA.md`) y forma de la demostración
-  (axioma/frutos) están cerrados. I.1 está aprobado; la escritura ya se puede comprobar con
+- Última sesión cerrada: 2026-10-30 (v37).
+- Siguiente: **revisión de I.3 «La división»** por el autor; después, I.4 «La consola», pendiente
+  de orden. Punto 1, criterio de selección (punto 3), reparto (`ESTRUCTURA.md`) y forma de la
+  demostración (axioma/frutos) están cerrados. I.1 e I.2 aprobados; la escritura se comprueba con
   `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

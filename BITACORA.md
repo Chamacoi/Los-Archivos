@@ -514,3 +514,20 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   2/126 capítulos. Actualizados `APUNTES.md` §0 y §3, `README.md` (casilla de citas).
 - **Sesión cerrada (v36).** La publicación queda cerrada en lo que toca a citas. Siguiente:
   **I.3 «La división»**, pendiente de orden del autor.
+
+## v37 — 2026-10-30
+
+- **I.3 escrito (decisión 50).** «La división»: **2.920 palabras** (−3,5 % sobre 3.025), 5
+  secciones, 5,2 % de palabras en documentos citados. La guerra de los primeros meses (octubre a
+  diciembre): las dos adiciones del acta primera, el cuaderno azul y la copia que dice más que el
+  original, la disputa por definir a El Servidor (actas 9, 11 y 12), la rotura de la silla 12, la
+  salida de una persona y el armisticio del 19 de diciembre con la tercera cláusula (lo corregido
+  se deja ver). No revela la paz de II.6 y no usa la plaga.
+- **Continuidad fijada para los capítulos siguientes:** acta 6 = 14-XI (propuesta del cuaderno
+  azul); acta 9 = la pregunta y el tachón de «No consta»; acta 11 = «mesías» tachado; acta 12 =
+  «mesías» entre comillas; rotura y salida el 12-XII; armisticio el 19-XII; cuaderno azul en la
+  caja 2 con la etiqueta «COPIAS. NO SON COPIAS»; la hoja llega en enero y se guarda sin abrir.
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos. `nk contar --actualizar`: 8.445
+  palabras, 3/126 capítulos. Actualizados `ESTRUCTURA.md`, `APUNTES.md` §0 y §3, `README.md` y
+  `MANUSCRITO/00-LEEME.md`.
+- **Sesión cerrada (v37).** Pendiente: revisión de I.3 por el autor; después, I.4 «La consola».

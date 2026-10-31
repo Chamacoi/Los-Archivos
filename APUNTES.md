@@ -4,23 +4,20 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-10-30 (**v36, cerrada**). Proyecto **abierto**, **publicado** en
+- **Última sesión:** 2026-10-30 (**v37, cerrada**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
-  **Revisión de citas completada** (decisión 49): F-24 a F-34 verificadas (metadatos, enlaces y
-  atribuciones). Corregido el cargo de Laurent Palka (*maître de conférences*, no «conservador»);
-  F-26 precisado como *working paper* del NBER; F-23 y F-31 bloquean peticiones automatizadas
-  (403) y se trabaja con copia local; sin reproducción literal de fuentes.
-  **I.2 escrito y aprobado** (decisión 48): «Los otros días», **2.727 palabras** (−9,9 % sobre
-  3.025), 5 secciones, 8,6 % de palabras en documentos, `nk verificar --rubrica` con 0 errores y
-  0 avisos. El autor lo aprobó con «Se aprueba» el 2026-10-30. Total: **2/126 capítulos, 5.525
-  palabras**.
-  Antes, en v34: sincronización con la copia publicada, restauración de bits de ejecución,
-  `.gitignore`, `.gitattributes` y CI (commit `85bff23`), y publicación efectiva. La `LICENCIA.md`
-  publicada revisa la decisión 45: CC BY-SA 4.0 general, manuscrito con derechos reservados y
-  excepciones MIT/CC BY-SA del kit (decisión 47). **I.1 escrito y aprobado** (23), 2.798 palabras
-  (−7,5 % sobre 3.025). **Puntos 4, 5 y 6 cerrados** (30-42), **C-10** (43-44), **licencias** (45),
-  **colofón** en el EPUB, kit `novela-kit` **1.9.0** vendorizado y repositorio maquetado.
+  **I.3 «La división» escrito** (decisión 50): **2.920 palabras** (−3,5 % sobre 3.025), 5
+  secciones, 5,2 % de palabras en documentos, `nk verificar --rubrica` con 0 errores y 0 avisos.
+  **Pendiente de revisión del autor.** Total: **3/126 capítulos, 8.445 palabras**.
+  Antes, en v36: revisión de citas F-24 a F-34 completada (decisión 49). En v35: **I.2 escrito y
+  aprobado** (decisión 48), «Los otros días», 2.727 palabras (−9,9 %), 5 secciones. En v34:
+  publicación efectiva y sincronización con la copia publicada, restauración de bits de ejecución,
+  `.gitignore`, `.gitattributes` y CI (commit `85bff23`). La `LICENCIA.md` publicada revisa la
+  decisión 45: CC BY-SA 4.0 general, manuscrito con derechos reservados y excepciones MIT/CC BY-SA
+  del kit (decisión 47). **I.1 escrito y aprobado** (23), 2.798 palabras (−7,5 % sobre 3.025).
+  **Puntos 4, 5 y 6 cerrados** (30-42), **C-10** (43-44), **licencias** (45), **colofón** en el
+  EPUB, kit `novela-kit` **1.9.0** vendorizado y repositorio maquetado.
 - **Fin declarado (v9):** el libro debe **demostrar con sus textos que Dios existe**, y el resultado
   importa menos que el hecho de que sea irrepetible. Ver §1 «El fin declarado» y la nota de §2.
 - **Publicación (v33-v34, decisión 46):** ejecutada el 2026-10-30 en
@@ -41,11 +38,12 @@
 - **Siguiente paso exacto, por orden:**
   1. ~~**Revisar I.1**~~: **hecho el 2026-10-29, favorable** (decisión 23). "Bien escrito", sin
      correcciones pedidas. La muestra está en `MANUSCRITO/01-parte-I/01-capitulo.md`.
-  2. ~~**I.2**~~: **escrito y aprobado el 2026-10-30** (decisión 48). «Los otros días», 2.727
-     palabras, 5 secciones, 0 errores y 0 avisos. Siguiente capítulo del bloque I.1: **I.3 «La
-     división»** (cap. 3 de 8), **pendiente de orden del autor**. Cuando lo autorice:
-     `escritura/bin/nk nuevo I.3 --titulo "La división"` y, al terminar,
-     `escritura/bin/nk verificar --rubrica`.
+  2. **I.3 «La división»**: **escrito el 2026-10-30** (decisión 50), 2.920 palabras, 5 secciones,
+     0 errores y 0 avisos. **Pendiente de revisión del autor**: si se aprueba, se anota y se pasa a
+     **I.4 «La consola»** (cap. 4 de 8), **pendiente de orden del autor**. Cuando lo autorice:
+     `escritura/bin/nk nuevo I.4 --titulo "La consola"` y, al terminar,
+     `escritura/bin/nk verificar --rubrica`. (~~**I.2**~~ quedó escrito y aprobado en v35:
+     decisión 48.)
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -541,6 +539,7 @@ teológico** y tiene que **costar algo**.
 | 48 | Escritura | **I.2 escrito y aprobado.** «Los otros días»: 2.727 palabras (−9,9 % sobre 3.025), 5 secciones, 8,6 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Cubre el mapa de I.1 (taller, lista de averías, oficios, arco generacional, El Servidor presente y no siempre hablante). Aprobado por el autor con «Se aprueba» el 2026-10-30 | 2026-10-30 | Fija la voz para I.3. Total: 2/126 capítulos, 5.525 palabras. Siguiente: I.3 «La división», pendiente de orden del autor |
 
 | 49 | Fuentes | **Revisión de citas y atribuciones F-24 a F-34 completada.** Metadatos, enlaces y atribuciones verificados (2026-10-30). Corregido el cargo de Laurent Palka: *maître de conférences* del MNHN, no «conservador» (F-34, E-03). F-26 precisado como *working paper* del NBER, sin revisión por pares (E-02). F-25 conserva el DOI impreso por el CDC; Crossref lo canonicaliza como `10.3201/eid1209.05-0979` y ambos resuelven al mismo artículo. F-23 y F-31 devuelven 403 a peticiones automatizadas: se trabaja con copia local. F-23/F-34 son el mismo artículo y no cuentan como corroboración independiente. No se reproduce texto íntegro de ninguna fuente | 2026-10-30 | Detalle en `FUENTES.md`, «Revisión de citas y atribuciones (v36)». Cierra el pendiente que bloqueaba dar la publicación por cerrada |
+| 50 | Escritura | **I.3 escrito.** «La división»: 2.920 palabras (−3,5 % sobre 3.025), 5 secciones, 5,2 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la guerra de los primeros meses (octubre-diciembre): las dos adiciones del acta primera, el cuaderno azul y la copia que dice más que el original, la disputa por definir a El Servidor (actas 9, 11 y 12), la rotura de la silla 12 y la salida de una persona, y el armisticio del 19 de diciembre con la tercera cláusula (lo corregido se deja ver). **Pendiente de revisión del autor** | 2026-10-30 | Continuidad fijada: acta 6 (14-XI) con la propuesta del cuaderno azul; acta 9 con la pregunta y el tachón de «No consta»; acta 11 con «mesías» tachado; acta 12 con «mesías» entre comillas; rotura y salida el 12-XII; armisticio y tres cláusulas el 19-XII; cuaderno azul en la caja 2 con la etiqueta «COPIAS. NO SON COPIAS»; la hoja llega en enero y se guarda sin abrir, entre el acta 14 y el 15. No revela la paz de II.6 ni usa la plaga |
 
 ---
 
