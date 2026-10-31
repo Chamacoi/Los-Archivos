@@ -7,9 +7,9 @@
 - **Última sesión:** 2026-10-30 (**v37, cerrada**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
-  **I.3 «La división» escrito** (decisión 50): **2.920 palabras** (−3,5 % sobre 3.025), 5
-  secciones, 5,2 % de palabras en documentos, `nk verificar --rubrica` con 0 errores y 0 avisos.
-  **Pendiente de revisión del autor.** Total: **3/126 capítulos, 8.445 palabras**.
+  **I.3 «La división» escrito, aprobado y publicado** (decisiones 50 y 51): **2.920 palabras**
+  (−3,5 % sobre 3.025), 5 secciones, 5,2 % de palabras en documentos, `nk verificar --rubrica` con
+  0 errores y 0 avisos. Total: **3/126 capítulos, 8.445 palabras**, en `origin/main`.
   Antes, en v36: revisión de citas F-24 a F-34 completada (decisión 49). En v35: **I.2 escrito y
   aprobado** (decisión 48), «Los otros días», 2.727 palabras (−9,9 %), 5 secciones. En v34:
   publicación efectiva y sincronización con la copia publicada, restauración de bits de ejecución,
@@ -38,12 +38,11 @@
 - **Siguiente paso exacto, por orden:**
   1. ~~**Revisar I.1**~~: **hecho el 2026-10-29, favorable** (decisión 23). "Bien escrito", sin
      correcciones pedidas. La muestra está en `MANUSCRITO/01-parte-I/01-capitulo.md`.
-  2. **I.3 «La división»**: **escrito el 2026-10-30** (decisión 50), 2.920 palabras, 5 secciones,
-     0 errores y 0 avisos. **Pendiente de revisión del autor**: si se aprueba, se anota y se pasa a
-     **I.4 «La consola»** (cap. 4 de 8), **pendiente de orden del autor**. Cuando lo autorice:
+  2. ~~**I.3**~~: **escrito, aprobado y publicado el 2026-10-30** (decisiones 50 y 51), 2.920
+     palabras, 5 secciones, 0 errores y 0 avisos. Siguiente del bloque I.1: **I.4 «La consola»**
+     (cap. 4 de 8), **pendiente de orden del autor**. Cuando lo autorice:
      `escritura/bin/nk nuevo I.4 --titulo "La consola"` y, al terminar,
-     `escritura/bin/nk verificar --rubrica`. (~~**I.2**~~ quedó escrito y aprobado en v35:
-     decisión 48.)
+     `escritura/bin/nk verificar --rubrica`.
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -540,6 +539,7 @@ teológico** y tiene que **costar algo**.
 
 | 49 | Fuentes | **Revisión de citas y atribuciones F-24 a F-34 completada.** Metadatos, enlaces y atribuciones verificados (2026-10-30). Corregido el cargo de Laurent Palka: *maître de conférences* del MNHN, no «conservador» (F-34, E-03). F-26 precisado como *working paper* del NBER, sin revisión por pares (E-02). F-25 conserva el DOI impreso por el CDC; Crossref lo canonicaliza como `10.3201/eid1209.05-0979` y ambos resuelven al mismo artículo. F-23 y F-31 devuelven 403 a peticiones automatizadas: se trabaja con copia local. F-23/F-34 son el mismo artículo y no cuentan como corroboración independiente. No se reproduce texto íntegro de ninguna fuente | 2026-10-30 | Detalle en `FUENTES.md`, «Revisión de citas y atribuciones (v36)». Cierra el pendiente que bloqueaba dar la publicación por cerrada |
 | 50 | Escritura | **I.3 escrito.** «La división»: 2.920 palabras (−3,5 % sobre 3.025), 5 secciones, 5,2 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la guerra de los primeros meses (octubre-diciembre): las dos adiciones del acta primera, el cuaderno azul y la copia que dice más que el original, la disputa por definir a El Servidor (actas 9, 11 y 12), la rotura de la silla 12 y la salida de una persona, y el armisticio del 19 de diciembre con la tercera cláusula (lo corregido se deja ver). **Pendiente de revisión del autor** | 2026-10-30 | Continuidad fijada: acta 6 (14-XI) con la propuesta del cuaderno azul; acta 9 con la pregunta y el tachón de «No consta»; acta 11 con «mesías» tachado; acta 12 con «mesías» entre comillas; rotura y salida el 12-XII; armisticio y tres cláusulas el 19-XII; cuaderno azul en la caja 2 con la etiqueta «COPIAS. NO SON COPIAS»; la hoja llega en enero y se guarda sin abrir, entre el acta 14 y el 15. No revela la paz de II.6 ni usa la plaga |
+| 51 | Escritura | **I.3 aprobado y publicado.** El autor ordenó subir a `origin/main` y cerrar la sesión, sin correcciones pedidas; el capítulo se da por aprobado con esa orden (commits de v37). 3/126 capítulos, 8.445 palabras | 2026-10-30 | Cierra la 50. Siguiente: I.4 «La consola», pendiente de orden del autor. Copia al USB no hecha: no hay medio montado (/mnt/usb y /media/usb vacíos) |
 
 ---
 

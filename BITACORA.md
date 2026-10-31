@@ -530,4 +530,7 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
 - **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos. `nk contar --actualizar`: 8.445
   palabras, 3/126 capítulos. Actualizados `ESTRUCTURA.md`, `APUNTES.md` §0 y §3, `README.md` y
   `MANUSCRITO/00-LEEME.md`.
-- **Sesión cerrada (v37).** Pendiente: revisión de I.3 por el autor; después, I.4 «La consola».
+- **Publicado y cerrado (v37, decisión 51).** El autor ordenó subir a `origin/main` y cerrar la
+  sesión, sin correcciones pedidas: I.3 se da por aprobado. `git push origin main`
+  (`35fb344..9711d2b`) sin incidencias. Siguiente: **I.4 «La consola»**, pendiente de orden.
+  Copia al USB no hecha: no hay medio montado (`/mnt/usb` y `/media/usb` vacíos).
