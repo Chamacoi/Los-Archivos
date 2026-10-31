@@ -7,12 +7,14 @@ Empieza I.1: «Capítulo 1. Inventario», **2.798 palabras** con el método limp
 Sigue I.2: «Capítulo 2. Los otros días», **2.727 palabras**, aprobado por el autor (v35, decisión 48).
 Sigue I.3: «Capítulo 3. La división», **2.920 palabras**, aprobado por el autor y publicado el
 2026-10-30 (v37, decisiones 50 y 51).
+Sigue I.4: «Capítulo 4. La consola», **2.926 palabras**, aprobado por el autor y publicado el
+2026-10-30 (v38, decisiones 52 y 53).
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 
 ```
 ../escritura/bin/nk estado
-../escritura/bin/nk nuevo I.4 --titulo "La consola"
+../escritura/bin/nk nuevo I.5 --titulo "El registro"
 ../escritura/bin/nk contar
 ../escritura/bin/nk verificar --rubrica
 ```

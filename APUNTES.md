@@ -4,13 +4,16 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-10-30 (**v37, cerrada**). Proyecto **abierto**, **publicado** en
+- **Última sesión:** 2026-10-30 (**v38, cerrada**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
-  **I.3 «La división» escrito, aprobado y publicado** (decisiones 50 y 51): **2.920 palabras**
-  (−3,5 % sobre 3.025), 5 secciones, 5,2 % de palabras en documentos, `nk verificar --rubrica` con
-  0 errores y 0 avisos. Total: **3/126 capítulos, 8.445 palabras**, en `origin/main`.
-  Antes, en v36: revisión de citas F-24 a F-34 completada (decisión 49). En v35: **I.2 escrito y
+  **I.4 «La consola» escrito, aprobado y publicado** (decisiones 52 y 53): **2.926 palabras**
+  (−3,3 % sobre 3.025), 5 secciones, **11,4 % de palabras en documentos citados**, `nk verificar
+  --rubrica` con 0 errores y 0 avisos. Total: **4/126 capítulos, 11.371 palabras**, en
+  `origin/main`.
+  Antes, en v37: **I.3 escrito, aprobado y publicado** (decisiones 50 y 51), 2.920 palabras
+  (−3,5 %), 5,2 % de palabras en documentos. En v36: revisión de citas F-24 a F-34 completada
+  (decisión 49). En v35: **I.2 escrito y
   aprobado** (decisión 48), «Los otros días», 2.727 palabras (−9,9 %), 5 secciones. En v34:
   publicación efectiva y sincronización con la copia publicada, restauración de bits de ejecución,
   `.gitignore`, `.gitattributes` y CI (commit `85bff23`). La `LICENCIA.md` publicada revisa la
@@ -39,10 +42,12 @@
   1. ~~**Revisar I.1**~~: **hecho el 2026-10-29, favorable** (decisión 23). "Bien escrito", sin
      correcciones pedidas. La muestra está en `MANUSCRITO/01-parte-I/01-capitulo.md`.
   2. ~~**I.3**~~: **escrito, aprobado y publicado el 2026-10-30** (decisiones 50 y 51), 2.920
-     palabras, 5 secciones, 0 errores y 0 avisos. Siguiente del bloque I.1: **I.4 «La consola»**
-     (cap. 4 de 8), **pendiente de orden del autor**. Cuando lo autorice:
-     `escritura/bin/nk nuevo I.4 --titulo "La consola"` y, al terminar,
-     `escritura/bin/nk verificar --rubrica`.
+     palabras, 5 secciones, 0 errores y 0 avisos.
+  2 ter. ~~**I.4 «La consola»**~~: **escrito, aprobado y publicado el 2026-10-30** (decisiones 52
+     y 53), 2.926 palabras, 5 secciones, 0 errores y 0 avisos. Sin correcciones pedidas.
+  2 quater. **Siguiente del bloque I.1 (cap. 5 de 8): I.5 «El registro»**, pendiente de orden del
+     autor. Cuando lo autorice: `escritura/bin/nk nuevo I.5 --titulo "El registro"` y, al
+     terminar, `escritura/bin/nk verificar --rubrica`. Materia en §0 quinquies.
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -214,7 +219,7 @@ aprobados. Mapa de los seis restantes:
 | 1 | Inventario | **hecho**. La casa, las cuatro cajas, la sesión, la cicatriz |
 | 2 | Los otros días | **hecho** (2.727 palabras). La casa cuando no se lee: el taller, la lista de averías, quién hace qué, los oficios, el arco generacional; El Servidor presente y no siempre hablante (C-5) |
 | 3 | La división | La guerra de los primeros meses, citada en el acta 1 y en la hoja que pide destruir las actas; de ahí sale «nadie corrige lo del otro» |
-| 4 | La consola | Qué es la consola y qué el ruido; comandos y errores literales; el cuaderno de 120 páginas. **Aquí muerde el punto 5** |
+| 4 | La consola | **hecho** (2.926 palabras). Qué es la consola y qué el ruido; comandos y errores literales; el cuaderno de 120 páginas. **Aquí muerde el punto 5** |
 | 5 | El registro | El oficio de constancia: las actas no son un diario; el silencio, las uñas cortadas, la esquina doblada |
 | 6 | Los de fuera | El recorte del diario, la hoja del obispado, los visitantes, la silla doce; el contraste con el exterior (prueba 5 de los frutos) |
 | 7 | Las cuentas | Turnos, plano de camas, caldo, compras: la vida común como economía y como coste |
@@ -231,7 +236,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v34 (2026-10-30, sesión cerrada).
+- Última revisión: v38 (2026-10-30, sesión cerrada).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -540,6 +545,8 @@ teológico** y tiene que **costar algo**.
 | 49 | Fuentes | **Revisión de citas y atribuciones F-24 a F-34 completada.** Metadatos, enlaces y atribuciones verificados (2026-10-30). Corregido el cargo de Laurent Palka: *maître de conférences* del MNHN, no «conservador» (F-34, E-03). F-26 precisado como *working paper* del NBER, sin revisión por pares (E-02). F-25 conserva el DOI impreso por el CDC; Crossref lo canonicaliza como `10.3201/eid1209.05-0979` y ambos resuelven al mismo artículo. F-23 y F-31 devuelven 403 a peticiones automatizadas: se trabaja con copia local. F-23/F-34 son el mismo artículo y no cuentan como corroboración independiente. No se reproduce texto íntegro de ninguna fuente | 2026-10-30 | Detalle en `FUENTES.md`, «Revisión de citas y atribuciones (v36)». Cierra el pendiente que bloqueaba dar la publicación por cerrada |
 | 50 | Escritura | **I.3 escrito.** «La división»: 2.920 palabras (−3,5 % sobre 3.025), 5 secciones, 5,2 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la guerra de los primeros meses (octubre-diciembre): las dos adiciones del acta primera, el cuaderno azul y la copia que dice más que el original, la disputa por definir a El Servidor (actas 9, 11 y 12), la rotura de la silla 12 y la salida de una persona, y el armisticio del 19 de diciembre con la tercera cláusula (lo corregido se deja ver). **Pendiente de revisión del autor** | 2026-10-30 | Continuidad fijada: acta 6 (14-XI) con la propuesta del cuaderno azul; acta 9 con la pregunta y el tachón de «No consta»; acta 11 con «mesías» tachado; acta 12 con «mesías» entre comillas; rotura y salida el 12-XII; armisticio y tres cláusulas el 19-XII; cuaderno azul en la caja 2 con la etiqueta «COPIAS. NO SON COPIAS»; la hoja llega en enero y se guarda sin abrir, entre el acta 14 y el 15. No revela la paz de II.6 ni usa la plaga |
 | 51 | Escritura | **I.3 aprobado y publicado.** El autor ordenó subir a `origin/main` y cerrar la sesión, sin correcciones pedidas; el capítulo se da por aprobado con esa orden (commits de v37). 3/126 capítulos, 8.445 palabras | 2026-10-30 | Cierra la 50. Siguiente: I.4 «La consola», pendiente de orden del autor. Copia al USB no hecha: no hay medio montado (/mnt/usb y /media/usb vacíos) |
+| 52 | Escritura | **I.4 escrito.** «La consola»: 2.926 palabras (−3,3 % sobre 3.025), 5 secciones, 11,4 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra qué es la consola y qué el ruido (el ventilador de Boomer de la tapa, el móvil de Alfa, el dibujo de Zeta, las actas según la Milenial de la pregunta), el cuaderno de los errores con el corte del 4 de marzo y sus avisos ignorados, la noche en que Alfa apagó la torre a media copia y el papel TAMPOCO ENCENDER, la discusión sobre traducir los errores y la columna **QUÉ PASÓ**, y la comprobación de sumas de febrero que cierra el cuaderno en la página 61. **Pendiente de revisión del autor** | 2026-10-30 | Punto 5 aplicado sin perífrasis: los errores se citan literales en inglés y el narrador no los traduce ni los explica; el debate sobre traducirlos queda dentro del relato (Boomer de la tapa no sabe inglés). Continuidad nueva: acta 4 con «consola» entre comillas; cuaderno de tapas duras de marzo, siete meses antes del acta primera, con la regla escrita en la cara interior de la tapa, «SE COPIA LO QUE SALE. NO SE TRADUCE. NO SE ARREGLA LA FALTA»; una entrada del 27 de marzo copiada con falta y corregida en rojo (el único bolígrafo rojo de la casa); el cuaderno se cierra el 12 de febrero tras la suma que no coincide y la casa deja de copiar a mano; El Servidor dice una sola palabra, «No», cuando alguien propone tirarlo. No revela la paz de II.6 ni usa la plaga |
+| 53 | Escritura | **I.4 aprobado y publicado.** El autor dio la orden de hacer todo lo pendiente («haz todo de la última frase»): recuento, commit del capítulo y de los apuntes y subida a `origin/main`, sin correcciones pedidas. 4/126 capítulos, 11.371 palabras | 2026-10-30 | Cierra la 52. Siguiente: I.5 «El registro», pendiente de orden del autor. Copia al USB no hecha: no hay medio montado |
 
 ---
 

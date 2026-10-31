@@ -5,9 +5,10 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo; I.1, I.2 e I.3 escritos y aprobados (2.798 + 2.727 + 2.920 palabras con el
-  método limpio; 3/126 capítulos, 8.445 en total), publicados en `origin/main`. Siguiente: I.4
-  «La consola», pendiente de orden del autor.
+  C-1 a C-10 completo; I.1, I.2 e I.3 escritos, aprobados y publicados (2.798 + 2.727 + 2.920
+  palabras con el método limpio; 3/126 capítulos, 8.445), e **I.4 «La consola» escrito, aprobado y
+  publicado** (2.926 palabras; 4/126 capítulos, **11.371** en total). Siguiente: **I.5 «El
+  registro»**, pendiente de orden del autor.
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
 - **Soporte:** texto plano versionado en esta Raspberry, kit `escritura/` y exportación a EPUB;
@@ -261,7 +262,9 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       (2026-10-30, decisión 48).
 - [x] Escribir I.3, «La división»: 2.920 palabras, 0 errores y 0 avisos; aprobado y publicado
       (2026-10-30, decisiones 50 y 51).
-- [ ] Escribir I.4, «La consola» (pendiente de orden del autor).
+- [x] Escribir y aprobar I.4, «La consola»: 2.926 palabras, 0 errores y 0 avisos; publicado en
+      `origin/main` (2026-10-30, decisiones 52 y 53).
+- [ ] Escribir I.5, «El registro» (pendiente de orden del autor).
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -272,9 +275,9 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión cerrada: 2026-10-30 (v37).
-- Siguiente: **I.4 «La consola»**, pendiente de orden del autor. Punto 1, criterio de selección
+- Última sesión cerrada: 2026-10-30 (v38).
+- Siguiente: **I.5 «El registro»**, pendiente de orden del autor. Punto 1, criterio de selección
   (punto 3), reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados.
-  I.1, I.2 e I.3 aprobados; la escritura se comprueba con `escritura/bin/nk`.
+  I.1 a I.4 aprobados y publicados; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

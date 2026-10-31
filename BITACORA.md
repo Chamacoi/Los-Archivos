@@ -534,3 +534,25 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   sesión, sin correcciones pedidas: I.3 se da por aprobado. `git push origin main`
   (`35fb344..9711d2b`) sin incidencias. Siguiente: **I.4 «La consola»**, pendiente de orden.
   Copia al USB no hecha: no hay medio montado (`/mnt/usb` y `/media/usb` vacíos).
+
+## v38 — 2026-10-30
+
+- **I.4 escrito (decisión 52).** «La consola»: **2.926 palabras** (−3,3 % sobre 3.025), 5 secciones,
+  11,4 % de palabras en documentos citados. Qué es la consola y qué el ruido (ventilador, móvil,
+  margen, actas), el cuaderno de tapas duras con el corte del 4 de marzo y los avisos que nadie
+  miró, la noche en que Alfa apagó la torre a media copia y el papel TAMPOCO ENCENDER, la
+  discusión sobre traducir los errores y la columna QUÉ PASÓ, y la comprobación de sumas de febrero
+  que cierra el cuaderno en la página 61. El punto 5 se aplica sin perífrasis: errores literales en
+  inglés, sin traducción ni explicación del narrador.
+- **Continuidad fijada:** acta 4 con «consola» entre comillas; cuaderno de errores empezado en
+  marzo, siete meses antes del acta primera; regla «SE COPIA LO QUE SALE. NO SE TRADUCE. NO SE
+  ARREGLA LA FALTA»; única entrada copiada con falta (27-III, `grepp`) corregida en rojo; cuaderno
+  cerrado el 12 de febrero tras `sha256sum -c` con `did NOT match`, y desde entonces el registro lo
+  escribe la consola; El Servidor dice «No» cuando se propone tirar el cuaderno.
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos. `nk contar --actualizar`: 11.371
+  palabras, 4/126 capítulos. Actualizados `APUNTES.md` §0 y §3, `ESTRUCTURA.md`, `README.md` y
+  `MANUSCRITO/00-LEEME.md`.
+- **Publicado y cerrado (v38, decisión 53).** El autor dio la orden de hacer todo lo pendiente sin
+  correcciones: `nk contar --actualizar`, commit del capítulo y de los apuntes y `git push
+  origin main`. I.4 se da por aprobado con esa orden. Siguiente: **I.5 «El registro»**, pendiente
+  de orden. Copia al USB no hecha: no hay medio montado.
