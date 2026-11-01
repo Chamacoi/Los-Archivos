@@ -12,7 +12,8 @@ Sigue I.4: «Capítulo 4. La consola», **2.926 palabras**, aprobado por el auto
 Sigue I.5: «Capítulo 5. El registro», **2.818 palabras**, escrito el 2026-11-01 (decisión 56),
 revisado con el autor (decisión 57) y **aprobado** (decisión 58).
 
-Siguiente: I.6, «Los de fuera». Dossier de material en `../APUNTES.md` §0 septies.
+Sigue I.6: «Capítulo 6. Los de fuera», **3.269 palabras**, escrito el 2026-11-01 (decisión 60).
+**Pendiente de revisión del autor.** Dossier de material en `../APUNTES.md` §0 septies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 

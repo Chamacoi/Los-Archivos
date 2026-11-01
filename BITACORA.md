@@ -619,6 +619,18 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   cuentas (nueve presentes, dos asientos libres, cifras de las actas) y **cuatro decisiones
   previas** a la escritura (el visitante del acta 12 entre los nueve, clase y número de
   visitantes, fechas de recorte y hoja, sesión nueva o ya citada).
+- **Decisiones de escritura del autor (decisión 59):** la noche del 12-XII no se re-narra; las
+  cuentas no se tocan (nueve presentes, once sillas útiles, dos libres); los datos se fechan; la
+  visita es una sesión nueva, en orden cronológico.
+- **I.6 «Los de fuera» escrito (decisión 60).** **3.269 palabras** (+8,1 % sobre 3.025), 5
+  secciones, **7,5 % de palabras en documentos citados**, **0 errores y 0 avisos**. Narra el recorte
+  del diario (16 de abril: «un piso», «una docena» que son las sillas, «Esto no es cierto» / «Esto
+  es lo que se dijo»), la hoja del obispado (marzo de 2024, subrayada, rota y pegada por el revés,
+  «NO FUE EL CONCILIO»), la visita del 7 de mayo (pregunta por El Servidor, «No consta», la media
+  hoja del cuaderno azul, el acta once y el acta doce), la silla que se ofrece (el tornillo que no
+  vale, el «mío» de la lista) y la carta al diario que no se acuerda. **Pendiente de revisión.**
 - **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
-  `nk informe` (14.189 palabras). **Ningún texto de capítulo nuevo.** Sesión **abierta**:
-  siguiente, escribir I.6 si el autor lo ordena.
+  `nk informe`: **17.458 palabras**, 6/126 capítulos (+4,6 % sobre la referencia). Actualizados
+  `APUNTES.md` (§0, §0 septies y §3), `README.md`, `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` y
+  `estado.json`. **Ningún capítulo aprobado se ha tocado.** Sesión **abierta**: siguiente, revisar
+  I.6 y, si se aprueba, escribir I.7 «Las cuentas».

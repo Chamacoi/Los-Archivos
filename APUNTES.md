@@ -4,10 +4,12 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-11-01 (**v41**). **I.5 «El registro» aprobado por el autor** (decisión 58),
-  sin correcciones nuevas: 2.818 palabras (−6,8 %), 5 secciones, 0 errores y 0 avisos. **5/126
-  capítulos, 14.189 palabras.** **Dossier de I.6 preparado** (§0 septies). Siguiente: escribir **I.6
-  «Los de fuera»**, pendiente de orden del autor. Ningún capítulo aprobado se ha tocado.
+- **Última sesión:** 2026-11-01 (**v41**). **I.5 «El registro» aprobado** (decisión 58) e **I.6 «Los
+  de fuera» escrito** (decisión 60): **3.269 palabras** (+8,1 % sobre 3.025), 5 secciones, 7,5 % de
+  palabras en documentos citados, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras.**
+  Decisiones de escritura del autor en la 59 (la noche del 12-XII no se re-narra; las cuentas no se
+  tocan; los datos se fechan; la visita es una sesión nueva, en orden cronológico). **I.6 pendiente
+  de revisión del autor.** Ningún capítulo aprobado se ha tocado.
 - **Sesión anterior:** 2026-11-01 (**v40, cerrada**). **Revisión de I.5 con el autor aplicada**
   (decisión 57): las tres respuestas del §3 son las canónicas de la hoja, la etiqueta de la caja 1
   dice «HASTA LA 16» y el log de la consola usa su propia numeración; la tensión del rojo, el eco de
@@ -67,10 +69,9 @@
      autor (decisión 57) y **aprobado el 2026-11-01** (decisión 58), sin correcciones nuevas:
      2.818 palabras (−6,8 %), 5 secciones, 0 errores y 0 avisos. Materia en §0 quinquies y dossier
      en §0 sexies.
-  2 quater bis. **Siguiente del bloque I.1 (cap. 6 de 8): I.6 «Los de fuera»**. **Dossier de
-     material preparado el 2026-11-01** (§0 septies); el capítulo está **pendiente de orden del
-     autor**. Cuando lo autorice: `escritura/bin/nk nuevo I.6 --titulo "Los de fuera"` y, al
-     terminar, `nk verificar --rubrica`.
+  2 quater bis. ~~**I.6 «Los de fuera»**~~: **escrito el 2026-11-01** (decisión 60): 3.269 palabras,
+     5 secciones, 7,5 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del autor.** Materia
+     y decisiones previas en §0 septies (decisión 59).
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -421,6 +422,11 @@ ofrece · 5. Lo que se dice de la casa.
 3. **Si el recorte y la hoja se fechan** en el capítulo o se dejan sin fecha, como están.
 4. **Si la visita ocurre en una sesión nueva** (con su acta) o en una de las ya citadas.
 
+**Resueltas por el autor el 2026-11-01 (decisión 59):** (1) **no se vuelve a narrar** la noche del
+12-XII; solo se citan las páginas del acta 11 y del acta 12. (2) Las cuentas **no se tocan**: nueve
+presentes, once sillas útiles, **dos asientos libres**. (3) Los datos **se pueden fechar**. (4) La
+visita es una **sesión nueva**, consecutiva en el orden cronológico (16-IV → 7-V → 28-V).
+
 ---
 
 ---
@@ -749,6 +755,8 @@ teológico** y tiene que **costar algo**.
 | 56 | Escritura | **I.5 escrito.** «El registro»: **2.809 palabras** (−7,1 % sobre 3.025), 5 secciones, 5,5 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la segunda salida tal como el archivo la registra (una raya que se repite, sin nombre y sin escena), el oficio de las actas (seis cosas y ninguna una opinión; nadie firma y la letra identifica), la etiqueta de la caja 1 con tres fechas, el acta de tres líneas de la muerte del 7-XI, la hoja arrancada del 2-X que se guardó en el sobre, la regla «Lo que no paso, se corrige. Lo que se dijo, no» con el rojo reservado a las palabras y nunca a las opiniones, el paréntesis como modo de cobrar una falta y a Alfa escribiendo su primera acta en abril con las faltas intactas. **Pendiente de revisión del autor** | 2026-11-01 | Continuidad fijada: acta del 5-III con «Asisten ocho» y la raya; etiqueta «HASTA LA 16» (febrero) y «HASTA LA 17» (marzo); revisado en la decisión 57; el cuaderno de cuadros con la etiqueta «ACTAS» sobre «DIARIO» tachado; las tres correcciones en rojo del archivo (11/10 del cuaderno azul, `grepp`/`grep`, «diciembre»/«noviembre»); el paréntesis «(Hay quien no estaba)» y su forma larga anterior; los dos registros (la consola y la mano) y los dos minutos que nadie escribe; en abril Alfa escribe el acta y no se le corrige. No revela la paz de II.6, no usa la plaga y no nombra a la que se va (C-6, decisión 54) |
 | 57 | Escritura | **Revisión de I.5 aplicada** por orden del autor (2026-11-01). **(a)** Las tres respuestas del §3 son las **canónicas de la hoja** —«No», «No, y no por piedad», «Yo también lo propuse una vez» (I.1 §4, decisión 32)—, en lugar del trío inventado que atribuía tres respuestas a la carta. **(b)** La etiqueta de la caja 1 dice **«HASTA LA 16»** (febrero), porque el día de la copia había dieciséis actas; la de marzo sigue en «HASTA LA 17». **(c)** El log del §5 carga `acta-162.md` y no `acta-17.md`: la consola numera sus sesiones desde antes del archivo de papel (`--sesion 118` en marzo, `acta-131.md` en octubre, `acta-142.md` en noviembre), así que sus ficheros no llevan el número de las actas de la caja 1. **(d)** Se confirman como **deliberadas** tres cosas que la revisión puso encima de la mesa: la **tensión** entre el bolígrafo rojo y la primera regla (un dato se corrige, lo que se dijo no), el **eco** de la pregunta por la que se fue (§1 y §5) y la **prolepsis** de «la letra de un niño» (§2), que anuncia el final del capítulo | 2026-11-01 | Recuento tras la revisión: **2.818 palabras** (−6,8 % sobre 3.025), 5 secciones, 0 errores y 0 avisos. Consecuencia anotada: **conviven dos series de numeración** —el papel empieza en 1 el 3-X y la consola cuenta sus sesiones por su cuenta—; no se toca ningún capítulo aprobado. I.5 sigue **pendiente de aprobación** del autor |
 | 58 | Escritura | **I.5 «El registro» aprobado.** El autor dio el visto bueno sin correcciones nuevas tras la revisión de la decisión 57. Se cierra I.5 con **2.818 palabras** (−6,8 % sobre 3.025), 5 secciones y 0 errores y 0 avisos. **5/126 capítulos, 14.189 palabras** | 2026-11-01 | Cierra la 57. Siguiente: **I.6 «Los de fuera»**, pendiente de orden del autor. Dossier de material preparado en §0 septies. Ningún capítulo aprobado se ha tocado |
+| 59 | Escritura | **Decisiones de escritura para I.6**, dadas por el autor: **(1)** la noche del 12-XII **no se vuelve a narrar** (solo se citan las páginas del acta 11 y del acta 12); **(2)** las cuentas **no se tocan**: nueve presentes, once sillas útiles, **dos asientos libres**; **(3)** los datos **se pueden fechar** (el orden cronológico rige cuando los hechos se recogen); **(4)** la visita ocurre en una **sesión nueva**, consecutiva en orden cronológico, no en una ya narrada | 2026-11-01 | Cierra las cuatro preguntas de §0 septies. Consecuencia: el capítulo lleva fechas explícitas (16 abril, 7 y 28 mayo; la hoja impresa, marzo de 2024) y el visitante es un lector del diario que llega el 7 de mayo |
+| 60 | Escritura | **I.6 escrito.** «Los de fuera»: **3.269 palabras** (+8,1 % sobre 3.025), 5 secciones, **7,5 % de palabras en documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra el recorte del diario (piso, docena, mesa camilla; nombre y dirección tapados; «Esto no es cierto» y «Esto es lo que se dijo»), la hoja del obispado (marzo de 2024, subrayada, rota y pegada por el revés, «NO FUE EL CONCILIO»), la visita del 7 de mayo (pregunta por El Servidor, «No consta», la media hoja del cuaderno azul, el acta once y el acta doce), la silla que se ofrece (once buenas, dos libres, el tornillo que no vale, el «mío» de la lista) y la propuesta de escribir al diario, sin acuerdo. **Pendiente de revisión del autor** | 2026-11-01 | Cumple la 59: no se re-narra el 12-XII, las cuentas se respetan, todo va fechado y en orden (16-IV → 7-V → 28-V). Continuidad: el tarro de un solo tornillo y la lista de averías (I.2), la tercera cláusula y el armisticio (I.3), la media hoja del cuaderno azul (I.3), la hoja y el recorte de la caja 4 (I.1). No revela la paz de II.6, no usa la plaga y no da nombre a ningún visitante (C-6) |
 
 ---
 
