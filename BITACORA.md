@@ -560,3 +560,34 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   cargar el módulo: `sudo modprobe exfat`). `nk respaldo --destino /mnt/usb --etiqueta v38
   --materiales MATERIALES`: bundle de 408 KB con los 65 commits (`git bundle verify`: «records a
   complete history», `main` en `725555a`), materiales (27 ficheros) y `SHA-256` que coincide.
+
+## v39 — 2026-11-01
+
+- **Consulta de canon: el número de los que vuelven.** El autor preguntó si el reparto podía
+  reducirse a una persona por cohorte (cinco más El Servidor). Se comprobó contra lo escrito —la
+  tabla de turnos de I.2 con nueve personas, las actas de nueve y ocho asistentes, las once fichas
+  de `PERSONAS.md`— y **se descartó: decisión 54**, once personas y **nueve presentes**. Las dos
+  salidas quedan datadas: **Equis de la carta** el 12-XII; **Milenial de la hoja** después del 12-II,
+  porque la votación del 8-II (seis a cuatro) la sitúa todavía en la casa ese mes. El número de los
+  que mueren en la plaga sigue abierto para II.5 (decisión 44).
+- **Decisión 55:** el archivo **no tiene voz** —no habla, no quiere, no recuerda, no se dirige a
+  nadie—, pero **su contenido sí se recoge**: actas, hoja, carta, entradas de consola y lista,
+  literales, con sus faltas y tachones, como verdad de superficie. Precisa las decisiones 2 y 39.
+- **§0 sexies: dossier de I.5.** Inventario del archivo pieza por pieza (cuatro cajas, acta primera,
+  el «no consta», el sobre de hojas sueltas, la lista de averías, el cuaderno de los errores, el
+  cuaderno azul, el registro de la consola, el que lleva el registro), las cuentas que el capítulo
+  debe respetar y lo que solo él puede atar.
+- **I.5 escrito (decisión 56).** «El registro»: **2.809 palabras** (−7,1 % sobre 3.025), 5
+  secciones, 5,5 % de palabras en documentos citados, **0 errores y 0 avisos**. La segunda salida
+  entra como una raya que se repite, sin nombre y sin escena; el oficio de las actas (seis cosas y
+  ninguna una opinión, nadie firma, la letra identifica), la etiqueta de la caja 1 con tres fechas,
+  el acta de tres líneas de la muerte del 7-XI, la hoja arrancada del 2-X que se guardó en el sobre,
+  las tres correcciones en rojo del archivo (palabras, nunca opiniones), el paréntesis como modo de
+  cobrar una falta y Alfa escribiendo su primera acta en abril con las faltas intactas.
+  **Pendiente de revisión del autor.**
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos. `nk contar --actualizar`: 14.180
+  palabras, 5/126 capítulos (+3,7 % sobre la referencia). Actualizados `APUNTES.md` (§0, §3 y
+  §0 sexies), `PERSONAS.md`, `ESTRUCTURA.md`, `README.md` y `MANUSCRITO/00-LEEME.md`.
+- **Sesión cerrada (v39).** Commits `9e1e160` (I.5) y `a14b159` (registro de decisiones 54-56) y
+  subida a `origin/main`. **Copia al USB no hecha:** no hay medio montado (`/mnt/usb` y
+  `/media/usb` vacíos). Siguiente: **revisión de I.5** y, si se aprueba, **I.6 «Los de fuera»**.

@@ -4,12 +4,13 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión en curso (v39, 2026-11-01):** decisiones **54** (once personas y nueve presentes; la
-  reducción a una persona por cohorte, descartada), **55** (el archivo no tiene voz, pero su
-  contenido se cita literal) y **56** (**I.5 «El registro» escrito**: 2.809 palabras, 5 secciones,
-  5,5 % de palabras en documentos citados, 0 errores y 0 avisos; **pendiente de revisión del
-  autor**). El dossier del capítulo está en §0 sexies.
-- **Última sesión cerrada:** 2026-10-30 (**v38**). Proyecto **abierto**, **publicado** en
+- **Última sesión:** 2026-11-01 (**v39, cerrada**). Decisiones **54** (once personas y **nueve
+  presentes**; la reducción a una persona por cohorte, descartada), **55** (el archivo no tiene
+  voz, pero su contenido se cita literal) y **56**: **I.5 «El registro» escrito** — **2.809
+  palabras** (−7,1 % sobre 3.025), 5 secciones, 5,5 % de palabras en documentos citados,
+  `nk verificar --rubrica` con 0 errores y 0 avisos, **pendiente de revisión del autor**. Total:
+  **5/126 capítulos, 14.180 palabras**, en `origin/main`. Dossier del capítulo en §0 sexies.
+- **Sesión anterior:** 2026-10-30 (**v38**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
   **I.4 «La consola» escrito, aprobado y publicado** (decisiones 52 y 53): **2.926 palabras**
@@ -50,9 +51,10 @@
      palabras, 5 secciones, 0 errores y 0 avisos.
   2 ter. ~~**I.4 «La consola»**~~: **escrito, aprobado y publicado el 2026-10-30** (decisiones 52
      y 53), 2.926 palabras, 5 secciones, 0 errores y 0 avisos. Sin correcciones pedidas.
-  2 quater. ~~**I.5 «El registro»**~~: **escrito el 2026-11-01** (decisión 56): 2.809 palabras,
-     5 secciones, 5,5 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del autor.**
-     Materia en §0 quinquies y dossier en §0 sexies.
+  2 quater. ~~**I.5 «El registro»**~~: **escrito y cerrado el 2026-11-01** (decisión 56): 2.809
+     palabras, 5 secciones, 5,5 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del
+     autor**; el capítulo no se da por aprobado hasta esa lectura. Materia en §0 quinquies y
+     dossier en §0 sexies.
   2 quater bis. **Siguiente del bloque I.1 (cap. 6 de 8): I.6 «Los de fuera»**, pendiente de orden
      del autor: el recorte del diario, la hoja del obispado, los visitantes, la silla doce y el
      contraste con el exterior (prueba 5 de los frutos). Cuando lo autorice:
