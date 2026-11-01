@@ -5,7 +5,7 @@
   "objetivo_tipo": "referencia",
   "capitulos": 126,
   "escritos": 5,
-  "palabras": 14220,
+  "palabras": 14180,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -15,7 +15,7 @@
       "capitulos": 63,
       "presupuesto": 190552,
       "escritos": 5,
-      "palabras": 14220
+      "palabras": 14180
     },
     {
       "id": "II",
@@ -71,9 +71,9 @@
       "id": "I.5",
       "titulo": "El registro",
       "escrito": true,
-      "palabras": 2849,
+      "palabras": 2809,
       "presupuesto": 3025,
-      "desviacion": -0.0582,
+      "desviacion": -0.0714,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/05-capitulo.md"
     },
@@ -1289,7 +1289,7 @@
     }
   ],
   "tareas_abiertas": [
-    "Escribir I.5, «El registro» (pendiente de orden del autor).",
+    "Revisar I.5 con el autor y, si se aprueba, escribir I.6, «Los de fuera».",
     "Revisar el efecto antes de escalar al total.",
     "Títulos definitivos de las partes y de los capítulos (los de trabajo son «Los que oyeron» y",
     "Deuda material con la naturaleza (E-02 §10.1).",

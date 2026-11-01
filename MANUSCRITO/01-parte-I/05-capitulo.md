@@ -65,7 +65,7 @@ en qué orden se escribieron.
 La caja 1 lleva tres fechas:
 
 > CAJA 1. ACTAS. EMPIEZA EL 3 DE OCTUBRE. NO SACAR DE LA CASA.
-> HASTA LA 14.
+> HASTA LA 16.
 > HASTA LA 17.
 
 La primera línea se escribió con la caja; la tinta corre en la última palabra. La segunda se añadió
@@ -138,11 +138,12 @@ que el original no se tiró: se quedó en la caja 2, con una etiqueta escrita m�
 SON COPIAS», y con la frase sin acabar en el reverso. Tirarla habría sido más limpio. También habría
 sido más fácil decir que la casa nunca copió mal.
 
-Igual pasa con las tres respuestas de la carta. «Se le contestó». «No se le contestó». «Se le
-contestó mal». Las tres están en el sobre, una debajo de otra, sin que ninguna esté tachada. La casa
-podría haber elegido la más favorable y no eligió. El archivo conserva las tres y no dice cuál es
-cierta, y esa falta de veredicto es lo que impide usarlo como prueba contra nadie. Tampoco sirve
-para defender a nadie. Quien busca aquí una absolución se va sin ella.
+Igual pasa con las tres respuestas de la hoja que pedía destruir las actas. «No». «No, y no por
+piedad». «Yo también lo propuse una vez». Están las tres en la misma hoja, una debajo de otra y sin
+firma, y ninguna está tachada. La casa podía haber elegido la más favorable y no eligió. El archivo
+conserva las tres y no dice cuál es cierta, y esa falta de veredicto es lo que impide usarlo como
+prueba contra nadie. Tampoco sirve para defender a nadie. Quien busca aquí una absolución se va sin
+ella.
 
 Eso tiene un precio, y el precio se paga en la mesa, no en la caja. Cuando alguien quiere tener
 razón, el archivo no se la da. Cuando alguien quiere que se sepa que tuvo razón, tampoco. Lo único
@@ -189,7 +190,7 @@ sesión lo abre y al cerrarla lo cierra, y lo que sale queda con la hora delante
 
 > $ tail -n 3 /archivo/consola/registro.log
 > [19:10:04] session opened
-> [19:10:41] acta-17.md loaded
+> [19:10:41] acta-162.md loaded
 > [20:32:19] session closed
 
 El acta de aquel jueves dice que la sesión se abrió a las siete y dies y se cerró a las ocho y
