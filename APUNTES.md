@@ -9,7 +9,9 @@
   palabras en documentos citados, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras.**
   Decisiones de escritura del autor en la 59 (la noche del 12-XII no se re-narra; las cuentas no se
   tocan; los datos se fechan; la visita es una sesión nueva, en orden cronológico). **I.6 pendiente
-  de revisión del autor.** Ningún capítulo aprobado se ha tocado.
+  de revisión del autor.** **Copia al USB hecha** (bundle `los-archivos-2026-11-01-v41.bundle`,
+  materiales y `SHA-256` verificados; clon `los-archivos-repo/` actualizado a `origin/main`).
+  Ningún capítulo aprobado se ha tocado.
 - **Sesión anterior:** 2026-11-01 (**v40, cerrada**). **Revisión de I.5 con el autor aplicada**
   (decisión 57): las tres respuestas del §3 son las canónicas de la hoja, la etiqueta de la caja 1
   dice «HASTA LA 16» y el log de la consola usa su propia numeración; la tensión del rojo, el eco de
