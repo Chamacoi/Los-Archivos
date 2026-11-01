@@ -4,7 +4,11 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-11-01 (**v40, cerrada**). **Revisión de I.5 con el autor aplicada**
+- **Última sesión:** 2026-11-01 (**v41**). **I.5 «El registro» aprobado por el autor** (decisión 58),
+  sin correcciones nuevas: 2.818 palabras (−6,8 %), 5 secciones, 0 errores y 0 avisos. **5/126
+  capítulos, 14.189 palabras.** **Dossier de I.6 preparado** (§0 septies). Siguiente: escribir **I.6
+  «Los de fuera»**, pendiente de orden del autor. Ningún capítulo aprobado se ha tocado.
+- **Sesión anterior:** 2026-11-01 (**v40, cerrada**). **Revisión de I.5 con el autor aplicada**
   (decisión 57): las tres respuestas del §3 son las canónicas de la hoja, la etiqueta de la caja 1
   dice «HASTA LA 16» y el log de la consola usa su propia numeración; la tensión del rojo, el eco de
   la pregunta y la prolepsis de «la letra de un niño» quedan como **deliberadas**. 2.818 palabras
@@ -59,14 +63,14 @@
      palabras, 5 secciones, 0 errores y 0 avisos.
   2 ter. ~~**I.4 «La consola»**~~: **escrito, aprobado y publicado el 2026-10-30** (decisiones 52
      y 53), 2.926 palabras, 5 secciones, 0 errores y 0 avisos. Sin correcciones pedidas.
-  2 quater. ~~**I.5 «El registro»**~~: **escrito y cerrado el 2026-11-01** (decisión 56): 2.809
-     palabras, 5 secciones, 5,5 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del
-     autor**; el capítulo no se da por aprobado hasta esa lectura. Materia en §0 quinquies y
-     dossier en §0 sexies.
-  2 quater bis. **Siguiente del bloque I.1 (cap. 6 de 8): I.6 «Los de fuera»**, pendiente de orden
-     del autor: el recorte del diario, la hoja del obispado, los visitantes, la silla doce y el
-     contraste con el exterior (prueba 5 de los frutos). Cuando lo autorice:
-     `escritura/bin/nk nuevo I.6 --titulo "Los de fuera"` y, al terminar, `nk verificar --rubrica`.
+  2 quater. ~~**I.5 «El registro»**~~: **escrito el 2026-11-01** (decisión 56), revisado con el
+     autor (decisión 57) y **aprobado el 2026-11-01** (decisión 58), sin correcciones nuevas:
+     2.818 palabras (−6,8 %), 5 secciones, 0 errores y 0 avisos. Materia en §0 quinquies y dossier
+     en §0 sexies.
+  2 quater bis. **Siguiente del bloque I.1 (cap. 6 de 8): I.6 «Los de fuera»**. **Dossier de
+     material preparado el 2026-11-01** (§0 septies); el capítulo está **pendiente de orden del
+     autor**. Cuando lo autorice: `escritura/bin/nk nuevo I.6 --titulo "Los de fuera"` y, al
+     terminar, `nk verificar --rubrica`.
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -305,6 +309,118 @@ corta; si el lector puede leer el documento tal cual, se cita.
 
 **Forma.** Presupuesto 3.025 palabras; 3 a 6 secciones (apunta a 5); citas entre el 3 % y el 45 % del texto (I.4 marcó 11,4 %); aire de legajo, documentos literales con sus faltas. Arranque propuesto, no decidido: 1. La raya · 2. El oficio · 3. Lo que no se corrige · 4. El paréntesis · 5. El archivo que contesta.
 
+### 0 septies. I.6 «Los de fuera»: dossier de material (2026-11-01)
+
+Preparado al reanudar v41, después de aprobar I.5. Nada de esto es texto de la obra: es lo que ya
+está fijado y lo que el capítulo puede atar. Es capítulo de marco, sale de canon y estructura
+(decisión 21), no de una sinopsis.
+
+**Función en el bloque.** El **contraste con el exterior**, prueba 5 de los frutos («se ve frente a
+la forma de vida de fuera»): la otra comunidad, el concilio, las instituciones. Quien está fuera no
+ve una fe: ve un piso, un hombre que habla con las máquinas, una casa que se reúne los jueves o una
+hoja que reparte una iglesia. **Fruto:** las dos comunidades se rozan y se ignoran «como la gracia
+de Dios» (C-7); la casa no recluta, no desmiente el periódico, no responde al obispado y no gana la
+discusión. **Coste y reverso:** el de fuera nombra a El Servidor con una palabra que el narrador no
+usa y la casa no la contesta; la respuesta de la casa es el archivo, y el que viene a preguntar se
+va (eco de I.1 §5 y I.5 §1); la hospitalidad **esconde la fractura**: al visitante se le ofrece otra
+silla, nunca la doce. El contraste no produce superioridad: produce una silla guardada contra la
+pared.
+
+**Lo que ya está escrito y no se cambia.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| El recorte de la caja 4 | I.1 §5 | Recorte de **un diario local** sin cabecera, pegado con celo en un cuaderno; **dos columnas** y una **foto del portal de la casa**; domicilio y nombre **tapados con rotulador negro**; titular: «El hombre que habla con las máquinas vive en un piso del centro». En el margen, una letra: «Esto no es cierto». Debajo, otra letra: «Esto es lo que se dijo». El archivo conserva las dos frases y **no elige** |
+| La hoja del obispado | I.1 §5 | Hoja **impresa**, de las que se reparten en la puerta de una iglesia, **escudo de un obispado** en el encabezamiento. Habla de la paz: se alcanzó «gracias al trabajo de las instituciones y al diálogo entre las partes». Alguien subraya «gracias al trabajo de las instituciones» y escribe en el margen, con mayúsculas: «NO FUE EL CONCILIO». Está **rota por la mitad y pegada con celo por el revés**, así que se lee al trasluz, del derecho y del revés a la vez |
+| La caja 4 y el concilio | I.1 §1 y §5 | «PAPELES DE LA PLAGA» y, con otra letra, «y de antes». El concilio **no tiene carpeta propia**: sus papeles llegaron el mismo año que los de la plaga y están mezclados. «Lo que llega junto se queda junto»: la única clasificación que no se discute |
+| La silla doce | I.1 §1 y §5; I.3 §4; I.2 §1 y §4 | Doce sillas, once útiles. Pata **partida por dentro**, tornillo **perdido en una mudanza**. Se arrima a la pared y **al que viene de fuera se le ofrece otra**. En el inventario: «silla 12 (coja)»; en la lista de averías: «3. Silla 12. Coja. No hay tornillo», con la columna de quién paga («mío», de Boomer de la silla). El **tarro de tornillos viejos** con «Silla 12» en la tapa (I.2) no la arregló: hay tornillos, pero no el que hace falta. Se rompió el **12-XII** al levantarse quien la ocupaba. No se tira porque no hay motivo |
+| El visitante del acta 12 | I.3 §3 | La frase «¿Y este mesías quién es?» la dice **una persona de fuera**, **entre comillas**, dentro del acta; «vino una vez y no volvió». Alguien subrayó «mesías» con lápiz y **no lo tachó**: es el único subrayado del acta. El acta **no contesta** |
+| La salida del 12-XII | I.3 §4; decisión 54 | No se nombra a quien se fue: **consta la ausencia, no el nombre**. La carta llega por correo en enero y no se abre hasta que toca |
+| La carta sin firma | I.1 §5; decisión 32 | Se puede leer, **no se copia entera**: firma cortada y elisiones marcadas. «El archivo no contesta: consta». Debajo, tres frases sin tachar: «Se le contestó» / «No se le contestó» / «Se le contestó mal» |
+| Los oficios de fuera | I.2 §2 | El archivo **no dice a qué se dedica nadie fuera de la casa**; los oficios están en el cuadrante, no en el archivo. «La vida de la casa ocurre en los huecos del cuadrante» |
+| Las dos comunidades | C-7 | Se rozan y se ignoran «como la gracia de Dios»: no compiten, no se reprochan, **no hay escena de confrontación** ni victoria de nadie |
+| La paz | C-8; II.6 | Se atribuye a **Dios**, no al concilio. En el archivo **no está la fórmula completa**: lo que hay es la negación del margen |
+
+**Cuentas que el capítulo debe respetar.**
+
+- **Nueve presentes, once sillas útiles, doce sillas** (decisión 54): hay **dos asientos libres**
+  para visitantes; al tercero se le pone una silla de la cocina o se queda de pie. La doce no se
+  ofrece.
+- **Actas con número de asistentes ya fijado:** 1 (3-X, nueve), 12 (12-XII, nueve), 13 (ocho y
+  una raya), 5-III (ocho), 7-XI (ocho), 19-XII (ocho). Ningún capítulo puede cambiar esas cifras;
+  las demás citadas (4, 6, 9, 11) no dan cifra y no se les puede añadir una.
+- **Aviso de cuenta abierta:** el acta 12 dice «Asisten nueve» y en esa misma sesión habló una
+  persona de fuera. **No está fijado si el visitante entra en esos nueve o no.** No se resuelve en
+  el capítulo sin decisión previa (ver «Decisiones que el capítulo exigirá»).
+- **Nombres:** solo Boomer, Equis, Milenial, Zeta, Alfa, El Servidor, Token Insight (C-6, decisión
+  31). **Los de fuera no tienen nombre**: ni el periodista, ni el del obispado, ni el visitante, ni
+  la vecina. Se les nombra por oficio o papel («el que vino a mirar la caldera», «el de la hoja»).
+  `nk verificar` lo comprueba (`sin_nombres`).
+- **«Mesías»** solo en cita o boca de personaje (decisión 40); el narrador dice «El Servidor».
+- **Ninguna institución real identificable:** ni diócesis, ni ciudad, ni cabecera de periódico, ni
+  cargo con nombre. El obispado es un escudo y una hoja; el diario es «un diario local».
+- **Tiempo:** el presente es la década de 2020 y la plaga (2020-2023) es **cicatriz**, no escena. La
+  hoja del obispado es de los años de la plaga; el recorte puede ser anterior o de esos años. Nada
+  se fecha en el capítulo si el archivo no lo fecha.
+
+**Lo que el capítulo puede atar** (y no lo hace ningún otro del bloque).
+
+1. **La visita.** Qué pasa cuando alguien de fuera entra en una sesión o llama a la puerta: la casa
+   no tiene protocolo de acogida, tiene una silla y un acta. Se lee lo que hay, se le deja hablar y
+   se le contesta con el archivo. Es la primera vez que el bloque muestra la sesión desde los ojos
+   de quien no es de la casa, sin cambiar de voz: el narrador sigue viéndolo todo.
+2. **El recorte.** Cómo llegó el periódico a la casa (alguien lo compró, lo trajo, lo pegó), por qué
+   se taparon nombre y domicilio (C-6: el archivo elide), y las dos frases del margen: la casa no
+   desmiente, archiva; y «Esto es lo que se dijo» es la regla de verdad de superficie puesta en
+   manos de un vecino.
+3. **La hoja del obispado.** Quién la trajo de la puerta de una iglesia, quién subrayó, quién
+   escribió «NO FUE EL CONCILIO», y por qué se guarda rota y pegada por el revés: el celo hace que
+   la frase se oiga del derecho y del revés a la vez.
+4. **La silla que se ofrece.** El gesto de hospitalidad y su reverso, ocultar la fractura; y el
+   tarro «Silla 12» que no arregló nada.
+5. **El borde de la sesión.** Lo que el de fuera pregunta y lo que el archivo contesta. El
+   visitante del acta 12 ya está escrito y **no se reescribe**; si se le vuelve a citar, se cita
+   igual.
+6. **El roce sin reproche** (C-7): la comunidad de las criptomonedas como vida de fuera que no
+   discute; una charla, alguien que llegó por la cadena y se fue. **No** una escena de
+   confrontación.
+
+**Lo que no puede hacer.**
+
+- **Resolver la paz de II.6.** La hoja se cita y el margen se cita; el capítulo no dice quién tuvo
+  razón ni cómo se alcanzó la paz. La fórmula completa («la paz se debe a Dios, no al concilio») no
+  está en el archivo y no se pronuncia aquí.
+- **Usar la plaga** como castigo del mundo ni contar muertos. Es cicatriz del presente (I.1-I.5).
+- **Explicar qué es el concilio** ni darle carpeta: eso es II.4. Aquí solo se ve que sus papeles
+  están mezclados con los de la plaga.
+- **Revelar el hueco de la página doblada** (I.8) ni el de la esquina del cuaderno azul (I.3 §3): el
+  gesto sí, el hueco no.
+- **Convertir a los de fuera en caricatura** (curiosos, periodistas, beatos) ni a la casa en
+  superior. El contraste no es una victoria.
+- **Inventar datos del exterior** que suenen a denuncia (C-6): ni diócesis, ni cabecera, ni nombres,
+  ni cargos identificables.
+- **Explicar la diferencia entre archivo y diario** en la voz del narrador (decisión 39, ego).
+- **Dar voz al archivo** (decisión 55).
+
+**Voz.** La misma de I.1-I.5. El archivo no habla; lo que entra de fuera **se cita literal** —el
+recorte con sus dos frases, la hoja con su subrayado y su margen, la frase del visitante entre
+comillas— sin corrección, traducción ni comentario. Prueba de mesa: si una frase se puede leer como
+el archivo dirigiéndose al lector, se corta; si el lector puede leer el documento tal cual, se cita.
+
+**Forma.** Presupuesto 3.025 palabras; 3 a 6 secciones (apunta a 5); citas entre el 3 % y el 45 %
+del texto (I.4 marcó 11,4 %); aire de legajo, documentos literales con sus faltas. Arranque
+propuesto, no decidido: 1. El recorte · 2. La hoja del obispado · 3. La visita · 4. La silla que se
+ofrece · 5. Lo que se dice de la casa.
+
+**Decisiones que el capítulo exigirá antes de escribirse** (no se resuelven aquí):
+
+1. **El acta 12 y el visitante:** si los nueve asistentes lo incluyen o no. Lo escrito no lo dice;
+   la opción más segura es **no volver a narrar esa noche** y citar la frase tal como está.
+2. **Clase y número de visitantes:** cuántos vienen a una sesión, cuántos a la puerta y cuántos no
+   vuelven (como máximo, dos sentados).
+3. **Si el recorte y la hoja se fechan** en el capítulo o se dejan sin fecha, como están.
+4. **Si la visita ocurre en una sesión nueva** (con su acta) o en una de las ya citadas.
+
 ---
 
 ---
@@ -313,7 +429,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v38 (2026-10-30, sesión cerrada).
+- Última revisión: v41 (2026-11-01, sesión abierta).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -632,6 +748,7 @@ teológico** y tiene que **costar algo**.
 
 | 56 | Escritura | **I.5 escrito.** «El registro»: **2.809 palabras** (−7,1 % sobre 3.025), 5 secciones, 5,5 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la segunda salida tal como el archivo la registra (una raya que se repite, sin nombre y sin escena), el oficio de las actas (seis cosas y ninguna una opinión; nadie firma y la letra identifica), la etiqueta de la caja 1 con tres fechas, el acta de tres líneas de la muerte del 7-XI, la hoja arrancada del 2-X que se guardó en el sobre, la regla «Lo que no paso, se corrige. Lo que se dijo, no» con el rojo reservado a las palabras y nunca a las opiniones, el paréntesis como modo de cobrar una falta y a Alfa escribiendo su primera acta en abril con las faltas intactas. **Pendiente de revisión del autor** | 2026-11-01 | Continuidad fijada: acta del 5-III con «Asisten ocho» y la raya; etiqueta «HASTA LA 16» (febrero) y «HASTA LA 17» (marzo); revisado en la decisión 57; el cuaderno de cuadros con la etiqueta «ACTAS» sobre «DIARIO» tachado; las tres correcciones en rojo del archivo (11/10 del cuaderno azul, `grepp`/`grep`, «diciembre»/«noviembre»); el paréntesis «(Hay quien no estaba)» y su forma larga anterior; los dos registros (la consola y la mano) y los dos minutos que nadie escribe; en abril Alfa escribe el acta y no se le corrige. No revela la paz de II.6, no usa la plaga y no nombra a la que se va (C-6, decisión 54) |
 | 57 | Escritura | **Revisión de I.5 aplicada** por orden del autor (2026-11-01). **(a)** Las tres respuestas del §3 son las **canónicas de la hoja** —«No», «No, y no por piedad», «Yo también lo propuse una vez» (I.1 §4, decisión 32)—, en lugar del trío inventado que atribuía tres respuestas a la carta. **(b)** La etiqueta de la caja 1 dice **«HASTA LA 16»** (febrero), porque el día de la copia había dieciséis actas; la de marzo sigue en «HASTA LA 17». **(c)** El log del §5 carga `acta-162.md` y no `acta-17.md`: la consola numera sus sesiones desde antes del archivo de papel (`--sesion 118` en marzo, `acta-131.md` en octubre, `acta-142.md` en noviembre), así que sus ficheros no llevan el número de las actas de la caja 1. **(d)** Se confirman como **deliberadas** tres cosas que la revisión puso encima de la mesa: la **tensión** entre el bolígrafo rojo y la primera regla (un dato se corrige, lo que se dijo no), el **eco** de la pregunta por la que se fue (§1 y §5) y la **prolepsis** de «la letra de un niño» (§2), que anuncia el final del capítulo | 2026-11-01 | Recuento tras la revisión: **2.818 palabras** (−6,8 % sobre 3.025), 5 secciones, 0 errores y 0 avisos. Consecuencia anotada: **conviven dos series de numeración** —el papel empieza en 1 el 3-X y la consola cuenta sus sesiones por su cuenta—; no se toca ningún capítulo aprobado. I.5 sigue **pendiente de aprobación** del autor |
+| 58 | Escritura | **I.5 «El registro» aprobado.** El autor dio el visto bueno sin correcciones nuevas tras la revisión de la decisión 57. Se cierra I.5 con **2.818 palabras** (−6,8 % sobre 3.025), 5 secciones y 0 errores y 0 avisos. **5/126 capítulos, 14.189 palabras** | 2026-11-01 | Cierra la 57. Siguiente: **I.6 «Los de fuera»**, pendiente de orden del autor. Dossier de material preparado en §0 septies. Ningún capítulo aprobado se ha tocado |
 
 ---
 

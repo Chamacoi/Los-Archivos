@@ -608,3 +608,17 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   §3), `ESTRUCTURA.md` y `estado.json`.
 - **Sesión cerrada (v40).** I.5 **sigue pendiente de aprobación**. Siguiente: su lectura y, si se
   aprueba, **I.6 «Los de fuera»**. Copia al USB no hecha: no hay medio montado.
+
+## v41 — 2026-11-01
+
+- **I.5 «El registro» aprobado** por el autor, sin correcciones nuevas (decisión 58): 2.818
+  palabras (−6,8 %), 5 secciones, 0 errores y 0 avisos. **5/126 capítulos, 14.189 palabras.**
+- **Dossier de I.6 «Los de fuera» preparado** (`APUNTES.md` §0 septies): función en el bloque
+  (prueba 5, contraste), tabla de las piezas ya fijadas (recorte, hoja del obispado, caja 4 y
+  concilio, silla doce, visitante del acta 12, carta, oficios de fuera, dos comunidades, paz),
+  cuentas (nueve presentes, dos asientos libres, cifras de las actas) y **cuatro decisiones
+  previas** a la escritura (el visitante del acta 12 entre los nueve, clase y número de
+  visitantes, fechas de recorte y hoja, sesión nueva o ya citada).
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
+  `nk informe` (14.189 palabras). **Ningún texto de capítulo nuevo.** Sesión **abierta**:
+  siguiente, escribir I.6 si el autor lo ordena.
