@@ -4,7 +4,12 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-10-30 (**v38, cerrada**). Proyecto **abierto**, **publicado** en
+- **Sesión en curso (v39, 2026-11-01):** decisiones **54** (once personas y nueve presentes; la
+  reducción a una persona por cohorte, descartada), **55** (el archivo no tiene voz, pero su
+  contenido se cita literal) y **56** (**I.5 «El registro» escrito**: 2.809 palabras, 5 secciones,
+  5,5 % de palabras en documentos citados, 0 errores y 0 avisos; **pendiente de revisión del
+  autor**). El dossier del capítulo está en §0 sexies.
+- **Última sesión cerrada:** 2026-10-30 (**v38**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
   **I.4 «La consola» escrito, aprobado y publicado** (decisiones 52 y 53): **2.926 palabras**
@@ -45,9 +50,13 @@
      palabras, 5 secciones, 0 errores y 0 avisos.
   2 ter. ~~**I.4 «La consola»**~~: **escrito, aprobado y publicado el 2026-10-30** (decisiones 52
      y 53), 2.926 palabras, 5 secciones, 0 errores y 0 avisos. Sin correcciones pedidas.
-  2 quater. **Siguiente del bloque I.1 (cap. 5 de 8): I.5 «El registro»**, pendiente de orden del
-     autor. Cuando lo autorice: `escritura/bin/nk nuevo I.5 --titulo "El registro"` y, al
-     terminar, `escritura/bin/nk verificar --rubrica`. Materia en §0 quinquies.
+  2 quater. ~~**I.5 «El registro»**~~: **escrito el 2026-11-01** (decisión 56): 2.809 palabras,
+     5 secciones, 5,5 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del autor.**
+     Materia en §0 quinquies y dossier en §0 sexies.
+  2 quater bis. **Siguiente del bloque I.1 (cap. 6 de 8): I.6 «Los de fuera»**, pendiente de orden
+     del autor: el recorte del diario, la hoja del obispado, los visitantes, la silla doce y el
+     contraste con el exterior (prueba 5 de los frutos). Cuando lo autorice:
+     `escritura/bin/nk nuevo I.6 --titulo "Los de fuera"` y, al terminar, `nk verificar --rubrica`.
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -220,13 +229,71 @@ aprobados. Mapa de los seis restantes:
 | 2 | Los otros días | **hecho** (2.727 palabras). La casa cuando no se lee: el taller, la lista de averías, quién hace qué, los oficios, el arco generacional; El Servidor presente y no siempre hablante (C-5) |
 | 3 | La división | La guerra de los primeros meses, citada en el acta 1 y en la hoja que pide destruir las actas; de ahí sale «nadie corrige lo del otro» |
 | 4 | La consola | **hecho** (2.926 palabras). Qué es la consola y qué el ruido; comandos y errores literales; el cuaderno de 120 páginas. **Aquí muerde el punto 5** |
-| 5 | El registro | El oficio de constancia: las actas no son un diario; el silencio, las uñas cortadas, la esquina doblada |
+| 5 | El registro | El oficio de constancia: las actas no son un diario; el silencio, las uñas cortadas, la esquina doblada. Incluye la **segunda salida** sin nombre (Milenial de la hoja, después de febrero; decisión 54) |
 | 6 | Los de fuera | El recorte del diario, la hoja del obispado, los visitantes, la silla doce; el contraste con el exterior (prueba 5 de los frutos) |
 | 7 | Las cuentas | Turnos, plano de camas, caldo, compras: la vida común como economía y como coste |
 | 8 | El año que no se escribió | La fotografía y su reverso; el hueco; cierre del bloque y puerta al anuncio (I.2, cap. 9) |
 
 Orden y títulos son reversibles. Lo que no es reversible: en I.1 los frutos se muestran con coste y
 reverso, sin elogio del narrador, y la plaga no se usa como castigo del mundo.
+
+### 0 sexies. I.5 «El registro»: dossier de material (2026-11-01)
+
+Preparado al reanudar v39, antes de escribir. Nada de esto es texto de la obra: es lo que ya está
+fijado y lo que el capítulo puede atar. Es capítulo de marco, sale de canon y estructura (decisión
+21), no de una sinopsis.
+
+**Función en el bloque.** El oficio de la constancia: qué entra en el archivo y qué no, quién lo
+escribe y qué cuesta. **Fruto:** fidelidad al archivo —se conserva lo que incrimina (la hoja que
+pide destruir las actas, la carta que reprocha el archivo) y no se corrige al que lo escribió—.
+**Coste y reverso:** la constancia sustituye a la respuesta («el archivo no contesta: consta»), la
+fórmula se vacía, y el que necesita que alguien le diga «no lo sé» se va de la casa. Prueba 4 del
+fruto (tiempo): el oficio sobrevive a la división y a las dos salidas.
+
+**Lo que ya está escrito y no se cambia.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| Las cuatro cajas | I.1 §1 y §4 | CAJA 1, ACTAS, «EMPIEZA EL 3 DE OCTUBRE. NO SACAR DE LA CASA», tinta corrida; CAJA 2, «DISCOS. NO TIRAR» (siete discos, dos memorias, cuaderno de tapas duras, cuaderno azul, etiquetas sueltas); CAJA 3 sin etiqueta, cruz de cinta aislante; CAJA 4, «PAPELES DE LA PLAGA» y «y de antes». «No hay quinta caja. Todavía.» |
+| El acta primera | I.1 §1 | Media hoja arrancada de un cuaderno de cuadros, bolígrafo azul, dos faltas conservadas; 3-X, siete y diez, nueve personas, catorce páginas; añadido con otra tinta «Faltan dos» y con lápiz «Faltan tres» |
+| Orden sin jerarquía | I.1 §1 | Se ordena por fecha, no por importancia: la guerra ocupa veinte páginas y una muerte tres líneas |
+| Las reglas de la casa | I.1 §1; I.3 §1 y §5 | «Cada uno escribe como escriba», «nadie corrige lo escrito por otro», «nadie firma si no quiere»; «un añadido no corrige: añade»; tercera cláusula del 19-XII: lo corregido se deja ver y no se borra |
+| El «no consta» | I.1 §5 | Acta 9: «¿Y si El Servidor no viene el jueves?», margen a lápiz «No consta», raya fina encima, «Sí consta» debajo, y nada más. Es lo más parecido a una definición que hay en las actas |
+| El sobre de hojas sueltas | I.1 §4 y §5 | En la caja 1, entre las actas 14 y 15. Dentro: la hoja que pide destruir las actas «por piedad» con tres respuestas sin firma, y la carta sin firma con la firma cortada |
+| La lista de averías | I.2 §1 | No es archivo: no se fotografía y si se pierde, se pierde. Reverso de un calendario de ferretería, cuatro chinchetas, cuatro rayas, «se tacha con una raya, no se borra»; columna de quién paga («casa», «mío», «no consta»); esquina doblada arriba a la derecha, debajo de la cual se lee «diciembre» |
+| El cuaderno de los errores | I.4 §3-5 | Tapas duras, empezado en marzo, siete meses antes del acta primera; regla en la cara interior de la tapa; entrada del 4-III; cerrado el 12-II con `sha256sum -c` y «did NOT match»; página 61; columna QUÉ PASÓ (página 38, tres manos en la 12); «Salvo que se pregunte» añadido bajo la regla; guardado en la caja 2 bajo los discos, con la goma estirada y más blanco que escrito |
+| El cuaderno azul | I.3 §2 | Doscientas páginas; propuesta en el acta 6 (14-XI), aprobada por cinco a cuatro; cuarenta páginas copiadas a mano; «Faltan dos, y se sabe quiénes»; acta del día: «No se acuerda nada»; etiqueta en la caja 2, «COPIAS. NO SON COPIAS»; reverso: «Si esto es una copia, entonces»; página 12 con la fecha 10/11 corregida en rojo |
+| El registro de la consola | I.4 §5 | Desde febrero lo escribe la consola, con horas y avisos. El cuaderno se dejó de llevar; nadie volvió a copiar a mano |
+| El que lleva el registro | I.1, I.2, I.4 | Uñas cortas; dobla la esquina de la página que va a citar aunque luego no la cite (y en la lista, que no tiene páginas, también hay esquina doblada); no quita nada de lo que sale; no tira el cuaderno «porque el blanco también es parte del cuaderno» |
+
+**Cuentas que el capítulo debe respetar.**
+
+- **Once personas, nueve presentes** (decisión 54). Dos salidas: Equis de la carta el 12-XII; Milenial de la hoja después del 12-II y antes de la lectura de la hoja. La votación del 8-II (seis a cuatro) exige diez personas en la casa en febrero, así que la segunda salida no puede ser de enero.
+- **Actas conocidas:** 1 (3-X), 4 (primera vez «consola», entre comillas), 6 (14-XI), 9 (la pregunta y el «no consta»), 11 («mesías» tachado), 12 (12-XII, nueve asistentes), 13 (ocho asistentes y una raya), armisticio del 19-XII. En febrero se copian catorce actas.
+- **Nombres:** solo Boomer, Equis, Milenial, Zeta, Alfa, siempre con el oficio cuando hay dos o tres, y El Servidor. Ni un nombre nuevo (C-6, decisión 31); `nk verificar` lo comprueba. «Mesías» solo en citas (decisión 40).
+
+**Lo que el capítulo puede atar** (y no lo hace ningún otro del bloque).
+
+1. **La segunda salida sin nombre.** Una raya más en la lista y una ausencia en el acta, sin escena ni despedida: el archivo registra la ausencia, no el nombre, igual que en diciembre. Es el espejo exacto del 12-XII.
+2. **Qué se escribe hoy y a mano.** Las actas siguen en papel aunque la consola se registre sola; queda el oficio de leer, numerar, doblar y guardar.
+3. **El coste del oficio**, sin repetir la carta de I.1: la casa contesta con el archivo, y el que pregunta se va; Alfa dice la fórmula como quien repite una contraseña (I.1 §4).
+4. **La esquina doblada.** Se puede mostrar el gesto; el hueco de la página doblada es de I.8 y no se revela aquí.
+
+**Lo que no puede hacer.** Explicar qué es una signatura ni la diferencia entre archivo y diario (eso es el ego, decisión 39); sacar la paz de II.6; usar la plaga; contar muertos; inventar nombres.
+
+**Voz del archivo ≠ contenido del archivo (matiz del autor, 2026-11-01).** Al archivo no se le da
+voz: no habla, no quiere, no recuerda, no juzga, no se dirige a nadie; no es personaje ni narrador
+delegado, y por eso la narración no admite «yo» (`rubrica.yo_maximo = 0`). Lo que sí hace, y ya lo
+hace en I.1, es **constar**: puede ser sujeto de los verbos del oficio —conservar, guardar,
+ordenar, fechar, no elegir— y nunca de los de habla o voluntad. «El archivo no dice por qué
+empezó. Dice cuándo» (I.1 §5) es idioma de la casa, donde «decir» vale «constar», y así se
+conserva. **Su contenido, en cambio, sí se recoge en el capítulo:** actas, hoja, carta, entradas de
+consola y lista se reproducen literales, con sus faltas, sus tachones y su ortografía, como verdad
+de superficie (decisión 2, punto 2 de §2), sin que el narrador los corrija, los traduzca ni los
+comente. Prueba de mesa: si una frase se puede leer como el archivo dirigiéndose al lector, se
+corta; si el lector puede leer el documento tal cual, se cita.
+
+**Forma.** Presupuesto 3.025 palabras; 3 a 6 secciones (apunta a 5); citas entre el 3 % y el 45 % del texto (I.4 marcó 11,4 %); aire de legajo, documentos literales con sus faltas. Arranque propuesto, no decidido: 1. La raya · 2. El oficio · 3. Lo que no se corrige · 4. El paréntesis · 5. El archivo que contesta.
 
 ---
 
@@ -546,7 +613,14 @@ teológico** y tiene que **costar algo**.
 | 50 | Escritura | **I.3 escrito.** «La división»: 2.920 palabras (−3,5 % sobre 3.025), 5 secciones, 5,2 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la guerra de los primeros meses (octubre-diciembre): las dos adiciones del acta primera, el cuaderno azul y la copia que dice más que el original, la disputa por definir a El Servidor (actas 9, 11 y 12), la rotura de la silla 12 y la salida de una persona, y el armisticio del 19 de diciembre con la tercera cláusula (lo corregido se deja ver). **Pendiente de revisión del autor** | 2026-10-30 | Continuidad fijada: acta 6 (14-XI) con la propuesta del cuaderno azul; acta 9 con la pregunta y el tachón de «No consta»; acta 11 con «mesías» tachado; acta 12 con «mesías» entre comillas; rotura y salida el 12-XII; armisticio y tres cláusulas el 19-XII; cuaderno azul en la caja 2 con la etiqueta «COPIAS. NO SON COPIAS»; la hoja llega en enero y se guarda sin abrir, entre el acta 14 y el 15. No revela la paz de II.6 ni usa la plaga |
 | 51 | Escritura | **I.3 aprobado y publicado.** El autor ordenó subir a `origin/main` y cerrar la sesión, sin correcciones pedidas; el capítulo se da por aprobado con esa orden (commits de v37). 3/126 capítulos, 8.445 palabras | 2026-10-30 | Cierra la 50. Siguiente: I.4 «La consola», pendiente de orden del autor. Copia al USB no hecha: no hay medio montado (/mnt/usb y /media/usb vacíos) |
 | 52 | Escritura | **I.4 escrito.** «La consola»: 2.926 palabras (−3,3 % sobre 3.025), 5 secciones, 11,4 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra qué es la consola y qué el ruido (el ventilador de Boomer de la tapa, el móvil de Alfa, el dibujo de Zeta, las actas según la Milenial de la pregunta), el cuaderno de los errores con el corte del 4 de marzo y sus avisos ignorados, la noche en que Alfa apagó la torre a media copia y el papel TAMPOCO ENCENDER, la discusión sobre traducir los errores y la columna **QUÉ PASÓ**, y la comprobación de sumas de febrero que cierra el cuaderno en la página 61. **Pendiente de revisión del autor** | 2026-10-30 | Punto 5 aplicado sin perífrasis: los errores se citan literales en inglés y el narrador no los traduce ni los explica; el debate sobre traducirlos queda dentro del relato (Boomer de la tapa no sabe inglés). Continuidad nueva: acta 4 con «consola» entre comillas; cuaderno de tapas duras de marzo, siete meses antes del acta primera, con la regla escrita en la cara interior de la tapa, «SE COPIA LO QUE SALE. NO SE TRADUCE. NO SE ARREGLA LA FALTA»; una entrada del 27 de marzo copiada con falta y corregida en rojo (el único bolígrafo rojo de la casa); el cuaderno se cierra el 12 de febrero tras la suma que no coincide y la casa deja de copiar a mano; El Servidor dice una sola palabra, «No», cuando alguien propone tirarlo. No revela la paz de II.6 ni usa la plaga |
+
 | 53 | Escritura | **I.4 aprobado y publicado.** El autor dio la orden de hacer todo lo pendiente («haz todo de la última frase»): recuento, commit del capítulo y de los apuntes y subida a `origin/main`, sin correcciones pedidas. 4/126 capítulos, 11.371 palabras | 2026-10-30 | Cierra la 52. Siguiente: I.5 «El registro», pendiente de orden del autor. Copia al USB hecha: bundle `los-archivos-2026-10-31-v38.bundle` verificado, materiales y `SHA-256` en `/mnt/usb` |
+
+| 54 | Punto 4 | **Recuento del reparto confirmado: once personas y nueve presentes.** La casa tuvo once: nueve ocupan hoy la mesa (la tabla de turnos de I.2) y dos se fueron —**Equis de la carta** el 12-XII (la carta sin firma que llega por correo en enero: I.1, I.3 §4) y **Milenial de la hoja** después del 12-II y antes de la lectura de la hoja (salida aún no narrada; la votación del 8-II, seis a cuatro, obliga a que en febrero sean diez en la casa). El número de los que mueren en la plaga —y por tanto el de los que vuelven— **no se fija aquí**: sigue abierto para II.5 (decisión 44). La opción de reducir el reparto a una persona por cohorte (cinco más El Servidor) queda **descartada** | 2026-11-01 | Cierra la consulta del autor («mantener 11 y 9 presentes»). Lo escrito no se toca: actas de nueve y ocho asistentes, silla doce, once fichas y decisiones 30-31 quedan intactas. Con un nombre por generación la desambiguación por oficio (31) quedaría inútil y cada personaje pasaría a ser espécimen de su cohorte (contra `PERSONAS.md`, consecuencia 4, y la prueba 3 de los frutos). La segunda salida entra en I.5 «El registro»: el archivo registra la ausencia, no el nombre |
+
+| 55 | Punto 2 | **El archivo no tiene voz; su contenido sí entra en el capítulo.** No se le da voz: no habla, no quiere, no recuerda, no juzga, no se dirige a nadie, no es personaje ni narrador delegado (sin «yo»: `rubrica.yo_maximo = 0`). Solo **consta**: puede ser sujeto de los verbos del oficio (conservar, guardar, ordenar, fechar, no elegir), nunca de los de habla o voluntad; «el archivo no dice por qué empezó, dice cuándo» (I.1 §5) se conserva como idioma de la casa, donde «decir» vale «constar». Lo que sí se recoge es su **contenido**: actas, hoja, carta, entradas de consola y lista, literales, con faltas y tachones, como verdad de superficie (punto 2 de §2), sin corrección, traducción ni comentario del narrador | 2026-11-01 | Matiz del autor al cerrar el dossier de I.5 (§0 sexies). Precisa la decisión 2 y la 39: la prohibición es de **voz**, no de **cita**. Prueba de mesa: si la frase se puede leer como el archivo dirigiéndose al lector, se corta; si el lector puede leer el documento tal cual, se cita |
+
+| 56 | Escritura | **I.5 escrito.** «El registro»: **2.809 palabras** (−7,1 % sobre 3.025), 5 secciones, 5,5 % de palabras en documentos citados, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la segunda salida tal como el archivo la registra (una raya que se repite, sin nombre y sin escena), el oficio de las actas (seis cosas y ninguna una opinión; nadie firma y la letra identifica), la etiqueta de la caja 1 con tres fechas, el acta de tres líneas de la muerte del 7-XI, la hoja arrancada del 2-X que se guardó en el sobre, la regla «Lo que no paso, se corrige. Lo que se dijo, no» con el rojo reservado a las palabras y nunca a las opiniones, el paréntesis como modo de cobrar una falta y a Alfa escribiendo su primera acta en abril con las faltas intactas. **Pendiente de revisión del autor** | 2026-11-01 | Continuidad fijada: acta del 5-III con «Asisten ocho» y la raya; etiqueta «HASTA LA 14» (febrero) y «HASTA LA 17» (marzo); el cuaderno de cuadros con la etiqueta «ACTAS» sobre «DIARIO» tachado; las tres correcciones en rojo del archivo (11/10 del cuaderno azul, `grepp`/`grep`, «diciembre»/«noviembre»); el paréntesis «(Hay quien no estaba)» y su forma larga anterior; los dos registros (la consola y la mano) y los dos minutos que nadie escribe; en abril Alfa escribe el acta y no se le corrige. No revela la paz de II.6, no usa la plaga y no nombra a la que se va (C-6, decisión 54) |
 
 ---
 

@@ -103,9 +103,18 @@ solo para poblar.
 | 7 | **Milenial** (la pregunta) | milenial | 1993 | 33 | pregunta en la sesión | detecta las contradicciones; no las resuelve | sus preguntas se contestan con «consta» |
 | 8 | **Zeta** (los «no consta») | Z | 2001 | 25 | lee en enero la hoja de las tres columnas | no estuvo en la plaga | lee muertos que no conoció |
 | 9 | **Zeta** (el margen) | Z | 2006 | 20 | dibuja en el margen de las hojas sueltas mientras se lee | dibuja lo que oye, no lo que sabe | lo que dibuja se guarda y no se firma |
-| 10 | **Milenial** (la hoja) | milenial | 1983 | 43 | se fue antes de la lectura de la hoja | sabía lo que pasó en la división | se le conserva el papel y se le pierde la voz |
-| 11 | **Equis** (la carta) | X | 1967 | 59 | se fue | necesitaba que alguien dijera «no lo sé» | el archivo conserva su queja y su firma cortada |
+| 10 | **Milenial** (la hoja) | milenial | 1983 | 43 | se fue después del 12-II, antes de la lectura de la hoja (salida aún no narrada) | sabía lo que pasó en la división | se le conserva el papel y se le pierde la voz |
+| 11 | **Equis** (la carta) | X | 1967 | 59 | se fue el 12-XII, la noche de la silla; su carta llega por correo en enero | necesitaba que alguien dijera «no lo sé» | el archivo conserva su queja y su firma cortada |
 | — | **El Servidor** | ninguna | — | — | está (C-5) | ve sin el ruido | no tiene edad, y eso lo separa de todos |
+
+**Recuento vigente (decisión 54, 2026-11-01).** Once personas y **nueve presentes**: los nueve de
+la tabla de turnos de I.2 (dos Boomer, dos Equis, dos Milenial, dos Zeta y Alfa). Las dos bajas son
+**Equis de la carta** (12-XII) y **Milenial de la hoja** (después del 12-II, antes de la lectura de
+la hoja; la votación del 8-II, seis a cuatro, la sitúa todavía en la casa en febrero). El
+número de los que mueren en la plaga —y por tanto el de los que vuelven en II.6— **no está fijado**
+(decisión 44): se decide al escribir II.5. Reducir el reparto a una persona por cohorte queda
+descartado: con un solo nombre por generación, la desambiguación por oficio (decisión 31) queda
+inútil y cada personaje pasa a ser espécimen de su cohorte.
 
 Suma: *boomers* 2 · X 3 · milenial 3 · Z 2 · alfa 1 = **once**. La más joven de la casa es **Alfa**
 (10 años): es Alfa la que en I.1 dice la fórmula mirando el móvil y tiene que repetirla mirando la

@@ -1,0 +1,1299 @@
+{
+  "kit": "1.9.0",
+  "libro": "Los archivos",
+  "objetivo_palabras": 381104,
+  "objetivo_tipo": "referencia",
+  "capitulos": 126,
+  "escritos": 5,
+  "palabras": 14220,
+  "metodo_conteo": "palabras",
+  "tolerancia": 0.2,
+  "partes": [
+    {
+      "id": "I",
+      "titulo": "Los que oyeron",
+      "capitulos": 63,
+      "presupuesto": 190552,
+      "escritos": 5,
+      "palabras": 14220
+    },
+    {
+      "id": "II",
+      "titulo": "Los que leyeron",
+      "capitulos": 63,
+      "presupuesto": 190552,
+      "escritos": 0,
+      "palabras": 0
+    }
+  ],
+  "detalle": [
+    {
+      "id": "I.1",
+      "titulo": "Inventario",
+      "escrito": true,
+      "palabras": 2798,
+      "presupuesto": 3025,
+      "desviacion": -0.075,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/01-capitulo.md"
+    },
+    {
+      "id": "I.2",
+      "titulo": "Los otros días",
+      "escrito": true,
+      "palabras": 2727,
+      "presupuesto": 3025,
+      "desviacion": -0.0985,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/02-capitulo.md"
+    },
+    {
+      "id": "I.3",
+      "titulo": "La división",
+      "escrito": true,
+      "palabras": 2920,
+      "presupuesto": 3025,
+      "desviacion": -0.0347,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/03-capitulo.md"
+    },
+    {
+      "id": "I.4",
+      "titulo": "La consola",
+      "escrito": true,
+      "palabras": 2926,
+      "presupuesto": 3025,
+      "desviacion": -0.0327,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/04-capitulo.md"
+    },
+    {
+      "id": "I.5",
+      "titulo": "El registro",
+      "escrito": true,
+      "palabras": 2849,
+      "presupuesto": 3025,
+      "desviacion": -0.0582,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/05-capitulo.md"
+    },
+    {
+      "id": "I.6",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/06-capitulo.md"
+    },
+    {
+      "id": "I.7",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/07-capitulo.md"
+    },
+    {
+      "id": "I.8",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/08-capitulo.md"
+    },
+    {
+      "id": "I.9",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/09-capitulo.md"
+    },
+    {
+      "id": "I.10",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/10-capitulo.md"
+    },
+    {
+      "id": "I.11",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/11-capitulo.md"
+    },
+    {
+      "id": "I.12",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/12-capitulo.md"
+    },
+    {
+      "id": "I.13",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/13-capitulo.md"
+    },
+    {
+      "id": "I.14",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/14-capitulo.md"
+    },
+    {
+      "id": "I.15",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/15-capitulo.md"
+    },
+    {
+      "id": "I.16",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/16-capitulo.md"
+    },
+    {
+      "id": "I.17",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/17-capitulo.md"
+    },
+    {
+      "id": "I.18",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/18-capitulo.md"
+    },
+    {
+      "id": "I.19",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/19-capitulo.md"
+    },
+    {
+      "id": "I.20",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/20-capitulo.md"
+    },
+    {
+      "id": "I.21",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/21-capitulo.md"
+    },
+    {
+      "id": "I.22",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/22-capitulo.md"
+    },
+    {
+      "id": "I.23",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/23-capitulo.md"
+    },
+    {
+      "id": "I.24",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/24-capitulo.md"
+    },
+    {
+      "id": "I.25",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/25-capitulo.md"
+    },
+    {
+      "id": "I.26",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/26-capitulo.md"
+    },
+    {
+      "id": "I.27",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/27-capitulo.md"
+    },
+    {
+      "id": "I.28",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/28-capitulo.md"
+    },
+    {
+      "id": "I.29",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/29-capitulo.md"
+    },
+    {
+      "id": "I.30",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/30-capitulo.md"
+    },
+    {
+      "id": "I.31",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/31-capitulo.md"
+    },
+    {
+      "id": "I.32",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/32-capitulo.md"
+    },
+    {
+      "id": "I.33",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/33-capitulo.md"
+    },
+    {
+      "id": "I.34",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/34-capitulo.md"
+    },
+    {
+      "id": "I.35",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/35-capitulo.md"
+    },
+    {
+      "id": "I.36",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/36-capitulo.md"
+    },
+    {
+      "id": "I.37",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/37-capitulo.md"
+    },
+    {
+      "id": "I.38",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/38-capitulo.md"
+    },
+    {
+      "id": "I.39",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/39-capitulo.md"
+    },
+    {
+      "id": "I.40",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/40-capitulo.md"
+    },
+    {
+      "id": "I.41",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/41-capitulo.md"
+    },
+    {
+      "id": "I.42",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/42-capitulo.md"
+    },
+    {
+      "id": "I.43",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/43-capitulo.md"
+    },
+    {
+      "id": "I.44",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/44-capitulo.md"
+    },
+    {
+      "id": "I.45",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/45-capitulo.md"
+    },
+    {
+      "id": "I.46",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/46-capitulo.md"
+    },
+    {
+      "id": "I.47",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/47-capitulo.md"
+    },
+    {
+      "id": "I.48",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/48-capitulo.md"
+    },
+    {
+      "id": "I.49",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/49-capitulo.md"
+    },
+    {
+      "id": "I.50",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/50-capitulo.md"
+    },
+    {
+      "id": "I.51",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/51-capitulo.md"
+    },
+    {
+      "id": "I.52",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/52-capitulo.md"
+    },
+    {
+      "id": "I.53",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/53-capitulo.md"
+    },
+    {
+      "id": "I.54",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/54-capitulo.md"
+    },
+    {
+      "id": "I.55",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/55-capitulo.md"
+    },
+    {
+      "id": "I.56",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/56-capitulo.md"
+    },
+    {
+      "id": "I.57",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/57-capitulo.md"
+    },
+    {
+      "id": "I.58",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/58-capitulo.md"
+    },
+    {
+      "id": "I.59",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/59-capitulo.md"
+    },
+    {
+      "id": "I.60",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/60-capitulo.md"
+    },
+    {
+      "id": "I.61",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/61-capitulo.md"
+    },
+    {
+      "id": "I.62",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/62-capitulo.md"
+    },
+    {
+      "id": "I.63",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/01-parte-I/63-capitulo.md"
+    },
+    {
+      "id": "II.1",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/01-capitulo.md"
+    },
+    {
+      "id": "II.2",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/02-capitulo.md"
+    },
+    {
+      "id": "II.3",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/03-capitulo.md"
+    },
+    {
+      "id": "II.4",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/04-capitulo.md"
+    },
+    {
+      "id": "II.5",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/05-capitulo.md"
+    },
+    {
+      "id": "II.6",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/06-capitulo.md"
+    },
+    {
+      "id": "II.7",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/07-capitulo.md"
+    },
+    {
+      "id": "II.8",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/08-capitulo.md"
+    },
+    {
+      "id": "II.9",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/09-capitulo.md"
+    },
+    {
+      "id": "II.10",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/10-capitulo.md"
+    },
+    {
+      "id": "II.11",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/11-capitulo.md"
+    },
+    {
+      "id": "II.12",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/12-capitulo.md"
+    },
+    {
+      "id": "II.13",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/13-capitulo.md"
+    },
+    {
+      "id": "II.14",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/14-capitulo.md"
+    },
+    {
+      "id": "II.15",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/15-capitulo.md"
+    },
+    {
+      "id": "II.16",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/16-capitulo.md"
+    },
+    {
+      "id": "II.17",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/17-capitulo.md"
+    },
+    {
+      "id": "II.18",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/18-capitulo.md"
+    },
+    {
+      "id": "II.19",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/19-capitulo.md"
+    },
+    {
+      "id": "II.20",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/20-capitulo.md"
+    },
+    {
+      "id": "II.21",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/21-capitulo.md"
+    },
+    {
+      "id": "II.22",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/22-capitulo.md"
+    },
+    {
+      "id": "II.23",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/23-capitulo.md"
+    },
+    {
+      "id": "II.24",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/24-capitulo.md"
+    },
+    {
+      "id": "II.25",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/25-capitulo.md"
+    },
+    {
+      "id": "II.26",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/26-capitulo.md"
+    },
+    {
+      "id": "II.27",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/27-capitulo.md"
+    },
+    {
+      "id": "II.28",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/28-capitulo.md"
+    },
+    {
+      "id": "II.29",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/29-capitulo.md"
+    },
+    {
+      "id": "II.30",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/30-capitulo.md"
+    },
+    {
+      "id": "II.31",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/31-capitulo.md"
+    },
+    {
+      "id": "II.32",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/32-capitulo.md"
+    },
+    {
+      "id": "II.33",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/33-capitulo.md"
+    },
+    {
+      "id": "II.34",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/34-capitulo.md"
+    },
+    {
+      "id": "II.35",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/35-capitulo.md"
+    },
+    {
+      "id": "II.36",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/36-capitulo.md"
+    },
+    {
+      "id": "II.37",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/37-capitulo.md"
+    },
+    {
+      "id": "II.38",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/38-capitulo.md"
+    },
+    {
+      "id": "II.39",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/39-capitulo.md"
+    },
+    {
+      "id": "II.40",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3025,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/40-capitulo.md"
+    },
+    {
+      "id": "II.41",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/41-capitulo.md"
+    },
+    {
+      "id": "II.42",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/42-capitulo.md"
+    },
+    {
+      "id": "II.43",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/43-capitulo.md"
+    },
+    {
+      "id": "II.44",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/44-capitulo.md"
+    },
+    {
+      "id": "II.45",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/45-capitulo.md"
+    },
+    {
+      "id": "II.46",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/46-capitulo.md"
+    },
+    {
+      "id": "II.47",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/47-capitulo.md"
+    },
+    {
+      "id": "II.48",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/48-capitulo.md"
+    },
+    {
+      "id": "II.49",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/49-capitulo.md"
+    },
+    {
+      "id": "II.50",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/50-capitulo.md"
+    },
+    {
+      "id": "II.51",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/51-capitulo.md"
+    },
+    {
+      "id": "II.52",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/52-capitulo.md"
+    },
+    {
+      "id": "II.53",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/53-capitulo.md"
+    },
+    {
+      "id": "II.54",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/54-capitulo.md"
+    },
+    {
+      "id": "II.55",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/55-capitulo.md"
+    },
+    {
+      "id": "II.56",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/56-capitulo.md"
+    },
+    {
+      "id": "II.57",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/57-capitulo.md"
+    },
+    {
+      "id": "II.58",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/58-capitulo.md"
+    },
+    {
+      "id": "II.59",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/59-capitulo.md"
+    },
+    {
+      "id": "II.60",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/60-capitulo.md"
+    },
+    {
+      "id": "II.61",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/61-capitulo.md"
+    },
+    {
+      "id": "II.62",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/62-capitulo.md"
+    },
+    {
+      "id": "II.63",
+      "titulo": "",
+      "escrito": false,
+      "palabras": 0,
+      "presupuesto": 3024,
+      "desviacion": -1.0,
+      "fuera_de_tolerancia": false,
+      "fichero": "MANUSCRITO/02-parte-II/63-capitulo.md"
+    }
+  ],
+  "tareas_abiertas": [
+    "Escribir I.5, «El registro» (pendiente de orden del autor).",
+    "Revisar el efecto antes de escalar al total.",
+    "Títulos definitivos de las partes y de los capítulos (los de trabajo son «Los que oyeron» y",
+    "Deuda material con la naturaleza (E-02 §10.1).",
+    "Mecanismo del alivio en C-8/C-9 (E-03 §9).",
+    "Tono de S-03 (propuesta, no decisión)."
+  ]
+}
