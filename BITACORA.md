@@ -634,9 +634,11 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   `APUNTES.md` (§0, §0 septies y §3), `README.md`, `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` y
   `estado.json`. **Ningún capítulo aprobado se ha tocado.**
 - **Copia al USB hecha** (`/mnt/usb`, exFAT, montado con `sudo mount`): `nk respaldo` genera
-  **`los-archivos-2026-11-01-v41.bundle`** (73 commits, `git bundle verify` correcto),
+  **`los-archivos-2026-11-01-v41.bundle`** (74 commits, `git bundle verify` correcto),
   **`...-v41-materiales.tar.gz`** (27 ficheros de `MATERIALES/`) y **`...-v41.sha256`**
   (`sha256sum -c`: los dos OK). El clon `los-archivos-repo/` se actualiza a `origin/main` (estaba
   en la rama divergida `local-v33`; el contenido se comprueba con `nk verificar` y `nk contar`).
   Se conserva el bundle v38 y los .7z anteriores.
-- **Sesión abierta:** siguiente, revisar I.6 y, si se aprueba, escribir I.7 «Las cuentas».
+- **Sesión cerrada (v41).** Commits `df9b8c7` (I.6) y `6fb4c4e` (copia al USB), subidos a
+  `origin/main`. **I.6 pendiente de aprobación.** Siguiente: su lectura y, si se aprueba, **I.7
+  «Las cuentas»**.
