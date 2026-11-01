@@ -591,3 +591,20 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
 - **Sesión cerrada (v39).** Commits `9e1e160` (I.5) y `a14b159` (registro de decisiones 54-56) y
   subida a `origin/main`. **Copia al USB no hecha:** no hay medio montado (`/mnt/usb` y
   `/media/usb` vacíos). Siguiente: **revisión de I.5** y, si se aprueba, **I.6 «Los de fuera»**.
+
+## v40 — 2026-11-01
+
+- **Revisión de I.5 con el autor (decisión 57).** Lectura conjunta y cuatro cambios aplicados en el
+  acto: las tres respuestas del §3 pasan a ser las **canónicas de la hoja** («No», «No, y no por
+  piedad», «Yo también lo propuse una vez»), la etiqueta de la caja 1 dice **«HASTA LA 16»** y el
+  log del §5 carga `acta-162.md`, para que la consola numere por su cuenta. Quedan confirmadas como
+  **deliberadas** la tensión entre el rojo y la primera regla, el eco de la pregunta por la que se
+  fue y la prolepsis de «la letra de un niño».
+- **Consecuencia anotada:** conviven **dos series de numeración** —el papel empieza en 1 el 3-X y la
+  consola cuenta sus sesiones desde antes (`--sesion 118` en marzo, `acta-131.md`, `acta-142.md`)—.
+  Ningún capítulo aprobado se ha tocado.
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos. `nk contar --actualizar`: **2.818
+  palabras** en I.5 (−6,8 %), **14.189** en total, 5/126 capítulos. Actualizados `APUNTES.md` (§0 y
+  §3), `ESTRUCTURA.md` y `estado.json`.
+- **Sesión cerrada (v40).** I.5 **sigue pendiente de aprobación**. Siguiente: su lectura y, si se
+  aprueba, **I.6 «Los de fuera»**. Copia al USB no hecha: no hay medio montado.

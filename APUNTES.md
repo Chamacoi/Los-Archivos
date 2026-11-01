@@ -4,15 +4,20 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-11-01 (**v39, cerrada**). Decisiones **54** (once personas y **nueve
+- **Última sesión:** 2026-11-01 (**v40, cerrada**). **Revisión de I.5 con el autor aplicada**
+  (decisión 57): las tres respuestas del §3 son las canónicas de la hoja, la etiqueta de la caja 1
+  dice «HASTA LA 16» y el log de la consola usa su propia numeración; la tensión del rojo, el eco de
+  la pregunta y la prolepsis de «la letra de un niño» quedan como **deliberadas**. 2.818 palabras
+  (−6,8 %). **I.5 sigue pendiente de aprobación.** Siguiente: su lectura y, si se aprueba, **I.6 «Los
+  de fuera»**. Ningún capítulo aprobado se ha tocado.
+- **Sesión anterior:** 2026-11-01 (**v39, cerrada**). Decisiones **54** (once personas y **nueve
   presentes**; la reducción a una persona por cohorte, descartada), **55** (el archivo no tiene
   voz, pero su contenido se cita literal) y **56**: **I.5 «El registro» escrito** — **2.809
   palabras** (−7,1 % sobre 3.025), 5 secciones, 5,5 % de palabras en documentos citados,
   `nk verificar --rubrica` con 0 errores y 0 avisos, **pendiente de revisión del autor**. Total:
   **5/126 capítulos, 14.180 palabras**, en `origin/main`. Dossier del capítulo en §0 sexies.
-  **Revisado con el autor el 2026-11-01 (decisión 57):** las tres respuestas del §3 son las
-  canónicas de la hoja, `HASTA LA 16`, el log de la consola usa su propia numeración; 2.818
-  palabras (−6,8 %). **Sigue pendiente de aprobación.**
+  **Revisión posterior (v40, decisión 57):** 2.818 palabras (−6,8 %); total **14.189**. **Sigue
+  pendiente de aprobación.**
 - **Sesión anterior:** 2026-10-30 (**v38**). Proyecto **abierto**, **publicado** en
   `github.com/Chamacoi/Los-Archivos` (público, rama `main`, remoto `origin` por SSH) y **en
   edición en curso** (decisión 46): el repositorio se publica entero, con `MANUSCRITO/` dentro.
