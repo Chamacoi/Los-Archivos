@@ -11,6 +11,11 @@ sostenida entre personas y modelos.
   palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras), e **I.7 «Las cuentas»
   escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total), **pendiente de revisión del
   autor**. Siguiente tras la revisión: **I.8 «El año que no se escribió»**, que cierra el bloque.
+- **Fuente nueva (v43, decisión 64):** el blog `unclubesmasqueunclub.blogspot.com` entra como
+  **fuente aleatoria de argumentos** para encaminar la narrativa según crezca la obra. Registrado
+  como **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni
+  correos, sin fechas en el mundo del libro, autoría interna por capítulo y **nunca nombrado en el
+  texto**. Estudio **E-04** sin escribir.
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
 - **Soporte:** texto plano versionado en esta Raspberry, kit `escritura/` y exportación a EPUB;
@@ -277,6 +282,7 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       3.055 palabras, 5 secciones, 7,7 % de citas, 0 errores y 0 avisos (decisión 63;
       **pendiente de revisión del autor**).
 - [ ] Revisar I.7 y, si se aprueba, escribir I.8, «El año que no se escribió».
+- [ ] Escribir E-04 (estudio del blog) cuando se prepare el dossier de I.8: reparto de argumentos en S-04 §6.3 y asignación de cada ocurrencia en el capítulo.
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).

@@ -18,6 +18,7 @@ escribirse. No es texto de la obra y no se copia a `MANUSCRITO/`. Estado: **abie
 | S-01 | La primera criptomoneda (2008) | 2026-10-25 | contestada; estudio **E-01** escrito |
 | S-02 | La pandemia y la autolisis de El Servidor (2020) | 2026-10-26 | contestada (2026-10-27); **C-8 fijado**; estudio **E-02** escrito |
 | S-03 | La propagación de la naturaleza en el espacio (2019) | 2026-10-27 | contestada (2026-10-27); **C-9 fijado**; estudio **E-03** escrito |
+| S-04 | El blog *UnClubEsMasQueUnClub*, fuente de argumentos | 2026-11-02 | contestada (2026-11-02); fuente **F-35**; estudio **E-04** sin escribir |
 
 ## Reglas de la carpeta
 

@@ -682,3 +682,38 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
 - **Sesión cerrada (v42).** Commits `214e9b8` (I.6 aprobado y dossier de I.7), `5d80bf1` (I.7) y
   `291cae5` (arreglo de redacción y recuento), en `origin/main`. **El autor no ha leído I.7
   todavía.** Siguiente: su lectura y, si se aprueba, **I.8 «El año que no se escribió»**, sin dossier.
+
+## v43 — 2026-11-02 (cerrada)
+
+- **Fuente nueva aportada por el autor:** el blog `unclubesmasqueunclub.blogspot.com`, como **fuente
+  de argumentos** para encaminar la narrativa según crezca la obra. Registrada como **F-35** (nivel
+  tercero), con la orden expresa de **no usar perfil ni correos**: la autoría se cita por el nombre
+  del blog. Corpus capturado en `MATERIALES/2026-11-02-blog-unclubesmasqueunclub.md`: **15 entradas,
+  4.890 palabras**, del 24 de marzo al 30 de octubre de 2026. Decisión **64**.
+- **Sinopsis S-04 abierta y sin contestar** (`SINOPSIS/S-04-blog-unclubesmasqueunclub.md`): qué es la
+  fuente, inventario de las 15 entradas con su materia, las cinco preguntas fijas sin contestar y
+  siete tensiones con el canon. **No hay estudio E-04 y no hay capítulo.**
+- **Ningún capítulo del manuscrito se ha tocado** (I.1-I.6 aprobados, I.7 pendiente de revisión).
+  Pendiente: las respuestas del autor a S-04 §4, con la tensión §5.3 primero —el blog es del autor y
+  una de sus entradas enlaza a `github.com/Chamacoi/Los-Archivos`—, y la revisión de I.7.
+
+**Respuestas del autor (mismo día, decisión 65).** (1) La autorreferencia **se perdona**: el punto en
+que el blog cita el libro se pasa por alto. (2) El blog entra como **fuente aleatoria de argumentos**,
+no por entradas elegidas. (3) Las entradas **no se fechan** en el mundo del libro y se unen a la trama
+por otra vía. Con eso quedan cerradas cuatro de las cinco preguntas y la tensión más urgente; abiertas
+solo dos precisiones (autoría interna de cada ocurrencia y si el blog se cita alguna vez), más el
+reparto propuesto de argumentos por bloque en S-04 §6.3. **E-04 sin escribir; manuscrito intacto.**
+
+**Las dos precisiones, cerradas (decisión 66).** (1) **Autoría interna sin regla única:** la materia
+puede pasar por todos y también siempre por El Servidor; se decide capítulo a capítulo. (2) **El blog
+no se nombra nunca:** ni como blog, ni por su nombre, ni por su URL, sin cita, sin título y sin fecha;
+es solo fuente para la escritura. Consecuencia anotada: **F-35 no puede sostener ningún hecho** (sin
+documento citable); su materia entra como verdad de marco absorbida por la trama y toda cifra o fecha
+va con F-24 a F-34. **S-04 queda contestada por completo.**
+
+**Verificado:** `nk verificar --rubrica` → **0 errores, 0 avisos**; `nk estado` → **7/126 capítulos,
+20.513 palabras** (+5,4 % sobre la referencia). Actualizados `APUNTES.md` (§0 y §3), `README.md`,
+`BITACORA.md`, `FUENTES.md` (F-35) y `SINOPSIS/00-indice.md`; `MATERIALES/` con la captura del blog
+(no versionada). **Ningún capítulo del manuscrito se ha tocado** (`git status MANUSCRITO/` vacío).
+Sesión cerrada (v43). Siguiente: revisión de I.7 y, si se aprueba, **I.8**, con E-04 disponible para
+su dossier.

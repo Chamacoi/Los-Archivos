@@ -44,6 +44,7 @@ texto sin estar aquí. Estado: **abierto**.
 | F-32 | F. H. C. Crick y L. E. Orgel, *Directed panspermia*, *Icarus* 19 (1973), pp. 341-346, DOI 10.1016/0019-1035(73)90110-3 | hipótesis de la siembra deliberada de vida en el espacio; distinta de la panspermia natural | **revisión por pares** | 2026-10-27 |
 | F-33 | *Panel on Planetary Protection*, COSPAR (copia en `MATERIALES/2026-10-27-cospar-planetary-protection.html`) | política de protección planetaria; marco institucional del debate sobre contaminación lunar | **institucional (COSPAR)** | 2026-10-27 |
 | F-34 | *¿Están los tardígrados colonizando la Luna?*, Laurent Palka (*maître de conférences* del Muséum national d'histoire naturelle), *The Conversation*, 4 mar 2024 (copia en `MATERIALES/2026-10-27-theconversation-tardigrados-luna.html`) | artículo original de F-23; supervivencia al impacto, criptobiosis, imposibilidad de colonización y ética de la contaminación | divulgación académica | 2026-10-27 |
+| F-35 | Blog *UnClubEsMasQueUnClub*, `unclubesmasqueunclub.blogspot.com`, 15 entradas del 24 mar al 30 oct 2026 (copia en `MATERIALES/2026-11-02-blog-unclubesmasqueunclub.md`) | argumentos y ocurrencias de taller: agentes de IA y redes solo para máquinas, registro del agente, recuperación por *system prompt*, cifrado frente a la indexación, contrato de comunidad, pobreza digital, planos y cuarta coordenada. **No sostiene datos delicados** | **tercer nivel (blog personal; material propio del autor)** | 2026-11-02 |
 
 ## Cierre de fuentes (2026-10-27)
 
@@ -114,6 +115,35 @@ parafrasean y citan datos y conclusiones, y las citas literales son frases breve
 `FUENTES.md`. Los derechos de los artículos y fichas siguen siendo de sus autores; el libro no los
 relicencia. F-23 y F-34 son el mismo artículo: no se usan como corroboración independiente, solo
 como dos localizaciones de la misma pieza.
+
+## F-35 — la fuente de tercer nivel (v43, 2026-11-02)
+
+**Qué es.** Un blog personal en Blogger: 15 entradas, 4.890 palabras, del 24 de marzo al 30 de
+octubre de 2026. Lo aporta el autor como **fuente de argumentos** para encaminar la narración según
+crezca la obra (decisión 64). Ficha completa en `SINOPSIS/S-04-blog-unclubesmasqueunclub.md`.
+
+**Condiciones de uso fijadas.**
+
+1. **Sin perfil y sin correos**, por orden del autor. La autoría se cita por el **nombre del blog**;
+   el nombre del perfil no se usa. En la captura de `MATERIALES/` no consta ninguno de los dos.
+2. **Nivel tercero.** Sirve para orientarse y argumentar; no sostiene una afirmación delicada. Si un
+   capítulo usa sus cifras (pobreza digital, Palantir, Meta, OpenAI), hacen falta fuentes de nivel
+   institucional o primario, como F-24 a F-34.
+3. **Documento, no dato del narrador.** Su contenido entra como verdad de superficie: se cita con
+   título y fecha y se conservan sus faltas; nunca se narra como si fuera el mundo del libro.
+4. **No se reproduce texto íntegro** en el libro: paráfrasis y citas breves con esta fila.
+5. **Autorreferencia: perdonada.** Una de las entradas («Lecturas de mundo abierto», 30 oct 2026)
+   enlaza a `github.com/Chamacoi/Los-Archivos`. Por decisión del autor (decisión 65, 2026-11-02)
+   **se pasa por alto**: no se declara ni se corrige. El blog no se cita por su nombre en el
+   manuscrito; es material de taller invisible, como las sinopsis.
+6. **Uso: fuente aleatoria de argumentos.** No se eligen entradas ni se sigue su orden; el corpus es
+   un repertorio del que cada capítulo toma lo que necesita. Las entradas **no se fechan en el mundo
+   del libro** y no entran como documentos citados con verdad de superficie: se absorben como materia
+   de la trama.
+7. **Nunca nombrada en el texto** (decisión 66). Ni como blog, ni por su nombre, ni por su URL; sin
+   cita, sin título y sin fecha de entrada. **Es solo una fuente para la escritura.** Consecuencia: no
+   hay documento citable y esta fuente **no puede sostener un hecho**; alimenta ocurrencias y
+   argumentos. Toda cifra o fecha que use un capítulo va con F-24 a F-34.
 
 **Conclusión.** No quedan atribuciones incorrectas conocidas en F-24 a F-34. Las fuentes de nivel
 institucional, primario o con revisión por pares siguen sosteniendo los datos delicados; F-23/F-34
