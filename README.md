@@ -8,8 +8,9 @@ sostenida entre personas y modelos.
   C-1 a C-10 completo; I.1, I.2 e I.3 escritos, aprobados y publicados (2.798 + 2.727 + 2.920
   palabras con el método limpio; 3/126 capítulos, 8.445), e **I.4 «La consola» escrito, aprobado y
   publicado** (2.926 palabras), e **I.5 «El registro» escrito, revisado y aprobado** (2.818
-  palabras), e **I.6 «Los de fuera» escrito** (3.269 palabras; 6/126 capítulos, **17.458** en
-  total), **pendiente de revisión del autor**. Siguiente tras la revisión: **I.7 «Las cuentas»**.
+  palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras; 6/126 capítulos, **17.458**
+  en total). **Dossier de I.7 «Las cuentas» preparado** (`APUNTES.md` §0 octies), detenido hasta que
+  el autor conteste las cinco decisiones previas.
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
 - **Soporte:** texto plano versionado en esta Raspberry, kit `escritura/` y exportación a EPUB;
@@ -270,9 +271,9 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       `origin/main` (2026-10-30, decisiones 52 y 53).
 - [x] Escribir I.5, «El registro»: 2.818 palabras, 5 secciones, 0 errores y 0 avisos; revisado
       con el autor y **aprobado** (2026-11-01, decisiones 56-58).
-- [x] Escribir I.6, «Los de fuera»: 3.269 palabras, 5 secciones, 0 errores y 0 avisos
-      (2026-11-01, decisión 60; **pendiente de revisión del autor**).
-- [ ] Revisar I.6 y, si se aprueba, escribir I.7, «Las cuentas».
+- [x] Escribir I.6, «Los de fuera»: 3.269 palabras, 5 secciones, 0 errores y 0 avisos;
+      **aprobado** (2026-11-01, decisión 60; 2026-11-02, decisión 61).
+- [ ] Contestar las cinco decisiones previas de I.7 (§0 octies) y escribir I.7, «Las cuentas».
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -283,9 +284,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-01 (v41, cerrada).
-- Siguiente: **revisar I.6 «Los de fuera»** (escrito el 2026-11-01, pendiente de revisión) y, si se
-  aprueba, **I.7 «Las cuentas»**. Punto 1, criterio de selección (punto 3), reparto
+- Última sesión: 2026-11-02 (v42, abierta).
+- Siguiente: **contestar las cinco decisiones de I.7** (aportación, desacuerdo, caldo, papeles de la
+  plaga, fechas: `APUNTES.md` §0 octies) y escribir **I.7 «Las cuentas»**. I.6 aprobado el
+  2026-11-02 (decisión 61). Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.5 aprobados
   (I.1 a I.4 publicados); la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.

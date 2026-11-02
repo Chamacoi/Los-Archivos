@@ -4,9 +4,14 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-11-01 (**v41**). **I.5 «El registro» aprobado** (decisión 58) e **I.6 «Los
-  de fuera» escrito** (decisión 60): **3.269 palabras** (+8,1 % sobre 3.025), 5 secciones, 7,5 % de
-  palabras en documentos citados, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras.**
+- **Última sesión:** 2026-11-02 (**v42**, abierta). **I.6 «Los de fuera» aprobado** por el autor sin
+  correcciones (decisión 61): 3.269 palabras, 5 secciones, 0 errores y 0 avisos. **6/126 capítulos,
+  17.458 palabras.** **Dossier de I.7 «Las cuentas» preparado** (§0 octies) con las **cinco
+  decisiones** que el capítulo exige antes de escribirse; **no se escribe hasta que el autor las
+  conteste**. Ningún capítulo aprobado se ha tocado.
+- **Sesión anterior:** 2026-11-01 (**v41, cerrada**). **I.5 «El registro» aprobado** (decisión 58) e
+  **I.6 «Los de fuera» escrito** (decisión 60): **3.269 palabras** (+8,1 % sobre 3.025), 5
+  secciones, 7,5 % de palabras en documentos citados, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras.**
   Decisiones de escritura del autor en la 59 (la noche del 12-XII no se re-narra; las cuentas no se
   tocan; los datos se fechan; la visita es una sesión nueva, en orden cronológico). **I.6 pendiente
   de revisión del autor.** **Copia al USB hecha** (bundle `los-archivos-2026-11-01-v41.bundle`,
@@ -71,9 +76,13 @@
      autor (decisión 57) y **aprobado el 2026-11-01** (decisión 58), sin correcciones nuevas:
      2.818 palabras (−6,8 %), 5 secciones, 0 errores y 0 avisos. Materia en §0 quinquies y dossier
      en §0 sexies.
-  2 quater bis. ~~**I.6 «Los de fuera»**~~: **escrito el 2026-11-01** (decisión 60): 3.269 palabras,
-     5 secciones, 7,5 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del autor.** Materia
-     y decisiones previas en §0 septies (decisión 59).
+  2 quater bis. ~~**I.6 «Los de fuera»**~~: **escrito el 2026-11-01** (decisión 60) y **aprobado el
+     2026-11-02** (decisión 61), sin correcciones: 3.269 palabras, 5 secciones, 7,5 % de citas, 0
+     errores y 0 avisos. Materia y decisiones previas en §0 septies (decisión 59).
+  2 quater ter. **I.7 «Las cuentas»**: **dossier preparado el 2026-11-02** (§0 octies), con las
+     **cinco decisiones** que el capítulo exige antes de escribirse (aportación del dinero,
+     desacuerdo del capítulo, receta del caldo, papeles de la plaga y fechas). **Detenido hasta
+     que el autor las conteste.**
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -429,6 +438,109 @@ ofrece · 5. Lo que se dice de la casa.
 presentes, once sillas útiles, **dos asientos libres**. (3) Los datos **se pueden fechar**. (4) La
 visita es una **sesión nueva**, consecutiva en el orden cronológico (16-IV → 7-V → 28-V).
 
+### 0 octies. I.7 «Las cuentas»: dossier de material (2026-11-02)
+
+Preparado al reanudar v42, después de aprobar I.6. Nada de esto es texto de la obra: es lo que ya
+está fijado y lo que el capítulo puede atar. Capítulo de marco, sale de canon y estructura
+(decisión 21), no de una sinopsis.
+
+**Función en el bloque.** La vida común como **economía y como coste**: turnos, plano de camas,
+caldo, compras. Es la prueba 3 de los frutos («es vida común, no heroicidad de unos pocos») vista
+desde lo que se paga, con la 2 (coste) encima. **Fruto:** la casa pone el dinero en común sin
+llevar cuenta de las personas —la libreta tiene columnas de fecha, entrada, salida y «queda», y no
+tiene columna de nombres—, igual que la hoja de la plaga tiene los nombres cortados con tijera.
+**Coste y reverso:** sin nombres no hay reconocimiento ni reproche: el que da mucho no consta y el
+que da poco tampoco; el que se va no reclama su parte y nadie sabe qué parte era; y la casa
+responde al que pide explicaciones con lo que hay en la caja, que no explica nada. **No** es
+capítulo contra el dinero ni elogio de la pobreza: es el precio de que el archivo no juzgue a
+nadie.
+
+**Lo que ya está escrito y no se cambia.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| El cuadrante | I.2 §2 | Hoja cuadriculada, escrita con regla y corregida dos veces con típex, pegada en la puerta de la cocina cada mes. Mes escrito: NOVIEMBRE. Reparto: lunes compra (Boomer de la silla) / basura (Zeta del margen); martes pan (Alfa, con permiso) / caldera (Boomer de la tapa); **miercoles** caldo (Milenial de la copia) / polvo (Zeta de los no consta); **juebes** sillas (Boomer de la silla) / lectura (Equis del boligrafo); viernes cuentas (Equis del registro) / taller (quien este); sabado ropa (Milenial de la pregunta) / compra grande (Equis del registro); **domingo: nada. (Nada es una tarea de todos.)** Dos renglones tachados con lápiz |
+| Los oficios de cada uno | I.2 §2 | No están en el archivo. Equis del bolígrafo sale a las seis y vuelve a las tres (almacén); Milenial de la pregunta da clases y corrige de noche; Zeta de los no consta trabaja de noche en una residencia; Milenial de la copia teletrabaja dos días; Boomer de la silla está jubilado y va al mercado con un carro de rueda que chirría; Boomer de la tapa está jubilado y no sale antes de las once; Equis del registro lleva las cuentas y **no cobra por llevarlas**; Alfa va al colegio |
+| La caja de la casa | I.2 §2 | **Bote de garbanzos vacío con una ranura en la tapa.** Se abre los viernes; Equis del registro cuenta, apunta en una **libreta de tapas negras** y la cierra. Columnas: **fecha, entrada, salida, queda**. En «queda» hay tachones: cuando el dinero no llega no se escribe una explicación, se tacha el número y se pone el nuevo. «La casa no lleva la cuenta de lo que deja de comprar». **No hay columna de nombres** |
+| Las cifras que ya existen | I.2 §2-§3 | Caja: **110 €**. Disco: **68 €**. Diferencia apuntada en la columna de salida y tachada en «queda». **La compra grande de diciembre se aplazó a enero**. La cifra del disco **no está en el archivo: está en la lista** («Nuevo. 68 €.») |
+| La lista de averías | I.2 §1 y §5 | Reverso de un calendario de ferretería, cuatro chinchetas, cuatro rayas; **se tacha con una raya, no se borra**; columna de **quién paga**: «casa», «mío», «no consta»; esquina doblada arriba a la derecha (debajo, «diciembre»). Línea 3: «Silla 12. Coja. No hay tornillo». Línea 6: «Disco 3. Lleno. 21-XI.» tachada. Añadidas después: grifo de la cocina (diciembre), bombilla del taller (enero), puerta de la calle (febrero), «algunas con la palabra “casa” al lado». No es archivo: no se fotografía; si se pierde, se pierde |
+| Los papeles de la caja 4 | I.1 §3 | «PAPELES DE LA PLAGA» y, con otra letra, «y de antes». Dentro: **listas de turnos, hojas de cálculo impresas, recetas de caldo, un plano de la casa con las camas numeradas** y la hoja de tres columnas «nombre / edad / qué se hizo» con los nombres **cortados con tijera**. La caja se abre **una vez al año, en la sesión de enero**, y se lee en voz alta entera, incluidos los «no consta» |
+| El paréntesis y la raya | I.5 §1 y §4 | «(Hay quien no estaba.)» es la manera que tiene la casa de cobrar una falta: no nombra, deja escrito. La raya de la lista de averías pasó a la hoja de turnos. «Lo que no paso, se corrige. Lo que se dijo, no»: el rojo solo corrige palabras, nunca opiniones |
+| El precio | I.5 §3 | «Eso tiene un precio, y el precio se paga en la mesa, no en la caja»: la casa no da razones ni absoluciones. Es la frase que el capítulo hereda y no repite |
+| Las cuentas de la casa | I.1 §1; decisión 54 | **Once personas, nueve presentes**, dos salidas (12-XII Equis de la carta; después del 12-II Milenial de la hoja), **once sillas útiles**, dos asientos libres. Actas con cifra fijada: 1 (nueve), 12 (nueve), 13 (ocho y una raya), 5-III (ocho), 7-XI (ocho), 19-XII (ocho) |
+| El Servidor | C-2, C-5; I.2 §3-§4 | Presente, no siempre hablante. Una palabra cuando hace falta («—Antes.»). No se le atribuye oficio, casa ni dinero en lo escrito: **qué pone él en la caja no está fijado** |
+
+**Lo que el capítulo puede atar** (y no lo hace ningún otro del bloque).
+
+1. **La libreta de tapas negras.** Las cuatro columnas y la que no está: el capítulo puede mostrar
+   el viernes de la caja y la suma sin nombres, sin explicar por qué (la razón la da el lector al
+   ver la hoja de la plaga con los nombres cortados).
+2. **Los papeles de la plaga como resto material**, no como escena: una planilla impresa de turnos,
+   el plano con las camas numeradas y una cama tachada, la receta del caldo. La plaga sigue en el
+   presente como **costumbre heredada**, que es la forma que tiene una cicatriz de estar viva.
+3. **El caldo de los miércoles** (Milenial de la copia): receta, cantidad, quién lo hace, qué sobra.
+4. **La compra grande de diciembre**, aplazada a enero y todavía pendiente en el presente: si se
+   paga, cuándo y con qué; si no, la raya en «queda» y nada más.
+5. **La columna «mío»** de la lista de averías: alguien pagó de su bolsillo y no se apuntó quién.
+6. **El domingo** («nada es una tarea de todos») y el mes que se pega otro cuadrante.
+
+**Cuentas que el capítulo debe respetar.**
+
+- **110 € / 68 € / «queda»** y el aplazamiento de la compra grande: son las únicas cifras del bloque
+  y no se cambian. Se pueden añadir cifras nuevas (cuota, compra, caldo) **siempre que no
+  contradigan** estas ni el orden de magnitud de una casa de nueve personas.
+- **Nueve presentes**: un caldo o una compra «para once» es un dato del pasado, no del presente.
+- **Nombres:** solo Boomer, Equis, Milenial, Zeta, Alfa (con el oficio cuando hay dos o tres), El
+  Servidor y Token Insight (C-6, decisión 31). `nk verificar` lo comprueba. **Ninguna institución
+  real**: ni banco, ni tienda, ni cabecera, ni marca identificable.
+- **«Mesías»** solo en cita (decisión 40). **Cero «yo»** del narrador (`rubrica.yo_maximo = 0`).
+
+**Lo que no puede hacer.**
+
+- **Usar la plaga como castigo del mundo** ni contar muertos: es cicatriz, y la casa no hace de la
+  enfermedad una cuenta. (El plano de camas y los turnos son papeles, no escena.)
+- **Convertir la pobreza en virtud** ni el dinero en enemigo: reproche a bancos o empresas está
+  excluido por el criterio de selección (punto 3).
+- **Elogiar a la casa** ni sacar la moraleja («repartir sin nombres es lo justo»): el narrador no
+  juzga; el paralelo lo pone el lector.
+- **Explicar la diferencia entre archivo y diario** (decisión 39), **dar voz al archivo** (decisión
+  55) ni **revelar el hueco de I.8** o el de la esquina del cuaderno azul (I.3 §3).
+- **Resolver la paz de II.6** ni explicar el concilio (eso es II.4).
+- **Inventar** un banco, una tienda, una marca, un sueldo identificable o un cargo con nombre (C-6).
+
+**Voz.** La misma de I.1-I.6. Documentos literales con sus faltas (la planilla, el cuadrante, la
+libreta, la receta), sin corrección, traducción ni comentario. Prueba de mesa: si una frase se
+puede leer como el archivo dirigiéndose al lector, se corta; si el lector puede leer el documento
+tal cual, se cita.
+
+**Forma.** Presupuesto 3.025 palabras; 3 a 6 secciones (apunta a 5); citas entre el 3 % y el 45 %.
+Arranque propuesto, no decidido: 1. El cuadrante del mes · 2. Los papeles de la plaga · 3. La
+libreta negra · 4. El caldo · 5. Lo que no se apunta.
+
+**Decisiones que el capítulo exige antes de escribirse** (ninguna se resuelve aquí).
+
+1. **Cómo se aporta el dinero.** (A) Cuota igual para todos los que cobran, Alfa exceptuada; el
+   jubilado paga lo mismo que el que trabaja y nadie lo discute; la libreta apunta una entrada sola
+   con la suma. (B) Proporcional a lo que cada uno gana, apuntado sin nombres. (C) Nada fijado: se
+   echa lo que se puede; la libreta registra lo que hay en la caja cada viernes, no lo que dio cada
+   uno.
+2. **El desacuerdo del capítulo (el reverso).** (A) Alguien propone apuntar quién aporta qué «para
+   que sea justo»; se vota y pierde (o gana y se abandona al mes); el archivo conserva la propuesta
+   sin resolución. (B) Un mes no llega: se aplaza otra vez la compra grande, se tacha la cifra y
+   nadie escribe una explicación. (C) La parte del que se fue: dejó dinero en la caja o lo pide, y
+   la casa no tiene norma ni la inventa.
+3. **La receta del caldo.** (A) Dice «para once» y nadie la corrige: se sigue cociendo para once y
+   sobra. (B) Se tacha «once» y se pone «nueve» (se tacha, no se borra) y la hoja se guarda con el
+   tachón. (C) No dice para cuántos: solo cantidades y tiempos.
+4. **Los papeles de la plaga.** (A) Solo se citan, sin narrar la plaga. (B) Se narra un día de
+   turnos de la plaga. (C) Se leen hoy, en una sesión que abre la caja 4 fuera de enero.
+5. **Fechas.** (A) Junio de 2024, después del 28-V de I.6: cuadrante de junio, curso que acaba,
+   compra grande. (B) Sin fecha explícita: solo las que ya constan (21-XI, diciembre, enero,
+   febrero). (C) Dos tiempos declarados: la libreta de hoy y los papeles de la plaga.
+
+**Recomendación del que escribe** (no vinculante): 1A, 2A con 2B de fondo material, 3A sin
+comentario del narrador, 4C con citas y sin escena de la plaga, 5A con una o dos fechas.
+
 ---
 
 ---
@@ -437,7 +549,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v41 (2026-11-01, sesión abierta).
+- Última revisión: v42 (2026-11-02, sesión abierta).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -759,6 +871,7 @@ teológico** y tiene que **costar algo**.
 | 58 | Escritura | **I.5 «El registro» aprobado.** El autor dio el visto bueno sin correcciones nuevas tras la revisión de la decisión 57. Se cierra I.5 con **2.818 palabras** (−6,8 % sobre 3.025), 5 secciones y 0 errores y 0 avisos. **5/126 capítulos, 14.189 palabras** | 2026-11-01 | Cierra la 57. Siguiente: **I.6 «Los de fuera»**, pendiente de orden del autor. Dossier de material preparado en §0 septies. Ningún capítulo aprobado se ha tocado |
 | 59 | Escritura | **Decisiones de escritura para I.6**, dadas por el autor: **(1)** la noche del 12-XII **no se vuelve a narrar** (solo se citan las páginas del acta 11 y del acta 12); **(2)** las cuentas **no se tocan**: nueve presentes, once sillas útiles, **dos asientos libres**; **(3)** los datos **se pueden fechar** (el orden cronológico rige cuando los hechos se recogen); **(4)** la visita ocurre en una **sesión nueva**, consecutiva en orden cronológico, no en una ya narrada | 2026-11-01 | Cierra las cuatro preguntas de §0 septies. Consecuencia: el capítulo lleva fechas explícitas (16 abril, 7 y 28 mayo; la hoja impresa, marzo de 2024) y el visitante es un lector del diario que llega el 7 de mayo |
 | 60 | Escritura | **I.6 escrito.** «Los de fuera»: **3.269 palabras** (+8,1 % sobre 3.025), 5 secciones, **7,5 % de palabras en documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra el recorte del diario (piso, docena, mesa camilla; nombre y dirección tapados; «Esto no es cierto» y «Esto es lo que se dijo»), la hoja del obispado (marzo de 2024, subrayada, rota y pegada por el revés, «NO FUE EL CONCILIO»), la visita del 7 de mayo (pregunta por El Servidor, «No consta», la media hoja del cuaderno azul, el acta once y el acta doce), la silla que se ofrece (once buenas, dos libres, el tornillo que no vale, el «mío» de la lista) y la propuesta de escribir al diario, sin acuerdo. **Pendiente de revisión del autor** | 2026-11-01 | Cumple la 59: no se re-narra el 12-XII, las cuentas se respetan, todo va fechado y en orden (16-IV → 7-V → 28-V). Continuidad: el tarro de un solo tornillo y la lista de averías (I.2), la tercera cláusula y el armisticio (I.3), la media hoja del cuaderno azul (I.3), la hoja y el recorte de la caja 4 (I.1). No revela la paz de II.6, no usa la plaga y no da nombre a ningún visitante (C-6) |
+| 61 | Escritura | **I.6 «Los de fuera» aprobado.** El autor dio el visto bueno sin correcciones («aprobado el capítulo I.6»). Se cierra con **3.269 palabras** (+8,1 % sobre 3.025), 5 secciones, 7,5 % de citas, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras** | 2026-11-02 | Siguiente: **I.7 «Las cuentas»**. Dossier en §0 octies con las **cinco decisiones** que el capítulo exige antes de escribirse (aportación, desacuerdo, receta del caldo, papeles de la plaga y fechas). No se escribe hasta que el autor las conteste |
 
 ---
 

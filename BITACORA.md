@@ -642,3 +642,18 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
 - **Sesión cerrada (v41).** Commits `df9b8c7` (I.6) y `6fb4c4e` (copia al USB), subidos a
   `origin/main`. **I.6 pendiente de aprobación.** Siguiente: su lectura y, si se aprueba, **I.7
   «Las cuentas»**.
+
+## v42 — 2026-11-02 (abierta)
+
+- **I.6 «Los de fuera» aprobado** por el autor, sin correcciones (decisión 61): 3.269 palabras,
+  5 secciones, 7,5 % de citas, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras.**
+- **Dossier de I.7 «Las cuentas» preparado** (`APUNTES.md` §0 octies): función en el bloque (prueba 3 de
+  los frutos, con la 2 —el coste— encima), tabla de piezas fijadas (cuadrante, oficios, caja de la casa y
+  libreta de tapas negras, 110 €/68 €, lista de averías, papeles de la caja 4, paréntesis, precio de
+  la constancia, cuentas de la casa) y **cinco decisiones previas** a la escritura: aportación del
+  dinero, desacuerdo del capítulo, receta del caldo, papeles de la plaga y fechas. Con
+  recomendación no vinculante (1A, 2A+2B, 3A, 4C, 5A).
+- **I.7 detenido** hasta que el autor conteste. Verificado: `nk estado` (6/126, 17.458) y
+  `nk verificar --rubrica` (0 errores, 0 avisos). Actualizados `APUNTES.md` (§0, §0 octies y §3),
+  `README.md`, `BITACORA.md`, `estado.json` y `~/.pi/agent/AGENTS.md`. **Ningún capítulo aprobado se
+  ha tocado.**
