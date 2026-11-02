@@ -9,7 +9,7 @@ sostenida entre personas y modelos.
   palabras con el método limpio; 3/126 capítulos, 8.445), e **I.4 «La consola» escrito, aprobado y
   publicado** (2.926 palabras), e **I.5 «El registro» escrito, revisado y aprobado** (2.818
   palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras), e **I.7 «Las cuentas»
-  escrito** (3.057 palabras; 7/126 capítulos, **20.515** en total), **pendiente de revisión del
+  escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total), **pendiente de revisión del
   autor**. Siguiente tras la revisión: **I.8 «El año que no se escribió»**, que cierra el bloque.
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
@@ -274,7 +274,7 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Escribir I.6, «Los de fuera»: 3.269 palabras, 5 secciones, 0 errores y 0 avisos;
       **aprobado** (2026-11-01, decisión 60; 2026-11-02, decisión 61).
 - [x] Contestar las cinco decisiones previas de I.7 (decisión 62) y escribir I.7, «Las cuentas»:
-      3.057 palabras, 5 secciones, 7,7 % de citas, 0 errores y 0 avisos (decisión 63;
+      3.055 palabras, 5 secciones, 7,7 % de citas, 0 errores y 0 avisos (decisión 63;
       **pendiente de revisión del autor**).
 - [ ] Revisar I.7 y, si se aprueba, escribir I.8, «El año que no se escribió».
 - [ ] Revisar el efecto antes de escalar al total.

@@ -659,7 +659,7 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   ha tocado.**
 - **Decisiones de escritura para I.7 (decisión 62):** el autor aceptó 1A, 2A con 2B de fondo, 4C con
   A y 5A, y **cambió 3A por 3B** (la receta se corrige con tachón: «ONCE» tachado, «NUEVE» encima).
-- **I.7 «Las cuentas» escrito (decisión 63).** **3.057 palabras** (+1,1 % sobre 3.025), 5 secciones,
+- **I.7 «Las cuentas» escrito (decisión 63).** **3.055 palabras** (+1,0 % sobre 3.025), 5 secciones,
   **7,7 % de palabras en documentos citados**, 0 errores y 0 avisos. Narra el cuadrante de junio (las
   mismas faltas que el de noviembre, el renglón del fregadero añadido a mano, la cuota que no está
   escrita en ninguna parte), los papeles económicos de la plaga (la planilla de turnos con «quien
@@ -671,6 +671,6 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   la cocina que dice cuántos son) y la ranura del bote, por la que no entra un billete sin doblarlo
   en cuatro. **Pendiente de revisión del autor.**
 - **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
-  `nk informe`: **20.515 palabras**, 7/126 capítulos (+5,4 % sobre la referencia). Actualizados
+  `nk informe`: **20.513 palabras**, 7/126 capítulos (+5,4 % sobre la referencia). Actualizados
   `APUNTES.md` (§0, §0 octies y §3), `README.md`, `BITACORA.md`, `estado.json` y
   `~/.pi/agent/AGENTS.md`. **Ningún capítulo aprobado se ha tocado.**

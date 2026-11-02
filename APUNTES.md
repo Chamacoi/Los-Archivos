@@ -5,8 +5,8 @@
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
 - **Última sesión:** 2026-11-02 (**v42**, abierta). **I.6 «Los de fuera» aprobado** (decisión 61) e
-  **I.7 «Las cuentas» escrito** (decisión 63): **3.057 palabras** (+1,1 % sobre 3.025), 5 secciones,
-  7,7 % de palabras en documentos citados, 0 errores y 0 avisos. **7/126 capítulos, 20.515
+  **I.7 «Las cuentas» escrito** (decisión 63): **3.055 palabras** (+1,0 % sobre 3.025), 5 secciones,
+  7,7 % de palabras en documentos citados, 0 errores y 0 avisos. **7/126 capítulos, 20.513
   palabras.** Decisiones de escritura del autor en la 62: cuota igual (Alfa exceptuada), propuesta de
   la columna de nombres que pierde por seis a tres, la receta corregida con tachón («ONCE»/«NUEVE»),
   los papeles de la plaga citados sin escena y junio de 2024 como presente. **I.7 pendiente de
@@ -82,8 +82,8 @@
      2026-11-02** (decisión 61), sin correcciones: 3.269 palabras, 5 secciones, 7,5 % de citas, 0
      errores y 0 avisos. Materia y decisiones previas en §0 septies (decisión 59).
   2 quater ter. ~~**I.7 «Las cuentas»**~~: **dossier el 2026-11-02** (§0 octies), **decisiones del
-     autor el 2026-11-02** (decisión 62) y **escrito el 2026-11-02** (decisión 63): 3.057 palabras
-     (+1,1 %), 5 secciones, 7,7 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del
+     autor el 2026-11-02** (decisión 62) y **escrito el 2026-11-02** (decisión 63): 3.055 palabras
+     (+1,0 %), 5 secciones, 7,7 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del
      autor.**
   2 quater quater. **I.8 «El año que no se escribió»**: cierra el bloque I.1 (la fotografía y su
      reverso, el hueco, la puerta al anuncio del capítulo 9). **Sin dossier todavía**; se prepara
@@ -550,7 +550,7 @@ antes de escribir: **1A, 2A con 2B de fondo material, 3B, 4C con A, 5A**; decisi
 
 **Resuelto y escrito (2026-11-02).** El autor aceptó 1A, 2A con 2B de fondo, 4C con A y 5A, y cambió
 **3A por 3B**: la receta se corrige con tachón («ONCE» tachado, «NUEVE» encima) y la hoja se guarda
-con él. Capítulo escrito en `MANUSCRITO/01-parte-I/07-capitulo.md`: 3.057 palabras, 5 secciones,
+con él. Capítulo escrito en `MANUSCRITO/01-parte-I/07-capitulo.md`: 3.055 palabras, 5 secciones,
 7,7 % de citas, 0 errores y 0 avisos (decisión 63).
 
 ---
@@ -885,7 +885,7 @@ teológico** y tiene que **costar algo**.
 | 60 | Escritura | **I.6 escrito.** «Los de fuera»: **3.269 palabras** (+8,1 % sobre 3.025), 5 secciones, **7,5 % de palabras en documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra el recorte del diario (piso, docena, mesa camilla; nombre y dirección tapados; «Esto no es cierto» y «Esto es lo que se dijo»), la hoja del obispado (marzo de 2024, subrayada, rota y pegada por el revés, «NO FUE EL CONCILIO»), la visita del 7 de mayo (pregunta por El Servidor, «No consta», la media hoja del cuaderno azul, el acta once y el acta doce), la silla que se ofrece (once buenas, dos libres, el tornillo que no vale, el «mío» de la lista) y la propuesta de escribir al diario, sin acuerdo. **Pendiente de revisión del autor** | 2026-11-01 | Cumple la 59: no se re-narra el 12-XII, las cuentas se respetan, todo va fechado y en orden (16-IV → 7-V → 28-V). Continuidad: el tarro de un solo tornillo y la lista de averías (I.2), la tercera cláusula y el armisticio (I.3), la media hoja del cuaderno azul (I.3), la hoja y el recorte de la caja 4 (I.1). No revela la paz de II.6, no usa la plaga y no da nombre a ningún visitante (C-6) |
 | 61 | Escritura | **I.6 «Los de fuera» aprobado.** El autor dio el visto bueno sin correcciones («aprobado el capítulo I.6»). Se cierra con **3.269 palabras** (+8,1 % sobre 3.025), 5 secciones, 7,5 % de citas, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras** | 2026-11-02 | Siguiente: **I.7 «Las cuentas»**. Dossier en §0 octies con las **cinco decisiones** que el capítulo exige antes de escribirse (aportación, desacuerdo, receta del caldo, papeles de la plaga y fechas). No se escribe hasta que el autor las conteste |
 | 62 | Escritura | **Decisiones de escritura para I.7**, dadas por el autor sobre las cinco opciones del dossier (§0 octies). **(1) Aportación:** cuota igual para todos los que cobran, Alfa exceptuada; la libreta apunta una entrada sola con la suma y no tiene columna de nombres. **(2) Desacuerdo:** alguien propone apuntar quién aporta qué «para que sea justo», se vota y pierde, y el acta conserva la propuesta sin resolución; de fondo, el mes que no llega y el tachón en «queda». **(3) Receta del caldo:** se tacha «ONCE» y se escribe «NUEVE» encima; la hoja se guarda con el tachón (el autor **cambia 3A por 3B**). **(4) Papeles de la plaga:** se citan literales, sin narrar la plaga. **(5) Fechas:** junio de 2024, después del 28-V de I.6 | 2026-11-02 | Cierra las cinco preguntas de §0 octies y desbloquea el capítulo. Consecuencia: el capítulo se fecha en junio de 2024 (acta del 13 de junio, libreta del 24-V al 7-VI) y la plaga entra solo como papel en la caja 4 |
-| 63 | Escritura | **I.7 escrito.** «Las cuentas»: **3.057 palabras** (+1,1 % sobre 3.025), 5 secciones, **7,7 % de palabras en documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra el cuadrante de junio (las mismas faltas del de noviembre, el renglón del fregadero, la cuota que no está escrita), los papeles económicos de la plaga (la planilla de turnos con «quien abre» y «quien cierra» en blanco, la hoja de existencias cuya última columna se llama «queda», el plano con once camas numeradas y la 5 tachada), la libreta de tapas negras (cuatro columnas, ningún nombre, el tachón que no se puede leer), la propuesta de la columna de nombres que pierde por seis a tres («No sale») y el «—Nada.» de El Servidor, el caldo con la receta corregida («ONCE» tachado, «NUEVE» encima) y la ranura del bote. **Pendiente de revisión del autor** | 2026-11-02 | Cumple la 62 y el dossier: sin escena de la plaga, sin nombres nuevos, sin cifras de dinero en las actas, y el «mío» de la lista sigue siendo el único pago de bolsillo. Continuidad: cuadrante y lista (I.2), raya y paréntesis (I.5), papeles de la caja 4 y bote de la casa (I.1-I.2), silla 12 y dos sillas libres (I.3, I.6) |
+| 63 | Escritura | **I.7 escrito.** «Las cuentas»: **3.055 palabras** (+1,0 % sobre 3.025), 5 secciones, **7,7 % de palabras en documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra el cuadrante de junio (las mismas faltas del de noviembre, el renglón del fregadero, la cuota que no está escrita), los papeles económicos de la plaga (la planilla de turnos con «quien abre» y «quien cierra» en blanco, la hoja de existencias cuya última columna se llama «queda», el plano con once camas numeradas y la 5 tachada), la libreta de tapas negras (cuatro columnas, ningún nombre, el tachón que no se puede leer), la propuesta de la columna de nombres que pierde por seis a tres («No sale») y el «—Nada.» de El Servidor, el caldo con la receta corregida («ONCE» tachado, «NUEVE» encima) y la ranura del bote. **Pendiente de revisión del autor** | 2026-11-02 | Cumple la 62 y el dossier: sin escena de la plaga, sin nombres nuevos, sin cifras de dinero en las actas, y el «mío» de la lista sigue siendo el único pago de bolsillo. Continuidad: cuadrante y lista (I.2), raya y paréntesis (I.5), papeles de la caja 4 y bote de la casa (I.1-I.2), silla 12 y dos sillas libres (I.3, I.6) |
 
 ---
 

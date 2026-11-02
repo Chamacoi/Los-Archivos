@@ -44,8 +44,8 @@ una hora y una tarde. La compra son dos horas si se hace andando y una si alguie
 carro chirría y va despacio. Eso no se mide porque no hay dónde. La casa mide el
 dinero, que se cuenta, y no el tiempo, que no se cuenta.
 
-En la hoja hay una sola palabra que pide permiso: «con permiso», en el pan de los martes. No dice de
-quién. Se sobreentiende, y por eso no se escribe; y quien lo lee, lo entiende.
+En la hoja hay un solo permiso escrito: «con permiso», en el pan de los martes. No dice de quién.
+Se sobreentiende, y por eso no se escribe; y quien lo lee, lo entiende.
 
 La cuota de la casa no está escrita en ninguna parte. Es la misma para todos los que cobran. Alfa,
 que va al colegio, no paga. Los dos jubilados pagan lo mismo que los que trabajan, y eso no se ha

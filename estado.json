@@ -5,7 +5,7 @@
   "objetivo_tipo": "referencia",
   "capitulos": 126,
   "escritos": 7,
-  "palabras": 20515,
+  "palabras": 20513,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -15,7 +15,7 @@
       "capitulos": 63,
       "presupuesto": 190552,
       "escritos": 7,
-      "palabras": 20515
+      "palabras": 20513
     },
     {
       "id": "II",
@@ -91,9 +91,9 @@
       "id": "I.7",
       "titulo": "Las cuentas",
       "escrito": true,
-      "palabras": 3057,
+      "palabras": 3055,
       "presupuesto": 3025,
-      "desviacion": 0.0106,
+      "desviacion": 0.0099,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/07-capitulo.md"
     },
