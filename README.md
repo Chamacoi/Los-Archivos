@@ -11,11 +11,12 @@ sostenida entre personas y modelos.
   palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras), e **I.7 «Las cuentas»
   escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total), **pendiente de revisión del
   autor**. Siguiente tras la revisión: **I.8 «El año que no se escribió»**, que cierra el bloque.
-- **Fuente nueva (v43, decisión 64):** el blog `unclubesmasqueunclub.blogspot.com` entra como
-  **fuente aleatoria de argumentos** para encaminar la narrativa según crezca la obra. Registrado
-  como **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni
-  correos, sin fechas en el mundo del libro, autoría interna por capítulo y **nunca nombrado en el
-  texto**. Estudio **E-04** sin escribir.
+- **Fuente nueva (v43-v44, decisiones 64-67):** una fuente de argumentos aportada por el autor entra
+  como **repertorio aleatorio** para encaminar la narrativa según crezca la obra. Registrada como
+  **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni correos,
+  sin fechas en el mundo del libro, autoría interna por capítulo y **nunca nombrada en el texto**, ni
+  su procedencia. Estudio **E-04** sin escribir. La fuente se identifica en `SINOPSIS/S-04`
+  (no versionada).
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
 - **Soporte:** texto plano versionado en esta Raspberry, kit `escritura/` y exportación a EPUB;
@@ -24,7 +25,7 @@ sostenida entre personas y modelos.
 
 ## Mapa del repositorio
 
-84 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
+85 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
 
 ```
 los-archivos/
@@ -35,17 +36,17 @@ los-archivos/
 ├── libro.json         manifiesto: partes, presupuesto, tolerancia, método, verificaciones
 ├── PERSONAS.md        las once personas, nombres de generación, oficios, qué pierde cada una
 ├── GLOSARIO.md        grafías fijas, tecnicismo y ego, fórmulas, régimen de nombres
-├── FUENTES.md         libro mayor de fuentes (F-1 … F-34) con nivel y fecha
+├── FUENTES.md         libro mayor de fuentes (F-1 … F-35) con nivel y fecha
 ├── CRONOLOGIA.md      el tiempo del mundo del libro y su grado de certeza
-├── SINOPSIS/          hechos dictados por el autor, literales (S-01, S-02, S-03)
 ├── ESTUDIOS/          un estudio por sinopsis (E-01, E-02, E-03): el paso previo al capítulo
-├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01..03-capitulo.md (lo escrito)
+├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01..07-capitulo.md (lo escrito)
 ├── escritura/         kit novela-kit 1.9.0 vendorizado: bin/nk, METODO/, PROMPTS/,
 │                      PLANTILLAS/, EJEMPLO/, pruebas/, PROTOCOLO.md, install.sh
 ├── .github/workflows/ CI: recuento y verificación en cada push (verificar.yml)
 ├── .gitattributes     finales de línea normalizados
-├── .gitignore         exportaciones, estado.json, MATERIALES/, dist/
-└── MATERIALES/        material no literario · NO versionado · no publicable
+├── .gitignore         exportaciones, estado.json, MATERIALES/, SINOPSIS/, dist/
+├── MATERIALES/        material no literario · NO versionado · no publicable
+└── SINOPSIS/          hechos dictados y fuentes de argumentos, literales · NO versionado
 ```
 
 ## Interfaz y requisitos
@@ -74,6 +75,11 @@ bundles que se le piden). Ninguna pieza depende de un servicio de terceros.
 **Podrá terminar un manuscrito completo** de 126 capítulos con este canon y esta estructura, sin
 ayuda de nadie: el repo lleva lo necesario y se ha probado clonándolo en limpio.
 
+**Con una excepción, desde la v44:** `SINOPSIS/` **no va en el repositorio** (está ignorada por git,
+como `MATERIALES/`), porque contiene los hechos dictados en bruto. Quien clone el repo no la tendrá:
+tendrá el canon, los estudios, el manuscrito y el método, pero no los dictados. Podrá escribir un
+libro con esta forma, no **este** libro.
+
 **No podrá garantizar que sea este libro.** Tres razones, dichas sin adornos:
 
 1. **`nk` mide forma, no literatura.** Comprueba encabezados, presupuesto, secciones, proporción de
@@ -97,6 +103,7 @@ entonces el siguiente.
 | La obra (texto, canon, apuntes, sinopsis, estudios, registro) | **© 2026 Chamacoi. Todos los derechos reservados.** Sin licencia concedida |
 | El kit de `escritura/` | **MIT** (código) y **CC BY-SA 4.0** (textos) |
 | `MATERIALES/` | No versionado, no publicable |
+| `SINOPSIS/` | No versionado, no publicable: contiene los hechos dictados en bruto |
 
 Detalle y consecuencias en `LICENCIA.md`. En resumen: **falta de licencia no es falta de derechos**;
 la obra se puede leer y no se puede reutilizar. Si algún día se concede una, se anota con fecha.
@@ -136,7 +143,8 @@ el kit instalado. Modos de trabajo desde USB —y sus avisos con fat32/exFAT— 
    sin datos personales: algún día se publican.
 7. **Nada entra en el repositorio que no pueda publicarse.** Lo que contenga datos de terceros,
    transcripciones sin depurar o material dudoso va a `MATERIALES/`, que está ignorado por git
-   (ver C-6 en `APUNTES.md`).
+   (ver C-6 en `APUNTES.md`). Desde la v44, lo mismo vale para `SINOPSIS/`: los hechos dictados en
+   bruto no se publican, y las fuentes de argumentos tampoco.
 8. **La escritura se comprueba, no se recuerda.** Los números salen de `libro.json`; el recuento,
    los encabezados, las frases prohibidas, los datos sensibles y las referencias al canon se
    verifican antes de dar un capítulo por escrito:

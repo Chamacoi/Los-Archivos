@@ -13,6 +13,8 @@ Thumbs.db
 # Material que no debe publicarse (datos de terceros, transcripciones sin depurar)
 privado/
 MATERIALES/
+# Sinopsis: hechos dictados por el autor, literales. Material de trabajo, no publicable
+SINOPSIS/
 __pycache__/
 *.pyc
 

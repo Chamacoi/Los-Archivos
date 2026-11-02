@@ -685,17 +685,17 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
 
 ## v43 — 2026-11-02 (cerrada)
 
-- **Fuente nueva aportada por el autor:** el blog `unclubesmasqueunclub.blogspot.com`, como **fuente
+- **Fuente nueva aportada por el autor:** un cuaderno público suyo, como **fuente
   de argumentos** para encaminar la narrativa según crezca la obra. Registrada como **F-35** (nivel
   tercero), con la orden expresa de **no usar perfil ni correos**: la autoría se cita por el nombre
-  del blog. Corpus capturado en `MATERIALES/2026-11-02-blog-unclubesmasqueunclub.md`: **15 entradas,
+  del cuaderno. Corpus capturado en `MATERIALES/2026-11-02-fuente-de-argumentos.md`: **15 entradas,
   4.890 palabras**, del 24 de marzo al 30 de octubre de 2026. Decisión **64**.
-- **Sinopsis S-04 abierta y sin contestar** (`SINOPSIS/S-04-blog-unclubesmasqueunclub.md`): qué es la
+- **Sinopsis S-04 abierta y sin contestar** (`SINOPSIS/S-04-fuente-de-argumentos.md`): qué es la
   fuente, inventario de las 15 entradas con su materia, las cinco preguntas fijas sin contestar y
   siete tensiones con el canon. **No hay estudio E-04 y no hay capítulo.**
 - **Ningún capítulo del manuscrito se ha tocado** (I.1-I.6 aprobados, I.7 pendiente de revisión).
-  Pendiente: las respuestas del autor a S-04 §4, con la tensión §5.3 primero —el blog es del autor y
-  una de sus entradas enlaza a `github.com/Chamacoi/Los-Archivos`—, y la revisión de I.7.
+  Pendiente: las respuestas del autor a S-04 §4, con la tensión §5.3 primero —la fuente es del autor y
+  una de sus entradas enlaza al repositorio del libro—, y la revisión de I.7.
 
 **Respuestas del autor (mismo día, decisión 65).** (1) La autorreferencia **se perdona**: el punto en
 que el blog cita el libro se pasa por alto. (2) El blog entra como **fuente aleatoria de argumentos**,
@@ -717,3 +717,18 @@ va con F-24 a F-34. **S-04 queda contestada por completo.**
 (no versionada). **Ningún capítulo del manuscrito se ha tocado** (`git status MANUSCRITO/` vacío).
 Sesión cerrada (v43). Siguiente: revisión de I.7 y, si se aprueba, **I.8**, con E-04 disponible para
 su dossier.
+## v44 — 2026-11-02 (cerrada)
+
+- **Regla de escritura para la materia de la fuente (decisión 67):** se argumenta con la **autoría
+  interna sin regla única** —El Servidor o cualquiera de la comunidad— y **nada de datos sobre la
+  procedencia**: ni nombre, ni URL, ni título de entrada, ni fecha, ni «según», ni «consta en». La
+  fuente no existe dentro del texto.
+- **`SINOPSIS/` deja de versionarse:** pasa a `.gitignore`, como `MATERIALES/`. Sale del repositorio
+  público en un commit de borrado del índice; los cinco ficheros siguen en local y en el historial de
+  git. El nombre de la fuente se retira también de los ficheros versionados (`README.md`, `APUNTES.md`,
+  `FUENTES.md`, `BITACORA.md`) y se identifica solo en `SINOPSIS/S-04` y en `MATERIALES/`, ambas fuera
+  del repo. Ficheros de trabajo renombrados a nombre neutro.
+- **Respaldo previo:** bundle `los-archivos-v43-pre-sinopsis.bundle` (`git bundle verify`: historia
+  completa) en `/tmp/respaldo-v43/` y en el USB. **Verificado:** `nk verificar --rubrica` → 0 errores,
+  0 avisos; `nk estado` → 7/126, 20.513 palabras. **Ningún capítulo del manuscrito se ha tocado.**
+  Siguiente: revisión de I.7 y, si se aprueba, I.8, con E-04 disponible para su dossier.

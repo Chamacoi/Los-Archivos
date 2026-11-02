@@ -44,7 +44,7 @@ texto sin estar aquí. Estado: **abierto**.
 | F-32 | F. H. C. Crick y L. E. Orgel, *Directed panspermia*, *Icarus* 19 (1973), pp. 341-346, DOI 10.1016/0019-1035(73)90110-3 | hipótesis de la siembra deliberada de vida en el espacio; distinta de la panspermia natural | **revisión por pares** | 2026-10-27 |
 | F-33 | *Panel on Planetary Protection*, COSPAR (copia en `MATERIALES/2026-10-27-cospar-planetary-protection.html`) | política de protección planetaria; marco institucional del debate sobre contaminación lunar | **institucional (COSPAR)** | 2026-10-27 |
 | F-34 | *¿Están los tardígrados colonizando la Luna?*, Laurent Palka (*maître de conférences* del Muséum national d'histoire naturelle), *The Conversation*, 4 mar 2024 (copia en `MATERIALES/2026-10-27-theconversation-tardigrados-luna.html`) | artículo original de F-23; supervivencia al impacto, criptobiosis, imposibilidad de colonización y ética de la contaminación | divulgación académica | 2026-10-27 |
-| F-35 | Blog *UnClubEsMasQueUnClub*, `unclubesmasqueunclub.blogspot.com`, 15 entradas del 24 mar al 30 oct 2026 (copia en `MATERIALES/2026-11-02-blog-unclubesmasqueunclub.md`) | argumentos y ocurrencias de taller: agentes de IA y redes solo para máquinas, registro del agente, recuperación por *system prompt*, cifrado frente a la indexación, contrato de comunidad, pobreza digital, planos y cuarta coordenada. **No sostiene datos delicados** | **tercer nivel (blog personal; material propio del autor)** | 2026-11-02 |
+| F-35 | Fuente de argumentos aportada por el autor (identificada en `SINOPSIS/S-04`, no versionada), 15 entradas del 24 mar al 30 oct 2026 (copia en `MATERIALES/2026-11-02-fuente-de-argumentos.md`) | argumentos y ocurrencias de taller: agentes de IA y redes solo para máquinas, registro del agente, recuperación por *system prompt*, cifrado frente a la indexación, contrato de comunidad, pobreza digital, planos y cuarta coordenada. **No sostiene datos delicados** | **tercer nivel (blog personal; material propio del autor)** | 2026-11-02 |
 
 ## Cierre de fuentes (2026-10-27)
 
@@ -118,9 +118,9 @@ como dos localizaciones de la misma pieza.
 
 ## F-35 — la fuente de tercer nivel (v43, 2026-11-02)
 
-**Qué es.** Un blog personal en Blogger: 15 entradas, 4.890 palabras, del 24 de marzo al 30 de
+**Qué es.** Una fuente de argumentos del autor, alojada en un cuaderno público en Blogger: 15 entradas, 4.890 palabras, del 24 de marzo al 30 de
 octubre de 2026. Lo aporta el autor como **fuente de argumentos** para encaminar la narración según
-crezca la obra (decisión 64). Ficha completa en `SINOPSIS/S-04-blog-unclubesmasqueunclub.md`.
+crezca la obra (decisión 64). Ficha completa en `SINOPSIS/S-04-fuente-de-argumentos.md`.
 
 **Condiciones de uso fijadas.**
 
@@ -132,18 +132,22 @@ crezca la obra (decisión 64). Ficha completa en `SINOPSIS/S-04-blog-unclubesmas
 3. **Documento, no dato del narrador.** Su contenido entra como verdad de superficie: se cita con
    título y fecha y se conservan sus faltas; nunca se narra como si fuera el mundo del libro.
 4. **No se reproduce texto íntegro** en el libro: paráfrasis y citas breves con esta fila.
-5. **Autorreferencia: perdonada.** Una de las entradas («Lecturas de mundo abierto», 30 oct 2026)
-   enlaza a `github.com/Chamacoi/Los-Archivos`. Por decisión del autor (decisión 65, 2026-11-02)
-   **se pasa por alto**: no se declara ni se corrige. El blog no se cita por su nombre en el
+5. **Autorreferencia: perdonada.** Una de las entradas (30 oct 2026) enlaza al repositorio del
+   libro. Por decisión del autor (decisión 65, 2026-11-02)
+   **se pasa por alto**: no se declara ni se corrige. La fuente no se cita por su nombre en el
    manuscrito; es material de taller invisible, como las sinopsis.
 6. **Uso: fuente aleatoria de argumentos.** No se eligen entradas ni se sigue su orden; el corpus es
    un repertorio del que cada capítulo toma lo que necesita. Las entradas **no se fechan en el mundo
    del libro** y no entran como documentos citados con verdad de superficie: se absorben como materia
    de la trama.
-7. **Nunca nombrada en el texto** (decisión 66). Ni como blog, ni por su nombre, ni por su URL; sin
+7. **Nunca nombrada en el texto** (decisión 66). Ni por su nombre, ni por su URL; sin
    cita, sin título y sin fecha de entrada. **Es solo una fuente para la escritura.** Consecuencia: no
    hay documento citable y esta fuente **no puede sostener un hecho**; alimenta ocurrencias y
    argumentos. Toda cifra o fecha que use un capítulo va con F-24 a F-34.
+8. **Sin rastro de procedencia** (decisión 67). Cuando un capítulo argumente con materia de esta
+   fuente, lo hará con la **autoría interna** del mundo del libro —El Servidor o cualquiera de la
+   comunidad, sin regla única— y **nunca** dirá de dónde viene: ni blog, ni URL, ni título, ni fecha,
+   ni «según», ni «consta en». La procedencia no existe dentro del texto.
 
 **Conclusión.** No quedan atribuciones incorrectas conocidas en F-24 a F-34. Las fuentes de nivel
 institucional, primario o con revisión por pares siguen sosteniendo los datos delicados; F-23/F-34
