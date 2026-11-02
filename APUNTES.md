@@ -4,13 +4,16 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión:** 2026-11-02 (**v42**, abierta). **I.6 «Los de fuera» aprobado** (decisión 61) e
+- **Última sesión:** 2026-11-02 (**v42, cerrada**). **I.6 «Los de fuera» aprobado** (decisión 61) e
   **I.7 «Las cuentas» escrito** (decisión 63): **3.055 palabras** (+1,0 % sobre 3.025), 5 secciones,
   7,7 % de palabras en documentos citados, 0 errores y 0 avisos. **7/126 capítulos, 20.513
   palabras.** Decisiones de escritura del autor en la 62: cuota igual (Alfa exceptuada), propuesta de
   la columna de nombres que pierde por seis a tres, la receta corregida con tachón («ONCE»/«NUEVE»),
   los papeles de la plaga citados sin escena y junio de 2024 como presente. **I.7 pendiente de
-  revisión del autor.** Ningún capítulo aprobado se ha tocado.
+  revisión del autor: no lo ha leído todavía.** **Copia al USB hecha** (bundle
+  `los-archivos-2026-11-02-v42.bundle`, materiales y `SHA-256` verificados; clon
+  `los-archivos-repo/` a `origin/main`). Ningún capítulo aprobado se ha tocado. Siguiente: su
+  lectura y, si se aprueba, **I.8 «El año que no se escribió»** (sin dossier todavía).
 - **Sesión anterior:** 2026-11-01 (**v41, cerrada**). **I.5 «El registro» aprobado** (decisión 58) e
   **I.6 «Los de fuera» escrito** (decisión 60): **3.269 palabras** (+8,1 % sobre 3.025), 5
   secciones, 7,5 % de palabras en documentos citados, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras.**
@@ -561,7 +564,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v42 (2026-11-02, sesión abierta).
+- Última revisión: v42 (2026-11-02, sesión cerrada).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---

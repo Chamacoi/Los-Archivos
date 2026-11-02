@@ -643,7 +643,7 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   `origin/main`. **I.6 pendiente de aprobación.** Siguiente: su lectura y, si se aprueba, **I.7
   «Las cuentas»**.
 
-## v42 — 2026-11-02 (abierta)
+## v42 — 2026-11-02 (cerrada)
 
 - **I.6 «Los de fuera» aprobado** por el autor, sin correcciones (decisión 61): 3.269 palabras,
   5 secciones, 7,5 % de citas, 0 errores y 0 avisos. **6/126 capítulos, 17.458 palabras.**
@@ -674,3 +674,11 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   `nk informe`: **20.513 palabras**, 7/126 capítulos (+5,4 % sobre la referencia). Actualizados
   `APUNTES.md` (§0, §0 octies y §3), `README.md`, `BITACORA.md`, `estado.json` y
   `~/.pi/agent/AGENTS.md`. **Ningún capítulo aprobado se ha tocado.**
+- **Copia al USB hecha** (`/mnt/usb`, exFAT): `nk respaldo` genera
+  **`los-archivos-2026-11-02-v42.bundle`** (78 commits, `git bundle verify`: historia completa y
+  `HEAD` en `291cae5`), **`...-v42-materiales.tar.gz`** (27 ficheros) y **`...-v42.sha256`**
+  (`sha256sum -c`: los dos OK). El clon `los-archivos-repo/` se pone a `origin/main` y se comprueba
+  con `nk estado` (7/126, 20.513). Se conservan los bundles v38 y v41.
+- **Sesión cerrada (v42).** Commits `214e9b8` (I.6 aprobado y dossier de I.7), `5d80bf1` (I.7) y
+  `291cae5` (arreglo de redacción y recuento), en `origin/main`. **El autor no ha leído I.7
+  todavía.** Siguiente: su lectura y, si se aprueba, **I.8 «El año que no se escribió»**, sin dossier.
