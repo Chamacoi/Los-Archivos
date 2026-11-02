@@ -657,3 +657,20 @@ registro de decisiones de `APUNTES.md` no ha ocurrido.
   `nk verificar --rubrica` (0 errores, 0 avisos). Actualizados `APUNTES.md` (§0, §0 octies y §3),
   `README.md`, `BITACORA.md`, `estado.json` y `~/.pi/agent/AGENTS.md`. **Ningún capítulo aprobado se
   ha tocado.**
+- **Decisiones de escritura para I.7 (decisión 62):** el autor aceptó 1A, 2A con 2B de fondo, 4C con
+  A y 5A, y **cambió 3A por 3B** (la receta se corrige con tachón: «ONCE» tachado, «NUEVE» encima).
+- **I.7 «Las cuentas» escrito (decisión 63).** **3.057 palabras** (+1,1 % sobre 3.025), 5 secciones,
+  **7,7 % de palabras en documentos citados**, 0 errores y 0 avisos. Narra el cuadrante de junio (las
+  mismas faltas que el de noviembre, el renglón del fregadero añadido a mano, la cuota que no está
+  escrita en ninguna parte), los papeles económicos de la plaga (la planilla de turnos con «quien
+  abre» y «quien cierra» en blanco, la hoja de existencias cuya última columna se llama «queda» —de
+  ahí viene la de la libreta—, el plano con once camas numeradas y la 5 tachada), la libreta de
+  tapas negras (cuatro columnas, ningún nombre, el tachón que no se puede leer), la propuesta de
+  apuntar quién pone que pierde por seis a tres («No sale» en el acta del 13 de junio) con el
+  «—Nada.» de El Servidor, el caldo del miércoles («ONCE» tachado, «NUEVE» encima, el único papel de
+  la cocina que dice cuántos son) y la ranura del bote, por la que no entra un billete sin doblarlo
+  en cuatro. **Pendiente de revisión del autor.**
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
+  `nk informe`: **20.515 palabras**, 7/126 capítulos (+5,4 % sobre la referencia). Actualizados
+  `APUNTES.md` (§0, §0 octies y §3), `README.md`, `BITACORA.md`, `estado.json` y
+  `~/.pi/agent/AGENTS.md`. **Ningún capítulo aprobado se ha tocado.**
