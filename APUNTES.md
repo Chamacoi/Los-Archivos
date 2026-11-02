@@ -4,7 +4,13 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión cerrada:** 2026-11-02 (**v45, cerrada**). **I.7 «Las cuentas» aprobado** por el
+- **Última sesión cerrada:** 2026-11-02 (**v46, cerrada**). **Decisiones de I.8 dadas por el autor**
+  (decisión 70: **1A, 2C, 3A, 4B, 5B**; el dictado decía «4B, 4B» y se interpreta como 5B). El
+  capítulo queda desbloqueado y **pendiente de escribir**. **Copia de seguridad hecha** (decisión
+  71): bundle verificado, materiales y **`SINOPSIS/`** empaquetadas aparte —el bundle ya no la lleva—,
+  `SHA-256` comprobado y clon `los-archivos-repo/` a `origin/main`. **7/126, 20.513 palabras**; ningún
+  capítulo aprobado se ha tocado. Siguiente: **escribir I.8 «El año que no se escribió»**.
+- **Sesión anterior:** 2026-11-02 (**v45, cerrada**). **I.7 «Las cuentas» aprobado** por el
   autor sin correcciones (decisión 68): 3.055 palabras, 5 secciones, 7,7 % de citas, 0 errores y 0
   avisos. **Dossier de I.8 «El año que no se escribió» preparado** (§0 nonies, decisión 69) con las
   piezas ya escritas (la fotografía de la caja 3 y su reverso, el hueco de la página doblada del
@@ -113,8 +119,8 @@
      citas, 0 errores y 0 avisos.
   2 quater quater. **I.8 «El año que no se escribió»**: cierra el bloque I.1 (la fotografía y su
      reverso, el hueco, la puerta al anuncio del capítulo 9). **Dossier preparado el 2026-11-02**
-     (§0 nonies, decisión 69) con **cinco decisiones previas**; el capítulo no se escribe hasta que
-     el autor las conteste.
+     (§0 nonies, decisión 69) con **cinco decisiones previas**, contestadas por el autor el 2026-11-02
+     (decisión 70: **1A, 2C, 3A, 4B, 5B**). **Pendiente de escribir.**
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -674,6 +680,21 @@ nombres), **3A** (Alfa y la hoja en blanco), **4A** (una fecha que remite a lo q
 pasado) y **5A** (enero de 2025). Con eso el capítulo cierra el bloque por el borde: muestra el
 hueco, no lo tapa, y deja la puerta entreabierta al capítulo 9.
 
+**Resuelto por el autor (2026-11-02): 1A, 2C, 3A, 4B y 5B.** Dictado literal: «1A, 2C, 3A, 4B, 4B».
+El último par se interpreta como **5B**, porque es la decisión que queda y no existe una quinta
+opción en el punto 4; si el autor quería otra cosa, se corrige antes de escribir. Consecuencias:
+
+1. **1A:** el año que no se escribió es el **año de la plaga**; el bloc de 2020 y las pastillas de
+   las nueve son sus restos materiales.
+2. **2C:** en la fotografía **alguien reconoce a uno de los que ya no están y no lo dice**. Es la
+   opción con más carga y la más expuesta: el reconocimiento no se nombra, no se explica y no se
+   convierte en escena de duelo. El narrador lo ve y no lo comenta.
+3. **3A:** **Alfa** encuentra la hoja en blanco doblada al buscar la definición de El Servidor.
+4. **4B:** la puerta al anuncio es **una frase del que lleva el registro**, no una fecha ni un
+   objeto. Es el que menos revela y el que más ata con el oficio del archivo.
+5. **5B:** **sin fecha explícita**; solo las que ya constan. Se renuncia a enero de 2025 como
+   presente fechado.
+
 ---
 
 ---
@@ -1013,6 +1034,8 @@ teológico** y tiene que **costar algo**.
 | 67 | Fuentes | **Regla de escritura para la materia del blog** (orden del autor, 2026-11-02). Se argumenta con la **autoría interna sin regla única** (El Servidor o cualquiera de la comunidad), pero **nada de datos sobre la procedencia**: ni blog, ni URL, ni título de entrada, ni fecha, ni «según», ni «consta en». La fuente no existe dentro del texto. Además, **`SINOPSIS/` deja de versionarse**: pasa a `.gitignore`, como `MATERIALES/` | 2026-11-02 | Cierra S-04 §6.3. Consecuencia estructural: los hechos dictados en bruto salen del repositorio público (v44); los ficheros siguen en local y en el historial de git. Un clon limpio ya no lleva las sinopsis: podrá escribir un libro con esta forma, no este libro. README actualizado con la excepción. Ningún capítulo del manuscrito se ha tocado |
 | 68 | Escritura | **I.7 «Las cuentas» aprobado.** El autor dio el visto bueno sin correcciones («I.7 aprobado»). Se cierra con **3.055 palabras** (+1,0 % sobre 3.025), 5 secciones, 7,7 % de citas, 0 errores y 0 avisos. **7/126 capítulos, 20.513 palabras** | 2026-11-02 | Cierra la 63. Siguiente: **I.8 «El año que no se escribió»**, último del bloque I.1. Dossier preparado en §0 nonies con cinco decisiones previas. Ningún capítulo aprobado se ha tocado |
 | 69 | Escritura | **Dossier de I.8 preparado** (§0 nonies). Función: cerrar el archivo por su borde —el hueco de lo que no se escribió—, con la fotografía de la caja 3 y su reverso «El año que no se escribió», el hueco de la página doblada del cuaderno azul y la puerta al anuncio del capítulo 9. Piezas fijadas con su procedencia y **cinco decisiones previas**: qué año no se escribió, qué se hace con la fotografía, quién encuentra el hueco y cómo, la puerta al anuncio y las fechas. Recomendación no vinculante: 1A con 1C de fondo, 2B con 2A de fondo, 3A, 4A y 5A | 2026-11-02 | **I.8 no se escribe hasta que el autor conteste las cinco.** El dossier no fija canon. No se rellena el hueco ni se fecha la fotografía: contradiría I.1. Ningún capítulo aprobado se ha tocado |
+| 70 | Escritura | **Decisiones de escritura para I.8**, dadas por el autor: **1A** (el año que no se escribió es el año de la plaga, con el bloc de 2020 y las pastillas como restos), **2C** (en la fotografía alguien reconoce a uno de los que ya no están y no lo dice), **3A** (Alfa encuentra la hoja en blanco doblada al buscar la definición de El Servidor), **4B** (la puerta al anuncio es una frase del que lleva el registro) y **5B** (sin fecha explícita) | 2026-11-02 | Dictado literal «1A, 2C, 3A, 4B, 4B»; el último par se interpreta como **5B** por ser la decisión pendiente y no existir una quinta opción en el punto 4. Si no era eso, se corrige antes de escribir. **I.8 pendiente de escritura**; con estas decisiones queda desbloqueado |
+| 71 | Soporte | **Copia de seguridad de la v46** y cierre de sesión: bundle verificado, materiales y **sinopsis** empaquetadas aparte (`SINOPSIS/` ya no está en git y no la lleva el bundle), `SHA-256` comprobado y clon `los-archivos-repo/` actualizado a `origin/main` | 2026-11-02 | Cambio de método: desde la v44 el respaldo incluye **también** `SINOPSIS/`, porque el bundle ya no la contiene. Sin eso, los hechos dictados solo existirían en esta Raspberry |
 
 ---
 

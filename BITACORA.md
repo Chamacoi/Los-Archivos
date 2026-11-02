@@ -750,3 +750,23 @@ su dossier.
 - **I.8 no se escribe hasta que el autor conteste las cinco.** Verificado: `nk verificar --rubrica`
   → 0 errores, 0 avisos; `nk estado` → 7/126, 20.513 palabras. Actualizados `APUNTES.md` (§0, §0
   nonies y §3), `README.md` y `BITACORA.md`. **Ningún capítulo del manuscrito se ha tocado.**
+
+## v46 — 2026-11-02 (cerrada)
+
+- **Decisiones de I.8 dadas por el autor** (decisión 70): **1A** (el año que no se escribió es el año
+  de la plaga), **2C** (en la fotografía alguien reconoce a uno de los que ya no están y no lo dice),
+  **3A** (Alfa encuentra la hoja en blanco doblada al buscar la definición de El Servidor), **4B** (la
+  puerta al anuncio es una frase del que lleva el registro) y **5B** (sin fecha explícita). El dictado
+  decía «4B, 4B»; el último par se interpreta como **5B** porque es la decisión pendiente y no existe
+  una quinta opción en el punto 4. **Si no era eso, se corrige antes de escribir.**
+- **I.8 queda desbloqueado y pendiente de escribir.** El dossier completo, con las piezas ya escritas y
+  las cinco respuestas, está en `APUNTES.md` §0 nonies.
+- **Copia de seguridad hecha** (decisión 71, `/mnt/usb`, exFAT): `los-archivos-2026-11-02-v46.bundle`
+  (**82 commits**, `git bundle verify`: historia completa, `HEAD` en `9604b3b`),
+  `...-v46-materiales.tar.gz` (**28 ficheros**) y, **por primera vez, `...-v46-sinopsis.tar.gz`**
+  (**5 ficheros**), porque desde la v44 el bundle ya no contiene `SINOPSIS/`. `sha256sum -c`: los tres
+  OK. El commit de cierre de esta bitácora es posterior al bundle. Se conservan los bundles v38, v41,
+  v42 y el de la v43 previo a sacar las sinopsis.
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk estado` → 7/126, 20.513 palabras.
+  Actualizados `APUNTES.md` (§0, §0 nonies y §3), `README.md` y `BITACORA.md`. **Ningún capítulo del
+  manuscrito se ha tocado.** Siguiente: escribir I.8.

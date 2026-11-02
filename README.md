@@ -11,7 +11,8 @@ sostenida entre personas y modelos.
   palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras), e **I.7 «Las cuentas»
   escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total) y **aprobado** el 2026-11-02
   (decisión 68). Siguiente: **I.8 «El año que no se escribió»**, que cierra el bloque I.1, con
-  dossier preparado y cinco decisiones pendientes de respuesta.
+  dossier preparado y sus cinco decisiones ya dadas por el autor (decisión 70: 1A, 2C, 3A, 4B, 5B);
+  **pendiente de escribir**.
 - **Fuente nueva (v43-v44, decisiones 64-67):** una fuente de argumentos aportada por el autor entra
   como **repertorio aleatorio** para encaminar la narrativa según crezca la obra. Registrada como
   **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni correos,
