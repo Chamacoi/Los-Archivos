@@ -9,8 +9,9 @@ sostenida entre personas y modelos.
   palabras con el método limpio; 3/126 capítulos, 8.445), e **I.4 «La consola» escrito, aprobado y
   publicado** (2.926 palabras), e **I.5 «El registro» escrito, revisado y aprobado** (2.818
   palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras), e **I.7 «Las cuentas»
-  escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total), **pendiente de revisión del
-  autor**. Siguiente tras la revisión: **I.8 «El año que no se escribió»**, que cierra el bloque.
+  escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total) y **aprobado** el 2026-11-02
+  (decisión 68). Siguiente: **I.8 «El año que no se escribió»**, que cierra el bloque I.1, con
+  dossier preparado y cinco decisiones pendientes de respuesta.
 - **Fuente nueva (v43-v44, decisiones 64-67):** una fuente de argumentos aportada por el autor entra
   como **repertorio aleatorio** para encaminar la narrativa según crezca la obra. Registrada como
   **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni correos,
@@ -289,7 +290,8 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Contestar las cinco decisiones previas de I.7 (decisión 62) y escribir I.7, «Las cuentas»:
       3.055 palabras, 5 secciones, 7,7 % de citas, 0 errores y 0 avisos (decisión 63;
       **pendiente de revisión del autor**).
-- [ ] Revisar I.7 y, si se aprueba, escribir I.8, «El año que no se escribió».
+- [x] Revisar I.7: **aprobado** el 2026-11-02 (decisión 68).
+- [ ] Contestar las cinco decisiones del dossier de I.8 (§0 nonies) y escribir «El año que no se escribió».
 - [ ] Escribir E-04 (estudio del blog) cuando se prepare el dossier de I.8: reparto de argumentos en S-04 §6.3 y asignación de cada ocurrencia en el capítulo.
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).

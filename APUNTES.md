@@ -4,7 +4,14 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión cerrada:** 2026-11-02 (**v44, cerrada**). Regla de escritura para la materia del
+- **Última sesión cerrada:** 2026-11-02 (**v45, cerrada**). **I.7 «Las cuentas» aprobado** por el
+  autor sin correcciones (decisión 68): 3.055 palabras, 5 secciones, 7,7 % de citas, 0 errores y 0
+  avisos. **Dossier de I.8 «El año que no se escribió» preparado** (§0 nonies, decisión 69) con las
+  piezas ya escritas (la fotografía de la caja 3 y su reverso, el hueco de la página doblada del
+  cuaderno azul, la planilla del bloc de 2020) y **cinco decisiones previas**; recomendación no
+  vinculante. **7/126 capítulos, 20.513 palabras.** Ningún capítulo del manuscrito se ha tocado.
+  Siguiente: las cinco respuestas del autor y, con ellas, escribir I.8.
+- **Sesión anterior:** 2026-11-02 (**v44, cerrada**). Regla de escritura para la materia del
   blog (decisión 67): se argumenta con la **autoría interna sin regla única** y **nunca se dice de
   dónde procede** (ni blog, ni URL, ni título, ni fecha, ni «según»). Además **`SINOPSIS/` deja de
   versionarse**: pasa a `.gitignore`, como `MATERIALES/`, y sale del repositorio público en un commit
@@ -101,12 +108,13 @@
      2026-11-02** (decisión 61), sin correcciones: 3.269 palabras, 5 secciones, 7,5 % de citas, 0
      errores y 0 avisos. Materia y decisiones previas en §0 septies (decisión 59).
   2 quater ter. ~~**I.7 «Las cuentas»**~~: **dossier el 2026-11-02** (§0 octies), **decisiones del
-     autor el 2026-11-02** (decisión 62) y **escrito el 2026-11-02** (decisión 63): 3.055 palabras
-     (+1,0 %), 5 secciones, 7,7 % de citas, 0 errores y 0 avisos. **Pendiente de revisión del
-     autor.**
+     autor el 2026-11-02** (decisión 62), **escrito el 2026-11-02** (decisión 63) y **aprobado el
+     2026-11-02** (decisión 68), sin correcciones: 3.055 palabras (+1,0 %), 5 secciones, 7,7 % de
+     citas, 0 errores y 0 avisos.
   2 quater quater. **I.8 «El año que no se escribió»**: cierra el bloque I.1 (la fotografía y su
-     reverso, el hueco, la puerta al anuncio del capítulo 9). **Sin dossier todavía**; se prepara
-     cuando el autor lo pida.
+     reverso, el hueco, la puerta al anuncio del capítulo 9). **Dossier preparado el 2026-11-02**
+     (§0 nonies, decisión 69) con **cinco decisiones previas**; el capítulo no se escribe hasta que
+     el autor las conteste.
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -570,7 +578,101 @@ antes de escribir: **1A, 2A con 2B de fondo material, 3B, 4C con A, 5A**; decisi
 **Resuelto y escrito (2026-11-02).** El autor aceptó 1A, 2A con 2B de fondo, 4C con A y 5A, y cambió
 **3A por 3B**: la receta se corrige con tachón («ONCE» tachado, «NUEVE» encima) y la hoja se guarda
 con él. Capítulo escrito en `MANUSCRITO/01-parte-I/07-capitulo.md`: 3.055 palabras, 5 secciones,
-7,7 % de citas, 0 errores y 0 avisos (decisión 63).
+7,7 % de citas, 0 errores y 0 avisos (decisión 63); **aprobado el 2026-11-02** (decisión 68).
+
+### 0 nonies. I.8 «El año que no se escribió»: dossier de material (2026-11-02)
+
+Preparado al aprobar I.7. Nada de esto es texto de la obra: es lo que ya está fijado y lo que el
+capítulo puede atar. Capítulo de marco, sale de canon y estructura (decisión 21), no de una
+sinopsis. **Último del bloque I.1.**
+
+**Función en el bloque.** Cerrar el archivo por su borde: el archivo no solo guarda lo que se
+escribió, guarda **el hueco de lo que no se escribió**. Es el capítulo de la fotografía y su
+reverso. Prueba 4 del fruto (tiempo) y prueba de lo que el archivo no puede hacer. **Fruto:** la
+casa conserva el hueco sin rellenarlo —la hoja en blanco doblada, la foto sin fecha—, y lo conserva
+aunque nadie sepa qué falta. **Coste y reverso:** conservar el hueco no es repararlo. El año no
+vuelve; el que busca la explicación no la encuentra; el hueco se hereda, y el que lo encuentra
+(Alfa) lo encuentra sin saber que es un hueco. **No** es capítulo sobre la muerte ni sobre la
+plaga: es sobre lo que el archivo no pudo escribir y no quiso tapar.
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La fotografía | I.1 §3 | En el fondo de la **caja 3**. No es de la plaga: comida al aire libre, mesa larga, gente de varias edades. Reverso: **«El año que no se escribió»**. **Nadie ha querido ponerle fecha** |
+| La mascarilla y la funda | I.1 §3 | Bolsa con etiqueta **«la última»**; dentro, papel doblado cuatro veces: «No la tires. No sirve para nada. No la tires». Funda de almohada con mancha y **nombre bordado tapado con cinta aislante**; la cinta se ha levantado y se ve **una letra** |
+| El hueco de la página doblada | I.3 §2-§3 | **Segunda hoja reservada del cuaderno azul.** Iba a decir quién es El Servidor y no se escribió; dos propuestas votadas que no (seis a tres y cinco a tres); no consta qué decía la propuesta. **Mancha de café y esquina doblada** que el que lleva el registro dice que no dobló él. «La hoja del archivo que más se ha mirado sin escribirse» |
+| La costumbre de doblar | I.2 §1; I.5 §2 | Dobla la esquina de la hoja que va a citar y **a veces no la cita**; al cerrar el cuaderno la esquina queda doblada para siempre. Uñas cortas y limpias |
+| Los dos huecos de la planilla | I.7 §2 | «quien abre: ____ quien cierra: ____» en blanco en las cuatro semanas que quedan del bloc; no tachados ni corregidos. La semana del 16 al 22; el bloc es de 2020; las pastillas de las nueve ya no se dan |
+| La caja 4 y enero | I.1 §4; I.7 §2 | Se abre **una vez al año, en la sesión de enero**, y se lee en voz alta entera, incluidos los «no consta». La tapa no encaja si no se aprieta |
+| Las cuentas | Decisión 54; I.7 | Once personas, **nueve presentes**, once sillas útiles, dos asientos libres. Actas con cifra: 1 (nueve), 12 (nueve), 13 (ocho y una raya), 5-III (ocho), 7-XI (ocho), 19-XII (ocho) |
+| Alfa y el hueco | PERSONAS (decisión 35) | **Alfa es quien puede encontrar el hueco de la página doblada sin saber que es un hueco** |
+| El presente | I.7 | Junio de 2024. I.8 ocurre **después** |
+
+**Lo que el capítulo puede atar** (y no lo hace ningún otro del bloque).
+
+1. **El año que no se escribió**: qué año es y por qué no hay actas de él. El bloc de 2020 y las
+   pastillas de las nueve son los restos materiales; la planilla de turnos es de ese año.
+2. **La fotografía y su reverso**, citados literales y sin fecha. Ni el narrador ni nadie pone la
+   fecha que falta.
+3. **El hueco de la página doblada**: Alfa lo encuentra. El gesto de doblar la esquina ya está
+   escrito; lo que se revela aquí es que una esquina doblada marca una hoja en blanco.
+4. **La sesión de enero** y la caja 4: el año se abre leyendo en voz alta lo que hay, incluidos los
+   «no consta».
+5. **La puerta al anuncio** (I.2, capítulo 9): un indicio que no cuenta el anuncio. C-5 dice que ya
+   fue anunciado y que la comunidad está enterada; el capítulo 9 lo desarrolla. Aquí solo se deja
+   la puerta abierta.
+
+**Lo que no puede hacer.**
+
+- **Rellenar el hueco**: el año no se escribe retroactivamente. Si se rellena, el capítulo pierde su
+  función y contradice I.1 («nadie ha querido ponerle fecha»).
+- **Poner fecha a la fotografía** ni identificar a las personas de la mesa. Ni un nombre nuevo
+  (C-6, decisión 31); `nk verificar` lo comprueba.
+- **Usar la plaga como castigo del mundo**, contar muertos ni narrar el año como escena: es cicatriz
+  y hueco. (El bloc y las pastillas son papeles.)
+- **Revelar el anuncio** (I.2, cap. 9), **la paz de II.6**, el concilio (II.4) ni la reunión de C-10.
+- **Dar voz al archivo** (decisión 55) ni explicar la diferencia entre archivo y diario (decisión
+  39). **Cero «yo»** del narrador.
+- **Elogiar a la casa** ni sacar la moraleja: el narrador no juzga; el paralelo lo pone el lector.
+- **Inventar** institución, marca, cargo, fecha o cifra identificable (C-6).
+
+**Cuentas que el capítulo debe respetar.**
+
+- **110 € / 68 € / «queda»** y el aplazamiento de la compra grande: no se cambian.
+- **Nueve presentes** en el presente. Un «para once» es dato del pasado, no del presente.
+- **Nombres:** solo Boomer, Equis, Milenial, Zeta, Alfa (con oficio cuando hay dos o tres), El
+  Servidor y Token Insight. **«Mesías»** solo en cita o boca de personaje (decisión 40).
+- **Ninguna institución real identificable** (C-6).
+
+**Voz y forma.** La de I.1-I.7. Documentos literales con sus faltas: el reverso de la fotografía, la
+planilla del bloc de 2020 y el acta de la sesión de enero. Sin corrección, traducción ni comentario.
+Presupuesto 3.025 palabras; 3 a 6 secciones (apunta a 5); citas entre el 3 % y el 45 %. Arranque
+propuesto, no decidido: 1. La caja que toca · 2. La fotografía · 3. El año que no se escribió ·
+4. La esquina doblada · 5. Lo que se deja abierto.
+
+**Decisiones que el capítulo exige antes de escribirse** (cinco; ninguna se resuelve por defecto).
+
+1. **Qué año no se escribió.** (A) El año de la plaga (2020), con el bloc de 2020 y las pastillas de
+   las nueve como restos. (B) Un año cualquiera de la casa, sin plaga: el año en que se dejó de
+   escribir por cansancio. (C) No se identifica nunca: el hueco queda sin fecha y el capítulo no lo
+   nombra.
+2. **La fotografía.** (A) Solo se cita el reverso; no se describe a nadie. (B) Se describe la mesa y
+   las edades, sin nombres ni caras. (C) Alguien reconoce a uno de los que ya no están y no lo dice.
+3. **Quién encuentra el hueco y cómo.** (A) Alfa encuentra la hoja en blanco doblada al buscar la
+   definición de El Servidor. (B) Alfa encuentra el hueco de la foto: en la mesa falta alguien.
+   (C) Alfa encuentra los dos y no entiende ninguno.
+4. **La puerta al anuncio.** (A) Una fecha en el acta de enero que remite a algo que aún no ha
+   pasado. (B) Una frase del que lleva el registro. (C) Un objeto: la fotografía con una fecha
+   nueva, puesta por Alfa.
+5. **Fechas del capítulo.** (A) Enero de 2025, sesión de apertura de la caja 4. (B) Sin fecha
+   explícita: solo las que ya constan. (C) Enero de 2024, antes de I.7.
+
+**Recomendación del que escribe** (no vinculante): **1A con 1C de fondo** (se sabe por el bloc de
+2020 y las pastillas; la foto sigue sin fecha), **2B con 2A de fondo** (la mesa y las edades, sin
+nombres), **3A** (Alfa y la hoja en blanco), **4A** (una fecha que remite a lo que aún no ha
+pasado) y **5A** (enero de 2025). Con eso el capítulo cierra el bloque por el borde: muestra el
+hueco, no lo tapa, y deja la puerta entreabierta al capítulo 9.
 
 ---
 
@@ -909,6 +1011,8 @@ teológico** y tiene que **costar algo**.
 | 65 | Fuentes | **Respuestas del autor sobre S-04** (2026-11-02). **(1) Autorreferencia perdonada:** el punto en que el blog cita el libro se pasa por alto, no se declara ni se corrige. **(2) Fuente aleatoria de argumentos:** no se eligen entradas concretas ni se sigue su orden; el corpus entero es repertorio. **(3) Sin fechas y entrada flexible:** las entradas no se fechan en el mundo del libro y se unen a la trama por otra vía, como materia que el capítulo absorbe, no como documento citado | 2026-11-02 | Cierra §4.1, §4.2, §4.3 y de hecho §4.4 y §4.5 de S-04, y la tensión §5.3. **Quedan abiertas dos precisiones** (S-04 §6.2): a quién se le asigna la ocurrencia dentro del libro (prueba 1 del criterio de selección) y si el blog aparece alguna vez citado en el texto. Reparto propuesto por bloque en S-04 §6.3, no vinculante. Ningún capítulo del manuscrito se ha tocado |
 | 66 | Fuentes | **Las dos precisiones de S-04, cerradas por el autor** (2026-11-02). **(1) Autoría interna sin regla única:** la materia puede pasar por todos y también siempre por El Servidor; se decide capítulo a capítulo y se anota en el capítulo. **(2) El blog no se nombra nunca:** ni como blog, ni por su nombre, ni por su URL, sin cita, sin título y sin fecha; es solo fuente para la escritura | 2026-11-02 | Cierra S-04 por completo (cinco preguntas y dos precisiones). Consecuencia: **F-35 no puede sostener ningún hecho**; sin documento citable, su materia entra como verdad de marco absorbida por la trama. Cifras y fechas van con F-24 a F-34. E-04 sin escribir; manuscrito intacto |
 | 67 | Fuentes | **Regla de escritura para la materia del blog** (orden del autor, 2026-11-02). Se argumenta con la **autoría interna sin regla única** (El Servidor o cualquiera de la comunidad), pero **nada de datos sobre la procedencia**: ni blog, ni URL, ni título de entrada, ni fecha, ni «según», ni «consta en». La fuente no existe dentro del texto. Además, **`SINOPSIS/` deja de versionarse**: pasa a `.gitignore`, como `MATERIALES/` | 2026-11-02 | Cierra S-04 §6.3. Consecuencia estructural: los hechos dictados en bruto salen del repositorio público (v44); los ficheros siguen en local y en el historial de git. Un clon limpio ya no lleva las sinopsis: podrá escribir un libro con esta forma, no este libro. README actualizado con la excepción. Ningún capítulo del manuscrito se ha tocado |
+| 68 | Escritura | **I.7 «Las cuentas» aprobado.** El autor dio el visto bueno sin correcciones («I.7 aprobado»). Se cierra con **3.055 palabras** (+1,0 % sobre 3.025), 5 secciones, 7,7 % de citas, 0 errores y 0 avisos. **7/126 capítulos, 20.513 palabras** | 2026-11-02 | Cierra la 63. Siguiente: **I.8 «El año que no se escribió»**, último del bloque I.1. Dossier preparado en §0 nonies con cinco decisiones previas. Ningún capítulo aprobado se ha tocado |
+| 69 | Escritura | **Dossier de I.8 preparado** (§0 nonies). Función: cerrar el archivo por su borde —el hueco de lo que no se escribió—, con la fotografía de la caja 3 y su reverso «El año que no se escribió», el hueco de la página doblada del cuaderno azul y la puerta al anuncio del capítulo 9. Piezas fijadas con su procedencia y **cinco decisiones previas**: qué año no se escribió, qué se hace con la fotografía, quién encuentra el hueco y cómo, la puerta al anuncio y las fechas. Recomendación no vinculante: 1A con 1C de fondo, 2B con 2A de fondo, 3A, 4A y 5A | 2026-11-02 | **I.8 no se escribe hasta que el autor conteste las cinco.** El dossier no fija canon. No se rellena el hueco ni se fecha la fotografía: contradiría I.1. Ningún capítulo aprobado se ha tocado |
 
 ---
 

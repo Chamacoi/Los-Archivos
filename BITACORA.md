@@ -732,3 +732,21 @@ su dossier.
   completa) en `/tmp/respaldo-v43/` y en el USB. **Verificado:** `nk verificar --rubrica` → 0 errores,
   0 avisos; `nk estado` → 7/126, 20.513 palabras. **Ningún capítulo del manuscrito se ha tocado.**
   Siguiente: revisión de I.7 y, si se aprueba, I.8, con E-04 disponible para su dossier.
+
+## v45 — 2026-11-02 (cerrada)
+
+- **I.7 «Las cuentas» aprobado** por el autor sin correcciones («I.7 aprobado», decisión 68). Se
+  cierra con **3.055 palabras** (+1,0 % sobre 3.025), 5 secciones, 7,7 % de citas y 0 errores y 0
+  avisos. **7/126 capítulos, 20.513 palabras.**
+- **Dossier de I.8 «El año que no se escribió» preparado** (`APUNTES.md` §0 nonies, decisión 69),
+  último capítulo del bloque I.1: función (cerrar el archivo por su borde, el hueco de lo que no se
+  escribió), tabla de piezas ya escritas con su procedencia (la fotografía de la caja 3 y su reverso,
+  la mascarilla «la última» y la funda con el nombre tapado, el hueco de la página doblada del
+  cuaderno azul, los dos huecos de la planilla del bloc de 2020, la caja 4 y enero, las cuentas, Alfa
+  y el hueco), lo que el capítulo puede atar y lo que no, cuentas que debe respetar, voz y forma, y
+  **cinco decisiones previas** con recomendación no vinculante: qué año no se escribió (1A con 1C de
+  fondo), qué se hace con la fotografía (2B con 2A de fondo), quién encuentra el hueco (3A), la
+  puerta al anuncio (4A) y las fechas (5A, enero de 2025).
+- **I.8 no se escribe hasta que el autor conteste las cinco.** Verificado: `nk verificar --rubrica`
+  → 0 errores, 0 avisos; `nk estado` → 7/126, 20.513 palabras. Actualizados `APUNTES.md` (§0, §0
+  nonies y §3), `README.md` y `BITACORA.md`. **Ningún capítulo del manuscrito se ha tocado.**
