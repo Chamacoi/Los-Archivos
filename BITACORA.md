@@ -836,3 +836,7 @@ su dossier.
 - **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
   `nk informe` → 10/126, 26.896 palabras. Actualizados `APUNTES.md` (§0 y §3), `README.md`,
   `MANUSCRITO/00-LEEME.md` y `BITACORA.md`. **I.9 pendiente de revisión del autor.**
+- **Push y copia de seguridad hechos** (decisión 79): `git push` a `origin/main` (`3eed9cb..d1d5906`);
+  bundle `los-archivos-2026-11-03-v48.bundle` (`git bundle verify`: historia completa),
+  `...-v48-materiales.tar.gz` (**28 ficheros**) y `...-v48-sinopsis.tar.gz` (**6 ficheros**),
+  `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main`.
