@@ -4,7 +4,18 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión cerrada:** 2026-11-02 (**v46, cerrada**). **Decisiones de I.8 dadas por el autor**
+- **Última sesión cerrada:** 2026-11-02 (**v47, cerrada**). **I.8 «El año que no se escribió» escrito**
+  (decisión 72): **3.368 palabras** (+11,3 % sobre 3.025), 5 secciones, **3,6 % de palabras en
+  documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Cierra el bloque I.1.
+  Escrito con las cinco decisiones del autor (70): **1A** (el año de la plaga, con el bloc de 2020 y
+  las pastillas como restos), **2C** (Boomer de la silla reconoce en la fotografía a alguien que ya
+  no está y no lo dice), **3A** (Alfa encuentra la hoja en blanco doblada al buscar la definición de
+  El Servidor), **4B** (la puerta al anuncio es una frase del que lleva el registro: hay hojas que
+  faltan porque no se escribieron y hojas que faltan porque no han llegado) y **5B** (sin fecha
+  explícita; solo las que ya constan). **8/126 capítulos, 23.881 palabras.** Ningún capítulo
+  aprobado se ha tocado. **I.8 pendiente de revisión del autor.** Siguiente: su lectura y, si se
+  aprueba, **I.9 «El anuncio»**, primero del bloque I.2.
+- **Sesión anterior:** 2026-11-02 (**v46, cerrada**). **Decisiones de I.8 dadas por el autor**
   (decisión 70: **1A, 2C, 3A, 4B, 5B**; el dictado decía «4B, 4B» y se interpreta como 5B). El
   capítulo queda desbloqueado y **pendiente de escribir**. **Copia de seguridad hecha** (decisión
   71): bundle verificado, materiales y **`SINOPSIS/`** empaquetadas aparte —el bundle ya no la lleva—,
@@ -117,10 +128,10 @@
      autor el 2026-11-02** (decisión 62), **escrito el 2026-11-02** (decisión 63) y **aprobado el
      2026-11-02** (decisión 68), sin correcciones: 3.055 palabras (+1,0 %), 5 secciones, 7,7 % de
      citas, 0 errores y 0 avisos.
-  2 quater quater. **I.8 «El año que no se escribió»**: cierra el bloque I.1 (la fotografía y su
-     reverso, el hueco, la puerta al anuncio del capítulo 9). **Dossier preparado el 2026-11-02**
-     (§0 nonies, decisión 69) con **cinco decisiones previas**, contestadas por el autor el 2026-11-02
-     (decisión 70: **1A, 2C, 3A, 4B, 5B**). **Pendiente de escribir.**
+  2 quater quater. ~~**I.8 «El año que no se escribió»**~~: **escrito el 2026-11-02** (decisión 72),
+     último del bloque I.1: **3.368 palabras** (+11,3 %), 5 secciones, 3,6 % de citas, 0 errores y 0
+     avisos. Dossier en §0 nonies (decisión 69) y cinco decisiones del autor (decisión 70: 1A, 2C,
+     3A, 4B, 5B). **Pendiente de revisión del autor.**
   2 bis. ~~**Método de recuento**~~: **cerrado el 2026-10-30 (decisión 28): método limpio.**
      I.1 pasa de 2.851 (`wc -w`) a **2.798** palabras (−7,5 % sobre 3.025). `nk contar --wc`
      sigue mostrando ambos; las cifras históricas de v15-v19 no se reescriben.
@@ -1036,6 +1047,7 @@ teológico** y tiene que **costar algo**.
 | 69 | Escritura | **Dossier de I.8 preparado** (§0 nonies). Función: cerrar el archivo por su borde —el hueco de lo que no se escribió—, con la fotografía de la caja 3 y su reverso «El año que no se escribió», el hueco de la página doblada del cuaderno azul y la puerta al anuncio del capítulo 9. Piezas fijadas con su procedencia y **cinco decisiones previas**: qué año no se escribió, qué se hace con la fotografía, quién encuentra el hueco y cómo, la puerta al anuncio y las fechas. Recomendación no vinculante: 1A con 1C de fondo, 2B con 2A de fondo, 3A, 4A y 5A | 2026-11-02 | **I.8 no se escribe hasta que el autor conteste las cinco.** El dossier no fija canon. No se rellena el hueco ni se fecha la fotografía: contradiría I.1. Ningún capítulo aprobado se ha tocado |
 | 70 | Escritura | **Decisiones de escritura para I.8**, dadas por el autor: **1A** (el año que no se escribió es el año de la plaga, con el bloc de 2020 y las pastillas como restos), **2C** (en la fotografía alguien reconoce a uno de los que ya no están y no lo dice), **3A** (Alfa encuentra la hoja en blanco doblada al buscar la definición de El Servidor), **4B** (la puerta al anuncio es una frase del que lleva el registro) y **5B** (sin fecha explícita) | 2026-11-02 | Dictado literal «1A, 2C, 3A, 4B, 4B»; el último par se interpreta como **5B** por ser la decisión pendiente y no existir una quinta opción en el punto 4. Si no era eso, se corrige antes de escribir. **I.8 pendiente de escritura**; con estas decisiones queda desbloqueado |
 | 71 | Soporte | **Copia de seguridad de la v46** y cierre de sesión: bundle verificado, materiales y **sinopsis** empaquetadas aparte (`SINOPSIS/` ya no está en git y no la lleva el bundle), `SHA-256` comprobado y clon `los-archivos-repo/` actualizado a `origin/main` | 2026-11-02 | Cambio de método: desde la v44 el respaldo incluye **también** `SINOPSIS/`, porque el bundle ya no la contiene. Sin eso, los hechos dictados solo existirían en esta Raspberry |
+| 72 | Escritura | **I.8 escrito.** «El año que no se escribió»: **3.368 palabras** (+11,3 % sobre 3.025), 5 secciones, **3,6 % de palabras en documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la caja de la cruz (la cinta que cuesta cortar, la mascarilla «la última», la funda con la letra tapada), la fotografía de la mesa larga sin nada que la feche y su reverso literal, el reconocimiento que Boomer de la silla no dice, el año de la plaga sin actas (las actas no llevan año; el bloc de 2020 y las pastillas son los restos; los papeles de ese año son de intendencia), el acta de enero que lee los «no consta», Alfa buscando la definición de El Servidor y encontrando la hoja en blanco doblada, y la frase del que lleva el registro que deja abierta la puerta al anuncio. **Pendiente de revisión del autor** | 2026-11-02 | Cumple la decisión 70: 1A (año de la plaga, sin rellenarlo), 2C (reconocimiento sin nombre ni escena de duelo), 3A (Alfa y la hoja doblada), 4B (frase del oficio, sin fecha ni objeto) y 5B (sin fecha explícita; solo el 2020 del bloc y las fechas que ya constan). No fecha la fotografía, no identifica a nadie, no usa la plaga como castigo ni como escena, no revela el anuncio, la paz de II.6 ni el concilio. Continuidad: caja 3 y caja 4 (I.1), cuaderno azul y dos votaciones (I.3), costumbre de doblar (I.1, I.5), planilla y «queda» (I.7), «no consta» (I.3, I.5). **8/126 capítulos, 23.881 palabras.** Ningún capítulo aprobado se ha tocado |
 
 ---
 

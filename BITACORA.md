@@ -770,3 +770,23 @@ su dossier.
 - **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk estado` → 7/126, 20.513 palabras.
   Actualizados `APUNTES.md` (§0, §0 nonies y §3), `README.md` y `BITACORA.md`. **Ningún capítulo del
   manuscrito se ha tocado.** Siguiente: escribir I.8.
+
+## v47 — 2026-11-02 (cerrada)
+
+- **I.8 «El año que no se escribió» escrito** (decisión 72), último capítulo del bloque I.1:
+  **3.368 palabras** (+11,3 % sobre 3.025), 5 secciones, **3,6 % de palabras en documentos citados**,
+  `nk verificar --rubrica` con 0 errores y 0 avisos. **8/126 capítulos, 23.881 palabras.**
+- **Escrito con las cinco decisiones del autor** (decisión 70): **1A** el año que no se escribió es
+  el año de la plaga, con el bloc de 2020 y las pastillas de las nueve como restos; **2C** Boomer de
+  la silla reconoce en la fotografía a alguien que ya no está y no lo dice; **3A** Alfa encuentra la
+  hoja en blanco doblada al buscar la definición de El Servidor; **4B** la puerta al anuncio es una
+  frase del que lleva el registro (hay hojas que faltan porque no se escribieron y hojas que faltan
+  porque no han llegado); **5B** sin fecha explícita, solo las que ya constan. El dictado «4B, 4B»
+  se mantiene interpretado como 5B; si no era eso, se corrige antes de dar el capítulo por bueno.
+- **No se rellena el hueco:** la fotografía sigue sin fecha, la hoja sigue en blanco, la planilla
+  sigue con «quien abre» y «quien cierra» vacíos. No se identifica a nadie, no se narra la plaga, no
+  se revela el anuncio, la paz de II.6 ni el concilio. **Ningún capítulo aprobado se ha tocado.**
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
+  `nk informe` → 8/126, 23.881 palabras. Actualizados `APUNTES.md` (§0 y §3), `README.md`,
+  `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` (bloque de recuento) y `BITACORA.md`. **I.8 pendiente de
+  revisión del autor.** Siguiente: su lectura y, si se aprueba, **I.9 «El anuncio»**.

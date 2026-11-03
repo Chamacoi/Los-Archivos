@@ -10,9 +10,10 @@ sostenida entre personas y modelos.
   publicado** (2.926 palabras), e **I.5 «El registro» escrito, revisado y aprobado** (2.818
   palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras), e **I.7 «Las cuentas»
   escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total) y **aprobado** el 2026-11-02
-  (decisión 68). Siguiente: **I.8 «El año que no se escribió»**, que cierra el bloque I.1, con
-  dossier preparado y sus cinco decisiones ya dadas por el autor (decisión 70: 1A, 2C, 3A, 4B, 5B);
-  **pendiente de escribir**.
+  (decisión 68), e **I.8 «El año que no se escribió» escrito** (3.368 palabras; 8/126 capítulos,
+  **23.881** en total), con las cinco decisiones del autor (decisión 70: 1A, 2C, 3A, 4B, 5B) y
+  **pendiente de revisión**. Cierra el bloque I.1. Siguiente: su lectura y, si se aprueba, **I.9
+  «El anuncio»**, primero del bloque I.2.
 - **Fuente nueva (v43-v44, decisiones 64-67):** una fuente de argumentos aportada por el autor entra
   como **repertorio aleatorio** para encaminar la narrativa según crezca la obra. Registrada como
   **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni correos,
@@ -292,7 +293,10 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       3.055 palabras, 5 secciones, 7,7 % de citas, 0 errores y 0 avisos (decisión 63;
       **pendiente de revisión del autor**).
 - [x] Revisar I.7: **aprobado** el 2026-11-02 (decisión 68).
-- [ ] Contestar las cinco decisiones del dossier de I.8 (§0 nonies) y escribir «El año que no se escribió».
+- [x] Contestar las cinco decisiones del dossier de I.8 (decisión 70) y escribir «El año que no se
+      escribió»: 3.368 palabras, 5 secciones, 3,6 % de citas, 0 errores y 0 avisos (decisión 72;
+      **pendiente de revisión del autor**).
+- [ ] Revisar I.8 y, si se aprueba, escribir I.9 «El anuncio» (bloque I.2).
 - [ ] Escribir E-04 (estudio del blog) cuando se prepare el dossier de I.8: reparto de argumentos en S-04 §6.3 y asignación de cada ocurrencia en el capítulo.
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
@@ -304,10 +308,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-02 (v42, cerrada).
-- Siguiente: **revisar I.7 «Las cuentas»** (escrito el 2026-11-02, pendiente de revisión) y, si se
-  aprueba, **I.8 «El año que no se escribió»**. Punto 1, criterio de selección (punto 3), reparto
-  (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.5 aprobados
-  (I.1 a I.4 publicados); la escritura se comprueba con `escritura/bin/nk`.
+- Última sesión: 2026-11-02 (v47, cerrada).
+- Siguiente: **revisar I.8 «El año que no se escribió»** (escrito el 2026-11-02, pendiente de
+  revisión) y, si se aprueba, **I.9 «El anuncio»**. Punto 1, criterio de selección (punto 3),
+  reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.7
+  aprobados (I.1 a I.4 publicados); la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

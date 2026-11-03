@@ -12,8 +12,15 @@ Sigue I.4: «Capítulo 4. La consola», **2.926 palabras**, aprobado por el auto
 Sigue I.5: «Capítulo 5. El registro», **2.818 palabras**, escrito el 2026-11-01 (decisión 56),
 revisado con el autor (decisión 57) y **aprobado** (decisión 58).
 
-Sigue I.6: «Capítulo 6. Los de fuera», **3.269 palabras**, escrito el 2026-11-01 (decisión 60).
-**Pendiente de revisión del autor.** Dossier de material en `../APUNTES.md` §0 septies.
+Sigue I.6: «Capítulo 6. Los de fuera», **3.269 palabras**, escrito el 2026-11-01 (decisión 60) y
+aprobado el 2026-11-02 (decisión 61). Dossier de material en `../APUNTES.md` §0 septies.
+
+Sigue I.7: «Capítulo 7. Las cuentas», **3.055 palabras**, escrito el 2026-11-02 (decisión 63) y
+aprobado el 2026-11-02 (decisión 68). Dossier en `../APUNTES.md` §0 octies.
+
+Sigue I.8: «Capítulo 8. El año que no se escribió», **3.368 palabras**, escrito el 2026-11-02
+(decisión 72). **Pendiente de revisión del autor.** Cierra el bloque I.1. Dossier en
+`../APUNTES.md` §0 nonies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 
