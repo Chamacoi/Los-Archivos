@@ -793,4 +793,4 @@ su dossier.
 - **Copia de seguridad hecha** (decisión 73, `/mnt/usb`): `los-archivos-2026-11-03-v47.bundle`
   (`git bundle verify`: historia completa; el commit de cierre de esta bitácora es posterior al bundle),
   `...-v47-materiales.tar.gz` (**28 ficheros**) y `...-v47-sinopsis.tar.gz` (**5 ficheros**).
-  `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `1fd0434`.
+  `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `d4c78a7`.
