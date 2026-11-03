@@ -308,7 +308,7 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-02 (v47, cerrada).
+- Última sesión: 2026-11-03 (v47, cerrada).
 - Siguiente: **revisar I.8 «El año que no se escribió»** (escrito el 2026-11-02, pendiente de
   revisión) y, si se aprueba, **I.9 «El anuncio»**. Punto 1, criterio de selección (punto 3),
   reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.7

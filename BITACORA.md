@@ -771,7 +771,7 @@ su dossier.
   Actualizados `APUNTES.md` (§0, §0 nonies y §3), `README.md` y `BITACORA.md`. **Ningún capítulo del
   manuscrito se ha tocado.** Siguiente: escribir I.8.
 
-## v47 — 2026-11-02 (cerrada)
+## v47 — 2026-11-03 (cerrada)
 
 - **I.8 «El año que no se escribió» escrito** (decisión 72), último capítulo del bloque I.1:
   **3.368 palabras** (+11,3 % sobre 3.025), 5 secciones, **3,6 % de palabras en documentos citados**,
