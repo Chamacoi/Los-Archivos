@@ -28,7 +28,7 @@ sostenida entre personas y modelos.
 
 ## Mapa del repositorio
 
-85 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
+86 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
 
 ```
 los-archivos/
@@ -39,10 +39,10 @@ los-archivos/
 ├── libro.json         manifiesto: partes, presupuesto, tolerancia, método, verificaciones
 ├── PERSONAS.md        las once personas, nombres de generación, oficios, qué pierde cada una
 ├── GLOSARIO.md        grafías fijas, tecnicismo y ego, fórmulas, régimen de nombres
-├── FUENTES.md         libro mayor de fuentes (F-1 … F-35) con nivel y fecha
+├── FUENTES.md         libro mayor de fuentes (F-1 … F-36) con nivel y fecha
 ├── CRONOLOGIA.md      el tiempo del mundo del libro y su grado de certeza
-├── ESTUDIOS/          un estudio por sinopsis (E-01, E-02, E-03): el paso previo al capítulo
-├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01..07-capitulo.md (lo escrito)
+├── ESTUDIOS/          un estudio por sinopsis (E-01 … E-03, E-05): paso previo al capítulo
+├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01..08-capitulo.md (lo escrito)
 ├── escritura/         kit novela-kit 1.9.0 vendorizado: bin/nk, METODO/, PROMPTS/,
 │                      PLANTILLAS/, EJEMPLO/, pruebas/, PROTOCOLO.md, install.sh
 ├── .github/workflows/ CI: recuento y verificación en cada push (verificar.yml)

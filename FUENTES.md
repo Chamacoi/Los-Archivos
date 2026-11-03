@@ -45,6 +45,7 @@ texto sin estar aquí. Estado: **abierto**.
 | F-33 | *Panel on Planetary Protection*, COSPAR (copia en `MATERIALES/2026-10-27-cospar-planetary-protection.html`) | política de protección planetaria; marco institucional del debate sobre contaminación lunar | **institucional (COSPAR)** | 2026-10-27 |
 | F-34 | *¿Están los tardígrados colonizando la Luna?*, Laurent Palka (*maître de conférences* del Muséum national d'histoire naturelle), *The Conversation*, 4 mar 2024 (copia en `MATERIALES/2026-10-27-theconversation-tardigrados-luna.html`) | artículo original de F-23; supervivencia al impacto, criptobiosis, imposibilidad de colonización y ética de la contaminación | divulgación académica | 2026-10-27 |
 | F-35 | Fuente de argumentos aportada por el autor (identificada en `SINOPSIS/S-04`, no versionada), 15 entradas del 24 mar al 30 oct 2026 (copia en `MATERIALES/2026-11-02-fuente-de-argumentos.md`) | argumentos y ocurrencias de taller: agentes de IA y redes solo para máquinas, registro del agente, recuperación por *system prompt*, cifrado frente a la indexación, contrato de comunidad, pobreza digital, planos y cuarta coordenada. **No sostiene datos delicados** | **tercer nivel (blog personal; material propio del autor)** | 2026-11-02 |
+| F-36 | *La bola negra (película)* y *La bola negra* (obra teatral), Wikipedia (es) (copias en `MATERIALES/2026-11-03-wikipedia-La_bola_negra_pelicula.json` y `MATERIALES/2026-11-03-wikipedia-La_bola_negra.json`) | película de Calvo y Ambrossi (2026) inspirada en la obra inacabada de Lorca y en *La piedra oscura* de Conejero; trama en 1932, 1937 y 2017; Cannes 21 may 2026 (mejor dirección), salas en España 25 sep 2026, candidata al Óscar. Obra de Lorca: comenzada en 1936, cuatro páginas escritas, título y primera escena conocidos por una carta de 78 líneas a Cipriano Rivas Cherif, 36 personajes previstos, primer protagonista abiertamente homosexual | divulgación | 2026-11-03 |
 
 ## Cierre de fuentes (2026-10-27)
 
@@ -152,3 +153,30 @@ crezca la obra (decisión 64). Ficha completa en `SINOPSIS/S-04-fuente-de-argume
 **Conclusión.** No quedan atribuciones incorrectas conocidas en F-24 a F-34. Las fuentes de nivel
 institucional, primario o con revisión por pares siguen sosteniendo los datos delicados; F-23/F-34
 solo sostienen contexto y la conclusión contraria que el libro debe dejar hablar.
+
+## F-36 — la obra perdida y la forma del archivo (v48, 2026-11-03)
+
+**Qué es.** Dos artículos de Wikipedia en español —«La bola negra (película)» y «La bola negra»
+(obra teatral)— consultados el 2026-11-03 y guardados completos en `MATERIALES/`. Sostienen el
+contexto de la película de Javier Calvo y Javier Ambrossi (2026) y los datos del fragmento de Lorca.
+Ficha completa en `SINOPSIS/S-05-la-bola-negra.md`; estudio en `ESTUDIOS/E-05-la-bola-negra.md`.
+
+**Condiciones de uso fijadas.**
+
+1. **Nivel divulgación.** Sostiene contexto; no sostiene un dato delicado. Si un capítulo afirmara
+   algo sobre la obra de Lorca o sobre la película como hecho, habría que subir de nivel.
+2. **No es hecho de marco.** La película es un hecho de 2026, no del mundo del libro. Nada del
+   manuscrito la menciona y este registro no la introduce en el relato.
+3. **Documento, no dato del narrador.** Si entra en un capítulo, entra como papel citado (cartelera,
+   crítica, nota de prensa) con su fecha, en verdad de superficie y **con sus faltas**
+   («partipaciones», «La Bola Negra»), sin comentario del narrador.
+4. **C-6.** Lorca, Rodríguez Rapún, Conejero, Calvo, Ambrossi y el reparto son personas reales: solo
+   con atribución verificable y sin actos inventados.
+5. **Prohibiciones.** No afirmar que el archivo del libro contiene a Lorca o sus páginas; no
+   atribuir a El Servidor la película, el guion ni el hallazgo; no usar la película como prueba de F
+   ni de C-2.
+6. **No se reproduce texto íntegro.** Paráfrasis y citas breves con esta fila.
+
+**Conclusión.** F-36 no cambia el canon ni el reparto de palabras. Su función es doble: registrar
+una fuente que el autor ha aportado y dejar escrita la explicación de forma (E-05 §4), que es
+argumento de taller y no entra en el texto.

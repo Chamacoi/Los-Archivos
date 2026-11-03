@@ -4,7 +4,17 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión cerrada:** 2026-11-03 (**v47, cerrada**). **I.8 «El año que no se escribió» escrito**
+- **Sesión en curso:** 2026-11-03 (**v48**). **S-05 registrada y E-05 escrito** (decisión 75):
+  *La bola negra* (película de 2026) y el fragmento de Lorca entran como **espejo formal y fuente de
+  argumentos**, no como hecho del mundo. Fuente **F-36** (Wikipedia es; copias en `MATERIALES/`),
+  ficha en `SINOPSIS/S-05-la-bola-negra.md`, estudio de **2.767 palabras** en
+  `ESTUDIOS/E-05-la-bola-negra.md`. La frase del autor —«nuestra historia ya se narra como se da con
+  este tipo de archivos»— se articula en tres lecturas y **se adopta solo la homología de forma**
+  (E-05 §4): se descarta la película como confirmación de C-2 y su entrada en el mundo del libro
+  **por ahora**. Queda fijada la regla de las **dos clases de hoja que faltan** y cinco
+  prohibiciones (C-6). **Ningún capítulo se ha tocado: 8/126, 23.881 palabras.** Cuatro preguntas
+  abiertas al autor en E-05 §7.
+- **Sesión anterior:** 2026-11-03 (**v47, cerrada**). **I.8 «El año que no se escribió» escrito**
   (decisión 72): **3.368 palabras** (+11,3 % sobre 3.025), 5 secciones, **3,6 % de palabras en
   documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Cierra el bloque I.1.
   Escrito con las cinco decisiones del autor (70): **1A** (el año de la plaga, con el bloc de 2020 y
@@ -1054,6 +1064,7 @@ teológico** y tiene que **costar algo**.
 | 73 | Soporte | **Copia de seguridad de la v47** y cierre de sesión: bundle verificado (`1fd0434`, 85 commits), materiales (28 ficheros) y **sinopsis** (5 ficheros) empaquetadas aparte, `SHA-256` comprobado y clon `/mnt/usb/los-archivos-repo` actualizado | 2026-11-03 | Se mantiene el método de la decisión 71: desde la v44 el bundle no lleva `SINOPSIS/`, así que va en su propio tar. Sin push a `origin`: el commit queda en local y en el clon del USB |
 
 | 74 | Escritura | **Confirmación del dictado de I.8:** el segundo «4B» del dictado era un error y corresponde a la **quinta decisión, 5B**. Quedan fijadas **1A, 2C, 3A, 4B y 5B**, que es como está escrito el capítulo: 4B para la puerta al anuncio (la frase del que lleva el registro) y 5B para las fechas (sin fecha explícita) | 2026-11-03 | Cierra la duda anotada en la decisión 70. No hay que corregir I.8: se escribió con 4B y 5B. El capítulo sigue **pendiente de revisión del autor** |
+| 75 | Material | **S-05 y E-05: la obra perdida y la forma del archivo.** *La bola negra* (película de Calvo y Ambrossi, 2026; fragmento de Lorca de 1936) entra como **espejo formal y fuente de argumentos**, **no como hecho del mundo ni canon**: fila **F-36** (Wikipedia es, nivel divulgación; copias en `MATERIALES/`), ficha en `SINOPSIS/S-05` y estudio en `ESTUDIOS/E-05`. De las tres lecturas de la frase del autor —«nuestra historia ya se narra como se da con este tipo de archivos»— se adopta la **homología de forma** (E-05 §4) como **propuesta**; se descartan la película como confirmación de C-2 y su entrada en el mundo del libro por ahora. Queda fijada la distinción de I.8 (**hoja que no se escribió / hoja que no ha llegado**) como regla de escritura y cinco prohibiciones (C-6). **Ningún capítulo se ha tocado.** Preguntas abiertas en E-05 §7 y S-05 §5 | 2026-11-03 | La película es un hecho de 2026, no del relato: nada del manuscrito la menciona. Prohibido afirmar que el archivo contiene a Lorca, atribuir a El Servidor la película o el hallazgo, atribuir actos inventados a personas reales y usar el estreno como prueba de F. El estudio no cambia el canon, el reparto de palabras ni la cola de trabajo: sigue **I.8 pendiente de revisión** e **I.9** después |
 
 ---
 

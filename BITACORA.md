@@ -795,3 +795,20 @@ su dossier.
   (`git bundle verify`: historia completa; el commit de cierre de esta bitácora es posterior al bundle),
   `...-v47-materiales.tar.gz` (**28 ficheros**) y `...-v47-sinopsis.tar.gz` (**5 ficheros**).
   `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main`.
+
+## v48 — 2026-11-03 (abierta)
+
+- **S-05 registrada y E-05 escrito** (decisión 75): *La bola negra*, la película de Calvo y Ambrossi
+  (2026) y el fragmento teatral de Lorca de 1936, entran como **espejo formal y fuente de
+  argumentos**, **no como hecho del mundo**. Fuente **F-36** (Wikipedia es, nivel divulgación;
+  copias en `MATERIALES/`), ficha en `SINOPSIS/S-05-la-bola-negra.md` y estudio de **2.767 palabras**
+  en `ESTUDIOS/E-05-la-bola-negra.md`.
+- **La explicación del autor, articulada:** «nuestra historia ya se narra como se da con este tipo de
+  archivos» se lee de tres maneras y se adopta solo la **homología de forma** (fragmento + carta +
+  herencia + presente que investiga); se descarta la película como confirmación de C-2 y su entrada
+  en el mundo del libro por ahora. Queda fijada la distinción de I.8 —**hoja que no se escribió /
+  hoja que no ha llegado**— como regla, y cinco prohibiciones (C-6, punto 3).
+- **Ningún capítulo se ha tocado: 8/126, 23.881 palabras.** Actualizados `APUNTES.md` (§0 y §3),
+  `FUENTES.md`, `ESTUDIOS/00-indice.md`, `SINOPSIS/00-indice.md` y `README.md`. Cuatro preguntas
+  abiertas al autor en E-05 §7 (confirmar la lectura de §4, si la película entra como documento, la
+  grafía en el glosario y si 1936 se anota en la cronología). Siguiente: **la revisión de I.8**.
