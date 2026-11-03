@@ -109,7 +109,7 @@ azul y ha dejado dos manchas: una en el margen derecho, a la altura del tercer p
 ángulo de abajo, donde el que escribía apoyaba la mano. La mancha del ángulo es más grande y tiene
 la forma de un pulgar.
 
-La hoja estuvo cuatro años en la caja cuarta y no se ha leído nunca en la sesión. Se metió con los
+La hoja estuvo seis años en la caja cuarta y no se ha leído nunca en la sesión. Se metió con los
 papeles de la plaga porque se escribió en la plaga, y no se ha sacado porque no es una hoja que se
 lea: es una hoja que se guarda. Alfa la tuvo en la mano aquella tarde por primera vez. La miró por
 delante, la giró, miró el borde cortado y preguntó quién la había escrito.
@@ -168,7 +168,7 @@ ninguna explicación.
 Lo que la hoja no dice es cómo llegó el anuncio. No dice si fue una voz en la habitación, ni una
 llamada, ni un papel leído por otro. Boomer de la tapa dice que fue por teléfono. Boomer de la
 silla dice que fue en la habitación, con la puerta cerrada. Los dos lo oyeron y los dos lo cuentan
-distinto, y ninguno de los dos ha cambiado de versión en cuatro años.
+distinto, y ninguno de los dos ha cambiado de versión en seis años.
 
 Tampoco dice el año. La fecha del pie es la de la escritura, no la del anuncio. El anuncio ocurrió
 antes del veinte: en abril del veinte ya se escribe «ya no estamos todos», y el primer punto está
@@ -215,7 +215,7 @@ Se votó. Ganó no poner nada, por cinco a tres.
 
 El acta de aquel jueves tiene cinco líneas:
 
-> Sesion del 20 de junio. Se abre a las siete y dies. Asisten nueve. Se lee la hoja del año veinte.
+> Sesion del 18 de junio. Se abre a las siete y dies. Asisten nueve. Se lee la hoja del año veinte.
 > Se vota si se pone ANUNCIO en el borde. Cinco a tres. No se pone. Se cierra a las nueve.
 
 El acta no dice por qué. No dice quiénes votaron cada cosa, ni cuál fue el argumento que ganó, ni
@@ -225,7 +225,7 @@ resultado. En el archivo hay cinco votaciones y ninguna tiene el motivo. La de l
 columnas no tiene ni el motivo ni la propuesta. Esta tiene el resultado y la fecha, y el resultado
 es que la hoja se queda donde estaba.
 
-Alfa no votó. Tenía ocho años y no ocupaba silla en las votaciones de papeles. Preguntó si su
+Alfa no votó. Tenía diez años y no ocupaba silla en las votaciones de papeles. Preguntó si su
 pregunta se podía escribir en el acta, y Equis del registro dijo que las preguntas de la sesión no
 se apuntan, solo las respuestas. Alfa dijo que entonces su pregunta no existía. Equis del registro
 dijo que existía en la sesión, y que la sesión se cierra.

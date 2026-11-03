@@ -827,12 +827,13 @@ su dossier.
   casa cerrada, con el borde superior recortado con tijera (quedan tres letras y media de un
   membrete) y el encabezamiento «ESTO NO ES EL ANUNCIO. ES LO QUE NOS ACORDAMOS». Cuatro puntos, con
   **«queda» tachado y corregido a «hay» con otra tinta** y un «¿cuándo?» a lápiz sin respuesta; una
-  votación del **20 de junio de 2024** que decide no rotularla «ANUNCIO» (cinco a tres, sin motivo en
+  votación del **18 de junio de 2026** que decide no rotularla «ANUNCIO» (cinco a tres, sin motivo en
   el acta); El Servidor no resuelve: «El borde está cortado». **No se fija el año del anuncio**, no
   se cuenta cómo llegó y no se toca ningún capítulo aprobado.
-- **Discrepancia anotada, no resuelta:** I.6 fecha el presente en 2026 («tenía dos años», «este
-  abril») y la decisión 62 en junio de 2024. I.9 se escribe con **junio de 2024** y queda en §0
-  decies para que el autor decida si se corrige I.6 o se revisa `PERSONAS.md`.
+- **Discrepancia resuelta por el autor (decisión 80):** el presente es **2026** y se revisa
+  `PERSONAS.md`, no I.6. Se sustituye el «junio de 2024» de la decisión 62 (error de cálculo) y I.9
+  se corrige a **junio de 2026** (acta del 18, «seis años», Alfa con diez). Queda anotada una errata
+  conocida de I.7: su acta del «13 de junio» cae en sábado en 2026, y el capítulo aprobado no se toca.
 - **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
   `nk informe` → 10/126, 26.896 palabras. Actualizados `APUNTES.md` (§0 y §3), `README.md`,
   `MANUSCRITO/00-LEEME.md` y `BITACORA.md`. **I.9 pendiente de revisión del autor.**

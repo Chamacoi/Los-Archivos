@@ -87,9 +87,24 @@ Reglas de uso (C-6 y decisión 31):
 4. El Servidor no pertenece a ninguna cohorte, y ese es un dato narrativo: **el que no tiene edad
    es el que habla con todas**.
 
+### El presente del relato (fijado el 2026-11-03, decisión 80)
+
+- **El presente es 2026.** Las edades de la tabla se calculan para 2026: Alfa, nacida en 2016,
+  tiene diez años. I.7, I.8 e I.9 ocurren en junio de 2026.
+- **Sustituye la fecha de la decisión 62** («junio de 2024»), que fue un error de cálculo y no un
+  mundo distinto: el resto de la decisión 62 (cuota, desacuerdo, recado del caldo, papeles de la
+  plaga) queda como está.
+- **Las actas no llevan año** (I.8). Una fecha sin año **no es una fecha del mundo**: es una fecha
+  del archivo. Por eso el narrador no la convierte en año ni la usa para fechar el presente.
+- **Consecuencia de escritura:** un capítulo que narra «ahora» está en 2026. Los hechos datados sin
+  año se citan tal como constan, sin completarlos.
+- **Errata conocida, sin tocar:** el acta de I.7 dice «13 de junio», que en 2026 cae en sábado. El
+  capítulo está aprobado y no se cambia (regla del proyecto); queda anotado para que el autor
+  decida si se corrige en una revisión o si se deja como fecha de archivo.
+
 ### Las once fichas
 
-Edad referida a un presente aproximado de 2026. «Qué pierde» es obligatorio: ningún papel está
+Edad referida al presente del relato, fijado en **2026** (decisión 80). «Qué pierde» es obligatorio: ningún papel está
 solo para poblar.
 
 | # | Nombre | Gen. | Nac. | Edad | Oficio en la casa | Qué sabe / qué no | Qué pierde |
