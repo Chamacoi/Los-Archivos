@@ -796,7 +796,7 @@ su dossier.
   `...-v47-materiales.tar.gz` (**28 ficheros**) y `...-v47-sinopsis.tar.gz` (**5 ficheros**).
   `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main`.
 
-## v48 — 2026-11-03 (abierta)
+## v48 — 2026-11-03 (cerrada)
 
 - **S-05 registrada y E-05 escrito** (decisión 75): *La bola negra*, la película de Calvo y Ambrossi
   (2026) y el fragmento teatral de Lorca de 1936, entran como **espejo formal y fuente de
@@ -818,3 +818,21 @@ su dossier.
   escritura** (P1-P9) con **reparto por bloque**, **tope por capítulo** y línea obligatoria en el
   dossier de cada capítulo (E-05 §6). El estudio pasa de 2.767 a **3.634 palabras**. No entra en el
   mundo del libro, 1936 no va a la cronología y la grafía no se fija. **8/126, 23.881 palabras.**
+
+- **I.8 aprobado** por el autor sin correcciones (decisión 77) e **I.9 «La hoja de oído» escrito**
+  (decisión 78), primero del bloque I.2: **3.015 palabras** (−0,3 % sobre 3.025), 5 secciones,
+  ≈5 % de citas, 0 errores y 0 avisos. **10/126 capítulos, 26.896 palabras.**
+- **Qué cuenta I.9 con tres prácticas de E-05** (P2, P5, P8): el anuncio **no se escribió, se oyó**;
+  lo que hay es una hoja de **abril de 2020**, escrita de memoria por el que lleva el registro en la
+  casa cerrada, con el borde superior recortado con tijera (quedan tres letras y media de un
+  membrete) y el encabezamiento «ESTO NO ES EL ANUNCIO. ES LO QUE NOS ACORDAMOS». Cuatro puntos, con
+  **«queda» tachado y corregido a «hay» con otra tinta** y un «¿cuándo?» a lápiz sin respuesta; una
+  votación del **20 de junio de 2024** que decide no rotularla «ANUNCIO» (cinco a tres, sin motivo en
+  el acta); El Servidor no resuelve: «El borde está cortado». **No se fija el año del anuncio**, no
+  se cuenta cómo llegó y no se toca ningún capítulo aprobado.
+- **Discrepancia anotada, no resuelta:** I.6 fecha el presente en 2026 («tenía dos años», «este
+  abril») y la decisión 62 en junio de 2024. I.9 se escribe con **junio de 2024** y queda en §0
+  decies para que el autor decida si se corrige I.6 o se revisa `PERSONAS.md`.
+- **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
+  `nk informe` → 10/126, 26.896 palabras. Actualizados `APUNTES.md` (§0 y §3), `README.md`,
+  `MANUSCRITO/00-LEEME.md` y `BITACORA.md`. **I.9 pendiente de revisión del autor.**

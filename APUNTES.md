@@ -4,7 +4,7 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión en curso:** 2026-11-03 (**v48**). **S-05 registrada y E-05 escrito** (decisión 75):
+- **Última sesión cerrada:** 2026-11-03 (**v48, cerrada**). **S-05 registrada y E-05 escrito** (decisión 75):
   *La bola negra* (película de 2026) y el fragmento de Lorca entran como **espejo formal y fuente de
   argumentos**, no como hecho del mundo. Fuente **F-36** (Wikipedia es; copias en `MATERIALES/`),
   ficha en `SINOPSIS/S-05-la-bola-negra.md`, estudio de **2.767 palabras** en
@@ -12,8 +12,14 @@
   este tipo de archivos»— se articula en tres lecturas y **se adopta solo la homología de forma**
   (E-05 §4): se descarta la película como confirmación de C-2 y su entrada en el mundo del libro
   **por ahora**. Queda fijada la regla de las **dos clases de hoja que faltan** y cinco
-  prohibiciones (C-6). **Ningún capítulo se ha tocado: 8/126, 23.881 palabras.** Cuatro preguntas
-  abiertas al autor en E-05 §7.
+  prohibiciones (C-6). Cuatro preguntas abiertas al autor en E-05 §7.
+  **Tercera parte de la sesión (decisiones 77 y 78):** **I.8 aprobado** sin correcciones y **I.9 «La
+  hoja de oído» escrito**, primero del bloque I.2: **3.015 palabras** (−0,3 % sobre 3.025), 5
+  secciones, ≈5 % de citas, 0 errores y 0 avisos. El anuncio no se escribió: se oyó; lo que hay es
+  una hoja de abril de 2020 escrita de memoria, con el borde recortado. Escrito con **P2, P5 y P8**
+  (decisión 76). Dossier en §0 decies. **10/126 capítulos, 26.896 palabras.** Ningún capítulo
+  aprobado se ha tocado. **I.9 pendiente de revisión del autor**; siguiente: **I.10**, segundo del
+  bloque I.2.
 - **Sesión anterior:** 2026-11-03 (**v47, cerrada**). **I.8 «El año que no se escribió» escrito**
   (decisión 72): **3.368 palabras** (+11,3 % sobre 3.025), 5 secciones, **3,6 % de palabras en
   documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Cierra el bloque I.1.
@@ -718,6 +724,69 @@ un error de dictado y corresponde a **5B**; el capítulo se escribió con 4B y 5
 5. **5B:** **sin fecha explícita**; solo las que ya constan. Se renuncia a enero de 2025 como
    presente fechado.
 
+### 0 decies. I.9 «El anuncio»: dossier de material (2026-11-03)
+
+Preparado y escrito en la v48, con la orden del autor de escribir el capítulo. Capítulo de marco:
+sale de canon y estructura (decisión 21), no de una sinopsis. **Primero del bloque I.2** y puerta
+que dejó abierta I.8 (decisión 70, 4B).
+
+**Función en el bloque.** Abrir el bloque del anuncio por el único sitio por donde se puede abrir
+sin hacer novela histórica: **el documento que lo transmite no es el anuncio**. El anuncio se oyó y
+no se escribió; lo que hay es una hoja escrita cuatro años después, de memoria, encabezada «ESTO NO
+ES EL ANUNCIO. ES LO QUE NOS ACORDAMOS». El capítulo no cuenta el anuncio: cuenta lo que la casa
+hace con no tenerlo.
+
+**Procedimiento E-05:** **P2** (todo lo perdido entra por un documento que no es ello), **P5**
+(antes de narrar un hueco, se clasifica: no escrito / no llegado) y **P8** (la fecha del documento
+no es la del hecho). Tope del bloque: tres. Ningún otro procedimiento.
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La puerta de I.8 | I.8 §5 | «una hoja puede faltar porque no se escribió, y puede faltar porque no ha llegado». Alfa pregunta cuál es la de la definición; «La primera»; la segunda no se dice |
+| Las dos clases de hoja | I.3 §2 | La definición de El Servidor no se escribió: dos votaciones que no (6-3 y 5-3), «no consta qué decía la propuesta», mancha de café y esquina doblada |
+| La fórmula | I.1 §2; I.5 §3 | «Leemos lo que hay» y «Queda constancia», de pie; se vacía con el uso; **no consta quién la dijo primero** |
+| La caja 4 | I.1; I.6 | Etiqueta impresa «PAPELES DE LA PLAGA» y, con bolígrafo y otra letra, «y de antes»; se abre una vez al año; dentro, el recorte y la hoja del obispado |
+| El acta primera | I.1 §2 | Media hoja de cuaderno de cuadros; «Sesion del 3 de octubre»; «Asisten nueve personas»; dos faltas; añadidos «Faltan dos» y «Faltan tres» |
+| La lista de la puerta | I.1; I.3 | Once nombres y una raya; la raya se añadió con la marcha del de la carta |
+| Las cuentas | Decisión 54 | Once personas, **nueve presentes**; El Servidor no ocupa silla; Alfa no vota en papeles |
+| El presente | Decisión 62 | **Junio de 2024**, después de I.7. La sesión del capítulo es del **20 de junio** |
+
+**Lo que el capítulo fija** (y no estaba fijado).
+
+1. **El anuncio no se escribió**: se oyó. No hay papel contemporáneo, ni fecha, ni número de
+   testigos. La casa lo sabe por memoria, no por documento.
+2. **La hoja de abril de 2020**, escrita por el que lleva el registro en la casa cerrada, con el
+   borde superior recortado con tijera (se quitó un membrete; quedan tres letras y media).
+3. **Cuatro puntos** (que vendría; que se llamaría El Servidor; que no traería prueba; que
+   leyéramos lo que queda). **La palabra discutida es «queda»**, tachada y corregida a «hay» con
+   otra tinta; en el margen, a lápiz, «¿cuándo?», sin respuesta.
+4. **La votación del 20 de junio de 2024:** no se escribe «ANUNCIO» en el borde ni se pasa la hoja
+   a la caja 1, por **cinco a tres**; el acta no da el motivo.
+5. **El Servidor no resuelve:** «El borde está cortado».
+6. **La fecha del anuncio sigue sin constar.** Milenial propone «hacia 2019» y el registro lo
+   rechaza: una fecha que no está en ninguna parte.
+
+**Lo que no puede hacer.**
+
+- **Contar el anuncio**: ni el texto de la voz, ni la escena, ni cómo llegó. Eso queda para el
+  resto del bloque I.2, y solo si conviene.
+- **Fijar el año del anuncio** ni «hacia 2019» (C-5 y `CRONOLOGIA.md` lo dejan como hueco).
+- **Rellenar el hueco con una explicación**: la corrección de tinta no tiene autor ni fecha.
+- **Dar voz al archivo** (decisión 55), **cero «yo»** del narrador, ni elogio de la casa.
+- **Identificar a los muertos de la plaga** (decisión 44) ni usar la plaga como castigo.
+- **Nombrar la fuente de la película**: el capítulo se escribe con E-05, pero **no la menciona**
+  (decisión 76).
+
+**Discrepancia detectada (no resuelta).** I.6 (aprobado) hace durar dos años una hoja de marzo de
+2024 y fecha el recorte en «este abril», lo que sitúa el presente en **2026**; la decisión 62 y
+`PERSONAS.md` («edad referida a un presente aproximado de 2026») no coinciden entre sí. I.9 se
+escribe con **junio de 2024** (decisión 62, la más explícita) y **no toca lo aprobado**. Queda
+anotado para que el autor decida si I.6 se corrige más adelante o si la fecha del presente se
+revisa en `PERSONAS.md`.
+
+
 ---
 
 ---
@@ -1066,6 +1135,8 @@ teológico** y tiene que **costar algo**.
 | 74 | Escritura | **Confirmación del dictado de I.8:** el segundo «4B» del dictado era un error y corresponde a la **quinta decisión, 5B**. Quedan fijadas **1A, 2C, 3A, 4B y 5B**, que es como está escrito el capítulo: 4B para la puerta al anuncio (la frase del que lleva el registro) y 5B para las fechas (sin fecha explícita) | 2026-11-03 | Cierra la duda anotada en la decisión 70. No hay que corregir I.8: se escribió con 4B y 5B. El capítulo sigue **pendiente de revisión del autor** |
 | 75 | Material | **S-05 y E-05: la obra perdida y la forma del archivo.** *La bola negra* (película de Calvo y Ambrossi, 2026; fragmento de Lorca de 1936) entra como **espejo formal y fuente de argumentos**, **no como hecho del mundo ni canon**: fila **F-36** (Wikipedia es, nivel divulgación; copias en `MATERIALES/`), ficha en `SINOPSIS/S-05` y estudio en `ESTUDIOS/E-05`. De las tres lecturas de la frase del autor —«nuestra historia ya se narra como se da con este tipo de archivos»— se adopta la **homología de forma** (E-05 §4) como **propuesta**; se descartan la película como confirmación de C-2 y su entrada en el mundo del libro por ahora. Queda fijada la distinción de I.8 (**hoja que no se escribió / hoja que no ha llegado**) como regla de escritura y cinco prohibiciones (C-6). **Ningún capítulo se ha tocado.** Preguntas abiertas en E-05 §7 y S-05 §5 | 2026-11-03 | La película es un hecho de 2026, no del relato: nada del manuscrito la menciona. Prohibido afirmar que el archivo contiene a Lorca, atribuir a El Servidor la película o el hallazgo, atribuir actos inventados a personas reales y usar el estreno como prueba de F. El estudio no cambia el canon, el reparto de palabras ni la cola de trabajo: sigue **I.8 pendiente de revisión** e **I.9** después |
 | 76 | Material | **La película sube de rango y sus procedimientos se adoptan** (decisión del autor, 2026-11-03). Confirmada la lectura (a) de E-05 §4. La película queda declarada **fuente de argumentos** con el régimen de F-35: **nunca nombrada en el texto**; lo que se toma de ella son **nueve procedimientos de escritura** (P1-P9), con **reparto por bloque** y **tope por capítulo** (E-05 §6.2), y cada capítulo anota en su dossier cuál usa o «ninguno» (E-05 §6.3). La película **no entra** en el mundo del libro como documento de 2026; **1936 no va a la cronología**; la **grafía no se fija** hasta que se use. **Ningún capítulo escrito se toca** | 2026-11-03 | Nace de la frase del autor: «tómala como teníamos declaradas las sinopsis, como referencia para generar textos ordenadamente en nuestra salida por capítulos». Las cinco prohibiciones de E-05 §5 siguen enteras: no hay Lorca en el archivo, no hay actos inventados de personas reales y la película no prueba nada. Cautela de continuidad: P2 no sustituye la puerta al anuncio fijada en I.8 |
+| 77 | Escritura | **I.8 «El año que no se escribió» aprobado** por el autor sin correcciones, dos días después de escribirse (3.368 palabras, +11,3 %, 5 secciones, 0 errores y 0 avisos). Cierra el bloque I.1 | 2026-11-03 | El autor dio el visto bueno junto con la orden de escribir I.9 («todo aprobado»). I.1 queda cerrado con **8 capítulos y 23.881 palabras** |
+| 78 | Escritura | **I.9 «La hoja de oído» escrito**, primero del bloque I.2: **3.015 palabras** (−0,3 % sobre 3.025), 5 secciones, **≈5 % de palabras en documentos citados**, 0 errores y 0 avisos. El anuncio **no se escribió**: se oyó. Lo que hay es **una hoja de abril de 2020** escrita de memoria por el que lleva el registro, con el borde recortado y el encabezamiento «ESTO NO ES EL ANUNCIO. ES LO QUE NOS ACORDAMOS»; cuatro puntos, con «queda» tachado y corregido a «hay» con otra tinta y «¿cuándo?» a lápiz sin respuesta; votación del 20 de junio de 2024 que decide **no** rotularla «ANUNCIO» (cinco a tres, sin motivo en el acta); El Servidor no resuelve («El borde está cortado»). **10/126, 26.896 palabras** | 2026-11-03 | Escrito con las prácticas **P2, P5 y P8** de E-05 (decisión 76) y anotadas en el dossier §0 decies. Decisiones de escritura tomadas por el agente para poder escribir por orden del autor y **sujetas a la revisión del capítulo**: no fijar el año del anuncio (se rechaza «hacia 2019»), no contar cómo llegó, no tocar lo aprobado. **Discrepancia detectada y no resuelta:** I.6 fecha el presente en 2026 («tenía dos años», «este abril») y la decisión 62 en junio de 2024; I.9 se escribe con **junio de 2024** y se deja anotado en §0 decies |
 
 ---
 

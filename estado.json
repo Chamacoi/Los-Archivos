@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 8,
-  "palabras": 23881,
+  "escritos": 9,
+  "palabras": 26896,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 8,
-      "palabras": 23881
+      "escritos": 9,
+      "palabras": 26896
     },
     {
       "id": "II",
@@ -109,11 +109,11 @@
     },
     {
       "id": "I.9",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "La hoja de oído",
+      "escrito": true,
+      "palabras": 3015,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": -0.0033,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/09-capitulo.md"
     },
@@ -1289,7 +1289,7 @@
     }
   ],
   "tareas_abiertas": [
-    "Contestar las cinco decisiones del dossier de I.8 (§0 nonies) y escribir «El año que no se escribió».",
+    "Revisar I.8 y, si se aprueba, escribir I.9 «El anuncio» (bloque I.2).",
     "Escribir E-04 (estudio del blog) cuando se prepare el dossier de I.8: reparto de argumentos en S-04 §6.3 y asignación de cada ocurrencia en el capítulo.",
     "Revisar el efecto antes de escalar al total.",
     "Títulos definitivos de las partes y de los capítulos (los de trabajo son «Los que oyeron» y",

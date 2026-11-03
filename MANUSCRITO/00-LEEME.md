@@ -19,8 +19,12 @@ Sigue I.7: «Capítulo 7. Las cuentas», **3.055 palabras**, escrito el 2026-11-
 aprobado el 2026-11-02 (decisión 68). Dossier en `../APUNTES.md` §0 octies.
 
 Sigue I.8: «Capítulo 8. El año que no se escribió», **3.368 palabras**, escrito el 2026-11-02
-(decisión 72). **Pendiente de revisión del autor.** Cierra el bloque I.1. Dossier en
+(decisión 72) y **aprobado el 2026-11-03** (decisión 77). Cierra el bloque I.1. Dossier en
 `../APUNTES.md` §0 nonies.
+
+Empieza I.2: «Capítulo 9. La hoja de oído», **3.015 palabras**, escrito el 2026-11-03 (decisión 78),
+con las prácticas P2, P5 y P8 de E-05 (decisión 76). **Pendiente de revisión del autor.** Dossier en
+`../APUNTES.md` §0 decies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 

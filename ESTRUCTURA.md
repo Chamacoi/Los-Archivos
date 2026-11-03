@@ -167,6 +167,7 @@ Los números de esta tabla los escribe `escritura/bin/nk contar --actualizar` en
 | I.6 | 3.269 | 3.025 | +8,1 % | 17.458 / 190.552 |
 | I.7 | 3.055 | 3.025 | +1,0 % | 20.513 / 190.552 |
 | I.8 | 3.368 | 3.025 | +11,3 % | 23.881 / 190.552 |
+| I.9 | 3.015 | 3.025 | -0,3 % | 26.896 / 190.552 |
 <!-- /nk:recuento -->
 
 La desviación se anota; no se compensa alargando el capítulo siguiente. El acumulado de la parte

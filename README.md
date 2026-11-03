@@ -28,7 +28,7 @@ sostenida entre personas y modelos.
 
 ## Mapa del repositorio
 
-86 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
+87 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
 
 ```
 los-archivos/
@@ -42,7 +42,7 @@ los-archivos/
 ├── FUENTES.md         libro mayor de fuentes (F-1 … F-36) con nivel y fecha
 ├── CRONOLOGIA.md      el tiempo del mundo del libro y su grado de certeza
 ├── ESTUDIOS/          un estudio por sinopsis (E-01 … E-03, E-05): paso previo al capítulo
-├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01..08-capitulo.md (lo escrito)
+├── MANUSCRITO/        el texto: 00-LEEME y 01-parte-I/01..09-capitulo.md (lo escrito)
 ├── escritura/         kit novela-kit 1.9.0 vendorizado: bin/nk, METODO/, PROMPTS/,
 │                      PLANTILLAS/, EJEMPLO/, pruebas/, PROTOCOLO.md, install.sh
 ├── .github/workflows/ CI: recuento y verificación en cada push (verificar.yml)
