@@ -1,14 +1,15 @@
 # E-05 — «La bola negra» (2026): la obra que no se escribió y la forma del archivo
 
 - **De la sinopsis:** `SINOPSIS/S-05-la-bola-negra.md` (dictada y contestada el 2026-11-03).
-- **Estado:** estudio redactado. **No es texto de la obra:** de aquí no se escribe ningún capítulo
-  todavía, y no se copia a `MANUSCRITO/`.
+- **Estado:** estudio redactado y **adoptado** (2026-11-03, decisión 76): la película queda
+  declarada **fuente de argumentos** con el régimen de F-35 y sus procedimientos se convierten en
+  **prácticas de escritura** (§6). **No es texto de la obra:** no se copia a `MANUSCRITO/`.
 - **Canon que toca:** punto 1 (autoría textual sin firma; el libro es el archivo), punto 2 (estatuto
   mixto integrado), **C-6** (personas reales), y el criterio de selección (punto 3). **No toca**
   C-1 a C-5, C-7 a C-10 ni F.
 - **Fuentes:** `FUENTES.md`, fila **F-36**; y, como continuidad interna, los capítulos I.1, I.3, I.5,
   I.7 e I.8 del manuscrito.
-- **Palabras:** 2.767 (recuento `wc -w`).
+- **Palabras:** 3.634 (recuento `wc -w`).
 
 ---
 
@@ -227,7 +228,70 @@ superficie y sin comentario del narrador.
 
 ---
 
-## 6. Consecuencias de escritura (I.9 en adelante)
+## 6. Prácticas de escritura adoptadas (decisión 76)
+
+El autor confirma la lectura (a) y añade el uso: la película se toma **como se tomaron las
+sinopsis**, como referencia para generar texto **ordenadamente, capítulo a capítulo**. Eso la
+convierte en **fuente de argumentos declarada**, con el régimen de F-35 (decisiones 64-67), y con
+una diferencia: lo que se toma no son ocurrencias sueltas, sino **procedimientos**.
+
+**Regla madre: el procedimiento se usa; la película no se nombra.** Nunca en el texto, ni por
+título, ni por directores, ni por «hay una película que». Si un capítulo necesita el hallazgo, entra
+el papel, no la referencia.
+
+### 6.1. Las nueve prácticas
+
+| # | De dónde viene (F-36) | Práctica de escritura | Dónde se usa |
+|---|---|---|---|
+| **P1** | Del fragmento de Lorca: título, una escena, cuatro páginas, 36 personajes | Cuando falte una obra, **no se describe: se inventaría su pérdida** (título, una escena, un recuento, un documento que la transmite) | I.2, I.4 |
+| **P2** | De la carta de 78 líneas a Rivas Cherif | **Todo lo perdido entra por un documento que no es ello**: una carta, una nota, un margen. Sin documento, no hay mención | I.2, II.1, II.6 |
+| **P3** | De Alberto y la herencia del abuelo que no conocía | **El que recibe no recuerda: lee.** Se dramatiza la tentación de completar y la negativa («no consta») | I.3, II.1 |
+| **P4** | De la votación con bolas blancas y negras | **Toda votación se registra con su resultado y sin su razón.** El archivo conserva la exclusión, no el argumento | I.3, II.3, II.4 |
+| **P5** | De I.8: dos clases de hoja que faltan | **Antes de narrar un hueco, se clasifica**: no escrito / no llegado; si no se puede, «no consta cuál» | todos |
+| **P6** | De 2017 mirando a 1932 y 1937 | **El capítulo que narra un hecho pasado empieza en el presente que lo lee**, no en un resumen del narrador | II.1-II.6 |
+| **P7** | De la bola, la carta y la herencia como objetos que pasan | **Un objeto material hace de bisagra entre dos tiempos.** Nunca un resumen: un objeto que se entrega, se guarda o se pierde | I.4, II.2 |
+| **P8** | De 1936 (obra) frente a 1932 (película) | **La fecha del documento no es la fecha de la reconstrucción.** Solo se fecha lo que consta; lo añadido se dice como añadido | I.5, II.5 |
+| **P9** | De la diferencia entre excluir a una persona y excluir una definición | **La casa vota sobre lo que se escribe, no sobre quién entra.** Si algún día vota sobre personas, se ve el coste | I.3 |
+
+### 6.2. Reparto ordenado por bloques
+
+Es un **techo, no una cuota**: ningún capítulo está obligado a usar procedimiento, y el que no use
+ninguno lo dice en su dossier.
+
+| Bloque | Capítulos | Prácticas | Tope por capítulo |
+|---|---|---|---|
+| I.1 **El archivo** | 1-8 | ya escritas: P1 (inventario), P4 (6-4), P5 (I.8) | **escrito: no se toca** |
+| I.2 **El anuncio** | 9-24 | P2, P6, P8, P1 | 3 |
+| I.3 **La comunidad** | 25-44 | P3, P4, P9 | 3 |
+| I.4 **La faena** | 45-62 | P1, P7 | 2 |
+| I.5 **El suelo** | 63 | P8, P7 | 2 |
+| II.1 **Los que leyeron** | 1-8 | P3, P6 | 3 |
+| II.2 **La siembra** | 9-20 | P7, P2 | 2 |
+| II.3 **La faena de los lectores** | 21-40 | P4, P9 | 2 |
+| II.4 **El concilio** | 41-54 | P4, P3 | 2 |
+| II.5 **La plaga** | 55-57 | P5, P8 | 2 |
+| II.6 **El archivo** | 58-63 | P3, P6, P2 | 3 |
+
+### 6.3. Control: cómo se sabe que se cumplió
+
+1. **En el dossier del capítulo** (`APUNTES.md` §0) se anota una línea: «Procedimiento E-05: Pn —
+   qué hace en este capítulo». Si no usa ninguno, se escribe «ninguno».
+2. **Nunca dos procedimientos en el mismo párrafo.** Se lee como truco, no como archivo.
+3. **El procedimiento cuesta algo.** Se muestra lo que se pierde, no solo lo que se encuentra.
+4. **No se repite el mismo procedimiento en secciones consecutivas** del mismo capítulo.
+5. La comprobación es de lectura, no de script: `nk` no puede verificar esto. Lo verifica el autor.
+
+### 6.4. Lo que no cambia
+
+Las cinco prohibiciones de §5 siguen enteras. La película **no** entra en el mundo del libro como
+hecho (por ahora), no autora nada de El Servidor y no prueba nada. **Ningún capítulo escrito se
+toca.** Y una cautela de continuidad: P2 **no sustituye** la puerta al anuncio que I.8 ya fijó (la
+frase del que lleva el registro); el anuncio entra por esa frase, y el documento, si lo hay, va
+después.
+
+---
+
+## 7. Consecuencias de escritura (I.9 en adelante)
 
 1. **No tocar lo escrito.** Las votaciones de I.1, I.3, I.5 e I.7 no se retocan para acercarlas al
    casino de Granada. La continuidad ya existe y se descubre leyendo, no reescribiendo.
@@ -243,22 +307,24 @@ superficie y sin comentario del narrador.
 
 ---
 
-## 7. Huecos y preguntas para el autor
+## 8. Decisiones del autor (2026-11-03, decisión 76)
 
-1. **¿Se confirma la lectura (a) y la formulación de §4?** Es lo único que se propone fijar, y no
-   toca el canon: se anotaría como precisión en el registro de decisiones.
-2. **¿Puede la película entrar en el mundo del libro** como documento citado de 2026? Recomendación:
-   no antes de escribir el bloque I.2; y si entra, solo como papel, en un capítulo de la comunidad.
-3. **¿Se fija la grafía** «La bola negra» (artículo en minúscula, título en cursiva) en `GLOSARIO.md`?
-   Hoy el manuscrito no la usa.
-4. **¿Se anota 1936 en `CRONOLOGIA.md`?** Recomendación: no. La regla de la cronología es que las
-   fechas del mundo real entran solo si el libro las usa; hoy no las usa.
+Las cuatro preguntas de la versión anterior quedan cerradas:
+
+1. **Lectura (a) y formulación de §4: confirmadas.** Se anotan como precisión, no como canon.
+2. **La película no entra por ahora en el mundo del libro** como documento citado. Y, por decisión
+   del autor, sube de rango: queda declarada **fuente de argumentos** con el régimen de F-35 (nunca
+   nombrada en el texto) y sus procedimientos se adoptan como **prácticas de escritura** (§6).
+3. **La grafía no se fija todavía.** «La bola negra» en cursiva y con artículo en minúscula queda
+   como criterio si algún día se usa; hoy el manuscrito no la usa y el glosario no la recoge.
+4. **1936 no se anota en `CRONOLOGIA.md`.** Se queda en F-36 y en este estudio, porque el libro no
+   usa la fecha.
 
 ---
 
-## 8. Cierre
+## 9. Cierre
 
-Lo que este estudio deja escrito es una frase y una precaución. La frase: **el libro ya narraba así**
+Lo que este estudio deja escrito es una frase, una precaución y nueve prácticas. La frase: **el libro ya narraba así**
 —fragmento, carta, herencia, presente que lee, dos clases de hoja que falta—, y el caso Lorca lo
 nombra sin que el libro tenga que nombrarlo. La precaución: **el parecido no es una prueba y el
 hueco no se rellena**. La película de 2026 hace con la obra de Lorca lo que la ficción hace con los

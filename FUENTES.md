@@ -176,7 +176,12 @@ Ficha completa en `SINOPSIS/S-05-la-bola-negra.md`; estudio en `ESTUDIOS/E-05-la
    atribuir a El Servidor la película, el guion ni el hallazgo; no usar la película como prueba de F
    ni de C-2.
 6. **No se reproduce texto íntegro.** Paráfrasis y citas breves con esta fila.
+7. **Fuente de argumentos declarada (decisión 76).** Se usa como se usó F-35 (reglas 5-8 de su
+   ficha): **nunca nombrada en el texto**, sin título, sin directores y sin «según». Lo que se toma
+   de ella son **procedimientos de escritura** —nueve, con reparto por bloque y tope por capítulo
+   (E-05 §6)—, no ocurrencias sueltas. El capítulo que use uno lo anota en su dossier.
 
-**Conclusión.** F-36 no cambia el canon ni el reparto de palabras. Su función es doble: registrar
-una fuente que el autor ha aportado y dejar escrita la explicación de forma (E-05 §4), que es
-argumento de taller y no entra en el texto.
+**Conclusión.** F-36 no cambia el canon ni el reparto de palabras. Su función es triple: registrar
+una fuente aportada por el autor, dejar escrita la explicación de forma (E-05 §4) y fijar las
+**prácticas de escritura** que de ella se derivan (E-05 §6). Ni una línea entra en el texto: lo que
+entra son los procedimientos, y entran sin nombre.

@@ -16,7 +16,7 @@ copian a `MANUSCRITO/`: son el paso intermedio entre el hecho dictado y el capí
 | E-01 | El sílex y la primera criptomoneda (2008) | S-01 | **redactado** | 2.906 |
 | E-02 | La pandemia y la autolisis de El Servidor (2020) | S-02 | **redactado** | 3.953 |
 | E-03 | La siembra: la *natura viva* fuera de la Tierra (2019) | S-03 | **redactado** | 4.447 |
-| E-05 | *La bola negra* (2026): la obra que no se escribió y la forma del archivo | S-05 | **redactado** | 2.767 |
+| E-05 | *La bola negra* (2026): la obra que no se escribió y la forma del archivo | S-05 | **redactado y adoptado** (decisión 76) | 3.634 |
 
 ## Estado tras E-03
 
@@ -33,9 +33,11 @@ copian a `MANUSCRITO/`: son el paso intermedio entre el hecho dictado y el capí
 - **E-03 (2026-10-27):** la fuente principal (F-23/F-34) concluye que la colonización lunar es
   imposible; el estudio la sostiene entera en la página y distingue siembra de cosecha. La
   panspermia epidémica (Hoyle-Wickramasinghe) se descarta: fundiría C-8 y C-9.
-- **E-05 (2026-11-03):** la película de 2026 y el fragmento de Lorca entran como **espejo formal y
-  fuente de argumentos**, no como hecho del mundo. El estudio separa tres lecturas de la frase del
-  autor y adopta solo la homología de forma (§4); fija la regla de las dos clases de hoja que faltan
-  y prohíbe cinco usos (§5). **No hay capítulo ni cambio de canon.** Preguntas abiertas en §7.
+- **E-05 (2026-11-03, decisión 76):** la película de 2026 y el fragmento de Lorca entran como
+  **fuente de argumentos declarada**, no como hecho del mundo. El estudio adopta la homología de
+  forma (§4), fija la regla de las dos clases de hoja que falta y prohíbe cinco usos (§5), y
+  convierte los procedimientos en **nueve prácticas de escritura** (P1-P9) con **reparto por bloque**,
+  **tope por capítulo** y anotación en el dossier (§6). La fuente **nunca se nombra** en el texto.
+  **No hay capítulo ni cambio de canon.**
 - **Siguiente:** criterio de selección (punto 3), reparto de capítulos, y el bloqueo de autoría y
   alocución.

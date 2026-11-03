@@ -812,3 +812,9 @@ su dossier.
   `FUENTES.md`, `ESTUDIOS/00-indice.md`, `SINOPSIS/00-indice.md` y `README.md`. Cuatro preguntas
   abiertas al autor en E-05 §7 (confirmar la lectura de §4, si la película entra como documento, la
   grafía en el glosario y si 1936 se anota en la cronología). Siguiente: **la revisión de I.8**.
+- **Ampliación de la misma sesión (decisión 76):** confirmada la lectura de E-05 §4 y, por indicación
+  del autor, la película sube de rango: queda declarada **fuente de argumentos** con el régimen de
+  F-35 (**nunca nombrada en el texto**) y sus procedimientos se adoptan como **nueve prácticas de
+  escritura** (P1-P9) con **reparto por bloque**, **tope por capítulo** y línea obligatoria en el
+  dossier de cada capítulo (E-05 §6). El estudio pasa de 2.767 a **3.634 palabras**. No entra en el
+  mundo del libro, 1936 no va a la cronología y la grafía no se fija. **8/126, 23.881 palabras.**
