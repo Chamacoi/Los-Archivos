@@ -791,6 +791,6 @@ su dossier.
   `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` (bloque de recuento) y `BITACORA.md`. **I.8 pendiente de
   revisión del autor.** Siguiente: su lectura y, si se aprueba, **I.9 «El anuncio»**.
 - **Copia de seguridad hecha** (decisión 73, `/mnt/usb`): `los-archivos-2026-11-03-v47.bundle`
-  (**85 commits**, `git bundle verify`: historia completa, `HEAD` en `1fd0434`),
+  (**86 commits**, `git bundle verify`: historia completa, `HEAD` en `e7af558`),
   `...-v47-materiales.tar.gz` (**28 ficheros**) y `...-v47-sinopsis.tar.gz` (**5 ficheros**).
   `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `1fd0434`.
