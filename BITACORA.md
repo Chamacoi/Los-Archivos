@@ -782,7 +782,8 @@ su dossier.
   hoja en blanco doblada al buscar la definición de El Servidor; **4B** la puerta al anuncio es una
   frase del que lleva el registro (hay hojas que faltan porque no se escribieron y hojas que faltan
   porque no han llegado); **5B** sin fecha explícita, solo las que ya constan. El dictado «4B, 4B»
-  se mantiene interpretado como 5B; si no era eso, se corrige antes de dar el capítulo por bueno.
+  queda confirmado por el autor como **4B y 5B** (decisión 74): el segundo par era un error de
+  dictado y corresponde a la quinta decisión. No hay que corregir el capítulo.
 - **No se rellena el hueco:** la fotografía sigue sin fecha, la hoja sigue en blanco, la planilla
   sigue con «quien abre» y «quien cierra» vacíos. No se identifica a nadie, no se narra la plaga, no
   se revela el anuncio, la paz de II.6 ni el concilio. **Ningún capítulo aprobado se ha tocado.**
@@ -793,4 +794,4 @@ su dossier.
 - **Copia de seguridad hecha** (decisión 73, `/mnt/usb`): `los-archivos-2026-11-03-v47.bundle`
   (`git bundle verify`: historia completa; el commit de cierre de esta bitácora es posterior al bundle),
   `...-v47-materiales.tar.gz` (**28 ficheros**) y `...-v47-sinopsis.tar.gz` (**5 ficheros**).
-  `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `d4c78a7`.
+  `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main`.

@@ -16,7 +16,8 @@
   aprobado se ha tocado. **I.8 pendiente de revisión del autor.** Siguiente: su lectura y, si se
   aprueba, **I.9 «El anuncio»**, primero del bloque I.2.
 - **Sesión anterior:** 2026-11-02 (**v46, cerrada**). **Decisiones de I.8 dadas por el autor**
-  (decisión 70: **1A, 2C, 3A, 4B, 5B**; el dictado decía «4B, 4B» y se interpreta como 5B). El
+  (decisión 70: **1A, 2C, 3A, 4B, 5B**; el dictado decía «4B, 4B» y el autor ha confirmado que el
+  segundo par es **5B**, decisión 74). El
   capítulo queda desbloqueado y **pendiente de escribir**. **Copia de seguridad hecha** (decisión
   71): bundle verificado, materiales y **`SINOPSIS/`** empaquetadas aparte —el bundle ya no la lleva—,
   `SHA-256` comprobado y clon `los-archivos-repo/` a `origin/main`. **7/126, 20.513 palabras**; ningún
@@ -693,7 +694,8 @@ hueco, no lo tapa, y deja la puerta entreabierta al capítulo 9.
 
 **Resuelto por el autor (2026-11-02): 1A, 2C, 3A, 4B y 5B.** Dictado literal: «1A, 2C, 3A, 4B, 4B».
 El último par se interpreta como **5B**, porque es la decisión que queda y no existe una quinta
-opción en el punto 4; si el autor quería otra cosa, se corrige antes de escribir. Consecuencias:
+opción en el punto 4. **Confirmado por el autor el 2026-11-03 (decisión 74):** el segundo «4B» era
+un error de dictado y corresponde a **5B**; el capítulo se escribió con 4B y 5B. Consecuencias:
 
 1. **1A:** el año que no se escribió es el **año de la plaga**; el bloc de 2020 y las pastillas de
    las nueve son sus restos materiales.
@@ -1050,6 +1052,8 @@ teológico** y tiene que **costar algo**.
 | 72 | Escritura | **I.8 escrito.** «El año que no se escribió»: **3.368 palabras** (+11,3 % sobre 3.025), 5 secciones, **3,6 % de palabras en documentos citados**, `nk verificar --rubrica` con 0 errores y 0 avisos. Narra la caja de la cruz (la cinta que cuesta cortar, la mascarilla «la última», la funda con la letra tapada), la fotografía de la mesa larga sin nada que la feche y su reverso literal, el reconocimiento que Boomer de la silla no dice, el año de la plaga sin actas (las actas no llevan año; el bloc de 2020 y las pastillas son los restos; los papeles de ese año son de intendencia), el acta de enero que lee los «no consta», Alfa buscando la definición de El Servidor y encontrando la hoja en blanco doblada, y la frase del que lleva el registro que deja abierta la puerta al anuncio. **Pendiente de revisión del autor** | 2026-11-03 | Cumple la decisión 70: 1A (año de la plaga, sin rellenarlo), 2C (reconocimiento sin nombre ni escena de duelo), 3A (Alfa y la hoja doblada), 4B (frase del oficio, sin fecha ni objeto) y 5B (sin fecha explícita; solo el 2020 del bloc y las fechas que ya constan). No fecha la fotografía, no identifica a nadie, no usa la plaga como castigo ni como escena, no revela el anuncio, la paz de II.6 ni el concilio. Continuidad: caja 3 y caja 4 (I.1), cuaderno azul y dos votaciones (I.3), costumbre de doblar (I.1, I.5), planilla y «queda» (I.7), «no consta» (I.3, I.5). **8/126 capítulos, 23.881 palabras.** Ningún capítulo aprobado se ha tocado |
 
 | 73 | Soporte | **Copia de seguridad de la v47** y cierre de sesión: bundle verificado (`1fd0434`, 85 commits), materiales (28 ficheros) y **sinopsis** (5 ficheros) empaquetadas aparte, `SHA-256` comprobado y clon `/mnt/usb/los-archivos-repo` actualizado | 2026-11-03 | Se mantiene el método de la decisión 71: desde la v44 el bundle no lleva `SINOPSIS/`, así que va en su propio tar. Sin push a `origin`: el commit queda en local y en el clon del USB |
+
+| 74 | Escritura | **Confirmación del dictado de I.8:** el segundo «4B» del dictado era un error y corresponde a la **quinta decisión, 5B**. Quedan fijadas **1A, 2C, 3A, 4B y 5B**, que es como está escrito el capítulo: 4B para la puerta al anuncio (la frase del que lleva el registro) y 5B para las fechas (sin fecha explícita) | 2026-11-03 | Cierra la duda anotada en la decisión 70. No hay que corregir I.8: se escribió con 4B y 5B. El capítulo sigue **pendiente de revisión del autor** |
 
 ---
 
