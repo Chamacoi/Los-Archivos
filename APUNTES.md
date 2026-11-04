@@ -4,7 +4,16 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Última sesión cerrada:** 2026-11-03 (**v48, cerrada**). **S-05 registrada y E-05 escrito** (decisión 75):
+- **Sesión actual:** 2026-11-04 (**v49**). Sin escritura y sin tocar ningún capítulo. **Decisión 81
+  (material):** la sinopsis local es **fuente de datos del agente** y sirve para **alimentar el
+  contenido**; se usarán **todos los datos dictados** de `S-01`–`S-05` **hasta terminar el libro**.
+  `SINOPSIS/` sigue **sin versionarse** (decisión 67), pero es de consulta obligada en esta máquina;
+  lo que pase al manuscrito se anota en `CRONOLOGIA.md`/`FUENTES.md` y la sinopsis **no se cita
+  nunca en el texto**. **Errata de recuento corregida:** la v48 anotó «10/126» y son **9/126
+  capítulos, 26.896 palabras** (I.1–I.9, como dice `nk contar`); §0 y `README.md` quedan al día y las
+  decisiones 78-80 se conservan con su cifra como registro. **I.9 sigue pendiente de revisión del
+  autor**; siguiente: **I.10**, segundo del bloque I.2.
+- **Sesión anterior:** 2026-11-03 (**v48, cerrada**). **S-05 registrada y E-05 escrito** (decisión 75):
   *La bola negra* (película de 2026) y el fragmento de Lorca entran como **espejo formal y fuente de
   argumentos**, no como hecho del mundo. Fuente **F-36** (Wikipedia es; copias en `MATERIALES/`),
   ficha en `SINOPSIS/S-05-la-bola-negra.md`, estudio de **2.767 palabras** en
@@ -17,7 +26,8 @@
   hoja de oído» escrito**, primero del bloque I.2: **3.015 palabras** (−0,3 % sobre 3.025), 5
   secciones, ≈5 % de citas, 0 errores y 0 avisos. El anuncio no se escribió: se oyó; lo que hay es
   una hoja de abril de 2020 escrita de memoria, con el borde recortado. Escrito con **P2, P5 y P8**
-  (decisión 76). Dossier en §0 decies. **10/126 capítulos, 26.896 palabras.** Ningún capítulo
+  (decisión 76). Dossier en §0 decies. **9/126 capítulos, 26.896 palabras** (la cifra «10» era una
+  errata, corregida en la v49). Ningún capítulo
   aprobado se ha tocado. **I.9 pendiente de revisión del autor**; siguiente: **I.10**, segundo del
   bloque I.2.
 - **Sesión anterior:** 2026-11-03 (**v47, cerrada**). **I.8 «El año que no se escribió» escrito**
@@ -1139,6 +1149,7 @@ teológico** y tiene que **costar algo**.
 | 78 | Escritura | **I.9 «La hoja de oído» escrito**, primero del bloque I.2: **3.015 palabras** (−0,3 % sobre 3.025), 5 secciones, **≈5 % de palabras en documentos citados**, 0 errores y 0 avisos. El anuncio **no se escribió**: se oyó. Lo que hay es **una hoja de abril de 2020** escrita de memoria por el que lleva el registro, con el borde recortado y el encabezamiento «ESTO NO ES EL ANUNCIO. ES LO QUE NOS ACORDAMOS»; cuatro puntos, con «queda» tachado y corregido a «hay» con otra tinta y «¿cuándo?» a lápiz sin respuesta; votación del 20 de junio de 2024 que decide **no** rotularla «ANUNCIO» (cinco a tres, sin motivo en el acta); El Servidor no resuelve («El borde está cortado»). **10/126, 26.896 palabras** | 2026-11-03 | Escrito con las prácticas **P2, P5 y P8** de E-05 (decisión 76) y anotadas en el dossier §0 decies. Decisiones de escritura tomadas por el agente para poder escribir por orden del autor y **sujetas a la revisión del capítulo**: no fijar el año del anuncio (se rechaza «hacia 2019»), no contar cómo llegó, no tocar lo aprobado. **Discrepancia de fechas, resuelta en la decisión 80:** el presente es 2026 (lo fija I.6) y se revisa `PERSONAS.md`; I.9 queda en junio de 2026 |
 | 79 | Soporte | **Copia de seguridad de la v48** y cierre de sesión: bundle verificado (**43 commits**, `HEAD` en `d1d5906`), materiales (**28 ficheros**) y **sinopsis** (**6 ficheros**) en tar aparte, `SHA-256` comprobado y clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main`. Push a `origin` hecho | 2026-11-03 | Se mantiene el método de las decisiones 71 y 73. El bundle se regeneró después del commit de cierre de la bitácora (`ce89dfb`): solo quedan fuera los commits de anotación posteriores a esta línea. **10/126, 26.896 palabras** |
 | 80 | Soporte | **El presente del relato es 2026** (orden del autor: «que se revise PERSONAS.md»). Se revisa `PERSONAS.md` y **no** I.6: el presente se fija en **2026**, las edades se calculan para 2026 (Alfa, 10 años), las actas sin año son fechas del archivo y no del mundo, y queda sustituida la fecha «junio de 2024» de la decisión 62 (error de cálculo; el resto de la 62 se mantiene). I.9 se corrige a junio de 2026: acta del **18 de junio**, «seis años» la hoja en la caja 4, «diez años» Alfa | 2026-11-03 | Cierra la discrepancia anotada en §0 decies. **Errata conocida y no corregida:** el acta de I.7 («13 de junio») cae en sábado en 2026; I.7 está aprobado y no se toca. Recuento sin cambios: **3.015** en I.9, **10/126, 26.896 palabras** |
+| 81 | Material | **La sinopsis local es fuente de datos del agente y alimenta el contenido** (dictado literal del autor: «la sinopsis se usa como fuente de datos del agente y para alimentar el contenido»). **Se usarán todos los datos racionados hasta terminar el libro** (segunda frase literal; «racionados» se conserva tal cual). En la práctica: los hechos dictados en `S-01`–`S-05` (6 ficheros, 11.837 palabras) se consultan en cada capítulo y sostienen la coherencia de C-7, C-8, C-9, F-35 y F-36; `SINOPSIS/` sigue **sin versionarse** (decisión 67) y es de uso obligado en esta máquina; la sinopsis **no se cita nunca en el texto** ni se nombra su procedencia | 2026-11-04 | La sinopsis es dictado del autor y sostiene hechos; F-35 y F-36 no los sostienen (decisión 66). No cambia el canon, el reparto ni ningún capítulo. **Errata corregida en esta sesión:** la v48 anotó «10/126 capítulos»; son **9** (I.1–I.9) y **26.896 palabras**, como dice `nk contar`; §0, `README.md` y la bitácora quedan al día, y las decisiones 78-80 se dejan tal cual como registro histórico. I.9 sigue pendiente de revisión; siguiente, **I.10** |
 
 ---
 

@@ -5,15 +5,14 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo; I.1, I.2 e I.3 escritos, aprobados y publicados (2.798 + 2.727 + 2.920
-  palabras con el método limpio; 3/126 capítulos, 8.445), e **I.4 «La consola» escrito, aprobado y
-  publicado** (2.926 palabras), e **I.5 «El registro» escrito, revisado y aprobado** (2.818
-  palabras), e **I.6 «Los de fuera» escrito y aprobado** (3.269 palabras), e **I.7 «Las cuentas»
-  escrito** (3.055 palabras; 7/126 capítulos, **20.513** en total) y **aprobado** el 2026-11-02
-  (decisión 68), e **I.8 «El año que no se escribió» escrito** (3.368 palabras; 8/126 capítulos,
-  **23.881** en total), con las cinco decisiones del autor (decisión 70: 1A, 2C, 3A, 4B, 5B) y
-  **pendiente de revisión**. Cierra el bloque I.1. Siguiente: su lectura y, si se aprueba, **I.9
-  «El anuncio»**, primero del bloque I.2.
+  C-1 a C-10 completo. **I.1 a I.9 escritos** (2.798, 2.727, 2.920, 2.926, 2.818, 3.269, 3.055,
+  3.368 y 3.015 palabras con el método limpio): **9/126 capítulos, 26.896 palabras**. I.1 a I.8
+  **aprobados**; I.8 cerró el bloque I.1 (decisión 77). **I.9 «La hoja de oído»**, primero del bloque
+  I.2, está **pendiente de revisión del autor**. Siguiente: su lectura y, si se aprueba, **I.10**.
+- **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-05`— es **fuente
+  de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
+  versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
+  `CRONOLOGIA.md` y `FUENTES.md`.
 - **Fuente nueva (v43-v44, decisiones 64-67):** una fuente de argumentos aportada por el autor entra
   como **repertorio aleatorio** para encaminar la narrativa según crezca la obra. Registrada como
   **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni correos,
@@ -28,7 +27,7 @@ sostenida entre personas y modelos.
 
 ## Mapa del repositorio
 
-87 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
+88 ficheros versionados. Todo es texto; no hay binarios ni nada que compilar.
 
 ```
 los-archivos/

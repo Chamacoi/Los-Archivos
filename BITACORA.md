@@ -821,7 +821,8 @@ su dossier.
 
 - **I.8 aprobado** por el autor sin correcciones (decisión 77) e **I.9 «La hoja de oído» escrito**
   (decisión 78), primero del bloque I.2: **3.015 palabras** (−0,3 % sobre 3.025), 5 secciones,
-  ≈5 % de citas, 0 errores y 0 avisos. **10/126 capítulos, 26.896 palabras.**
+  ≈5 % de citas, 0 errores y 0 avisos. **9/126 capítulos, 26.896 palabras** (la cifra «10» era una
+  errata, corregida en v49).
 - **Qué cuenta I.9 con tres prácticas de E-05** (P2, P5, P8): el anuncio **no se escribió, se oyó**;
   lo que hay es una hoja de **abril de 2020**, escrita de memoria por el que lleva el registro en la
   casa cerrada, con el borde superior recortado con tijera (quedan tres letras y media de un
@@ -835,9 +836,21 @@ su dossier.
   se corrige a **junio de 2026** (acta del 18, «seis años», Alfa con diez). Queda anotada una errata
   conocida de I.7: su acta del «13 de junio» cae en sábado en 2026, y el capítulo aprobado no se toca.
 - **Verificado:** `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y
-  `nk informe` → 10/126, 26.896 palabras. Actualizados `APUNTES.md` (§0 y §3), `README.md`,
+  `nk informe` → 9/126, 26.896 palabras. Actualizados `APUNTES.md` (§0 y §3), `README.md`,
   `MANUSCRITO/00-LEEME.md` y `BITACORA.md`. **I.9 pendiente de revisión del autor.**
 - **Push y copia de seguridad hechos** (decisión 79): `git push` a `origin/main` (`3eed9cb..d1d5906`);
   bundle `los-archivos-2026-11-03-v48.bundle` (`git bundle verify`: historia completa),
   `...-v48-materiales.tar.gz` (**28 ficheros**) y `...-v48-sinopsis.tar.gz` (**6 ficheros**),
   `sha256sum -c`: los tres OK. Clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main`.
+
+## v49 — 2026-11-04
+
+- **Decisión 81 (material):** la sinopsis local es **fuente de datos del agente** y sirve para
+  **alimentar el contenido**; se usarán **todos los datos dictados** de `S-01`–`S-05` hasta terminar
+  el libro. `SINOPSIS/` sigue fuera de git (decisión 67), pero se lee desde esta máquina: lo que
+  pase al manuscrito se anota en `CRONOLOGIA.md`/`FUENTES.md`, y la sinopsis no se cita en el texto.
+- **Errata de recuento corregida:** la v48 anotó 10/126; son **9/126 capítulos y 26.896 palabras**
+  (`nk contar`). Actualizados `APUNTES.md` (§0 y §3), `README.md` y esta bitácora; las decisiones
+  78-80 se conservan con su cifra como registro. **Ningún capítulo se ha tocado.**
+- Pendiente: **revisión de I.9** por el autor y, si se aprueba, **I.10**. `nk verificar --rubrica`:
+  0 errores, 0 avisos.
