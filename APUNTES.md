@@ -809,6 +809,11 @@ lo intenta tampoco: cuenta **el recuento fallido de los testigos** —tres núme
 ninguna lista y el descubrimiento de que la palabra «ver» no está en el archivo— y, al final, la
 distancia entre los que oyeron y la que solo ha oído el relato.
 
+**Sinopsis usada (decisión 81):** ninguna. Es capítulo de marco y no toca los hechos de `S-01`
+(2008), `S-02`/`S-03` (plaga y siembra) ni las fuentes de argumentos `S-04`/`S-05`; no hay dato nuevo
+que anotar en `CRONOLOGIA.md` salvo las dos sesiones del presente (18 y 25 de junio de 2026), ya
+anotadas.
+
 **Procedimiento E-05:** **P1** (inventariar la pérdida: tres recuentos, una frase y ningún nombre),
 **P2** (todo lo perdido entra por un documento que no es ello: el reverso a lápiz de la lista de la
 puerta) y **P6** (el capítulo empieza en el presente que lee: la sesión del 25 de junio, no un
