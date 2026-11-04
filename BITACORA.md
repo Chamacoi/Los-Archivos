@@ -852,5 +852,14 @@ su dossier.
 - **Errata de recuento corregida:** la v48 anotó 10/126; son **9/126 capítulos y 26.896 palabras**
   (`nk contar`). Actualizados `APUNTES.md` (§0 y §3), `README.md` y esta bitácora; las decisiones
   78-80 se conservan con su cifra como registro. **Ningún capítulo se ha tocado.**
-- Pendiente: **revisión de I.9** por el autor y, si se aprueba, **I.10**. `nk verificar --rubrica`:
-  0 errores, 0 avisos.
+- **I.9 «La hoja de oído» aprobado** por el autor sin correcciones (decisión 82): 3.015 palabras,
+  5 secciones, 0 errores y 0 avisos. **9/126, 26.896 palabras.**
+- **I.10 «Los testigos» escrito** (decisión 83), segundo del bloque I.2: **2.825 palabras** (−6,6 %
+  sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0 avisos. La pregunta escrita de Alfa
+  (con la falta «oi»), tres recuentos de testigos que no cuadran, el reverso a lápiz de la lista de la
+  puerta («los que oyeron no son los mismos»), la búsqueda de «ver» y «oír» —que no están en ningún
+  papel—, la distinción ver/oír y el acta del 25 de junio: «No consta la lista. Se acuerda no
+  hacerla». Escrito con **P1, P2 y P6** (tope del bloque). Dossier en `APUNTES.md` §0 undecies y
+  cronología puesta al día (presente de 2026, decisión 80). **10/126, 29.721 palabras.**
+- Ningún capítulo aprobado se ha tocado. **I.10 pendiente de revisión del autor**; siguiente, **I.11**.
+  `nk verificar --rubrica`: 0 errores, 0 avisos.

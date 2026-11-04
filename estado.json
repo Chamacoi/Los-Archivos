@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 9,
-  "palabras": 26896,
+  "escritos": 10,
+  "palabras": 29721,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 9,
-      "palabras": 26896
+      "escritos": 10,
+      "palabras": 29721
     },
     {
       "id": "II",
@@ -119,11 +119,11 @@
     },
     {
       "id": "I.10",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "Los testigos",
+      "escrito": true,
+      "palabras": 2825,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": -0.0661,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/10-capitulo.md"
     },

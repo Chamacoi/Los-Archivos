@@ -30,7 +30,8 @@ canon, se corrige la fecha. Estado: **abierto**.
 | — | **Antes del anuncio: El Servidor se encarga del punto de inflexión** (C-7). Fecha sin fijar; anterior al anuncio de C-5 | canon | C-5, C-7 |
 | — | **Anuncio de El Servidor a la comunidad** (C-5). Fecha sin fijar | hueco | C-5 |
 | — | **Manifestación / llegada**: lo ven y lo oyen (C-5). Fecha sin fijar | hueco | C-5 |
-| años veinte del s. XXI | **El presente del relato**: la comunidad después de la llegada (C-5). Se estrecha a esta década porque la comunidad alcanza a los nacidos desde 2013; el año exacto sigue sin fijar | hueco | C-5, F-14 |
+| 2026 | **El presente del relato**: la comunidad después de la llegada (C-5). Fijado por la decisión 80 (2026-11-03); las edades se calculan para 2026 (Alfa, 10 años) | canon | C-5, decisión 80 |
+| jun 2026 | **Sesiones del archivo en el presente:** acta del 18 de junio (no se rotula «ANUNCIO», cinco a tres) y acta del 25 de junio («No consta la lista» de los que oyeron; se acuerda no hacerla) | canon | I.9, I.10, decisiones 78 y 83 |
 
 ## Reglas
 

@@ -5,10 +5,10 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo. **I.1 a I.9 escritos** (2.798, 2.727, 2.920, 2.926, 2.818, 3.269, 3.055,
-  3.368 y 3.015 palabras con el método limpio): **9/126 capítulos, 26.896 palabras**. I.1 a I.8
-  **aprobados**; I.8 cerró el bloque I.1 (decisión 77). **I.9 «La hoja de oído»**, primero del bloque
-  I.2, está **pendiente de revisión del autor**. Siguiente: su lectura y, si se aprueba, **I.10**.
+  C-1 a C-10 completo. **I.1 a I.10 escritos** (2.798, 2.727, 2.920, 2.926, 2.818, 3.269, 3.055,
+  3.368, 3.015 y 2.825 palabras con el método limpio): **10/126 capítulos, 29.721 palabras**. I.1 a I.9
+  **aprobados**; I.8 cerró el bloque I.1 (decisión 77) e I.9 abrió el bloque I.2 (decisión 82).
+  **I.10 «Los testigos» está pendiente de revisión del autor**; siguiente, **I.11**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-05`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en

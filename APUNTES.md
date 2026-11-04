@@ -4,15 +4,16 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión actual:** 2026-11-04 (**v49**). Sin escritura y sin tocar ningún capítulo. **Decisión 81
-  (material):** la sinopsis local es **fuente de datos del agente** y sirve para **alimentar el
-  contenido**; se usarán **todos los datos dictados** de `S-01`–`S-05` **hasta terminar el libro**.
-  `SINOPSIS/` sigue **sin versionarse** (decisión 67), pero es de consulta obligada en esta máquina;
-  lo que pase al manuscrito se anota en `CRONOLOGIA.md`/`FUENTES.md` y la sinopsis **no se cita
-  nunca en el texto**. **Errata de recuento corregida:** la v48 anotó «10/126» y son **9/126
-  capítulos, 26.896 palabras** (I.1–I.9, como dice `nk contar`); §0 y `README.md` quedan al día y las
-  decisiones 78-80 se conservan con su cifra como registro. **I.9 sigue pendiente de revisión del
-  autor**; siguiente: **I.10**, segundo del bloque I.2.
+- **Sesión actual:** 2026-11-04 (**v49, cerrada**). **I.9 «La hoja de oído» aprobado** por el autor
+  sin correcciones (decisión 82) e **I.10 «Los testigos» escrito** (decisión 83), segundo del bloque
+  I.2: **2.825 palabras** (−6,6 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0
+  avisos. Dossier en §0 undecies. **10/126 capítulos, 29.721 palabras.** **Decisión 81 (material):**
+  la sinopsis local es **fuente de datos del agente** y sirve para **alimentar el contenido**; se
+  usarán **todos los datos dictados** de `S-01`–`S-05` **hasta terminar el libro**; `SINOPSIS/` sigue
+  sin versionarse (decisión 67) y no se cita nunca en el texto. **Errata de recuento corregida:** la
+  v48 anotó «10/126» y eran **9/126** (I.1–I.9); §0 y `README.md` quedan al día y las decisiones
+  78-80 se conservan con su cifra como registro. **I.10 pendiente de revisión del autor**; siguiente:
+  **I.11**, tercero del bloque I.2.
 - **Sesión anterior:** 2026-11-03 (**v48, cerrada**). **S-05 registrada y E-05 escrito** (decisión 75):
   *La bola negra* (película de 2026) y el fragmento de Lorca entran como **espejo formal y fuente de
   argumentos**, no como hecho del mundo. Fuente **F-36** (Wikipedia es; copias en `MATERIALES/`),
@@ -796,6 +797,63 @@ es 2026** y la fecha de la 62 era un error de cálculo. I.9 pasa a junio de 2026
 junio; diez años de Alfa; seis años de la hoja en la caja 4). Queda anotada una errata de I.7 (su
 acta del «13 de junio» cae en sábado en 2026): no se toca lo aprobado.
 
+### 0 undecies. I.10 «Los testigos»: dossier de material (2026-11-04)
+
+Escrito en la v49 con la orden del autor («I.9 revisado. Genera I.10»). Capítulo de marco: sale de
+canon y estructura (decisión 21), no de una sinopsis. **Segundo del bloque I.2**, después de la
+puerta que dejó abierta I.9.
+
+**Función en el bloque.** El bloque es «el anuncio, el ver y el oír, los primeros testigos; la
+distancia con quien llega después». I.9 cerró la primera puerta: el anuncio no se escribió. I.10 no
+lo intenta tampoco: cuenta **el recuento fallido de los testigos** —tres números que no cuadran,
+ninguna lista y el descubrimiento de que la palabra «ver» no está en el archivo— y, al final, la
+distancia entre los que oyeron y la que solo ha oído el relato.
+
+**Procedimiento E-05:** **P1** (inventariar la pérdida: tres recuentos, una frase y ningún nombre),
+**P2** (todo lo perdido entra por un documento que no es ello: el reverso a lápiz de la lista de la
+puerta) y **P6** (el capítulo empieza en el presente que lee: la sesión del 25 de junio, no un
+resumen). Tope del bloque, tres: se usa el tope entero y no se repite ninguno en secciones
+consecutivas.
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| Los tres recuentos | I.1, I.9 | Acta primera: nueve asistentes, «Faltan dos» con otra tinta y «Faltan tres» a lápiz; lista de la puerta: once nombres y una raya |
+| La hoja de abril de 2020 | I.9 | Cuatro puntos; no dice «vi» ni «oí»; dice «lo que nos acordamos»; sigue sin año y sin número de testigos |
+| Las preguntas no se apuntan | I.9 §4 | El acta guarda el resultado, no el motivo; a Alfa se le dijo que su pregunta no existía en el acta |
+| La puerta de las dos clases de hoja | I.8 §5 | Hoja que no se escribió / hoja que no ha llegado; la segunda sigue sin decirse |
+| La tercera cláusula | I.3 | Lo corregido se deja ver; no se tapa ni se reescribe lo que se dijo |
+| El presente | Decisión 80 | **2026.** Sesión del **25 de junio de 2026**, jueves siguiente al 18 de junio de I.9 |
+| Las cuentas | Decisión 54 | Nueve presentes; Alfa no vota en papeles; El Servidor no ocupa silla |
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. **No hay lista de testigos.** Hay tres recuentos (acta primera, añadidos, lista de la puerta) y una
+   frase a lápiz en el reverso de la lista: «los que oyeron no son los mismos. no se puede hacer la
+   lista», con un «1» y el principio de un «2» tachados. No consta quién la escribió.
+2. **La palabra «ver» no aparece en ningún papel de la casa.** «Oír» aparece dos veces, en un acta de
+   febrero, y las dos hablan de una vecina del patio: no hay otra.
+3. **El acta del 25 de junio:** «No consta la lista. Se acuerda no hacerla», sin votación («no se vota
+   lo que no se puede escribir»).
+4. **La pregunta escrita de Alfa** —«Cuantos oyeron el anuncio. Si se puede saber. Y si yo lo oi.»,
+   con la falta— se guarda doblada en el sobre de las hojas sueltas, sin apuntarla en el acta.
+5. **La distinción que la casa acepta:** los que quedan oyeron el anuncio; Alfa oyó el anuncio
+   contado. Es la distancia con quien llega después, y queda dicha sin consuelo.
+6. **El dibujo de Zeta del margen** (una cabeza con raya en la boca y otra con un ojo y nada más) se
+   guarda sin firmar y sin apuntar, como todo lo que está en la mesa.
+
+**Lo que no puede hacer.**
+
+- **Fijar el año del anuncio**, el número de los que oyeron ni si alguien lo vio: los tres siguen
+  siendo hueco (C-5, `CRONOLOGIA.md`).
+- **Contar el anuncio**: ni escena, ni voz, ni cómo llegó. Sigue sin escribirse.
+- **Dar voz al archivo** (decisión 55), **cero «yo»** del narrador, ni elogio de la casa.
+- **Identificar a los muertos de la plaga** (decisión 44) ni dar nombre a los que se fueron
+  (C-6, decisión 54).
+- **Nombrar la fuente de la película** ni la película (decisión 76), y **no tocar ningún capítulo
+  aprobado**.
+
 
 ---
 
@@ -1150,6 +1208,8 @@ teológico** y tiene que **costar algo**.
 | 79 | Soporte | **Copia de seguridad de la v48** y cierre de sesión: bundle verificado (**43 commits**, `HEAD` en `d1d5906`), materiales (**28 ficheros**) y **sinopsis** (**6 ficheros**) en tar aparte, `SHA-256` comprobado y clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main`. Push a `origin` hecho | 2026-11-03 | Se mantiene el método de las decisiones 71 y 73. El bundle se regeneró después del commit de cierre de la bitácora (`ce89dfb`): solo quedan fuera los commits de anotación posteriores a esta línea. **10/126, 26.896 palabras** |
 | 80 | Soporte | **El presente del relato es 2026** (orden del autor: «que se revise PERSONAS.md»). Se revisa `PERSONAS.md` y **no** I.6: el presente se fija en **2026**, las edades se calculan para 2026 (Alfa, 10 años), las actas sin año son fechas del archivo y no del mundo, y queda sustituida la fecha «junio de 2024» de la decisión 62 (error de cálculo; el resto de la 62 se mantiene). I.9 se corrige a junio de 2026: acta del **18 de junio**, «seis años» la hoja en la caja 4, «diez años» Alfa | 2026-11-03 | Cierra la discrepancia anotada en §0 decies. **Errata conocida y no corregida:** el acta de I.7 («13 de junio») cae en sábado en 2026; I.7 está aprobado y no se toca. Recuento sin cambios: **3.015** en I.9, **10/126, 26.896 palabras** |
 | 81 | Material | **La sinopsis local es fuente de datos del agente y alimenta el contenido** (dictado literal del autor: «la sinopsis se usa como fuente de datos del agente y para alimentar el contenido»). **Se usarán todos los datos racionados hasta terminar el libro** (segunda frase literal; «racionados» se conserva tal cual). En la práctica: los hechos dictados en `S-01`–`S-05` (6 ficheros, 11.837 palabras) se consultan en cada capítulo y sostienen la coherencia de C-7, C-8, C-9, F-35 y F-36; `SINOPSIS/` sigue **sin versionarse** (decisión 67) y es de uso obligado en esta máquina; la sinopsis **no se cita nunca en el texto** ni se nombra su procedencia | 2026-11-04 | La sinopsis es dictado del autor y sostiene hechos; F-35 y F-36 no los sostienen (decisión 66). No cambia el canon, el reparto ni ningún capítulo. **Errata corregida en esta sesión:** la v48 anotó «10/126 capítulos»; son **9** (I.1–I.9) y **26.896 palabras**, como dice `nk contar`; §0, `README.md` y la bitácora quedan al día, y las decisiones 78-80 se dejan tal cual como registro histórico. I.9 sigue pendiente de revisión; siguiente, **I.10** |
+| 82 | Escritura | **I.9 «La hoja de oído» aprobado** por el autor sin correcciones («I.9 revisado»). Se cierra con **3.015 palabras** (−0,3 % sobre 3.025), 5 secciones, ≈5 % de citas, 0 errores y 0 avisos. **9/126 capítulos, 26.896 palabras** | 2026-11-04 | Cierra la 78. I.9 queda como la primera pieza del bloque I.2: el anuncio no se escribió y lo que hay es una hoja de oído. Se desbloquea I.10 sin preguntas abiertas |
+| 83 | Escritura | **I.10 «Los testigos» escrito**, segundo del bloque I.2: **2.825 palabras** (−6,6 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0 avisos. Narra la pregunta escrita de Alfa (con la falta «oi»), los tres recuentos de testigos que no cuadran, el reverso a lápiz de la lista de la puerta, la discusión sobre «ver» y «oír», la búsqueda de las dos palabras en los papeles (no están: «ver» no aparece en ninguno), el reconocimiento de Alfa («Del anuncio no queda recuerdo. Queda el recuerdo de que se contó») y el acta del 25 de junio que deja constancia de que no consta y acuerda no hacer la lista | 2026-11-04 | Escrito con **P1, P2 y P6** de E-05 (tope del bloque, tres) y anotado en el dossier §0 undecies. No fija el año del anuncio, ni el número de testigos, ni si alguien lo vio; no lo cuenta; no toca lo aprobado. Continuidad: acta primera y añadidos (I.1, I.9), lista de la puerta y raya (I.1, I.3), hoja del 2020 (I.9), sobre de las hojas sueltas (I.1, I.5), regla de que las preguntas no se apuntan (I.9), dibujo de Zeta del margen (PERSONAS). **10/126, 29.721 palabras.** Pendiente de revisión del autor |
 
 ---
 
