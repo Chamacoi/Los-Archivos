@@ -922,3 +922,24 @@ su dossier.
   `proveedor` a `null`: **sin nombre de modelo**, por orden del autor. `.env` y `.env.*` entran al
   `.gitignore`. 21 pruebas del kit en verde y `nk verificar --rubrica` limpio; espejo en
   `~/novela-kit/`. No se sube `VERSION` (1.9.0).
+
+## v52 — 2026-11-05
+
+- **Perfil de agente commiteado en el kit** (decisión 94): `~/novela-kit/` en `45e27ac`, con la
+  sección de `AGENTS.md` y el bloque `agente` que genera `nk init`, **sin nombre de modelo**;
+  `VERSION` sigue en 1.9.0. El repositorio de la obra ya lo llevaba (`4ccdec2`).
+- **I.12 «Lo que no trae prueba» escrito** (decisión 93), cuarto del bloque I.2: **2.794 palabras**
+  (−7,6 % sobre 3.025), 5 secciones, **≈4 % de citas**, 0 errores y 0 avisos. Se lee la hoja del año
+  veinte **entera y seguida** por primera vez y el tercer punto —«Que no traeria prueba»— resulta no
+  haberse discutido nunca; ese mismo jueves llega **una carta de fuera** que pide una prueba, sin
+  nombre y sin fecha legible; la casa hace el **inventario** de los papeles que se pueden enseñar
+  —actas, hoja, cuaderno de los errores, libreta, lista de la puerta, fotografía sin fecha— y ninguno
+  prueba el anuncio; nadie sabe decir cómo sería una prueba; se escriben **tres borradores**
+  (presumir, confesar, reclutar) y los tres se rompen; se pregunta a El Servidor y **no contesta**;
+  la copia a mano de la hoja sale **más limpia que el original** y pierde el borde recortado; acta del
+  9 de julio: «Se lee una carta de fuera. No se acuerda contestar». Escrito con **P1, P6 y P8** de
+  E-05, **sin decisiones previas** (dossier §0 terdecies, decisión 89) y sin sinopsis de hechos.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
+  → **12/126, 35.555 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
+  `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.12 pendiente de revisión del autor**;
+  siguiente, **I.13**.

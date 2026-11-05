@@ -4,7 +4,17 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión actual:** 2026-11-05 (**v51, cerrada**). **I.11 «El nombre» aprobado** por el autor
+- **Sesión actual:** 2026-11-05 (**v52, cerrada**). **I.12 «Lo que no trae prueba» escrito** (decisión
+  93), cuarto del bloque I.2: **2.794 palabras** (−7,6 % sobre 3.025), 5 secciones, **≈4 % de citas**,
+  0 errores y 0 avisos. La casa lee la hoja del año veinte **entera y seguida** por primera vez y
+  descubre que el tercer punto —«Que no traeria prueba»— no se ha discutido nunca; ese mismo día
+  llega una **carta de fuera** que pide una prueba, sin nombre y sin fecha legible; la casa hace el
+  **inventario** de lo que puede enseñar y nada prueba el anuncio; escribe **tres borradores** de
+  respuesta y los rompe; pregunta a El Servidor y **no contesta**; la copia a mano de la hoja sale
+  más limpia que el original y pierde el borde recortado; acta del 9 de julio: «Se lee una carta de
+  fuera. No se acuerda contestar». **12/126 capítulos, 35.555 palabras.** **I.12 pendiente de
+  revisión del autor**; siguiente: **I.13**, quinto del bloque I.2.
+- **Sesión anterior:** 2026-11-05 (**v51, cerrada**). **I.11 «El nombre» aprobado** por el autor
   (decisión 88), que deja además el nombre propio **a criterio del texto**: puede decirse siempre que
   convenga, sin más condición que no gastar la fórmula de C-10/II.6. **Dossier de I.12 «Lo que no
   trae prueba»** preparado (§0 terdecies, decisión 89), cuarto del bloque I.2: **no necesita
@@ -1048,6 +1058,13 @@ se contesta; El Servidor no responde) se fijan en el dossier y se someten a la r
 como se hizo en I.9, I.10 e I.11. Si el autor prefiere que la casa conteste o que El Servidor diga
 una frase, se cambia antes de escribir, no después.
 
+**Escrito en la v52** (decisión 93): 2.794 palabras, 5 secciones, ≈4 % de citas, 0 errores y 0
+avisos. Se mantienen las dos elecciones locales. Dos precisiones que el texto fija y el dossier no
+anticipaba: la **copia** de la hoja la hace a mano Milenial de la copia y sale **más limpia que el
+original** —pierde el borde recortado y la raya de la corrección, porque la corrección se copia ya
+corregida—, y los **tres borradores** se rompen por la mitad y se guardan rotos, no se tiran. El
+acta del 9 de julio dice: «Se lee una carta de fuera. No se acuerda contestar».
+
 ---
 
 ---
@@ -1412,6 +1429,8 @@ teológico** y tiene que **costar algo**.
 | 90 | Material | **E-04 redactado** (`ESTUDIOS/E-04-fuente-de-argumentos.md`): el estudio del blog como fuente de argumentos, con las cinco preguntas y las dos precisiones ya contestadas (decisiones 65-67), el inventario de las quince entradas por clases de materia, las cinco pruebas del criterio de selección aplicadas, el régimen de uso (nunca nombrada, sin fechas en el mundo del libro, autoría interna por capítulo) y el control de asignación capítulo a capítulo. Registrado en `ESTUDIOS/00-indice.md` | 2026-11-05 | **No es una sinopsis de hecho y no hay capítulo.** F-35 no sostiene ningún dato: cifras y fechas siguen yendo con F-24 a F-34. El estudio no cambia el canon, no fija reparto de capítulos y no altera lo escrito. Cierra la deuda que arrastraban `README.md` y `nk estado` desde la v43 |
 | 91 | Soporte | **Copia de seguridad de la v51 en el USB** (`/dev/sda1`, exFAT, montado en `/mnt/usb` con el driver del núcleo): bundle verificado, **materiales** (30 ficheros), **`SINOPSIS/`** en tar aparte —el bundle no la lleva desde la v44— y, **por primera vez, `~/.pi/agent/AGENTS.md`**, el puntero de reanudación y las reglas de trabajo del usuario. `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main` | 2026-11-05 | El medio no estaba montado al empezar la sesión; se montó sin problema (`mount -t exfat`). Cambio de método: `AGENTS.md` vive **fuera de todo historial** (`~/.pi/agent/` no es repositorio), así que se respalda como los materiales y las sinopsis. Se mantiene el método de las decisiones 71, 73 y 79. No se toca el manuscrito |
 | 92 | Soporte | **El repositorio declara el perfil del agente que puede continuarlo, sin marcas ni credenciales** (orden del autor). En `escritura/AGENTS.md`, sección nueva «Perfil del agente que puede continuar»: capacidades mínimas (ficheros, edición por bloques, consola, contexto de 15.000-20.000 tokens, castellano de España), lo que **no** hace falta (red, GPU, visión, claves), régimen de credenciales (variable de entorno o fichero local ignorado; nunca versionado; `nk verificar` las detecta; dato personal elidido y marcado) y la declaración explícita de que **no se fijan modelo, proveedor ni versión**. Variante legible por máquina: bloque **`agente`** en `libro.json` (`modelo` y `proveedor` a `null`) y en el manifiesto que genera `nk init`. `.env` y `.env.*` al `.gitignore`. Espejo en `~/novela-kit/` | 2026-11-05 | El autor pide la variante legible por máquina y **sin nombre de modelo**. El `agente` es dato de capacidades, no de proveedor: el kit sigue sirviendo a cualquier agente y el bloque no altera recuentos, canon ni capítulos (`nk verificar --rubrica` → 0 errores y 0 avisos; 21 pruebas del kit en verde; `nk init` probado en `/tmp`). **No se sube `VERSION`** (sigue 1.9.0): el número lo fija el autor al empaquetar o publicar el kit, y aquí solo se añade contenido |
+| 93 | Escritura | **I.12 «Lo que no trae prueba» escrito**, cuarto del bloque I.2: **2.794 palabras** (−7,6 % sobre 3.025), 5 secciones, **≈4 % de citas**, 0 errores y 0 avisos. Se lee la hoja entera y seguida por primera vez; el tercer punto no se ha discutido nunca; llega una carta de fuera que pide una prueba (sin nombre, sin fecha legible, citada con elisiones); el inventario de los papeles que se pueden enseñar y la lista de lo que no se puede decir de ninguno; los tres borradores (presumir, confesar, reclutar) rotos por la mitad; la pregunta a El Servidor sin respuesta; la copia a mano que pierde el borde; acta del 9 de julio: «Se lee una carta de fuera. No se acuerda contestar». **12/126, 35.555 palabras** | 2026-11-05 | Escrito con **P1, P6 y P8** de E-05 y sin decisiones previas, como dijo el dossier (89). Las dos **elecciones locales** quedan como se anunciaron: la carta no se contesta y El Servidor no responde. Sinopsis usada: **ninguna** (decisión 81). No fija el año del anuncio, no toca C-8, C-9 ni C-10, no adelanta el concilio y no da nombre ni datos al que escribe. Continuidad: hoja del veinte y sus cuatro puntos (I.9, I.11), sobre de las hojas sueltas y carta con «Se le contestó / No se le contestó / Se le contestó mal» (I.1), cuaderno de los errores (I.4), libreta y votación seis a tres (I.7), lista de la puerta y su reverso (I.10), fotografía de la caja tercera (I.8), frase que no se apunta (I.11). **Pendiente de revisión del autor** |
+| 94 | Soporte | **El kit queda con el perfil de agente declarado y commiteado** en `~/novela-kit/` (orden del autor): commit `45e27ac`, con la sección de `AGENTS.md` y el bloque `agente` que genera `nk init`, sin nombre de modelo ni proveedor. El repositorio de la obra ya lo llevaba en `4ccdec2` | 2026-11-05 | Cierra la parte pendiente de la decisión 92. `VERSION` sigue en 1.9.0: el número lo fija el autor al empaquetar. No se toca el manuscrito |
 
 ---
 
