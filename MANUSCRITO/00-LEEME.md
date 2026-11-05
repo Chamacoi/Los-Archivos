@@ -31,8 +31,8 @@ las prácticas P1, P2 y P6 de E-05 y **aprobado el 2026-11-05** (decisión 84). 
 `../APUNTES.md` §0 undecies.
 
 Sigue I.11: «Capítulo 11. El nombre», **3.040 palabras**, escrito el 2026-11-05 (decisión 87) con las
-prácticas P2, P5 y P8 de E-05. **Pendiente de revisión del autor.** Dossier en `../APUNTES.md`
-§0 duodecies.
+prácticas P2, P5 y P8 de E-05 y **aprobado el 2026-11-05** (decisión 88), con el nombre propio a
+criterio del texto. Dossier en `../APUNTES.md` §0 duodecies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 

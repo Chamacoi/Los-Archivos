@@ -4,7 +4,15 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión actual:** 2026-11-05 (**v50, cerrada**). **I.10 «Los testigos» aprobado** por el autor
+- **Sesión actual:** 2026-11-05 (**v51, cerrada**). **I.11 «El nombre» aprobado** por el autor
+  (decisión 88), que deja además el nombre propio **a criterio del texto**: puede decirse siempre que
+  convenga, sin más condición que no gastar la fórmula de C-10/II.6. **Dossier de I.12 «Lo que no
+  trae prueba»** preparado (§0 terdecies, decisión 89), cuarto del bloque I.2: **no necesita
+  decisiones del autor** y queda listo para escribir cuando lo ordene. **E-04 redactado** (decisión
+  90), el estudio del blog como fuente de argumentos: sin capítulo y sin cambio de canon. Limpiadas
+  las tareas desfasadas de `README.md`, `ESTUDIOS/00-indice.md` y la cabecera de estos apuntes.
+  **11/126 capítulos, 32.761 palabras.** Ningún capítulo del manuscrito se ha tocado.
+- **Sesión anterior:** 2026-11-05 (**v50, cerrada**). **I.10 «Los testigos» aprobado** por el autor
   (decisión 84). **Errata de I.7 corregida** por orden del autor (decisión 85): el acta del capítulo 7
   pasa de «13 de junio» a «**11 de junio**», que es el jueves que corresponde a la secuencia del
   propio capítulo; es la única línea tocada de un capítulo aprobado. **I.11 «El nombre» escrito**
@@ -13,7 +21,8 @@
   palabras.** El capítulo mide la distancia con quien llega después en el **título y el nombre**: una
   llamada de fuera pregunta el nombre, el título consta una vez y con falta, el nombre se dice y no se
   apunta, y la ocurrencia de llamarlo (F-35, entrada 13) se discute y se prueba sin resultado. **I.11
-  pendiente de revisión del autor**; siguiente: **I.12**, cuarto del bloque I.2.
+  pendiente de revisión del autor** hasta la v51, que lo **aprueba** (decisión 88); siguiente:
+  **I.12**, cuarto del bloque I.2.
 - **Sesión anterior:** 2026-11-04 (**v49, cerrada**). **I.9 «La hoja de oído» aprobado** por el autor
   sin correcciones (decisión 82) e **I.10 «Los testigos» escrito** (decisión 83), segundo del bloque
   I.2: **2.825 palabras** (−6,6 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0
@@ -949,6 +958,96 @@ llamada no deja papel con fecha; la hoja del veinte se fecha por el bloc y no po
 del bloque, tres: se usa el tope entero y no se repite ninguno en secciones consecutivas.
 
 
+### 0 terdecies. I.12 «Lo que no trae prueba»: dossier de material (2026-11-05)
+
+Preparado en la v51 con el encargo del autor de decir si el capítulo necesita decisiones. **No las
+necesita:** no hay sinopsis de hechos, no hay bifurcación de canon y ninguna de sus piezas exige
+elegir entre opciones que solo el autor pueda resolver. El dossier fija la materia y dos elecciones
+locales, sujetas a la revisión del capítulo. Capítulo de marco: sale de canon y estructura
+(decisión 21). **Cuarto del bloque I.2**, después del nombre que no consta.
+
+**Función en el bloque.** El bloque es «el anuncio, el ver y el oír, los primeros testigos; la
+distancia con respecto a quien llega después». I.9 dejó dicho que el anuncio no se escribió. I.10,
+que los testigos no se pueden contar. I.11, que el nombre no consta en ningún papel. I.12 toma **lo
+único que el anuncio dijo de sí mismo y que la casa no ha discutido nunca**: el punto 3 de la hoja de
+abril de 2020, «Que no traeria prueba». La distancia con quien llega después se mide aquí en lo que
+se le puede entregar, y la respuesta es un inventario, no una señal.
+
+**Sinopsis usada (decisión 81):** ninguna de hechos. `S-01`, `S-02` y `S-03` siguen asignadas a I.5
+(cap. 63), II.2 (cap. 9) y II.5 (caps. 55-57); `S-04` entra como fuente de argumentos (F-35) y
+`S-05`/`E-05` como procedimientos. **No hay dato nuevo que anotar en `CRONOLOGIA.md`** salvo la
+sesión del presente (9 de julio de 2026).
+
+**Procedimiento E-05:** **P1** (lo que no existe no se describe: se inventaría su pérdida —la casa
+hace la lista de lo que puede enseñar y la lista no sirve para lo que le piden), **P6** (el capítulo
+empieza en el presente que lee: la sesión del 9 de julio, no un resumen) y **P8** (la fecha del
+papel no es la fecha de lo que pide: la carta no lleva fecha legible y lo que reclama no tiene
+fecha en ninguna parte). Tope del bloque, tres: se usa el tope entero y no se repite en secciones
+consecutivas.
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| El punto 3 de la hoja de 2020 | I.9 | «3. Que no traeria prueba», sin tachón y sin corrección, a diferencia del punto 4; la hoja no lleva año en el pie |
+| La hoja y su borde | I.9 | Borde superior recortado con tijera; encabezamiento «ESTO NO ES EL ANUNCIO. ES LO QUE NOS ACORDAMOS» |
+| El sobre de las hojas sueltas | I.1, I.5, I.10 | Ahí van las hojas que no se apuntan; la pregunta de Alfa está doblada dentro |
+| La regla de las preguntas | I.9, I.10 | El acta guarda el resultado, no el motivo; no se vota lo que no se puede escribir |
+| El nombre no se escribe | I.11 | Acta del 2 de julio: «El nombre no consta. Se acuerda que el nombre no se escribe en las actas» |
+| Las cuentas | Decisión 54 | Nueve presentes; once sillas útiles; dos libres; El Servidor no ocupa silla |
+| El presente | Decisión 80 | **2026.** Sesión del **9 de julio de 2026**, jueves siguiente al 2 de julio de I.11 |
+| La caja 4 | I.1, I.6, I.9 | «PAPELES DE LA PLAGA / y de antes»; se abre una vez al año; no se usa aquí la plaga ni se narra |
+| El tono de C-4 | C-4 | Ningún guiño con el nombre ni con la fe, aunque el capítulo hable de pruebas |
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. **La sesión del 9 de julio de 2026.** Se lee la hoja entera, los cuatro puntos seguidos, por
+   primera vez desde que se copió; el punto 3 es el único que **nunca se ha discutido**. Acata breve
+   y con falta, como las demás, sin motivo y sin votación.
+2. **Nadie sabe qué quiso decir «prueba».** El que escribió la hoja no lo explicó y ya no está para
+   explicarlo (C-6: no se le nombra ni se cuenta su salida aquí). La casa puede leer la palabra y no
+   puede rellenarla; se deja tal cual.
+3. **La carta de fuera.** Llega por correo, con el matasellos borroso y **sin fecha legible**; pide
+   una prueba de que lo que se cuenta ocurrió, y la pide para creer, no para discutir. **No tiene
+   nombre, ni ciudad, ni oficio**: se cita con elisiones marcadas y no se copia entera (decisión 32
+   por analogía, C-6).
+4. **El inventario.** La casa pone encima de la mesa lo que tiene: las actas, la hoja de 2020, la
+   libreta de las cuentas, el cuaderno de los errores, la lista de la puerta. Cada papel se puede
+   leer y **ninguno prueba el anuncio**; prueban la casa, que es otra cosa. El inventario se cuenta
+   sin que el narrador saque la consecuencia.
+5. **La respuesta no sale.** Se intenta escribir tres veces; las tres se rompen y los tres intentos
+   quedan en el sobre con las tachaduras. **Decisión local (revisable):** la carta **no se contesta**
+   y no se acuerda contestarla; el acta no da motivo.
+6. **Lo que sí se podría mandar y no se manda:** una copia de la hoja con el borde cortado. Se hace
+   la copia, se guarda en el sobre, no se envía. Queda como el reverso material del capítulo.
+7. **El Servidor está y no contesta.** Se le pregunta delante de todos si hay prueba. **Decisión
+   local (revisable):** no responde, y el texto lo dice sin interpretarlo; el acta tampoco lo apunta.
+   Nadie convierte el silencio en señal ni en reproche.
+8. **El cierre de la distancia.** Boomer de la silla, que estaba en la habitación, dice que él lo vio,
+   y **su testimonio tampoco sirve de prueba para quien no estaba**: se puede contar, no se puede
+   entregar. La frase que cierra el capítulo es de alguien de la casa, no del narrador: quien venga a
+   pedir una prueba tendrá que quedarse a ver cómo viven. Se revisa con el autor.
+
+**Lo que no puede hacer.**
+
+- **Contar el anuncio** ni fijar su año, el número de testigos o si alguien lo vio (C-5): el capítulo
+  se mueve sobre el papel que lo transmite, no sobre el hecho.
+- **Convertir la ausencia de prueba en tesis del narrador**: la prueba por frutos es la forma de la
+  demostración (decisión 18), pero el que la dice aquí es un personaje y el narrador no la subraya,
+  no la elogia y no la explica.
+- **Hacer de la prueba un milagro ni de El Servidor un argumento**: no se le identifica con Dios y su
+  silencio no es un signo (C-8, criterio de fracaso).
+- **Tocar C-8, C-9 y C-10**: ni plaga, ni siembra, ni reunión, ni concilio. Nada de la Parte II se
+  adelanta.
+- **Dar nombre ni datos al que escribe la carta** (C-6), **dar voz al archivo** (decisión 55),
+  **cero «yo»** del narrador, ni elogio de la casa.
+- **Nombrar F-35 ni F-36** (decisiones 67 y 76) y **no tocar ningún capítulo aprobado**.
+
+**Decisiones que el capítulo necesita del autor: ninguna.** Las dos elecciones locales (la carta no
+se contesta; El Servidor no responde) se fijan en el dossier y se someten a la revisión del capítulo,
+como se hizo en I.9, I.10 e I.11. Si el autor prefiere que la casa conteste o que El Servidor diga
+una frase, se cambia antes de escribir, no después.
+
 ---
 
 ---
@@ -957,7 +1056,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v42 (2026-11-02, sesión cerrada).
+- Última revisión: v51 (2026-11-05, sesión cerrada).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -1308,6 +1407,9 @@ teológico** y tiene que **costar algo**.
 | 85 | Escritura | **Errata de I.7 corregida** (orden del autor: «revisa la errata de I.7»). El acta del capítulo 7 decía «Sesion del **13 de junio**», que en 2026 cae en sábado y rompe la secuencia del propio capítulo (el viernes de la primera semana de junio es el 5; la votación se hace «el jueves siguiente»). Pasa a **«Sesion del 11 de junio»**, jueves. Es la única línea tocada: no se corrigen faltas, ni cifras, ni el resto del acta | 2026-11-05 | Cierra la nota de la decisión 80 y la de `PERSONAS.md`. Excepción expresa a la regla de no tocar capítulos aprobados: la autoriza el autor y se limita a un dato de calendario. Continuidad comprobada: 11 de junio de 2026 es jueves y no colisiona con las sesiones del 18 y del 25 (I.9, I.10) |
 | 86 | Escritura | **Dossier de I.11 «El nombre» preparado** (§0 duodecies). Tercero del bloque I.2. Materia asignada: **F-35, entrada 13** (recuperar el contacto invocando lo que se dijo, del reparto de S-04 §6.4 para I.2), la **hoja de abril de 2020** (punto 2: «Que se llamaria El Servidor»), la **lista de teléfonos** de la casa cerrada (I.9), el «fue por teléfono» de Boomer de la tapa (I.9) y la errata como dato del archivo (entrada 7 del blog, apoyo). Prácticas E-05: **P2, P5 y P8** | 2026-11-05 | El capítulo no usa sinopsis de hechos (`S-01`–`S-03` siguen en I.5, II.2 y II.5) ni toca C-7, C-8 ni C-9. F-35 entra como **ocurrencia**, nunca como método, y **no se nombra**. El nombre propio (C-4) se dice en el capítulo por primera vez: decisión de escritura del agente, sujeta a la revisión del autor |
 | 87 | Escritura | **I.11 «El nombre» escrito**, tercero del bloque I.2: **3.040 palabras** (+0,5 % sobre 3.025), 5 secciones, **3,1 % de citas**, 0 errores y 0 avisos. Una llamada de fuera (sin nombre, sin origen, sin fecha en ningún papel) pregunta por el nombre; Boomer de la tapa lo dice tres veces y el otro lo escribe mal; la sesión lee la nota, la hoja de abril de 2020 (el título entero, con falta) y las actas, y descubre que el nombre no está escrito en ningún papel de la casa; Equis del bolígrafo lo dice entero una vez; Alfa propone que decirlo lo trae, lo dice y no pasa nada; El Servidor: «El nombre no trae a nadie. Solo dice a quién estáis llamando»; acta del 2 de julio: «Consta el titulo. El nombre no consta. Se acuerda que el nombre no se escribe en las actas». El nombre bien escrito no queda en la casa; en el sobre queda una copia con la primera parte cambiada | 2026-11-05 | Escrito con **P2, P5 y P8** de E-05 (tope del bloque, tres) y anotado en el dossier §0 duodecies. Material: **F-35 entrada 13** como ocurrencia, nunca como método ni nombrada; hoja del 20 (I.9), acta 9 y acta 11 (I.1), lista de teléfonos y «fue por teléfono» (I.9). **El nombre propio (C-4) aparece por primera vez en el manuscrito**, dicho una vez y con seriedad absoluta; no se gasta la fórmula de C-10/II.6. No fija el año del anuncio ni el número de testigos, no da nombre al que llama, no toca capítulos aprobados salvo la errata autorizada de I.7 (decisión 85). **11/126, 32.761 palabras.** Pendiente de revisión del autor |
+| 88 | Escritura | **I.11 «El nombre» aprobado** por el autor, sin correcciones, y **el nombre propio queda a criterio del texto**: dictado literal, «En el capítulo I.11 nombraste a 'Token Insight', puedes hacerlo siempre que lo creas conveniente». Se cierra con **3.040 palabras** (+0,5 % sobre 3.025), 5 secciones, 3,1 % de citas, 0 errores y 0 avisos. **11/126 capítulos, 32.761 palabras** | 2026-11-05 | Cierra la 87. El permiso es de **uso**, no de canon: C-4 ya fijaba el nombre y su advertencia de tono sigue entera (nada de guiños). Lo que sigue reservado es la **fórmula** de C-10/II.6 («yo mismo soy El Servidor, Token Insight»), que se dice una sola vez y no se gasta antes. Anotado en C-4 |
+| 89 | Escritura | **Dossier de I.12 «Lo que no trae prueba» preparado** (§0 terdecies), cuarto del bloque I.2: el punto 3 de la hoja de 2020 («Que no traeria prueba»), la sesión del 9 de julio de 2026, la carta de fuera que pide una prueba y no se contesta, el inventario de lo que la casa puede enseñar y la copia de la hoja que se guarda sin enviar. Prácticas E-05: **P1, P6 y P8**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-05 | Respuesta al encargo del autor («no por mi parte pero si las necesita, dime»). Dos **elecciones locales** quedan fijadas y sujetas a la revisión del capítulo: la carta no se contesta y El Servidor no responde. No toca C-8, C-9 ni C-10, no fija el año del anuncio y no usa sinopsis de hechos (decisión 81). No se escribe hasta que el autor lo ordene |
+| 90 | Material | **E-04 redactado** (`ESTUDIOS/E-04-fuente-de-argumentos.md`): el estudio del blog como fuente de argumentos, con las cinco preguntas y las dos precisiones ya contestadas (decisiones 65-67), el inventario de las quince entradas por clases de materia, las cinco pruebas del criterio de selección aplicadas, el régimen de uso (nunca nombrada, sin fechas en el mundo del libro, autoría interna por capítulo) y el control de asignación capítulo a capítulo. Registrado en `ESTUDIOS/00-indice.md` | 2026-11-05 | **No es una sinopsis de hecho y no hay capítulo.** F-35 no sostiene ningún dato: cifras y fechas siguen yendo con F-24 a F-34. El estudio no cambia el canon, no fija reparto de capítulos y no altera lo escrito. Cierra la deuda que arrastraban `README.md` y `nk estado` desde la v43 |
 
 ---
 
@@ -1420,6 +1522,11 @@ Fijado el 2026-10-24 por el usuario.
   ahí, sin subrayarlo.
 - **Advertencia de tono:** un mesías llamado Token Insight solo se sostiene si el texto lo trata con
   seriedad absoluta. Un guiño y el nombre se convierte en chiste; con el nombre se cae el libro.
+- **Uso del nombre en el texto (v51, 2026-11-05, decisión 88).** El autor deja el nombre propio **a
+  criterio del texto**: «puedes hacerlo siempre que lo creas conveniente». No hay cupo, ni escena
+  reservada, ni prohibición de repetirlo. Lo que sigue reservado es la **fórmula** de C-10/II.6
+  («yo mismo soy El Servidor, Token Insight»), que se dice una sola vez y no se gasta antes, y la
+  advertencia de tono, que no se relaja por el permiso.
 
 ### C-5. Ya fue anunciado, ya lo han visto
 

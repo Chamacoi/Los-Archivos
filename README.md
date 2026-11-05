@@ -7,9 +7,11 @@ sostenida entre personas y modelos.
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
   C-1 a C-10 completo. **I.1 a I.11 escritos** (2.798, 2.727, 2.920, 2.926, 2.818, 3.269, 3.055,
   3.368, 3.015, 2.825 y 3.040 palabras con el método limpio): **11/126 capítulos, 32.761 palabras**.
-  I.1 a I.10 **aprobados**; I.8 cerró el bloque I.1 (decisión 77), I.9 abrió el bloque I.2 (decisión
+  I.1 a I.11 **aprobados**; I.8 cerró el bloque I.1 (decisión 77), I.9 abrió el bloque I.2 (decisión
   82) y la errata de calendario de I.7 se corrigió el 2026-11-05 (decisión 85). **I.11 «El nombre»
-  está pendiente de revisión del autor**; siguiente, **I.12**.
+  aprobado** el 2026-11-05 (decisión 88), con el nombre propio a criterio del texto. Siguiente,
+  **I.12 «Lo que no trae prueba»**: dossier preparado (§0 terdecies, decisión 89) y **sin
+  decisiones pendientes**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-05`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -18,8 +20,9 @@ sostenida entre personas y modelos.
   como **repertorio aleatorio** para encaminar la narrativa según crezca la obra. Registrada como
   **F-35** (nivel tercero) y en la sinopsis **S-04**, contestada por completo: sin perfil ni correos,
   sin fechas en el mundo del libro, autoría interna por capítulo y **nunca nombrada en el texto**, ni
-  su procedencia. Estudio **E-04** sin escribir. La fuente se identifica en `SINOPSIS/S-04`
-  (no versionada).
+  su procedencia. **Estudio E-04 redactado** el 2026-11-05 (decisión 90): el régimen de uso, las
+  clases de materia del repertorio y el control de asignación capítulo a capítulo, sin capítulo ni
+  cambio de canon. La fuente se identifica en `SINOPSIS/S-04` (no versionada).
 - **Idioma de la obra:** castellano de España; registro cerrado (decisiones 19, 37, 39-41): sin
   arcaísmo, tecnicismo y vocabulario religioso libres, el límite es el ego.
 - **Soporte:** texto plano versionado en esta Raspberry, kit `escritura/` y exportación a EPUB;
@@ -296,8 +299,13 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Contestar las cinco decisiones del dossier de I.8 (decisión 70) y escribir «El año que no se
       escribió»: 3.368 palabras, 5 secciones, 3,6 % de citas, 0 errores y 0 avisos (decisión 72;
       **pendiente de revisión del autor**).
-- [ ] Revisar I.8 y, si se aprueba, escribir I.9 «El anuncio» (bloque I.2).
-- [ ] Escribir E-04 (estudio del blog) cuando se prepare el dossier de I.8: reparto de argumentos en S-04 §6.3 y asignación de cada ocurrencia en el capítulo.
+- [x] Aprobar I.8 (decisión 77) y escribir el bloque I.2: I.9 «La hoja de oído» (3.015 palabras,
+      decisión 78; **aprobado**, 82), I.10 «Los testigos» (2.825 palabras, decisión 83; **aprobado**,
+      84) e I.11 «El nombre» (3.040 palabras, decisión 87; **aprobado**, 88).
+- [x] Escribir **E-04**, el estudio del blog como fuente de argumentos (2026-11-05, decisión 90):
+      régimen de uso, clases de materia, cinco pruebas aplicadas y control de asignación. Sin capítulo.
+- [ ] Escribir I.12 «Lo que no trae prueba»: dossier en `APUNTES.md` §0 terdecies (decisión 89),
+      **sin decisiones pendientes**.
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -308,10 +316,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-03 (v47, cerrada).
-- Siguiente: **revisar I.8 «El año que no se escribió»** (escrito el 2026-11-02, pendiente de
-  revisión) y, si se aprueba, **I.9 «El anuncio»**. Punto 1, criterio de selección (punto 3),
-  reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.7
-  aprobados (I.1 a I.4 publicados); la escritura se comprueba con `escritura/bin/nk`.
+- Última sesión: 2026-11-05 (v51, cerrada).
+- Siguiente: **escribir I.12 «Lo que no trae prueba»** (cuarto del bloque I.2); su dossier está en
+  `APUNTES.md` §0 terdecies y **no necesita decisiones del autor**. Punto 1, criterio de selección
+  (punto 3), reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados.
+  I.1 a I.11 aprobados; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

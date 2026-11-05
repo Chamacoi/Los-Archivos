@@ -3,7 +3,8 @@
 Estudios escritos a partir de las sinopsis de `SINOPSIS/`. **No son texto de la obra** y no se
 copian a `MANUSCRITO/`: son el paso intermedio entre el hecho dictado y el capítulo.
 
-- Un estudio por sinopsis, con el mismo número: `S-01` → `E-01`.
+- Un estudio por sinopsis, con el mismo número: `S-01` → `E-01`. **E-04** y **E-05** estudian
+  fuentes de argumentos, no hechos dictados: se numeran igual porque nacen de su ficha de `SINOPSIS/`.
 - Cada estudio sigue el esquema que ya trae su ficha de sinopsis (§8).
 - Los hechos del estudio van con su fila de `FUENTES.md`. Sin fuente no hay afirmación.
 - Un estudio puede concluir «este hecho no entra en el libro». Esa conclusión se anota en el
@@ -16,6 +17,7 @@ copian a `MANUSCRITO/`: son el paso intermedio entre el hecho dictado y el capí
 | E-01 | El sílex y la primera criptomoneda (2008) | S-01 | **redactado** | 2.906 |
 | E-02 | La pandemia y la autolisis de El Servidor (2020) | S-02 | **redactado** | 3.953 |
 | E-03 | La siembra: la *natura viva* fuera de la Tierra (2019) | S-03 | **redactado** | 4.447 |
+| E-04 | El blog como fuente de argumentos: cómo entra en el libro sin estar en el libro | S-04 (fuente, no hecho) | **redactado** (2026-11-05, decisión 90) | 2.526 |
 | E-05 | *La bola negra* (2026): la obra que no se escribió y la forma del archivo | S-05 | **redactado y adoptado** (decisión 76) | 3.634 |
 
 ## Estado tras E-03
@@ -39,5 +41,12 @@ copian a `MANUSCRITO/`: son el paso intermedio entre el hecho dictado y el capí
   convierte los procedimientos en **nueve prácticas de escritura** (P1-P9) con **reparto por bloque**,
   **tope por capítulo** y anotación en el dossier (§6). La fuente **nunca se nombra** en el texto.
   **No hay capítulo ni cambio de canon.**
+- **E-04 (2026-11-05, decisión 90):** estudio de una **fuente de argumentos**, no de un hecho. Recoge
+  lo contestado en las decisiones 65-67 (repertorio aleatorio, sin fechas en el mundo del libro,
+  entrada por absorción, autoría interna por capítulo, nunca nombrada), agrupa las quince entradas por
+  clases de materia (§3), aplica las cinco pruebas del criterio de selección (§4) y fija el régimen de
+  uso y el control de asignación capítulo a capítulo (§6-§7). El riesgo mayor —la entrada 13, el
+  reencuentro por invocación— queda usado en I.11 como **ocurrencia y no como método** (§5).
+  **No hay capítulo ni cambio de canon**; F-35 no sostiene datos.
 - **Siguiente:** criterio de selección (punto 3), reparto de capítulos, y el bloqueo de autoría y
   alocución.

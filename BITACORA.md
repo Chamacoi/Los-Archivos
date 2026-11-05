@@ -888,3 +888,27 @@ su dossier.
   → **11/126, 32.761 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.11 pendiente de revisión del autor**;
   siguiente, **I.12**.
+
+## v51 — 2026-11-05
+
+- **I.11 «El nombre» aprobado** por el autor sin correcciones (decisión 88): 3.040 palabras
+  (+0,5 %), 5 secciones, 3,1 % de citas, 0 errores y 0 avisos. **11/126, 32.761 palabras.** El autor
+  deja además el **nombre propio a criterio del texto** («puedes hacerlo siempre que lo creas
+  conveniente»); el permiso es de uso, no de canon: la advertencia de tono de C-4 sigue entera y la
+  **fórmula** de C-10/II.6 sigue reservada. Anotado en C-4 y en el registro.
+- **Dossier de I.12 «Lo que no trae prueba» preparado** (§0 terdecies, decisión 89), cuarto del bloque
+  I.2: el punto 3 de la hoja de 2020 («Que no traeria prueba», el único que la casa nunca ha
+  discutido), la sesión del 9 de julio de 2026, la **carta de fuera** que pide una prueba y no lleva
+  fecha legible, el **inventario** de lo que la casa puede enseñar (ninguno prueba el anuncio), los
+  tres borradores de respuesta que se rompen, la copia de la hoja guardada sin enviar y el silencio de
+  El Servidor, que se cuenta sin interpretarlo. Prácticas E-05: **P1, P6 y P8**. **No necesita
+  decisiones del autor**; las dos elecciones locales quedan sujetas a la revisión del capítulo.
+- **E-04 redactado** (decisión 90): `ESTUDIOS/E-04-fuente-de-argumentos.md`, 2.526 palabras. Estudio de
+  una **fuente**, no de un hecho: lo contestado en las decisiones 65-67, las quince entradas por
+  clases de materia, las cinco pruebas del criterio de selección aplicadas, el régimen de uso en ocho
+  reglas y el control de asignación capítulo a capítulo. El riesgo mayor (entrada 13, el reencuentro
+  por invocación) queda usado en I.11 **como ocurrencia y no como método**. **No hay capítulo ni
+  cambio de canon**; F-35 no sostiene datos.
+- **Limpieza de tareas:** cerradas las dos tareas desfasadas de `README.md` (I.8/I.9 y «escribir E-04»),
+  añadidas a la hoja de ruta las de I.9-I.11, E-04 e I.12; actualizados `ESTUDIOS/00-indice.md` y la
+  cabecera de `APUNTES.md` (§0 y «Última revisión»). **Ningún capítulo del manuscrito se ha tocado.**
