@@ -15,6 +15,10 @@ privado/
 MATERIALES/
 # Sinopsis: hechos dictados por el autor, literales. Material de trabajo, no publicable
 SINOPSIS/
+
+# Credenciales y configuración local del agente: nunca versionar (ver `escritura/AGENTS.md`)
+.env
+.env.*
 __pycache__/
 *.pyc
 

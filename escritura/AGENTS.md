@@ -4,6 +4,48 @@ Instrucciones para cualquier agente (o persona) que trabaje en este repositorio.
 una obra literaria que se escribe **como archivo**: no es un proyecto de software, aunque tenga
 scripts.
 
+## Perfil del agente que puede continuar
+
+El repositorio no se escribe con un modelo concreto. Se escribe con un agente que pueda hacer lo
+que sigue; **la marca, el proveedor y la versión no se fijan a propósito**, porque caducan y este
+texto no.
+
+**Capacidades mínimas.**
+
+- Leer y escribir ficheros de texto del árbol de trabajo y **editar por bloques exactos**, sin
+  reescribir lo que no se toca.
+- Ejecutar comandos de consola (`git`, `tar` y los scripts de `bin/nk`) sobre los ficheros de la
+  obra, sin privilegios de administrador.
+- **Contexto amplio:** tener a la vez el capítulo en curso (≈3.000 palabras), `APUNTES.md` §0, §3 y
+  §4, el dossier del capítulo y `libro.json` — del orden de **15.000-20.000 tokens**.
+- Castellano de España para el texto y para hablar con el autor.
+
+**Lo que no hace falta.** Conexión permanente, GPU, visión, claves de API ni ninguna herramienta
+propietaria: todo lo que manda está en ficheros de texto y el control de versiones es `git`.
+
+**Credenciales.** Nunca en un fichero versionado. Si alguna vez hicieran falta (hoy no hacen falta
+para nada de lo que pide este protocolo), van por **variable de entorno** o por un fichero local
+**ignorado por git** (`.env` está en `.gitignore`). `bin/nk verificar` busca los patrones habituales
+—correos, claves tipo `sk-…`/`ghp_…`, IPv4, teléfonos, base64 largo, URLs con credenciales— y avisa.
+Un dato personal que no se pueda omitir se **elide y se marca**: `[elidido]`, `[corte]`.
+
+**Variante legible por máquina.** El manifiesto `libro.json` lleva un bloque `"agente"` con estas
+capacidades, para que un agente que clone la obra sepa qué se le pide sin interpretar prosa:
+
+```json
+"agente": {
+  "modelo": null,
+  "proveedor": null,
+  "capacidades": ["leer_ficheros", "escribir_ficheros", "editar_por_bloques",
+                  "ejecutar_comandos", "contexto_amplio", "castellano_es_ES"],
+  "contexto_minimo_tokens": 15000,
+  "requiere": {"red": false, "gpu": false, "vision": false, "claves_api": false},
+  "credenciales": {"en_repositorio": false,
+                    "via": ["variable_de_entorno", "fichero_local_ignorado"],
+                    "detector": "bin/nk verificar"}
+}
+```
+
 ## Al reanudar
 
 1. Lee `APUNTES.md` empezando por **§0 Punto de reanudación**; después §2 (puntos abiertos), §3

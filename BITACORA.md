@@ -916,3 +916,9 @@ su dossier.
   montado; se montó en `/mnt/usb` con el driver del núcleo. Bundle verificado, materiales (30
   ficheros), `SINOPSIS/` en tar aparte y, **por primera vez, `~/.pi/agent/AGENTS.md`**, que vive fuera
   de todo historial; `sha256sum -c` OK y clon `los-archivos-repo` actualizado a `origin/main`.
+- **Perfil del agente declarado en el repositorio** (decisión 92): sección nueva en
+  `escritura/AGENTS.md` con capacidades, lo que no hace falta y el régimen de credenciales, y bloque
+  legible por máquina **`agente`** en `libro.json` (y en lo que genera `nk init`), con `modelo` y
+  `proveedor` a `null`: **sin nombre de modelo**, por orden del autor. `.env` y `.env.*` entran al
+  `.gitignore`. 21 pruebas del kit en verde y `nk verificar --rubrica` limpio; espejo en
+  `~/novela-kit/`. No se sube `VERSION` (1.9.0).

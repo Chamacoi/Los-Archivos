@@ -1074,6 +1074,17 @@ def cmd_init(args):
         })
     man = {
         "kit": VERSION,
+        "agente": {
+            "modelo": None,
+            "proveedor": None,
+            "capacidades": ["leer_ficheros", "escribir_ficheros", "editar_por_bloques",
+                            "ejecutar_comandos", "contexto_amplio", "castellano_es_ES"],
+            "contexto_minimo_tokens": 15000,
+            "requiere": {"red": False, "gpu": False, "vision": False, "claves_api": False},
+            "credenciales": {"en_repositorio": False,
+                              "via": ["variable_de_entorno", "fichero_local_ignorado"],
+                              "detector": "bin/nk verificar"},
+        },
         "libro": {
             "titulo": args.titulo,
             "autor": args.autor or "",

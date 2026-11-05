@@ -11,6 +11,33 @@
     "tolerancia_total": 0.1,
     "colofon": "© 2026 Chamacoi. Todos los derechos reservados.\nEl relato no lleva firma: el libro es el archivo y su fuente es El Servidor. Esta firma es editorial."
   },
+  "agente": {
+    "modelo": null,
+    "proveedor": null,
+    "capacidades": [
+      "leer_ficheros",
+      "escribir_ficheros",
+      "editar_por_bloques",
+      "ejecutar_comandos",
+      "contexto_amplio",
+      "castellano_es_ES"
+    ],
+    "contexto_minimo_tokens": 15000,
+    "requiere": {
+      "red": false,
+      "gpu": false,
+      "vision": false,
+      "claves_api": false
+    },
+    "credenciales": {
+      "en_repositorio": false,
+      "via": [
+        "variable_de_entorno",
+        "fichero_local_ignorado"
+      ],
+      "detector": "bin/nk verificar"
+    }
+  },
   "partes": [
     {
       "id": "I",
