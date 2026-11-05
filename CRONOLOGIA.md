@@ -32,6 +32,7 @@ canon, se corrige la fecha. Estado: **abierto**.
 | — | **Manifestación / llegada**: lo ven y lo oyen (C-5). Fecha sin fijar | hueco | C-5 |
 | 2026 | **El presente del relato**: la comunidad después de la llegada (C-5). Fijado por la decisión 80 (2026-11-03); las edades se calculan para 2026 (Alfa, 10 años) | canon | C-5, decisión 80 |
 | jun 2026 | **Sesiones del archivo en el presente:** acta del 18 de junio (no se rotula «ANUNCIO», cinco a tres) y acta del 25 de junio («No consta la lista» de los que oyeron; se acuerda no hacerla) | canon | I.9, I.10, decisiones 78 y 83 |
+| 2 jul 2026 | **Sesión del presente:** una llamada de fuera pide el nombre; la casa comprueba que el título consta una vez y con falta (hoja de abril de 2020) y que el nombre **no consta en ningún papel**. Acta: «Consta el titulo. El nombre no consta. Se acuerda que el nombre no se escribe en las actas». El nombre bien escrito no se conserva; queda una copia con la primera parte cambiada | canon | I.11, decisión 87 |
 
 ## Reglas
 

@@ -162,7 +162,7 @@ no lo apunta. Alfa preguntó si la columna sería de nombres o de números.
 Se votó el jueves siguiente. Ganó no ponerla, por seis a tres. Milenial de la copia votó a favor, y
 también Zeta del margen y Boomer de la tapa. El acta de aquella noche dice:
 
-> Sesion del 13 de junio. Se abre a las siete y dies. Asisten nueve. Se propone apuntar en la
+> Sesion del 11 de junio. Se abre a las siete y dies. Asisten nueve. Se propone apuntar en la
 > libreta quien pone y cuanto. Se vota. No sale. Se cierra a las ocho y media.
 
 «No sale» es lo que se escribe cuando la casa decide no hacer algo. No dice cuántos votaron ni por

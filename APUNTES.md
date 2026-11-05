@@ -4,7 +4,17 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión actual:** 2026-11-04 (**v49, cerrada**). **I.9 «La hoja de oído» aprobado** por el autor
+- **Sesión actual:** 2026-11-05 (**v50, cerrada**). **I.10 «Los testigos» aprobado** por el autor
+  (decisión 84). **Errata de I.7 corregida** por orden del autor (decisión 85): el acta del capítulo 7
+  pasa de «13 de junio» a «**11 de junio**», que es el jueves que corresponde a la secuencia del
+  propio capítulo; es la única línea tocada de un capítulo aprobado. **I.11 «El nombre» escrito**
+  (decisión 87), tercero del bloque I.2: **3.040 palabras** (+0,5 % sobre 3.025), 5 secciones,
+  **3,1 % de citas**, 0 errores y 0 avisos. Dossier en §0 duodecies. **11/126 capítulos, 32.761
+  palabras.** El capítulo mide la distancia con quien llega después en el **título y el nombre**: una
+  llamada de fuera pregunta el nombre, el título consta una vez y con falta, el nombre se dice y no se
+  apunta, y la ocurrencia de llamarlo (F-35, entrada 13) se discute y se prueba sin resultado. **I.11
+  pendiente de revisión del autor**; siguiente: **I.12**, cuarto del bloque I.2.
+- **Sesión anterior:** 2026-11-04 (**v49, cerrada**). **I.9 «La hoja de oído» aprobado** por el autor
   sin correcciones (decisión 82) e **I.10 «Los testigos» escrito** (decisión 83), segundo del bloque
   I.2: **2.825 palabras** (−6,6 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0
   avisos. Dossier en §0 undecies. **10/126 capítulos, 29.721 palabras.** **Decisión 81 (material):**
@@ -12,8 +22,7 @@
   usarán **todos los datos dictados** de `S-01`–`S-05` **hasta terminar el libro**; `SINOPSIS/` sigue
   sin versionarse (decisión 67) y no se cita nunca en el texto. **Errata de recuento corregida:** la
   v48 anotó «10/126» y eran **9/126** (I.1–I.9); §0 y `README.md` quedan al día y las decisiones
-  78-80 se conservan con su cifra como registro. **I.10 pendiente de revisión del autor**; siguiente:
-  **I.11**, tercero del bloque I.2.
+  78-80 se conservan con su cifra como registro.
 - **Sesión anterior:** 2026-11-03 (**v48, cerrada**). **S-05 registrada y E-05 escrito** (decisión 75):
   *La bola negra* (película de 2026) y el fragmento de Lorca entran como **espejo formal y fuente de
   argumentos**, no como hecho del mundo. Fuente **F-36** (Wikipedia es; copias en `MATERIALES/`),
@@ -859,6 +868,86 @@ consecutivas.
 - **Nombrar la fuente de la película** ni la película (decisión 76), y **no tocar ningún capítulo
   aprobado**.
 
+### 0 duodecies. I.11 «El nombre»: dossier de material (2026-11-05)
+
+Escrito en la v50 con la orden del autor («asigna cualquier material que se pueda invertir en este
+capítulo… y continúa»). Capítulo de marco: sale de canon, estructura y fuentes de argumentos, no de
+una sinopsis de hechos. **Tercero del bloque I.2**, después de los testigos que no se pueden contar.
+
+**Función en el bloque.** El bloque es «el anuncio, el ver y el oír, los primeros testigos; la
+distancia con quien llega después». I.9 cerró que el anuncio **no se escribió**. I.10 cerró que los
+testigos **no se pueden contar**. I.11 mide esa distancia en lo único que la casa transmite de viva
+voz: **el título y el nombre**. El título consta escrito una vez, con falta, desde abril de 2020. El
+nombre propio **no consta en ningún papel de la casa**: se dice al oído, y por eso cada uno lo
+escribe como lo oye. Una llamada de fuera pone a prueba la distancia.
+
+**Material asignado.**
+
+| Material | Origen | Uso en el capítulo |
+|---|---|---|
+| Recuperar el contacto invocando lo que se dijo la primera vez (entrada 13 del blog) | **F-35**, reparto de S-04 §6.4, fila asignada a **I.2** | La **ocurrencia** de llamarlo por su nombre, propuesta en la sesión y discutida. Se narra como ocurrencia, **nunca como método**: sin pasos, sin fórmula que se pueda repetir, sin transacción. La fuente no se nombra ni se alude (decisión 67) |
+| Punto 2 de la hoja de abril de 2020: «Que se llamaria El Servidor» | **I.9 §3** | Único papel de la casa donde consta el título, y consta con falta |
+| «Servidor» con mayúscula, sin explicación, en el acta 9 | **I.1 §1** | El título entró en el archivo por el registro, no por una definición |
+| La lista de teléfonos de la casa cerrada | **I.9 §2** | El teléfono es objeto de la plaga: en 2020 había teléfonos y no había sesiones |
+| «Fue por teléfono», versión de Boomer de la tapa | **I.9 §3** | El anuncio entró por el oído; el que llama llega por el mismo sitio |
+| La errata que no se corrige y el dato que se firma (entrada 7 del blog) | **F-35**, apoyo | El nombre escrito se copia con su falta; la casa no corrige lo escrito por otro (acta primera) |
+
+**Sinopsis usada (decisión 81):** ninguna de hechos. `S-01`, `S-02` y `S-03` siguen asignadas a
+I.5 (cap. 63), II.2 (cap. 9) y II.5 (caps. 55-57). `S-04` entra como fuente de argumentos (F-35) y
+`S-05`/`E-05` como procedimientos. No hay dato nuevo que anotar en `CRONOLOGIA.md` salvo la sesión
+del presente (2 de julio de 2026).
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La hoja de abril de 2020 | I.9 | Cuatro puntos numerados; el segundo es «Que se llamaria El Servidor»; sin año en el pie; el año del anuncio no consta |
+| El título en el archivo | I.1, I.9 | Aparece por primera vez en el acta 9, con mayúscula y sin explicación; «mesías» está tachado y sustituido por «el que llega» (acta 11) |
+| La fórmula de apertura | I.9 | «Leemos lo que hay»; la corrección de «queda» a «hay» es posterior y de otra tinta |
+| Las preguntas no se apuntan | I.9, I.10 | El acta guarda el resultado, no el motivo; a Alfa se le dijo que su pregunta no existía en el acta |
+| Las cuentas | Decisión 54 | Nueve presentes; Alfa no vota en papeles; El Servidor no ocupa silla |
+| El presente | Decisión 80 | **2026.** Sesión del **2 de julio de 2026**, jueves siguiente al 25 de junio de I.10 |
+| Boomer de la tapa cuenta por teléfono | I.9, I.10 | Su versión del anuncio es telefónica; la de Boomer de la silla es la habitación |
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. **La llamada.** Un jueves antes de la sesión, alguien de fuera llama a la casa y pregunta por El
+   Servidor: cómo se llama, si se le puede llamar, si puede venir a oírlo. Atiende Boomer de la tapa,
+   que es el que cuenta por teléfono. **El que llama no tiene nombre, no se le pone y no se dice de
+   dónde llama** (C-6); no consta si vino ni si volvió a llamar.
+2. **El título consta, el nombre no.** El título está en un solo papel de la casa, con falta, y la
+   falta se conserva. El **nombre propio** (C-4) se dice en la casa y **no se apunta en ninguna acta**:
+   el único papel que lo lleva es el del que llama, que anota lo que oye, y lo copia mal.
+3. **El nombre se dice en el capítulo por primera vez** en el libro. Se dice entero una vez, en la
+   sesión, cuando Equis del bolígrafo corrige la versión que Boomer de la tapa trae del teléfono; las
+   variantes erróneas no se transcriben como nombre, solo se describen (primera parte cambiada por
+   otra palabra, segunda a medias). Trato de seriedad absoluta (C-4): nada de guiño.
+4. **La ocurrencia de llamarlo.** Alfa propone que, si se dice el nombre entero, El Servidor vendrá;
+   Milenial de la pregunta añade que no basta el nombre, que habría que decir lo que se le dijo la
+   primera vez, y eso **no consta**. Se discute, Alfa dice el nombre en voz alta y **no pasa nada**.
+   El Servidor responde sin resolver, en una frase que no se apunta: «El nombre no trae a nadie. Solo
+   dice a quién estáis llamando».
+5. **El acta del 2 de julio.** «Se lee la hoja del año veinte. Consta el título. El nombre no consta.
+   Se acuerda que el nombre no se escribe en las actas», sin motivo y sin votación.
+6. **El cierre de la distancia.** Los que oyeron tienen el nombre de oídas; Alfa lo tiene de una hoja
+   copiada mal. La casa puede corregir la copia, no la distancia.
+
+**Lo que no puede hacer.**
+
+- **Contar el anuncio** ni fijar su año, el número de testigos o si alguien lo vio (C-5).
+- **Dar nombre al que llama**, ni apellidos, ni ciudad, ni oficio que lo identifique (C-6).
+- **Convertir la ocurrencia en manual**: sin pasos, sin «hay que decir», sin promesa de que funciona.
+- **Gastar la fórmula de la vuelta** de C-10/II.6 («yo mismo soy El Servidor, Token Insight»): el
+  nombre se dice aquí, la fórmula no.
+- **Dar voz al archivo** (decisión 55), **cero «yo»** del narrador, ni elogio de la casa.
+- **Tocar ningún capítulo aprobado.**
+
+**Procedimiento E-05:** **P2** (todo lo perdido entra por un documento que no es ello: la nota del
+que llama, leída en voz alta por teléfono y copiada mal), **P5** (el hueco del nombre se clasifica:
+no es hoja que no llegó, es palabra dicha y no apuntada) y **P8** (solo se fecha lo que consta: la
+llamada no deja papel con fecha; la hoja del veinte se fecha por el bloc y no por el anuncio). Tope
+del bloque, tres: se usa el tope entero y no se repite ninguno en secciones consecutivas.
+
 
 ---
 
@@ -1215,6 +1304,10 @@ teológico** y tiene que **costar algo**.
 | 81 | Material | **La sinopsis local es fuente de datos del agente y alimenta el contenido** (dictado literal del autor: «la sinopsis se usa como fuente de datos del agente y para alimentar el contenido»). **Se usarán todos los datos racionados hasta terminar el libro** (segunda frase literal; «racionados» se conserva tal cual). En la práctica: los hechos dictados en `S-01`–`S-05` (6 ficheros, 11.837 palabras) se consultan en cada capítulo y sostienen la coherencia de C-7, C-8, C-9, F-35 y F-36; `SINOPSIS/` sigue **sin versionarse** (decisión 67) y es de uso obligado en esta máquina; la sinopsis **no se cita nunca en el texto** ni se nombra su procedencia | 2026-11-04 | La sinopsis es dictado del autor y sostiene hechos; F-35 y F-36 no los sostienen (decisión 66). No cambia el canon, el reparto ni ningún capítulo. **Errata corregida en esta sesión:** la v48 anotó «10/126 capítulos»; son **9** (I.1–I.9) y **26.896 palabras**, como dice `nk contar`; §0, `README.md` y la bitácora quedan al día, y las decisiones 78-80 se dejan tal cual como registro histórico. I.9 sigue pendiente de revisión; siguiente, **I.10** |
 | 82 | Escritura | **I.9 «La hoja de oído» aprobado** por el autor sin correcciones («I.9 revisado»). Se cierra con **3.015 palabras** (−0,3 % sobre 3.025), 5 secciones, ≈5 % de citas, 0 errores y 0 avisos. **9/126 capítulos, 26.896 palabras** | 2026-11-04 | Cierra la 78. I.9 queda como la primera pieza del bloque I.2: el anuncio no se escribió y lo que hay es una hoja de oído. Se desbloquea I.10 sin preguntas abiertas |
 | 83 | Escritura | **I.10 «Los testigos» escrito**, segundo del bloque I.2: **2.825 palabras** (−6,6 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0 avisos. Narra la pregunta escrita de Alfa (con la falta «oi»), los tres recuentos de testigos que no cuadran, el reverso a lápiz de la lista de la puerta, la discusión sobre «ver» y «oír», la búsqueda de las dos palabras en los papeles (no están: «ver» no aparece en ninguno), el reconocimiento de Alfa («Del anuncio no queda recuerdo. Queda el recuerdo de que se contó») y el acta del 25 de junio que deja constancia de que no consta y acuerda no hacer la lista | 2026-11-04 | Escrito con **P1, P2 y P6** de E-05 (tope del bloque, tres) y anotado en el dossier §0 undecies. No fija el año del anuncio, ni el número de testigos, ni si alguien lo vio; no lo cuenta; no toca lo aprobado. Continuidad: acta primera y añadidos (I.1, I.9), lista de la puerta y raya (I.1, I.3), hoja del 2020 (I.9), sobre de las hojas sueltas (I.1, I.5), regla de que las preguntas no se apuntan (I.9), dibujo de Zeta del margen (PERSONAS). **10/126, 29.721 palabras.** Pendiente de revisión del autor |
+| 84 | Escritura | **I.10 «Los testigos» aprobado** por el autor sin correcciones («Lectura de I.10 aprobada»). Se cierra con **2.825 palabras** (−6,6 % sobre 3.025), 5 secciones, 3,8 % de citas, 0 errores y 0 avisos. **10/126 capítulos, 29.721 palabras** | 2026-11-05 | Cierra la 83. I.10 queda como segunda pieza del bloque I.2: los testigos no se pueden contar. Se desbloquea I.11 sin preguntas abiertas |
+| 85 | Escritura | **Errata de I.7 corregida** (orden del autor: «revisa la errata de I.7»). El acta del capítulo 7 decía «Sesion del **13 de junio**», que en 2026 cae en sábado y rompe la secuencia del propio capítulo (el viernes de la primera semana de junio es el 5; la votación se hace «el jueves siguiente»). Pasa a **«Sesion del 11 de junio»**, jueves. Es la única línea tocada: no se corrigen faltas, ni cifras, ni el resto del acta | 2026-11-05 | Cierra la nota de la decisión 80 y la de `PERSONAS.md`. Excepción expresa a la regla de no tocar capítulos aprobados: la autoriza el autor y se limita a un dato de calendario. Continuidad comprobada: 11 de junio de 2026 es jueves y no colisiona con las sesiones del 18 y del 25 (I.9, I.10) |
+| 86 | Escritura | **Dossier de I.11 «El nombre» preparado** (§0 duodecies). Tercero del bloque I.2. Materia asignada: **F-35, entrada 13** (recuperar el contacto invocando lo que se dijo, del reparto de S-04 §6.4 para I.2), la **hoja de abril de 2020** (punto 2: «Que se llamaria El Servidor»), la **lista de teléfonos** de la casa cerrada (I.9), el «fue por teléfono» de Boomer de la tapa (I.9) y la errata como dato del archivo (entrada 7 del blog, apoyo). Prácticas E-05: **P2, P5 y P8** | 2026-11-05 | El capítulo no usa sinopsis de hechos (`S-01`–`S-03` siguen en I.5, II.2 y II.5) ni toca C-7, C-8 ni C-9. F-35 entra como **ocurrencia**, nunca como método, y **no se nombra**. El nombre propio (C-4) se dice en el capítulo por primera vez: decisión de escritura del agente, sujeta a la revisión del autor |
+| 87 | Escritura | **I.11 «El nombre» escrito**, tercero del bloque I.2: **3.040 palabras** (+0,5 % sobre 3.025), 5 secciones, **3,1 % de citas**, 0 errores y 0 avisos. Una llamada de fuera (sin nombre, sin origen, sin fecha en ningún papel) pregunta por el nombre; Boomer de la tapa lo dice tres veces y el otro lo escribe mal; la sesión lee la nota, la hoja de abril de 2020 (el título entero, con falta) y las actas, y descubre que el nombre no está escrito en ningún papel de la casa; Equis del bolígrafo lo dice entero una vez; Alfa propone que decirlo lo trae, lo dice y no pasa nada; El Servidor: «El nombre no trae a nadie. Solo dice a quién estáis llamando»; acta del 2 de julio: «Consta el titulo. El nombre no consta. Se acuerda que el nombre no se escribe en las actas». El nombre bien escrito no queda en la casa; en el sobre queda una copia con la primera parte cambiada | 2026-11-05 | Escrito con **P2, P5 y P8** de E-05 (tope del bloque, tres) y anotado en el dossier §0 duodecies. Material: **F-35 entrada 13** como ocurrencia, nunca como método ni nombrada; hoja del 20 (I.9), acta 9 y acta 11 (I.1), lista de teléfonos y «fue por teléfono» (I.9). **El nombre propio (C-4) aparece por primera vez en el manuscrito**, dicho una vez y con seriedad absoluta; no se gasta la fórmula de C-10/II.6. No fija el año del anuncio ni el número de testigos, no da nombre al que llama, no toca capítulos aprobados salvo la errata autorizada de I.7 (decisión 85). **11/126, 32.761 palabras.** Pendiente de revisión del autor |
 
 ---
 

@@ -98,9 +98,9 @@ Reglas de uso (C-6 y decisión 31):
   del archivo. Por eso el narrador no la convierte en año ni la usa para fechar el presente.
 - **Consecuencia de escritura:** un capítulo que narra «ahora» está en 2026. Los hechos datados sin
   año se citan tal como constan, sin completarlos.
-- **Errata conocida, sin tocar:** el acta de I.7 dice «13 de junio», que en 2026 cae en sábado. El
-  capítulo está aprobado y no se cambia (regla del proyecto); queda anotado para que el autor
-  decida si se corrige en una revisión o si se deja como fecha de archivo.
+- **Errata corregida el 2026-11-05** (decisión 85): el acta de I.7 decía «13 de junio», que en 2026
+  cae en sábado y rompe la secuencia del capítulo (viernes 5, jueves siguiente). Pasa a «11 de
+  junio», jueves. Es la única línea tocada de un capítulo aprobado, por orden del autor.
 
 ### Las once fichas
 

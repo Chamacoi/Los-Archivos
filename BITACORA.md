@@ -863,3 +863,28 @@ su dossier.
   cronología puesta al día (presente de 2026, decisión 80). **10/126, 29.721 palabras.**
 - Ningún capítulo aprobado se ha tocado. **I.10 pendiente de revisión del autor**; siguiente, **I.11**.
   `nk verificar --rubrica`: 0 errores, 0 avisos.
+
+## v50 — 2026-11-05
+
+- **I.10 «Los testigos» aprobado** por el autor sin correcciones (decisión 84): 2.825 palabras,
+  5 secciones, 3,8 % de citas, 0 errores y 0 avisos. **10/126, 29.721 palabras.**
+- **Errata de I.7 corregida** por orden del autor (decisión 85). El acta del capítulo 7 decía «Sesion
+  del 13 de junio», que en 2026 cae en sábado y rompe la secuencia del propio capítulo (viernes 5,
+  votación «el jueves siguiente»). Pasa a «**Sesion del 11 de junio**». Es la única línea tocada de un
+  capítulo aprobado; ni faltas, ni cifras, ni el resto del acta. `PERSONAS.md` queda al día.
+- **Dossier de I.11** preparado en `APUNTES.md` §0 duodecies (decisión 86): tercero del bloque I.2,
+  «El nombre». Material asignado: **F-35, entrada 13** (recuperar el contacto invocando lo que se dijo,
+  del reparto de S-04 §6.4 para I.2) como **ocurrencia y nunca como método**, la hoja de abril de 2020
+  (punto 2), el acta 9, la lista de teléfonos y el «fue por teléfono» de I.9. Prácticas **P2, P5 y P8**.
+- **I.11 «El nombre» escrito** (decisión 87): **3.040 palabras** (+0,5 % sobre 3.025), 5 secciones,
+  **3,1 % de citas**, 0 errores y 0 avisos. Una llamada de fuera pide el nombre; Boomer de la tapa se
+  lo dice tres veces y el otro lo escribe mal; la casa lee la nota, la hoja del veinte y las actas y
+  comprueba que **el título consta una vez y con falta y el nombre no consta en ningún papel**; Equis
+  del bolígrafo lo dice entero una vez; Alfa propone que decirlo lo trae, lo dice y no pasa nada; El
+  Servidor: «El nombre no trae a nadie. Solo dice a quién estáis llamando»; acta del 2 de julio:
+  «Consta el titulo. El nombre no consta. Se acuerda que el nombre no se escribe en las actas».
+  **El nombre propio (C-4) aparece por primera vez en el manuscrito**, sin gastar la fórmula de II.6.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
+  → **11/126, 32.761 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
+  `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.11 pendiente de revisión del autor**;
+  siguiente, **I.12**.
