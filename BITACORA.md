@@ -912,3 +912,7 @@ su dossier.
 - **Limpieza de tareas:** cerradas las dos tareas desfasadas de `README.md` (I.8/I.9 y «escribir E-04»),
   añadidas a la hoja de ruta las de I.9-I.11, E-04 e I.12; actualizados `ESTUDIOS/00-indice.md` y la
   cabecera de `APUNTES.md` (§0 y «Última revisión»). **Ningún capítulo del manuscrito se ha tocado.**
+- **Copia de seguridad de la v51 en el USB** (decisión 91): el medio (`/dev/sda1`, exFAT) no estaba
+  montado; se montó en `/mnt/usb` con el driver del núcleo. Bundle verificado, materiales (30
+  ficheros), `SINOPSIS/` en tar aparte y, **por primera vez, `~/.pi/agent/AGENTS.md`**, que vive fuera
+  de todo historial; `sha256sum -c` OK y clon `los-archivos-repo` actualizado a `origin/main`.
