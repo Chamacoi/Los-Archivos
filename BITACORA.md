@@ -962,17 +962,20 @@ su dossier.
   (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y 0 avisos. La casa busca **quién
   dijo primero las dos frases** de apertura y cierre y descubre que **el acta no apunta quién las
   dice**: Alfa pide decir la de abrir y la dice; los papeles dan tres huellas y ninguna boca (la
-  votación de febrero que decidió no cambiarlas, el acta segunda donde una vez se escriben, el
+  votación de febrero que decidió no cambiarlas, el acta primera donde una vez se escriben, el
   paréntesis de noviembre que fue frase antes de ser paréntesis); el recuento de las veces no se puede
   cerrar porque las actas no llevan año y los montones de febrero mezclan años; El Servidor contesta
   «No» a si las frases son suyas; el acta acuerda no apuntar quién las dice (seis a dos) y al cerrar
   Boomer de la silla deja que Alfa diga «Queda constancia». Escrito con **P6, P2 y P1** de E-05, **sin
   decisiones previas** (dossier §0 quaterdecies, decisión 97) y sin sinopsis de hechos.
-- **Errata detectada, no corregida** (anotada en el dossier): I.5 §4 dice que la fórmula «está en la
-  primera acta» e I.9 §3 dice que «no está en la primera acta, está en la segunda». I.13 no toma
-  partido: dice que la frase «está escrita una vez en las actas» y no nombra el número. Se corrige
-  cuando el autor lo ordene.
+- **Errata entre capítulos aprobados, corregida por orden del autor** (decisión 99): I.5 §4 dice que
+  la fórmula «está en la primera acta» e I.9 §3 decía que «no está en la primera acta, está en la
+  segunda». Se corrige **I.9**, que pasa a «La fórmula está en la primera acta, más abajo, y no consta
+  quién la dijo primero», y **I.13** se ajusta en la misma línea («en la primera»). Es la segunda
+  excepción expresa a la regla de no tocar capítulos aprobados, después de la errata de I.7 (decisión
+  85). El recuento de I.9 pasa de 3.015 a 3.009 palabras (−6).
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
-  → **13/126, 38.362 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
-  `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.13 pendiente de revisión del autor**;
+  → **13/126, 38.356 palabras** (I.9 pasa de 3.015 a 3.009 por la corrección de la errata). Actualizados
+  `APUNTES.md` (§0, §3 y dossier), `README.md`, `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta
+  bitácora. **I.13 pendiente de revisión del autor**;
   siguiente, **I.14**.

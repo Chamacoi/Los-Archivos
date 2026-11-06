@@ -148,8 +148,8 @@ fórmula de apertura de la sesión es «Leemos lo que hay». Boomer de la silla 
 corrección es posterior a la escritura, porque la tinta es más negra, y que eso no dice cuándo se hizo
 ni quién la hizo. Boomer de la silla dijo que él no la hizo. Equis del registro dijo que él tampoco.
 Zeta de los «no consta» fue a la caja primera, sacó el acta primera y leyó la primera línea en voz
-alta, que no trae la fórmula. La fórmula no está en la primera acta. Está en la segunda, y en la
-segunda no consta quién la dijo primero.
+alta, que no trae la fórmula. La fórmula está en la primera acta, más abajo, y no consta quién la
+dijo primero.
 
 El número de los que oyeron el anuncio tampoco consta. Boomer de la tapa dice que once. Boomer de
 la silla dice que nueve. Los dos estuvieron. La hoja no dice cuántos eran, porque el que la escribió

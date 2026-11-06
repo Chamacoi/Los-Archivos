@@ -5,7 +5,7 @@
   "objetivo_tipo": "referencia",
   "capitulos": 126,
   "escritos": 13,
-  "palabras": 38362,
+  "palabras": 38356,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -15,7 +15,7 @@
       "capitulos": 63,
       "presupuesto": 190552,
       "escritos": 13,
-      "palabras": 38362
+      "palabras": 38356
     },
     {
       "id": "II",
@@ -111,9 +111,9 @@
       "id": "I.9",
       "titulo": "La hoja de oído",
       "escrito": true,
-      "palabras": 3015,
+      "palabras": 3009,
       "presupuesto": 3025,
-      "desviacion": -0.0033,
+      "desviacion": -0.0053,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/09-capitulo.md"
     },

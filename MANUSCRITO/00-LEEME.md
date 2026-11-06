@@ -22,7 +22,8 @@ Sigue I.8: «Capítulo 8. El año que no se escribió», **3.368 palabras**, esc
 (decisión 72) y **aprobado el 2026-11-03** (decisión 77). Cierra el bloque I.1. Dossier en
 `../APUNTES.md` §0 nonies.
 
-Empieza I.2: «Capítulo 9. La hoja de oído», **3.015 palabras**, escrito el 2026-11-03 (decisión 78)
+Empieza I.2: «Capítulo 9. La hoja de oído», **3.009 palabras** (3.015 hasta la errata de la fórmula,
+corregida el 2026-11-05, decisión 99), escrito el 2026-11-03 (decisión 78)
 con las prácticas P2, P5 y P8 de E-05 (decisión 76) y **aprobado el 2026-11-04** (decisión 82).
 Dossier en `../APUNTES.md` §0 decies.
 

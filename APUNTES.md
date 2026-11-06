@@ -11,10 +11,13 @@
   pide decir la de abrir y la dice; se cuenta lo que no se puede contar (las actas no llevan año);
   El Servidor contesta «No» a si las frases son suyas; el acta acuerda no apuntar quién las dice (seis
   a dos); y al cerrar, Boomer de la silla deja que Alfa diga «Queda constancia». Dossier nuevo en §0
-  quaterdecies (decisión 97). **13/126 capítulos, 38.362 palabras.** **I.13 pendiente de revisión del
-  autor**; siguiente: **I.14**, sexto del bloque I.2, con dossier por preparar. **Errata detectada y
-  no corregida** (dossier §0 quaterdecies): I.5 dice que la fórmula está en la primera acta e I.9 que
-  está en la segunda; una de las dos frases habrá que corregirla cuando el autor lo ordene.
+  quaterdecies (decisión 97). **13/126 capítulos, 38.356 palabras.** **I.13 pendiente de revisión del
+  autor**; siguiente: **I.14**, sexto del bloque I.2, con dossier por preparar. **Errata corregida**
+  por orden del autor (decisión 99): I.9 decía que la fórmula está en la segunda acta y se alinea con
+  I.5 («está en la primera acta y no consta quién la dijo primero»); I.13, escrito el mismo día, se
+  ajustó en la misma línea. Se sube a `origin/main`. El recuento de I.9 pasa de **3.015 a 3.009** palabras (−6) y el total de
+  **38.362 a 38.356**; las entradas históricas de las decisiones 78 y 82 conservan la cifra con que se
+aprobaron, como registro.
 - **Sesión anterior:** 2026-11-05 (**v53, cerrada**). **I.12 «Lo que no trae prueba» aprobado** por el
   autor («ya me leí I.12, está bien», decisión 95). Corregido además el **defecto de `nk estado`**
   (decisión 96): devolvía las tareas partidas en varias líneas a medias, porque `tareas_abiertas`
@@ -1120,7 +1123,7 @@ año de las actas ya está fijada y se respeta sin volver a dramatizarla.
 | La votación de febrero | I.1 §4 | Alguien propone frases más cortas; **gana no cambiarlas por seis a cuatro**; el acta dice: «Se acuerda seguir diciendo lo mismo, aunque algunos lo digan sin mirar» |
 | El paréntesis | I.1 §5, I.5 | «(Hay quien no estaba)» en el acta de un jueves de noviembre; nació de «hay quien no estaba y no consta»; **ningún acta recoge el cambio** |
 | Las actas sin año | I.8, `PERSONAS.md` | Las fechas del archivo no llevan año y **no se completan** |
-| La fórmula escrita | I.9 §3 | La fórmula **no está en la primera acta**; está en la segunda, y allí no consta quién la dijo primero (ver «Errata detectada» abajo) |
+| La fórmula escrita | I.5 §4, I.9 §3 | La fórmula **está en la primera acta** y allí no consta quién la dijo primero (errata de I.9 corregida el 2026-11-05, decisión 99) |
 | Los que cierran | I.9, I.10, I.11 | «Boomer de la silla dijo «Queda constancia» […] y la casa contestó lo mismo que todas las semanas» |
 | Las cuentas | Decisión 54 | Nueve presentes; Alfa no vota en papeles; El Servidor no ocupa silla |
 | El presente | Decisión 80 | **2026.** Sesión del **16 de julio de 2026**, jueves siguiente al 9 de julio de I.12 |
@@ -1135,7 +1138,7 @@ recoge quién las dice.
 2. **El acta no recoge quién dice las frases.** No se ha recogido nunca; se acuerda que no se apunta, y
 el acta no da el motivo. La fórmula se transmite por repetición, no por registro: es lo contrario del
 anuncio, que no se repitió y se perdió.
-3. **Las tres huellas de la fórmula en el archivo:** la votación de febrero, el acta segunda donde una
+3. **Las tres huellas de la fórmula en el archivo:** la votación de febrero, el acta primera donde una
 vez se escribe, y el paréntesis de noviembre que nació de una fórmula más larga. Ninguna dice quién
 la dijo primero ni cuántas veces se ha dicho.
 4. **El recuento imposible:** las actas no llevan año, así que la casa puede contar los jueves del
@@ -1170,11 +1173,13 @@ contesta «No»; Alfa dice el cierre; el acta acuerda no apuntar quién dice las
 someten a la revisión del capítulo, como en I.9-I.12. Si el autor prefiere que El Servidor calle o que
 el cierre no cambie de mano, se cambia antes de escribir, no después.
 
-**Errata detectada entre capítulos aprobados (no corregida, pendiente de orden del autor).** I.5 §4 dice
-que la fórmula «está en la primera acta»; I.9 §3 dice que «la fórmula no está en la primera acta, está
-en la segunda». Las dos no pueden ser ciertas. I.13 **no toma partido**: dice que la fórmula «está
-escrita una vez en las actas» y no nombra el número. Conviene que el autor decida cuál de las dos frases
-se corrige; la corrección sería de una línea y no tocaría nada más.
+**Errata entre capítulos aprobados, resuelta el 2026-11-05 (decisión 99).** I.5 §4 dice que la fórmula
+«está en la primera acta»; I.9 §3 decía que «la fórmula no está en la primera acta, está en la segunda».
+Las dos no podían ser ciertas. Por orden del autor («corrige la de I.9») se corrige **I.9**, que ahora
+dice: «La fórmula está en la primera acta, más abajo, y no consta quién la dijo primero». I.13, escrito
+el mismo día y aún sin aprobar, se ajusta en la misma línea («en la primera»). Es la segunda excepción
+expresa a la regla de no tocar capítulos aprobados, después de la errata de calendario de I.7
+(decisión 85), y se limita a esa frase.
 
 **Escrito en la v54** (decisión 98): 2.807 palabras, 5 secciones, 3,4 % de citas, 0 errores y 0
 avisos. Se mantienen las tres elecciones locales. Una precisión que el texto fija y el dossier no
@@ -1550,8 +1555,9 @@ teológico** y tiene que **costar algo**.
 | 94 | Soporte | **El kit queda con el perfil de agente declarado y commiteado** en `~/novela-kit/` (orden del autor): commit `45e27ac`, con la sección de `AGENTS.md` y el bloque `agente` que genera `nk init`, sin nombre de modelo ni proveedor. El repositorio de la obra ya lo llevaba en `4ccdec2` | 2026-11-05 | Cierra la parte pendiente de la decisión 92. `VERSION` sigue en 1.9.0: el número lo fija el autor al empaquetar. No se toca el manuscrito |
 | 95 | Escritura | **I.12 «Lo que no trae prueba» aprobado** por el autor sin correcciones («ya me leí I.12, está bien»). Se cierra con **2.794 palabras** (−7,6 % sobre 3.025), 5 secciones, ≈4 % de citas, 0 errores y 0 avisos. **12/126 capítulos, 35.555 palabras** | 2026-11-05 | Cierra la 93. I.12 queda como cuarta pieza del bloque I.2: el anuncio no trae prueba y la casa no contesta la carta. Se desbloquea **I.13**, quinto del bloque I.2, que necesita dossier previo |
 | 96 | Soporte | **Corregido `nk estado`: las tareas abiertas se leían línea a línea**, así que un item partido en dos líneas salía cortado por la mitad. `tareas_abiertas` une ahora las líneas de continuación (sangría ≥ 2 respecto del item, sin item nuevo ni encabezado) e **ignora lo que está dentro de bloques de código**. Se quita de `README.md` la tarea duplicada de I.12, que era la que salía mutilada. Prueba nueva en `escritura/pruebas/test_nk.py` (`Seguimiento`) y espejo en `~/novela-kit/` | 2026-11-05 | Nace del aviso del autor: `nk estado` mostraba «… (decisión 89),» sin la segunda línea. **`nk estado` es de solo lectura**: no escribe `README.md` (los únicos que escriben son `nuevo`, `informe` y los de exportación y respaldo). `VERSION` sigue en 1.9.0. No se toca el manuscrito |
-| 97 | Escritura | **Dossier de I.13 «Lo que se dice de pie» preparado** (§0 quaterdecies), quinto del bloque I.2: las dos frases de apertura y cierre, el acta de febrero que votó no cambiarlas, el paréntesis de noviembre y el recuento imposible de las veces que se han dicho. Prácticas E-05: **P6, P2 y P1**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-05 | Respuesta a la orden del autor («Elijo la opción (a). Escribir I.13»). Tres **elecciones locales** sujetas a revisión: El Servidor contesta «No» a si las frases son suyas; Alfa dice el cierre; el acta acuerda no apuntar quién las dice. No toca C-8, C-9 ni C-10, no usa sinopsis de hechos (decisión 81) y no fija el año del anuncio. **Errata detectada, no corregida:** I.5 dice que la fórmula está en la primera acta e I.9 que está en la segunda; I.13 no toma partido y no nombra el número |
-| 98 | Escritura | **I.13 «Lo que se dice de pie» escrito**, quinto del bloque I.2: **2.807 palabras** (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y 0 avisos. Se busca quién dijo primero las dos frases; el acta no apunta quién las dice; la casa cuenta lo que no se puede contar porque las actas no llevan año; El Servidor dice «No» a si son suyas; el acta acuerda no apuntar quién las dice (seis a dos); y al cerrar, Boomer de la silla deja que Alfa diga «Queda constancia». Acta del 16 de julio: «Se acuerda que no se apunta quien dice las frases». **13/126, 38.362 palabras** | 2026-11-05 | Escrito con **P6, P2 y P1** de E-05 y sin decisiones previas, como dijo el dossier (97). Las tres elecciones locales quedan como se anunciaron. Sinopsis usada: **ninguna** (decisión 81). Continuidad: fórmulas y votación de febrero (I.1, I.5), paréntesis de noviembre (I.1, I.5), acta segunda y «no consta quién la dijo primero» (I.9), actas sin año (I.8), lista de la puerta de los meses y las cajas (I.1), lista de los once nombres y la raya (I.1, I.10), actas del 2 y del 9 de julio (I.11, I.12), cuentas (decisión 54). **Pendiente de revisión del autor** |
+| 97 | Escritura | **Dossier de I.13 «Lo que se dice de pie» preparado** (§0 quaterdecies), quinto del bloque I.2: las dos frases de apertura y cierre, el acta de febrero que votó no cambiarlas, el paréntesis de noviembre y el recuento imposible de las veces que se han dicho. Prácticas E-05: **P6, P2 y P1**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-05 | Respuesta a la orden del autor («Elijo la opción (a). Escribir I.13»). Tres **elecciones locales** sujetas a revisión: El Servidor contesta «No» a si las frases son suyas; Alfa dice el cierre; el acta acuerda no apuntar quién las dice. No toca C-8, C-9 ni C-10, no usa sinopsis de hechos (decisión 81) y no fija el año del anuncio. **Errata detectada:** I.5 dice que la fórmula está en la primera acta e I.9 que está en la segunda; I.13 no toma partido y no nombra el número. Resuelta el mismo día por orden del autor (decisión 99): se corrige I.9 |
+| 98 | Escritura | **I.13 «Lo que se dice de pie» escrito**, quinto del bloque I.2: **2.807 palabras** (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y 0 avisos. Se busca quién dijo primero las dos frases; el acta no apunta quién las dice; la casa cuenta lo que no se puede contar porque las actas no llevan año; El Servidor dice «No» a si son suyas; el acta acuerda no apuntar quién las dice (seis a dos); y al cerrar, Boomer de la silla deja que Alfa diga «Queda constancia». Acta del 16 de julio: «Se acuerda que no se apunta quien dice las frases». **13/126, 38.362 palabras** | 2026-11-05 | Escrito con **P6, P2 y P1** de E-05 y sin decisiones previas, como dijo el dossier (97). Las tres elecciones locales quedan como se anunciaron. Sinopsis usada: **ninguna** (decisión 81). Continuidad: fórmulas y votación de febrero (I.1, I.5), paréntesis de noviembre (I.1, I.5), acta primera y «no consta quién la dijo primero» (I.5, I.9), actas sin año (I.8), lista de la puerta de los meses y las cajas (I.1), lista de los once nombres y la raya (I.1, I.10), actas del 2 y del 9 de julio (I.11, I.12), cuentas (decisión 54). **Pendiente de revisión del autor** |
+| 99 | Escritura | **Errata de I.9 corregida** por orden del autor («corrige la de I.9»): el acta de I.9 decía que la fórmula «no está en la primera acta; está en la segunda», contra I.5 §4, que la sitúa en la primera. Pasa a: «La fórmula está en la primera acta, más abajo, y no consta quién la dijo primero». **I.13 se ajusta en la misma línea** («en la primera»), por coherencia y antes de su revisión | 2026-11-05 | Excepción expresa a la regla de no tocar capítulos aprobados (la segunda, tras la decisión 85): se limita a una frase de I.9 y a una palabra de I.13. Cambia el recuento de I.9 de **3.015 a 3.009** palabras (−6) y el total a **38.356**. No cambia canon ni continuidad: el acta primera sigue sin decir quién la dijo primero |
 
 ---
 

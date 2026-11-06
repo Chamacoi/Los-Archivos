@@ -126,7 +126,7 @@ había visto. Seis a cuatro: diez votaron aquel febrero. En la casa eran once y 
 había ido en diciembre; la otra se fue después, antes de la lectura de la hoja. Eso lo cuenta el
 número y no lo dice el acta.
 
-Después se buscó la frase escrita. Está una vez en las actas, en la segunda, escrita de la misma
+Después se buscó la frase escrita. Está una vez en las actas, en la primera, escrita de la misma
 letra que el resto de aquella hoja y sin comillas.
 
 —Una vez —dijo Alfa.
