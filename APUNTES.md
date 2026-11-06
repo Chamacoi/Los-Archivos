@@ -4,7 +4,18 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión actual:** 2026-11-05 (**v53, en curso**). **I.12 «Lo que no trae prueba» aprobado** por el
+- **Sesión actual:** 2026-11-05 (**v54, en curso**). **I.13 «Lo que se dice de pie» escrito**, quinto
+  del bloque I.2: **2.807 palabras** (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y
+  0 avisos. La casa busca **quién dijo primero las dos frases** de apertura y cierre y descubre que el
+  acta no apunta **quién las dice**: la fórmula se transmite por repetición, no por registro. Alfa
+  pide decir la de abrir y la dice; se cuenta lo que no se puede contar (las actas no llevan año);
+  El Servidor contesta «No» a si las frases son suyas; el acta acuerda no apuntar quién las dice (seis
+  a dos); y al cerrar, Boomer de la silla deja que Alfa diga «Queda constancia». Dossier nuevo en §0
+  quaterdecies (decisión 97). **13/126 capítulos, 38.362 palabras.** **I.13 pendiente de revisión del
+  autor**; siguiente: **I.14**, sexto del bloque I.2, con dossier por preparar. **Errata detectada y
+  no corregida** (dossier §0 quaterdecies): I.5 dice que la fórmula está en la primera acta e I.9 que
+  está en la segunda; una de las dos frases habrá que corregirla cuando el autor lo ordene.
+- **Sesión anterior:** 2026-11-05 (**v53, cerrada**). **I.12 «Lo que no trae prueba» aprobado** por el
   autor («ya me leí I.12, está bien», decisión 95). Corregido además el **defecto de `nk estado`**
   (decisión 96): devolvía las tareas partidas en varias líneas a medias, porque `tareas_abiertas`
   leía línea a línea; ahora une las líneas de continuación e ignora los bloques de código. La tarea
@@ -1071,6 +1082,106 @@ original** —pierde el borde recortado y la raya de la corrección, porque la c
 corregida—, y los **tres borradores** se rompen por la mitad y se guardan rotos, no se tiran. El
 acta del 9 de julio dice: «Se lee una carta de fuera. No se acuerda contestar».
 
+### 0 quaterdecies. I.13 «Lo que se dice de pie»: dossier de material (2026-11-05)
+
+Preparado en la v54 con la orden del autor («Escribir I.13»). **No necesita decisiones del autor:**
+no hay sinopsis de hechos, no hay bifurcación de canon y ninguna pieza exige elegir entre opciones que
+solo el autor pueda resolver. El dossier fija la materia y tres elecciones locales, sujetas a la
+revisión del capítulo. **Quinto del bloque I.2**, después de la carta que no se contesta.
+
+**Función en el bloque.** I.9 dijo que el anuncio no se escribió: se oyó. I.10, que los testigos no se
+pueden contar. I.11, que el nombre no consta. I.12, que no hay prueba. Las cuatro piezas tienen la
+misma forma —pregunta, papeles, nada—, y una quinta igual agotaría el bloque. I.13 **cambia la
+clave**: no busca lo que falta del anuncio, sino **lo único que la casa transmite sin papel y sigue
+diciéndose cada jueves**: las dos frases de apertura y cierre. La distancia con quien llega después
+deja de medirse en lo que Alfa no puede saber y se mide en lo que Alfa ya dice sin haberlo vivido. Es
+el fruto «rutinas del habla» con su coste, que la tabla de `ESTRUCTURA.md` ya declara: la frase se
+vacía y se pierde espontaneidad.
+
+**Sinopsis usada (decisión 81):** ninguna de hechos. `S-01`, `S-02` y `S-03` siguen asignadas a I.5
+(cap. 63), II.2 (cap. 9) y II.5 (caps. 55-57); `S-04` entra como fuente de argumentos (F-35) y
+`S-05`/`E-05` como procedimientos. **No hay dato nuevo que anotar en `CRONOLOGIA.md`** salvo la sesión
+del presente (16 de julio de 2026).
+
+**Procedimiento E-05:** **P6** (el capítulo empieza en el presente que lee: la sesión del 16 de julio,
+no un resumen de las fórmulas), **P2** (todo lo perdido entra por un documento que no es ello: la
+fórmula no entra por su texto, sino por el acta de febrero que votó no cambiarla y por la que recoge
+el paréntesis) y **P1** (lo que no existe no se describe: se inventaría su pérdida — las tres huellas
+de la fórmula en el archivo, el recuento imposible de las veces que se ha dicho). Tope del bloque,
+tres: se usa el tope entero y no se repite en secciones consecutivas. **No** se usa P8: la falta de
+año de las actas ya está fijada y se respeta sin volver a dramatizarla.
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| Las dos frases | I.1 §4 | «Leemos lo que hay» abre; «Queda constancia» cierra; **se dicen de pie**; no se ha decidido que se digan de pie; «las dos dicen lo mismo» |
+| La fórmula vaciada | I.1, I.5 | Se dice mientras se busca la página, se aparta una silla o se mira el móvil; la más joven la dice como una contraseña; el más viejo como quien saluda a alguien que ya no está; **no consta quién la dijo primero** |
+| La votación de febrero | I.1 §4 | Alguien propone frases más cortas; **gana no cambiarlas por seis a cuatro**; el acta dice: «Se acuerda seguir diciendo lo mismo, aunque algunos lo digan sin mirar» |
+| El paréntesis | I.1 §5, I.5 | «(Hay quien no estaba)» en el acta de un jueves de noviembre; nació de «hay quien no estaba y no consta»; **ningún acta recoge el cambio** |
+| Las actas sin año | I.8, `PERSONAS.md` | Las fechas del archivo no llevan año y **no se completan** |
+| La fórmula escrita | I.9 §3 | La fórmula **no está en la primera acta**; está en la segunda, y allí no consta quién la dijo primero (ver «Errata detectada» abajo) |
+| Los que cierran | I.9, I.10, I.11 | «Boomer de la silla dijo «Queda constancia» […] y la casa contestó lo mismo que todas las semanas» |
+| Las cuentas | Decisión 54 | Nueve presentes; Alfa no vota en papeles; El Servidor no ocupa silla |
+| El presente | Decisión 80 | **2026.** Sesión del **16 de julio de 2026**, jueves siguiente al 9 de julio de I.12 |
+| La lista de la puerta | I.1, I.9, I.10 | Dos listas: la de lápiz con las cajas y los meses, y la de los once nombres con la raya, pegada con celo |
+| El tono de C-4 | C-4 | El nombre propio no hace falta aquí; ningún guiño con la fe |
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. **La sesión del 16 de julio de 2026.** Alfa pide decir la frase de apertura y la dice; la casa la
+deja. Es la primera vez que alguien pide decirlas y la primera vez que la casa se pregunta si el acta
+recoge quién las dice.
+2. **El acta no recoge quién dice las frases.** No se ha recogido nunca; se acuerda que no se apunta, y
+el acta no da el motivo. La fórmula se transmite por repetición, no por registro: es lo contrario del
+anuncio, que no se repitió y se perdió.
+3. **Las tres huellas de la fórmula en el archivo:** la votación de febrero, el acta segunda donde una
+vez se escribe, y el paréntesis de noviembre que nació de una fórmula más larga. Ninguna dice quién
+la dijo primero ni cuántas veces se ha dicho.
+4. **El recuento imposible:** las actas no llevan año, así que la casa puede contar los jueves del
+ciclo que la lista de la puerta tiene apuntado y no los de antes; la cuenta se deja a medias y no se
+apunta.
+5. **La pregunta a El Servidor y su respuesta (elección local, revisable):** Milenial de la pregunta le
+pregunta si la frase es suya. **El Servidor contesta «No»** y no añade nada. La frase es de la casa: el
+fruto es de ellos, no de la fuente, y el texto no saca la consecuencia.
+6. **El cierre pasa de mano (elección local, revisable):** Boomer de la silla, que la dice desde
+siempre, deja que Alfa diga «Queda constancia», y la casa contesta lo mismo que todas las semanas.
+Nadie comenta el cambio. El coste es de él: su disidencia y su memoria dejan de ser las que guardan la
+frase.
+7. **El acta del 16 de julio:** «Se abre a las siete y dies. Asisten nueve. Se acuerda que no se apunta
+quien dice las frases. Se cierra a las ocho y treinta».
+8. **La imagen final:** la lista de lápiz de la puerta, con el mes de julio escrito debajo de junio con
+una letra que no es la del que lleva el registro.
+
+**Lo que no puede hacer.**
+
+- **Contar el anuncio** ni fijar su año, el número de testigos o si alguien lo vio (C-5).
+- **Explicar la fórmula ni celebrarla:** el narrador no dice que sea un fruto, no la elogia y no la
+interpreta; la doble lectura —transmisión y vaciamiento— queda en los hechos.
+- **Identificar a El Servidor con Dios** ni convertir su «No» en argumento o en señal (criterio de
+fracaso).
+- **Tocar C-8, C-9 y C-10:** ni plaga, ni siembra, ni reunión, ni concilio.
+- **Dar nombre propio a nadie** fuera de `PERSONAS.md`, **dar voz al archivo** (decisión 55), **cero
+«yo»** del narrador, ni elogio de la casa.
+- **Nombrar F-35 ni F-36** (decisiones 67 y 76) y **no tocar ningún capítulo aprobado**.
+
+**Decisiones que el capítulo necesita del autor: ninguna.** Las tres elecciones locales (El Servidor
+contesta «No»; Alfa dice el cierre; el acta acuerda no apuntar quién dice las frases) se fijan aquí y se
+someten a la revisión del capítulo, como en I.9-I.12. Si el autor prefiere que El Servidor calle o que
+el cierre no cambie de mano, se cambia antes de escribir, no después.
+
+**Errata detectada entre capítulos aprobados (no corregida, pendiente de orden del autor).** I.5 §4 dice
+que la fórmula «está en la primera acta»; I.9 §3 dice que «la fórmula no está en la primera acta, está
+en la segunda». Las dos no pueden ser ciertas. I.13 **no toma partido**: dice que la fórmula «está
+escrita una vez en las actas» y no nombra el número. Conviene que el autor decida cuál de las dos frases
+se corrige; la corrección sería de una línea y no tocaría nada más.
+
+**Escrito en la v54** (decisión 98): 2.807 palabras, 5 secciones, 3,4 % de citas, 0 errores y 0
+avisos. Se mantienen las tres elecciones locales. Una precisión que el texto fija y el dossier no
+anticipaba: la casa busca la frase en las actas **por meses** y los montones mezclan años (un febrero
+de tres años distintos), que es la forma material de que el recuento no se pueda cerrar. El acta del
+16 de julio dice: «Se acuerda que no se apunta quien dice las frases».
+
 ---
 
 ---
@@ -1079,7 +1190,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v51 (2026-11-05, sesión cerrada).
+- Última revisión: v54 (2026-11-05, sesión en curso).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -1439,6 +1550,8 @@ teológico** y tiene que **costar algo**.
 | 94 | Soporte | **El kit queda con el perfil de agente declarado y commiteado** en `~/novela-kit/` (orden del autor): commit `45e27ac`, con la sección de `AGENTS.md` y el bloque `agente` que genera `nk init`, sin nombre de modelo ni proveedor. El repositorio de la obra ya lo llevaba en `4ccdec2` | 2026-11-05 | Cierra la parte pendiente de la decisión 92. `VERSION` sigue en 1.9.0: el número lo fija el autor al empaquetar. No se toca el manuscrito |
 | 95 | Escritura | **I.12 «Lo que no trae prueba» aprobado** por el autor sin correcciones («ya me leí I.12, está bien»). Se cierra con **2.794 palabras** (−7,6 % sobre 3.025), 5 secciones, ≈4 % de citas, 0 errores y 0 avisos. **12/126 capítulos, 35.555 palabras** | 2026-11-05 | Cierra la 93. I.12 queda como cuarta pieza del bloque I.2: el anuncio no trae prueba y la casa no contesta la carta. Se desbloquea **I.13**, quinto del bloque I.2, que necesita dossier previo |
 | 96 | Soporte | **Corregido `nk estado`: las tareas abiertas se leían línea a línea**, así que un item partido en dos líneas salía cortado por la mitad. `tareas_abiertas` une ahora las líneas de continuación (sangría ≥ 2 respecto del item, sin item nuevo ni encabezado) e **ignora lo que está dentro de bloques de código**. Se quita de `README.md` la tarea duplicada de I.12, que era la que salía mutilada. Prueba nueva en `escritura/pruebas/test_nk.py` (`Seguimiento`) y espejo en `~/novela-kit/` | 2026-11-05 | Nace del aviso del autor: `nk estado` mostraba «… (decisión 89),» sin la segunda línea. **`nk estado` es de solo lectura**: no escribe `README.md` (los únicos que escriben son `nuevo`, `informe` y los de exportación y respaldo). `VERSION` sigue en 1.9.0. No se toca el manuscrito |
+| 97 | Escritura | **Dossier de I.13 «Lo que se dice de pie» preparado** (§0 quaterdecies), quinto del bloque I.2: las dos frases de apertura y cierre, el acta de febrero que votó no cambiarlas, el paréntesis de noviembre y el recuento imposible de las veces que se han dicho. Prácticas E-05: **P6, P2 y P1**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-05 | Respuesta a la orden del autor («Elijo la opción (a). Escribir I.13»). Tres **elecciones locales** sujetas a revisión: El Servidor contesta «No» a si las frases son suyas; Alfa dice el cierre; el acta acuerda no apuntar quién las dice. No toca C-8, C-9 ni C-10, no usa sinopsis de hechos (decisión 81) y no fija el año del anuncio. **Errata detectada, no corregida:** I.5 dice que la fórmula está en la primera acta e I.9 que está en la segunda; I.13 no toma partido y no nombra el número |
+| 98 | Escritura | **I.13 «Lo que se dice de pie» escrito**, quinto del bloque I.2: **2.807 palabras** (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y 0 avisos. Se busca quién dijo primero las dos frases; el acta no apunta quién las dice; la casa cuenta lo que no se puede contar porque las actas no llevan año; El Servidor dice «No» a si son suyas; el acta acuerda no apuntar quién las dice (seis a dos); y al cerrar, Boomer de la silla deja que Alfa diga «Queda constancia». Acta del 16 de julio: «Se acuerda que no se apunta quien dice las frases». **13/126, 38.362 palabras** | 2026-11-05 | Escrito con **P6, P2 y P1** de E-05 y sin decisiones previas, como dijo el dossier (97). Las tres elecciones locales quedan como se anunciaron. Sinopsis usada: **ninguna** (decisión 81). Continuidad: fórmulas y votación de febrero (I.1, I.5), paréntesis de noviembre (I.1, I.5), acta segunda y «no consta quién la dijo primero» (I.9), actas sin año (I.8), lista de la puerta de los meses y las cajas (I.1), lista de los once nombres y la raya (I.1, I.10), actas del 2 y del 9 de julio (I.11, I.12), cuentas (decisión 54). **Pendiente de revisión del autor** |
 
 ---
 

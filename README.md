@@ -5,13 +5,13 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo. **I.1 a I.11 escritos** (2.798, 2.727, 2.920, 2.926, 2.818, 3.269, 3.055,
-  3.368, 3.015, 2.825 y 3.040 palabras con el método limpio): **11/126 capítulos, 32.761 palabras**.
-  I.1 a I.11 **aprobados**; I.8 cerró el bloque I.1 (decisión 77), I.9 abrió el bloque I.2 (decisión
-  82) y la errata de calendario de I.7 se corrigió el 2026-11-05 (decisión 85). **I.11 «El nombre»
-  aprobado** el 2026-11-05 (decisión 88), con el nombre propio a criterio del texto. **I.12 «Lo que
-  no trae prueba»** escrito el 2026-11-05 (decisión 93, 2.794 palabras) y **aprobado** (decisión 95);
-  **12/126 capítulos, 35.555 palabras**. I.1 a I.12 aprobados; siguiente, **I.13**.
+  C-1 a C-10 completo. **I.1 a I.12 escritos y aprobados** (2.798, 2.727, 2.920, 2.926, 2.818,
+  3.269, 3.055, 3.368, 3.015, 2.825, 3.040 y 2.794 palabras con el método limpio) y **I.13 escrito**
+  (2.807 palabras, pendiente de revisión): **13/126 capítulos, 38.362 palabras**. I.8 cerró el bloque
+  I.1 (decisión 77), I.9 abrió el bloque I.2 (decisión 82) y la errata de calendario de I.7 se
+  corrigió el 2026-11-05 (decisión 85). **I.11 «El nombre» aprobado** el 2026-11-05 (decisión 88),
+  con el nombre propio a criterio del texto; **I.12 «Lo que no trae prueba» aprobado** (decisión 95).
+  **I.13 «Lo que se dice de pie»** escrito el 2026-11-05 (decisión 98); siguiente, **I.14**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-05`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -306,6 +306,8 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       régimen de uso, clases de materia, cinco pruebas aplicadas y control de asignación. Sin capítulo.
 - [x] Escribir I.12 «Lo que no trae prueba»: 2.794 palabras, 5 secciones, ≈4 % de citas, 0 errores y
       0 avisos (2026-11-05, decisión 93); **aprobado** (decisión 95).
+- [x] Escribir I.13 «Lo que se dice de pie»: 2.807 palabras, 5 secciones, 3,4 % de citas, 0 errores y
+      0 avisos (2026-11-05, decisión 98); **pendiente de revisión del autor**.
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -316,10 +318,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-05 (v53, en curso).
-- Siguiente: **escribir I.13**, quinto del bloque I.2; su dossier de material hay que prepararlo antes
-  (§0 de `APUNTES.md`). Punto 1, criterio de selección (punto 3), reparto (`ESTRUCTURA.md`) y forma
-  de la demostración (axioma/frutos) están cerrados. I.1 a I.12 aprobados; la escritura se comprueba
-  con `escritura/bin/nk`.
+- Última sesión: 2026-11-05 (v54, en curso).
+- Siguiente: revisión de **I.13** y, si se aprueba, **escribir I.14**, sexto del bloque I.2; su dossier
+  de material hay que prepararlo antes (§0 de `APUNTES.md`). Punto 1, criterio de selección (punto 3),
+  reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.12
+  aprobados y I.13 pendiente; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

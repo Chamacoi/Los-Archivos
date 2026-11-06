@@ -943,3 +943,36 @@ su dossier.
   → **12/126, 35.555 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.12 pendiente de revisión del autor**;
   siguiente, **I.13**.
+
+## v53 — 2026-11-05
+
+- **I.12 «Lo que no trae prueba» aprobado** por el autor («ya me leí I.12, está bien», decisión 95):
+  2.794 palabras (−7,6 % sobre 3.025), 5 secciones, ≈4 % de citas, 0 errores y 0 avisos. Se desbloquea
+  I.13, quinto del bloque I.2.
+- **Defecto de `nk estado` corregido** (decisión 96): las tareas abiertas se leían línea a línea y un
+  item partido en dos salía a medias. `tareas_abiertas` une ahora las líneas de continuación e ignora
+  los bloques de código; se quita la tarea duplicada de I.12 de `README.md`; prueba nueva en
+  `escritura/pruebas/test_nk.py` y espejo en `~/novela-kit/`. **22 pruebas del kit en verde.**
+- Verificado: `nk verificar --rubrica` sin incidencias. Sin cambios en el manuscrito: **12/126,
+  35.555 palabras**. Entrada escrita a posteriori desde las decisiones 95-96.
+
+## v54 — 2026-11-05
+
+- **I.13 «Lo que se dice de pie» escrito** (decisión 98), quinto del bloque I.2: **2.807 palabras**
+  (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y 0 avisos. La casa busca **quién
+  dijo primero las dos frases** de apertura y cierre y descubre que **el acta no apunta quién las
+  dice**: Alfa pide decir la de abrir y la dice; los papeles dan tres huellas y ninguna boca (la
+  votación de febrero que decidió no cambiarlas, el acta segunda donde una vez se escriben, el
+  paréntesis de noviembre que fue frase antes de ser paréntesis); el recuento de las veces no se puede
+  cerrar porque las actas no llevan año y los montones de febrero mezclan años; El Servidor contesta
+  «No» a si las frases son suyas; el acta acuerda no apuntar quién las dice (seis a dos) y al cerrar
+  Boomer de la silla deja que Alfa diga «Queda constancia». Escrito con **P6, P2 y P1** de E-05, **sin
+  decisiones previas** (dossier §0 quaterdecies, decisión 97) y sin sinopsis de hechos.
+- **Errata detectada, no corregida** (anotada en el dossier): I.5 §4 dice que la fórmula «está en la
+  primera acta» e I.9 §3 dice que «no está en la primera acta, está en la segunda». I.13 no toma
+  partido: dice que la frase «está escrita una vez en las actas» y no nombra el número. Se corrige
+  cuando el autor lo ordene.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
+  → **13/126, 38.362 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
+  `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.13 pendiente de revisión del autor**;
+  siguiente, **I.14**.
