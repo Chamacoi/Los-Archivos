@@ -275,6 +275,25 @@ class Andamiaje(unittest.TestCase):
                 self.assertTrue((obra / "estado.json").is_file())
 
 
+class Seguimiento(unittest.TestCase):
+    def test_tareas_partidas_y_bloques_de_codigo(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            obra = Path(tmp) / "obra"
+            with en(KIT):
+                ejecutar("init", str(obra), "--titulo", "T", "--partes", "1",
+                         "--capitulos", "1", "--objetivo", "1000")
+            (obra / "README.md").write_text(
+                "# T\n\n- [x] cerrada\n- [ ] abierta con una frase\n"
+                "      que sigue en la línea siguiente.\n"
+                "- [ ] segunda\n\n```\n- [ ] ejemplo dentro de un bloque\n```\n",
+                encoding="utf-8")
+            with en(obra):
+                _, salida = ejecutar("estado")
+            self.assertIn("abierta con una frase que sigue en la línea siguiente.", salida)
+            self.assertIn("[ ] README.md: segunda", salida)
+            self.assertNotIn("ejemplo dentro de un bloque", salida)
+
+
 class Paquete(unittest.TestCase):
     def test_reproducible_y_con_hashes(self):
         import hashlib

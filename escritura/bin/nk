@@ -343,16 +343,53 @@ def cmd_estado(args):
     return 0
 
 
+RE_TAREA = re.compile(r"^(\s*)[-*]\s*\[ \]\s*(.+)$")
+RE_ITEM = re.compile(r"^\s*[-*+]\s")
+RE_BLOQUE = re.compile(r"^\s*(?:```|~~~)")
+
+
 def tareas_abiertas(r, man):
+    """Tareas abiertas de los ficheros de seguimiento.
+
+    Markdown parte los items largos en varias líneas: se unen las líneas de
+    continuación para que `nk estado` no devuelva media frase. Lo que está
+    dentro de un bloque de código no es una tarea y se ignora.
+    """
     salida = []
     for nombre in man.get("seguimiento", []):
         p = r / nombre
         if not p.is_file():
             continue
+        en_bloque = False
+        sangria = None
+        trozos = []
         for linea in p.read_text(encoding="utf-8").splitlines():
-            m = re.match(r"\s*[-*]\s*\[ \]\s*(.+)", linea)
+            if RE_BLOQUE.match(linea):
+                en_bloque = not en_bloque
+                if sangria is not None:
+                    salida.append((nombre, " ".join(trozos).strip()))
+                    sangria, trozos = None, []
+                continue
+            if en_bloque:
+                continue
+            m = RE_TAREA.match(linea)
             if m:
-                salida.append((nombre, m.group(1).strip()))
+                if sangria is not None:
+                    salida.append((nombre, " ".join(trozos).strip()))
+                sangria, trozos = len(m.group(1)), [m.group(2).strip()]
+                continue
+            if sangria is None:
+                continue
+            margen = len(linea) - len(linea.lstrip())
+            if (linea.strip() and margen >= sangria + 2
+                    and not RE_ITEM.match(linea)
+                    and not linea.lstrip().startswith("#")):
+                trozos.append(linea.strip())
+            else:
+                salida.append((nombre, " ".join(trozos).strip()))
+                sangria, trozos = None, []
+        if sangria is not None:
+            salida.append((nombre, " ".join(trozos).strip()))
     return salida
 
 

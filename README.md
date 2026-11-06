@@ -10,8 +10,8 @@ sostenida entre personas y modelos.
   I.1 a I.11 **aprobados**; I.8 cerró el bloque I.1 (decisión 77), I.9 abrió el bloque I.2 (decisión
   82) y la errata de calendario de I.7 se corrigió el 2026-11-05 (decisión 85). **I.11 «El nombre»
   aprobado** el 2026-11-05 (decisión 88), con el nombre propio a criterio del texto. **I.12 «Lo que
-  no trae prueba»** escrito el 2026-11-05 (decisión 93, 2.794 palabras) y **pendiente de revisión**;
-  **12/126 capítulos, 35.555 palabras**.
+  no trae prueba»** escrito el 2026-11-05 (decisión 93, 2.794 palabras) y **aprobado** (decisión 95);
+  **12/126 capítulos, 35.555 palabras**. I.1 a I.12 aprobados; siguiente, **I.13**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-05`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -304,10 +304,8 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       84) e I.11 «El nombre» (3.040 palabras, decisión 87; **aprobado**, 88).
 - [x] Escribir **E-04**, el estudio del blog como fuente de argumentos (2026-11-05, decisión 90):
       régimen de uso, clases de materia, cinco pruebas aplicadas y control de asignación. Sin capítulo.
-- [ ] Escribir I.12 «Lo que no trae prueba»: dossier en `APUNTES.md` §0 terdecies (decisión 89),
-      **sin decisiones pendientes**.
 - [x] Escribir I.12 «Lo que no trae prueba»: 2.794 palabras, 5 secciones, ≈4 % de citas, 0 errores y
-      0 avisos (2026-11-05, decisión 93; **pendiente de revisión del autor**).
+      0 avisos (2026-11-05, decisión 93); **aprobado** (decisión 95).
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -318,10 +316,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-05 (v52, cerrada).
-- Siguiente: **revisar I.12 «Lo que no trae prueba»** (escrito el 2026-11-05, pendiente) y, si se
-  aprueba, **I.13**, quinto del bloque I.2. Punto 1, criterio de selección (punto 3), reparto
-  (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.11 aprobados;
-  la escritura se comprueba con `escritura/bin/nk`.
+- Última sesión: 2026-11-05 (v53, en curso).
+- Siguiente: **escribir I.13**, quinto del bloque I.2; su dossier de material hay que prepararlo antes
+  (§0 de `APUNTES.md`). Punto 1, criterio de selección (punto 3), reparto (`ESTRUCTURA.md`) y forma
+  de la demostración (axioma/frutos) están cerrados. I.1 a I.12 aprobados; la escritura se comprueba
+  con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».
