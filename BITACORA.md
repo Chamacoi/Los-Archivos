@@ -944,7 +944,7 @@ su dossier.
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.12 pendiente de revisión del autor**;
   siguiente, **I.13**.
 
-## v53 — 2026-11-05
+## v53 — 2026-11-06
 
 - **I.12 «Lo que no trae prueba» aprobado** por el autor («ya me leí I.12, está bien», decisión 95):
   2.794 palabras (−7,6 % sobre 3.025), 5 secciones, ≈4 % de citas, 0 errores y 0 avisos. Se desbloquea
@@ -956,7 +956,7 @@ su dossier.
 - Verificado: `nk verificar --rubrica` sin incidencias. Sin cambios en el manuscrito: **12/126,
   35.555 palabras**. Entrada escrita a posteriori desde las decisiones 95-96.
 
-## v54 — 2026-11-05
+## v54 — 2026-11-06
 
 - **I.13 «Lo que se dice de pie» escrito** (decisión 98), quinto del bloque I.2: **2.807 palabras**
   (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y 0 avisos. La casa busca **quién
@@ -980,7 +980,7 @@ su dossier.
   bitácora. **I.13 pendiente de revisión del autor**;
   siguiente, **I.14**.
 
-## v55 — 2026-11-05
+## v55 — 2026-11-07
 
 - **I.13 «Lo que se dice de pie» aprobado** por el autor («I.13 está aprobado», decisión 100):
   2.807 palabras, 5 secciones, 3,4 % de citas, 0 errores y 0 avisos. Corregida además, sin tocar
@@ -1002,8 +1002,11 @@ su dossier.
 - **Copia de seguridad de la v55 en el USB** (decisión 103): bundle verificado y clonado de prueba,
   materiales (30 ficheros), `SINOPSIS/` en tar aparte (sin cambios desde la v52) y `AGENTS.md` al día;
   `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c` y clon `/mnt/usb/los-archivos-repo` en
-  `origin/main` (`7d64b0a`). El medio hubo que montarlo; el reloj de la máquina marcaba 2026-11-07 y
-  los nombres siguen la fecha del registro de sesiones (2026-11-05).
+  `origin/main` (`7d64b0a`). El medio hubo que montarlo.
+- **Fechas de sesión alineadas con el reloj** (decisión 104, orden del autor: «alinea eso»): v53 y v54
+  pasan a **2026-11-06** y v55 a **2026-11-07** (v50-v52 siguen en 2026-11-05); corregidas las entradas
+  de §0, los dossiers de I.13 e I.14, las decisiones 95-103, `README.md`, `00-LEEME.md` y esta bitácora,
+  y renombrados en el USB los ficheros de la copia a `2026-11-07-v55` con su `SHA-256` regenerado.
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
   → **14/126, 41.562 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.14 pendiente de revisión del autor**;

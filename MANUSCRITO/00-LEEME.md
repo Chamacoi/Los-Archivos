@@ -23,7 +23,7 @@ Sigue I.8: «Capítulo 8. El año que no se escribió», **3.368 palabras**, esc
 `../APUNTES.md` §0 nonies.
 
 Empieza I.2: «Capítulo 9. La hoja de oído», **3.009 palabras** (3.015 hasta la errata de la fórmula,
-corregida el 2026-11-05, decisión 99), escrito el 2026-11-03 (decisión 78)
+corregida el 2026-11-06, decisión 99), escrito el 2026-11-03 (decisión 78)
 con las prácticas P2, P5 y P8 de E-05 (decisión 76) y **aprobado el 2026-11-04** (decisión 82).
 Dossier en `../APUNTES.md` §0 decies.
 
@@ -36,14 +36,14 @@ prácticas P2, P5 y P8 de E-05 y **aprobado el 2026-11-05** (decisión 88), con 
 criterio del texto. Dossier en `../APUNTES.md` §0 duodecies.
 
 Sigue I.12: «Capítulo 12. Lo que no trae prueba», **2.794 palabras**, escrito el 2026-11-05 (decisión
-93) con las prácticas P1, P6 y P8 de E-05 y **aprobado el 2026-11-05** (decisión 95). Dossier en
+93) con las prácticas P1, P6 y P8 de E-05 y **aprobado el 2026-11-06** (decisión 95). Dossier en
 `../APUNTES.md` §0 terdecies.
 
-Sigue I.13: «Capítulo 13. Lo que se dice de pie», **2.807 palabras**, escrito el 2026-11-05 (decisión
-98) con las prácticas P6, P2 y P1 de E-05 y **aprobado** el 2026-11-05 (decisión 100). Dossier en
+Sigue I.13: «Capítulo 13. Lo que se dice de pie», **2.807 palabras**, escrito el 2026-11-06 (decisión
+98) con las prácticas P6, P2 y P1 de E-05 y **aprobado** el 2026-11-07 (decisión 100). Dossier en
 `../APUNTES.md` §0 quaterdecies.
 
-Sigue I.14: «Capítulo 14. Los discos», **3.206 palabras**, escrito el 2026-11-05 (decisión 102) con
+Sigue I.14: «Capítulo 14. Los discos», **3.206 palabras**, escrito el 2026-11-07 (decisión 102) con
 las prácticas P6, P1 y P2 de E-05 y un porcentaje de la sinopsis `S-02` usado como argumento (orden
 del autor, decisión 101). **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0
 quindecies.

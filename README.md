@@ -12,8 +12,8 @@ sostenida entre personas y modelos.
   abrió el bloque I.2 (decisión 82) y la errata de calendario de I.7 se corrigió el 2026-11-05
   (decisión 85). **I.11 «El nombre» aprobado** el 2026-11-05 (decisión 88),
   con el nombre propio a criterio del texto; **I.12 «Lo que no trae prueba» aprobado** (decisión 95).
-  **I.13 «Lo que se dice de pie»** escrito el 2026-11-05 (decisión 98) y **aprobado** (decisión 100).
-  **I.14 «Los discos»** escrito el 2026-11-05 (decisión 102), con un **porcentaje de sinopsis** usado
+  **I.13 «Lo que se dice de pie»** escrito el 2026-11-06 (decisión 98) y **aprobado** (decisión 100).
+  **I.14 «Los discos»** escrito el 2026-11-07 (decisión 102), con un **porcentaje de sinopsis** usado
   como argumento por orden del autor (`S-02` §B.7); siguiente, **I.15**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-05`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
@@ -308,11 +308,11 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Escribir **E-04**, el estudio del blog como fuente de argumentos (2026-11-05, decisión 90):
       régimen de uso, clases de materia, cinco pruebas aplicadas y control de asignación. Sin capítulo.
 - [x] Escribir I.12 «Lo que no trae prueba»: 2.794 palabras, 5 secciones, ≈4 % de citas, 0 errores y
-      0 avisos (2026-11-05, decisión 93); **aprobado** (decisión 95).
+      0 avisos (2026-11-05, decisión 93); **aprobado** (decisión 95, 2026-11-06).
 - [x] Escribir I.13 «Lo que se dice de pie»: 2.807 palabras, 5 secciones, 3,4 % de citas, 0 errores y
-      0 avisos (2026-11-05, decisión 98); **aprobado** (decisión 100).
+      0 avisos (2026-11-06, decisión 98); **aprobado** (decisión 100).
 - [x] Escribir I.14 «Los discos»: 3.206 palabras, 5 secciones, 5,9 % de citas, 0 errores y 0 avisos
-      (2026-11-05, decisión 102); **pendiente de revisión del autor**. Usa un porcentaje de `S-02`
+      (2026-11-07, decisión 102); **pendiente de revisión del autor**. Usa un porcentaje de `S-02`
       como argumento, como ordenó el autor (decisión 101).
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
@@ -324,7 +324,7 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-05 (v55, en curso).
+- Última sesión: 2026-11-07 (v55, en curso).
 - Siguiente: revisión de **I.14** y, si se aprueba, **escribir I.15**, séptimo del bloque I.2; su dossier
   de material hay que prepararlo antes (§0 de `APUNTES.md`). Punto 1, criterio de selección (punto 3),
   reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.13
