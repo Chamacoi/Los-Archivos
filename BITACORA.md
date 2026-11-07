@@ -999,6 +999,11 @@ su dossier.
   sigue cerrado porque el archivo no está completo; al cerrar, la casa imprime el listado, **le pone
   la fecha a mano**, rellena la etiqueta «LEIDO HASTA EL 23 DE JULIO» y apunta el número de la máquina
   en el margen del acta.
+- **Copia de seguridad de la v55 en el USB** (decisión 103): bundle verificado y clonado de prueba,
+  materiales (30 ficheros), `SINOPSIS/` en tar aparte (sin cambios desde la v52) y `AGENTS.md` al día;
+  `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c` y clon `/mnt/usb/los-archivos-repo` en
+  `origin/main` (`49fcae3`). El medio hubo que montarlo; el reloj de la máquina marcaba 2026-11-07 y
+  los nombres siguen la fecha del registro de sesiones (2026-11-05).
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
   → **14/126, 41.562 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.14 pendiente de revisión del autor**;
