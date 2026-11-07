@@ -1006,7 +1006,8 @@ su dossier.
 - **Fechas de sesión alineadas con el reloj** (decisión 104, orden del autor: «alinea eso»): v53 y v54
   pasan a **2026-11-06** y v55 a **2026-11-07** (v50-v52 siguen en 2026-11-05); corregidas las entradas
   de §0, los dossiers de I.13 e I.14, las decisiones 95-103, `README.md`, `00-LEEME.md` y esta bitácora,
-  y renombrados en el USB los ficheros de la copia a `2026-11-07-v55` con su `SHA-256` regenerado.
+  y renombrados en el USB los ficheros de la copia a `2026-11-07-v55` con su `SHA-256` regenerado. El
+  bundle del medio se regeneró en `70ea4a1` y el clon del USB quedó en ese commit.
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
   → **14/126, 41.562 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.14 pendiente de revisión del autor**;
