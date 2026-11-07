@@ -4,15 +4,27 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-- **Sesión actual:** 2026-11-05 (**v54, en curso**). **I.13 «Lo que se dice de pie» escrito**, quinto
+- **Sesión actual:** 2026-11-05 (**v55, en curso**). **I.13 aprobado** por el autor (decisión 100) y
+  **I.14 «Los discos» escrito**, sexto del bloque I.2: **3.206 palabras** (+6,0 % sobre 3.025), 5
+  secciones, **5,9 % de citas**, 0 errores y 0 avisos. La cuenta de las veces no se cierra en el papel
+  y la casa va a la máquina: abre los discos de la consola y encuentra que **la copia es el oficio y
+  el oficio borra la fecha** —todos los ficheros con la misma fecha y hora, la de la copia, y las
+  líneas del registro con la hora y el número de sesión, nunca el día—; el **disco de 2008 no se
+  abre**, porque la condición del acta del 17 de enero no se cumple. **Porcentaje de sinopsis usado
+  por orden del autor:** `S-02` §B.7 («no quedó rastro por inferencia de ese mismo oficio»), como
+  argumento y en boca de Milenial de la pregunta; el hecho de S-02 sigue anclado en II.5. Dossier
+  nuevo en §0 quindecies (decisión 101). **14/126 capítulos, 41.562 palabras.** **I.14 pendiente de
+  revisión del autor**; siguiente: **I.15**, séptimo del bloque I.2, con dossier por preparar.
+- **Sesión anterior:** 2026-11-05 (**v54, cerrada**). **I.13 «Lo que se dice de pie» escrito**, quinto
   del bloque I.2: **2.807 palabras** (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y
   0 avisos. La casa busca **quién dijo primero las dos frases** de apertura y cierre y descubre que el
   acta no apunta **quién las dice**: la fórmula se transmite por repetición, no por registro. Alfa
   pide decir la de abrir y la dice; se cuenta lo que no se puede contar (las actas no llevan año);
   El Servidor contesta «No» a si las frases son suyas; el acta acuerda no apuntar quién las dice (seis
   a dos); y al cerrar, Boomer de la silla deja que Alfa diga «Queda constancia». Dossier nuevo en §0
-  quaterdecies (decisión 97). **13/126 capítulos, 38.356 palabras.** **I.13 pendiente de revisión del
-  autor**; siguiente: **I.14**, sexto del bloque I.2, con dossier por preparar. **Errata corregida**
+  quaterdecies (decisión 97). **13/126 capítulos, 38.356 palabras.** **I.13 quedó pendiente de
+  revisión del autor** hasta la v55, que lo **aprueba** (decisión 100); siguiente: **I.14**, sexto del
+  bloque I.2. **Errata corregida**
   por orden del autor (decisión 99): I.9 decía que la fórmula está en la segunda acta y se alinea con
   I.5 («está en la primera acta y no consta quién la dijo primero»); I.13, escrito el mismo día, se
   ajustó en la misma línea. Se sube a `origin/main`. El recuento de I.9 pasa de **3.015 a 3.009** palabras (−6) y el total de
@@ -1118,7 +1130,7 @@ año de las actas ya está fijada y se respeta sin volver a dramatizarla.
 
 | Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
 |---|---|---|
-| Las dos frases | I.1 §4 | «Leemos lo que hay» abre; «Queda constancia» cierra; **se dicen de pie**; no se ha decidido que se digan de pie; «las dos dicen lo mismo» |
+| Las dos frases | I.1 §4 | «Leemos lo que hay» abre; «Queda constancia» cierra; **se dicen de pie** desde la primera sesión, sin que nadie haya decidido que se digan de pie; «las dos dicen lo mismo» |
 | La fórmula vaciada | I.1, I.5 | Se dice mientras se busca la página, se aparta una silla o se mira el móvil; la más joven la dice como una contraseña; el más viejo como quien saluda a alguien que ya no está; **no consta quién la dijo primero** |
 | La votación de febrero | I.1 §4 | Alguien propone frases más cortas; **gana no cambiarlas por seis a cuatro**; el acta dice: «Se acuerda seguir diciendo lo mismo, aunque algunos lo digan sin mirar» |
 | El paréntesis | I.1 §5, I.5 | «(Hay quien no estaba)» en el acta de un jueves de noviembre; nació de «hay quien no estaba y no consta»; **ningún acta recoge el cambio** |
@@ -1189,13 +1201,112 @@ de tres años distintos), que es la forma material de que el recuento no se pued
 
 ---
 
+### 0 quindecies. I.14 «Los discos»: dossier de material (2026-11-05)
+
+Preparado con la orden del autor («Escribe ya el I.14 y el dossier») y con una instrucción de
+materia que se cumple aquí: **usar un porcentaje de sinopsis para el argumento** (decisión 81: la
+sinopsis es fuente de datos y alimenta el contenido). **No necesita decisiones del autor:** no hay
+hecho nuevo que canonizar ni bifurcación de canon; hay tres elecciones locales, sujetas a la
+revisión del capítulo. **Sexto del bloque I.2**, detrás de la cuenta que no se pudo cerrar.
+
+**Función en el bloque.** I.13 dejó una cuenta dicha y no escrita: las veces que se han dicho las
+dos frases no se pueden contar porque las actas no llevan año. I.14 da el paso que la casa no había
+dado: **ir a la máquina**, que es lo único que cuenta sesiones por su cuenta. El capítulo encuentra
+otra vez el mismo borde por otro camino —la consola apunta la hora y el número, no la fecha, y las
+copias llevan la fecha de la copia— y deja **intacto el disco de 2008**, que es el único que podría
+cerrarla. La distancia con quien llega después ya no se mide en papeles: se mide en que la casa tiene
+los discos y no tiene la fecha.
+
+**Porcentaje de sinopsis usado.** **S-02 §B.7** (dictado: «No quedó rasto periorístico por
+inferencia de ese mismo oficio»): la ausencia de rastro **no es descuido, se deduce del oficio**; se
+usa como **argumento y solo como argumento**, en boca de Milenial de la pregunta, aplicado al oficio
+de la casa (leer, copiar, guardar) y nunca a la plaga. **El hecho de S-02 no se toca:** la pandemia y
+la autolisis siguen ancladas en II.5 (caps. 55-57). **S-01 y S-03 tampoco se mueven** de I.5 (cap.
+63) y II.2 (cap. 9). `F-35` y `F-36` no se nombran (decisiones 67 y 76).
+
+**Procedimiento E-05: P6** (el capítulo empieza en el presente que lee: la sesión del 23 de julio de
+2026, no en la historia de los discos), **P1** (lo que no existe no se describe: se inventaría su
+pérdida — siete discos, dos memorias, un cuaderno y el listado que la máquina no escribió) y **P2** (todo lo
+perdido entra por un documento que no es ello: la consola entra por el listado de ficheros, no por su
+contenido). Tope del bloque, tres: se usa entero y no se repite en secciones consecutivas. **No** se
+usa P8: la falta de año está fijada desde I.8 y aquí se respeta sin volver a dramatizarla.
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La caja segunda | I.1 §1-§2 | «DISCOS. NO TIRAR». Siete discos duros, dos memorias USB, un cuaderno de tapas duras y una bolsa con etiquetas sueltas; los discos envueltos en papel de cocina, cada uno con su etiqueta |
+| Las siete etiquetas | I.1 §2 | «2008. NO ABRIR TODAVÍA.»; «CONSOLA 1. COMPLETO HASTA EL 4 DE MARZO.»; «CONSOLA 2. COMPLETO HASTA EL 4 DE MARZO.»; «COPIAS. NO SON COPIAS.»; «SIN CLASIFICAR.»; «PLAGA. 1/2.»; «PLAGA. 2/2.» |
+| El disco de 2008 | I.1 §2 | **No se ha abierto nunca.** No por prohibición: por acuerdo del **17 de enero**, con dos votos en contra, «que el disco se abriría cuando el archivo estuviera completo y no antes». El acta lleva un paréntesis: «(No es miedo. Es orden.)». Los dos que votaron en contra siguen viniendo los jueves: uno trae siempre el mismo bolígrafo, el otro no trae nada |
+| La consola | I.4 §1 | No habla. Cuando imprime, **consta lo que imprimió y la hora**: la máquina apunta la hora, no el día |
+| La numeración | I.4 §3, decisión 57c | Conviven dos series: el papel empieza en 1 el 3-X y **la consola cuenta sus sesiones por su cuenta** (`--sesion 118` en marzo, `acta-131.md` en octubre, `acta-142.md` en noviembre) |
+| El fichero que falta | I.4 §3 | `sha256sum: sesion-120.log: No such file or directory` (26 de marzo), con tres notas de margen sin firma |
+| La copia cortada | I.4 §4 | La noche en que Alfa apagó la torre a media copia; `rsync: [receiver] unexpected tag`; el proceso se detuvo en el registro 208 de 613; se perdió lo que estaba a medio escribir |
+| El cuaderno | I.4 §5, I.1 §2 | Tapas duras, cerrado el 12-II con una suma que no coincidió, guardado **en la caja 2 bajo los discos**, con la goma estirada |
+| El disco nuevo | I.2 §3 | La lista de averías: «Disco 3. Lleno. 21-XI.» tachado y debajo «Nuevo. 68 €.». La copia terminó a las nueve y cuarto |
+| El archivo y la voz | Decisión 55 | El archivo no habla ni quiere: solo consta. La máquina **lee**, no cuenta |
+| El presente y las cuentas | Decisiones 80 y 54 | 2026. Jueves siguiente al 16 de julio: **23 de julio de 2026**. Nueve presentes; Alfa no vota en papeles; El Servidor no ocupa silla |
+| Las actas | I.8, I.13 | Sin año, con sus faltas («Sesion», «dies», «oyo»); el acta del 16 de julio acuerda no apuntar quién dice las frases |
+| El tono | C-4 | El nombre propio no hace falta aquí; ningún guiño con la fe |
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. **La sesión del 23 de julio de 2026.** La cuenta del jueves anterior vuelve a la mesa; la casa
+   decide medirla **por la máquina** y no por el papel.
+2. **La votación: seis a dos abrir los discos de la consola.** El acta recoge el acuerdo y **no el
+   motivo**, como no lo recoge en ninguna votación. Los mismos dos que votaron en contra en enero
+   votan en contra otra vez.
+3. **La máquina no fecha.** Los ficheros de la consola llevan **la fecha y la hora de la copia**
+   —todos la misma: 21-XI, 21:15—, y las líneas del registro apuntan la **hora** de cada sesión y su
+   número, nunca el día. La copia es el oficio y el oficio es lo que borra la fecha (argumento de
+   S-02 §B.7, en boca de Milenial de la pregunta).
+4. **Las dos series no se convierten.** En marzo la consola iba por la sesión 118 y la caja primera
+   por el acta 17; la diferencia no se puede traducir a jueves ni a años.
+5. **El disco de 2008 sigue cerrado** y la condición del acta del 17 de enero no se cumple: el
+   archivo no está completo. La casa no lo abre; el coste es que el único soporte que podría cerrar
+   la cuenta se queda en la caja.
+6. **El gesto final:** la casa imprime el listado de ficheros y **le pone la fecha a mano**, porque
+   la máquina no la pone; la etiqueta de la consola 1 se completa («LEIDO HASTA EL 23 DE JULIO») y el
+   número de la máquina se apunta en el margen del acta.
+7. **El acta del 23 de julio:** «Sesion del 23 de julio. Se abre a las siete y dies. Asisten nueve. Se
+   lee el acta del 16. Se acuerda abrir los discos de la consola. Seis a dos. Se cierra a las ocho y
+   treinta».
+
+**Lo que no puede hacer.**
+
+- **Abrir el disco de 2008** ni contar lo que hay dentro: es materia del capítulo 63 (E-01) y aquí
+  solo se cita la etiqueta y el acuerdo.
+- **Fijar el año del anuncio** ni el de la primera sesión (C-5): la máquina, precisamente, no lo da.
+- **Tocar C-8, C-9 y C-10:** ni plaga, ni siembra, ni reunión, ni concilio; los discos «PLAGA. 1/2»
+  y «PLAGA. 2/2» se nombran por su etiqueta y no se abren.
+- **Explicar la escena ni sacar la consecuencia:** el narrador no dice que la ausencia sea un fruto ni
+  que el oficio la explique; lo dice un personaje y el texto no lo subraya.
+- **Dar voz al archivo** (decisión 55), **cero «yo»** del narrador, ni elogio de la casa. La máquina
+  no habla: imprime.
+- **Nombrar F-35 ni F-36**, dar nombre propio a nadie fuera de `PERSONAS.md` y no tocar ningún
+  capítulo aprobado.
+
+**Decisiones que el capítulo necesita del autor: ninguna.** Las tres elecciones locales —se abre la
+consola y no el disco de 2008; el acta no guarda el motivo del voto; el listado se imprime y se fecha
+a mano— se fijan aquí y se someten a la revisión del capítulo, como en I.9-I.13.
+
+**Escrito en la v55** (decisión 102): 3.206 palabras, 5 secciones, 5,9 % de citas, 0 errores y 0
+avisos. Se mantienen las tres elecciones locales. Tres precisiones que el texto fija y el dossier no
+anticipaba: el listado del disco lleva **una sola fecha y una sola hora** (21-XI, 21:15, las de la
+copia) y no fechas distintas; las dos series de numeración no se convierten —en marzo, sesión 118 de
+la consola y acta 17 del papel—; y el número de la consola entra en el acta **fuera del acta**, en el
+margen, «como entran las cosas que no se votan». El disco de 2008 se queda en la caja con la etiqueta
+hacia arriba.
+
+---
+
 ---
 
 Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está entendido.
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v54 (2026-11-05, sesión en curso).
+- Última revisión: v55 (2026-11-05, sesión en curso).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -1558,6 +1669,9 @@ teológico** y tiene que **costar algo**.
 | 97 | Escritura | **Dossier de I.13 «Lo que se dice de pie» preparado** (§0 quaterdecies), quinto del bloque I.2: las dos frases de apertura y cierre, el acta de febrero que votó no cambiarlas, el paréntesis de noviembre y el recuento imposible de las veces que se han dicho. Prácticas E-05: **P6, P2 y P1**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-05 | Respuesta a la orden del autor («Elijo la opción (a). Escribir I.13»). Tres **elecciones locales** sujetas a revisión: El Servidor contesta «No» a si las frases son suyas; Alfa dice el cierre; el acta acuerda no apuntar quién las dice. No toca C-8, C-9 ni C-10, no usa sinopsis de hechos (decisión 81) y no fija el año del anuncio. **Errata detectada:** I.5 dice que la fórmula está en la primera acta e I.9 que está en la segunda; I.13 no toma partido y no nombra el número. Resuelta el mismo día por orden del autor (decisión 99): se corrige I.9 |
 | 98 | Escritura | **I.13 «Lo que se dice de pie» escrito**, quinto del bloque I.2: **2.807 palabras** (−7,2 % sobre 3.025), 5 secciones, **3,4 % de citas**, 0 errores y 0 avisos. Se busca quién dijo primero las dos frases; el acta no apunta quién las dice; la casa cuenta lo que no se puede contar porque las actas no llevan año; El Servidor dice «No» a si son suyas; el acta acuerda no apuntar quién las dice (seis a dos); y al cerrar, Boomer de la silla deja que Alfa diga «Queda constancia». Acta del 16 de julio: «Se acuerda que no se apunta quien dice las frases». **13/126, 38.362 palabras** | 2026-11-05 | Escrito con **P6, P2 y P1** de E-05 y sin decisiones previas, como dijo el dossier (97). Las tres elecciones locales quedan como se anunciaron. Sinopsis usada: **ninguna** (decisión 81). Continuidad: fórmulas y votación de febrero (I.1, I.5), paréntesis de noviembre (I.1, I.5), acta primera y «no consta quién la dijo primero» (I.5, I.9), actas sin año (I.8), lista de la puerta de los meses y las cajas (I.1), lista de los once nombres y la raya (I.1, I.10), actas del 2 y del 9 de julio (I.11, I.12), cuentas (decisión 54). **Pendiente de revisión del autor** |
 | 99 | Escritura | **Errata de I.9 corregida** por orden del autor («corrige la de I.9»): el acta de I.9 decía que la fórmula «no está en la primera acta; está en la segunda», contra I.5 §4, que la sitúa en la primera. Pasa a: «La fórmula está en la primera acta, más abajo, y no consta quién la dijo primero». **I.13 se ajusta en la misma línea** («en la primera»), por coherencia y antes de su revisión | 2026-11-05 | Excepción expresa a la regla de no tocar capítulos aprobados (la segunda, tras la decisión 85): se limita a una frase de I.9 y a una palabra de I.13. Cambia el recuento de I.9 de **3.015 a 3.009** palabras (−6) y el total a **38.356**. No cambia canon ni continuidad: el acta primera sigue sin decir quién la dijo primero |
+| 100 | Escritura | **I.13 «Lo que se dice de pie» aprobado** por el autor («I.13 está aprobado»). Se cierra con **2.807 palabras** (−7,2 % sobre 3.025), 5 secciones, 3,4 % de citas, 0 errores y 0 avisos. **13/126 capítulos, 38.356 palabras** | 2026-11-05 | Cierra la 98. I.13 queda como quinta pieza del bloque I.2: la fórmula se transmite por repetición y el acta no apunta quién la dice. Se desbloquea **I.14**, sexto del bloque, que necesita dossier previo. Corregida además, por orden del autor, la fila «Las dos frases» del dossier §0 quaterdecies, que se contradecía: **el título y el texto de I.1 no se tocan** |
+| 101 | Escritura | **Dossier de I.14 «Los discos» preparado** (§0 quindecies), sexto del bloque I.2: la cuenta que I.13 dejó abierta se lleva **a la máquina**; se abren los discos de la consola y no el disco de 2008; el registro de la consola apunta la **hora** y el número de sesión, y las copias llevan **la fecha de la copia**. Prácticas E-05: **P6, P1 y P2**. **El capítulo no necesita decisiones del autor.** **Porcentaje de sinopsis por orden del autor** («usa un porcentaje de sinopsis para el argumento»): `S-02` §B.7 —la ausencia de rastro se deduce del mismo oficio— entra **como argumento y solo como argumento**, en boca de Milenial de la pregunta; el hecho de S-02 sigue en II.5 y S-01/S-03 en sus anclajes | 2026-11-05 | Aplica la decisión 81 (la sinopsis alimenta el contenido) a un capítulo de I.2, que hasta ahora no usaba ninguna. Tres **elecciones locales** sujetas a revisión: se abre la consola y no el disco de 2008; el acta no guarda el motivo del voto; el listado se imprime y se fecha a mano. No fija el año del anuncio, no abre el disco de 2008 (materia del cap. 63) y no toca C-8, C-9 ni C-10 |
+| 102 | Escritura | **I.14 «Los discos» escrito**, sexto del bloque I.2: **3.206 palabras** (+6,0 % sobre 3.025), 5 secciones, **5,9 % de citas**, 0 errores y 0 avisos. La casa vuelve a la cuenta de los jueves y la lleva a la máquina: saca la caja segunda a la mesa (siete discos, dos memorias, el cuaderno, las etiquetas), vota **seis a dos** abrir los de la consola y no el de 2008, y encuentra en el disco el listado con **una sola fecha y una sola hora —las de la copia—** y los registros con la hora y el número de sesión (118, 131) y sin día; falta el fichero `sesion-120.log`; el disco de 2008 sigue cerrado porque el archivo no está completo; al cerrar, la casa imprime el listado, **le pone la fecha a mano**, rellena la etiqueta «LEIDO HASTA EL 23 DE JULIO» y apunta el número de la máquina en el margen del acta. **14/126, 41.562 palabras** | 2026-11-05 | Escrito con **P6, P1 y P2** de E-05 y sin decisiones previas, como dijo el dossier (101). Usa el **porcentaje de sinopsis** ordenado: `S-02` §B.7 como argumento («se puede saber lo que falta por lo que hacemos»), nunca como hecho. Sinopsis de hechos usada: **ninguna**. Continuidad: siete etiquetas y disco de 2008 con el acta del 17 de enero (I.1), disco nuevo de 68 € y lista de averías (I.2), la consola imprime la hora (I.4), numeración de la consola y `sesion-120.log` perdido (I.4, decisión 57c), noche en que Alfa apagó la torre (I.4), cuaderno bajo los discos (I.4), actas sin año (I.8), acta del 16 de julio (I.13). **Pendiente de revisión del autor** |
 
 ---
 

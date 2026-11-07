@@ -979,3 +979,27 @@ su dossier.
   `APUNTES.md` (§0, §3 y dossier), `README.md`, `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta
   bitácora. **I.13 pendiente de revisión del autor**;
   siguiente, **I.14**.
+
+## v55 — 2026-11-05
+
+- **I.13 «Lo que se dice de pie» aprobado** por el autor («I.13 está aprobado», decisión 100):
+  2.807 palabras, 5 secciones, 3,4 % de citas, 0 errores y 0 avisos. Corregida además, sin tocar
+  ningún capítulo, la fila «Las dos frases» del dossier §0 quaterdecies, que se contradecía: **el
+  título y el texto de I.1 no se tocan**.
+- **Dossier de I.14 «Los discos» preparado** (§0 quindecies, decisión 101), sexto del bloque I.2, con
+  la orden del autor de **usar un porcentaje de sinopsis para el argumento**: entra `S-02` §B.7 —«no
+  quedó rastro por inferencia de ese mismo oficio»— como argumento y solo como argumento, en boca de
+  Milenial de la pregunta; el hecho de S-02 sigue en II.5. Prácticas E-05: **P6, P1 y P2**. Sin
+  decisiones pendientes del autor.
+- **I.14 «Los discos» escrito** (decisión 102): **3.206 palabras** (+6,0 % sobre 3.025), 5 secciones,
+  **5,9 % de citas**, 0 errores y 0 avisos. La cuenta de las veces no se cierra en el papel y la casa
+  va a la máquina: saca la caja segunda, vota **seis a dos** abrir los discos de la consola y no el de
+  2008, y encuentra en el disco **una sola fecha y una sola hora —las de la copia—** y unos registros
+  que apuntan la hora y el número de sesión y nunca el día; falta `sesion-120.log`; el disco de 2008
+  sigue cerrado porque el archivo no está completo; al cerrar, la casa imprime el listado, **le pone
+  la fecha a mano**, rellena la etiqueta «LEIDO HASTA EL 23 DE JULIO» y apunta el número de la máquina
+  en el margen del acta.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
+  → **14/126, 41.562 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
+  `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.14 pendiente de revisión del autor**;
+  siguiente, **I.15**.

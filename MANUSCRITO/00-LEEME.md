@@ -40,8 +40,13 @@ Sigue I.12: «Capítulo 12. Lo que no trae prueba», **2.794 palabras**, escrito
 `../APUNTES.md` §0 terdecies.
 
 Sigue I.13: «Capítulo 13. Lo que se dice de pie», **2.807 palabras**, escrito el 2026-11-05 (decisión
-98) con las prácticas P6, P2 y P1 de E-05. **Pendiente de revisión del autor.** Dossier en
+98) con las prácticas P6, P2 y P1 de E-05 y **aprobado** el 2026-11-05 (decisión 100). Dossier en
 `../APUNTES.md` §0 quaterdecies.
+
+Sigue I.14: «Capítulo 14. Los discos», **3.206 palabras**, escrito el 2026-11-05 (decisión 102) con
+las prácticas P6, P1 y P2 de E-05 y un porcentaje de la sinopsis `S-02` usado como argumento (orden
+del autor, decisión 101). **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0
+quindecies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 
