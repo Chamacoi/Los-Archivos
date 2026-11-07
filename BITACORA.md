@@ -1002,7 +1002,7 @@ su dossier.
 - **Copia de seguridad de la v55 en el USB** (decisión 103): bundle verificado y clonado de prueba,
   materiales (30 ficheros), `SINOPSIS/` en tar aparte (sin cambios desde la v52) y `AGENTS.md` al día;
   `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c` y clon `/mnt/usb/los-archivos-repo` en
-  `origin/main` (`49fcae3`). El medio hubo que montarlo; el reloj de la máquina marcaba 2026-11-07 y
+  `origin/main` (`7d64b0a`). El medio hubo que montarlo; el reloj de la máquina marcaba 2026-11-07 y
   los nombres siguen la fecha del registro de sesiones (2026-11-05).
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
   → **14/126, 41.562 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
