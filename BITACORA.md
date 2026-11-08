@@ -1012,3 +1012,19 @@ su dossier.
   → **14/126, 41.562 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.14 pendiente de revisión del autor**;
   siguiente, **I.15**.
+
+## v56 — 2026-11-08 (en curso)
+
+- **I.14 «Los discos» aprobado** por el autor («Aprobado I.14», decisión 105): 3.206 palabras (+6,0 %),
+  5 secciones, 5,9 % de citas, 0 errores y 0 avisos. **14/126 capítulos, 41.562 palabras.** I.14 queda
+  como sexta pieza del bloque I.2: la máquina cuenta sesiones y no fecha, la copia borra la fecha y el
+  disco de 2008 se queda cerrado.
+- **Dossier de I.15 «La lista de los teléfonos» preparado** (§0 sedecies, decisión 106), séptimo del
+  bloque I.2 y primera pieza que **saca a la casa del archivo**: la lista de números de cuando no había
+  sesiones aparece pegada dentro del cajón del pasillo (no está en ninguna caja), sus dos clases de
+  marca se quedan sin clave y la casa marca **una vez** un número; al otro lado, alguien dice que lo
+  oyó y se corrige («me lo contaron»). Prácticas E-05: **P2, P6 y P1**; sin sinopsis de hechos
+  (decisión 81). Cuatro elecciones locales sujetas a revisión; **ninguna decisión pendiente del autor**.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar` → **14/126, 41.562 palabras**
+  (el manuscrito no se ha tocado). Actualizados `APUNTES.md` (§0 y §3), `README.md` y
+  `MANUSCRITO/00-LEEME.md`. **I.15 pendiente de escritura**; siguiente, escribirlo cuando lo ordene el autor.

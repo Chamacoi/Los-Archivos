@@ -45,8 +45,11 @@ Sigue I.13: «Capítulo 13. Lo que se dice de pie», **2.807 palabras**, escrito
 
 Sigue I.14: «Capítulo 14. Los discos», **3.206 palabras**, escrito el 2026-11-07 (decisión 102) con
 las prácticas P6, P1 y P2 de E-05 y un porcentaje de la sinopsis `S-02` usado como argumento (orden
-del autor, decisión 101). **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0
+del autor, decisión 101). **Aprobado** el 2026-11-08 (decisión 105). Dossier en `../APUNTES.md` §0
 quindecies.
+
+Sigue I.15: «La lista de los teléfonos», **pendiente de escritura**, séptimo del bloque I.2. Dossier de
+material en `../APUNTES.md` §0 sedecies (decisión 106); no necesita decisiones del autor.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 
