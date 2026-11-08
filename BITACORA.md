@@ -1042,3 +1042,18 @@ su dossier.
   → **15/126, 44.667 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
   `MANUSCRITO/00-LEEME.md` y `CRONOLOGIA.md` (sesión del 30 de julio de 2026). **I.15 pendiente de
   revisión del autor**; siguiente, **I.16**, octavo del bloque I.2.
+- **Índice de los dossiers de capítulo** (§0 septendecies, decisión 109), pedido por el autor: tabla de
+  los doce dossiers existentes con sección, fecha, decisión, materia y prácticas E-05, cuatro notas de
+  método y la lista de **hilos ya gastados del bloque I.2**, para que I.16-I.24 no repitan el octavo
+  recuento de la misma ausencia. Puntero desde la cabecera de §0.
+- **Subido a `origin/main`** (`41289fa..cb6ab7f`, tres commits) y **copia de seguridad de la v56 en el
+  USB** (decisión 110): bundle verificado y clonado de prueba (`HEAD` = `cb6ab7f`, 117 commits,
+  `nk estado` → 15/126), materiales (30 ficheros), `SINOPSIS/` en tar aparte (sin cambios), `AGENTS.md`
+  al día, `sha256sum -c` correcto y clon `/mnt/usb/los-archivos-repo` actualizado. Nombres
+  `los-archivos-2026-11-08-v56.*`; el medio hubo que montarlo. Aviso: `nk respaldo --version v56`
+  genera `vv56` — usar `--version 56` la próxima vez.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
+  → **15/126, 44.667 palabras**. Actualizados `APUNTES.md` (§0, §0 septendecies, §3 y dossier),
+  `README.md`, `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` (sesión del 30 de julio de 2026) y el
+  `AGENTS.md` del agente. **I.15 pendiente de revisión del autor**; siguiente, **I.16**, octavo del
+  bloque I.2.
