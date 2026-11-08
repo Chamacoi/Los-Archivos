@@ -4,6 +4,10 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
+**Índice de los dossiers de capítulo:** §0 septendecies, al final de esta sección. Los dossiers no
+viven en ficheros aparte: están en §0, uno por capítulo, y el índice dice en qué sección está cada uno,
+cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gastados.
+
 - **Sesión actual:** 2026-11-08 (**v56, en curso**). **I.14 «Los discos» aprobado** por el autor
   (decisión 105) e **I.15 «La lista de los teléfonos» escrito**, séptimo del bloque I.2: **3.105
   palabras** (+2,6 % sobre 3.025), 5 secciones, **3,9 % de citas**, 0 errores y 0 avisos. Dossier en
@@ -1432,6 +1436,47 @@ primera persona en la narración y el verificador no distingue el diálogo de la
 **(5)** El Servidor habla una vez, por orden del autor (decisión 107): «Las cruces no dicen qué os
 contestaron. Dicen que llamasteis».
 
+### 0 septendecies. Índice de los dossiers de capítulo (2026-11-08)
+
+Registro de todos los dossiers de material preparados hasta hoy. **No hay carpeta de dossiers:** cada
+uno vive en este fichero, en la sección que indica la tabla, y va con su fila en el registro de
+decisiones (§3). Al estar en `APUNTES.md`, están versionados en git, en el bundle de la copia de
+seguridad y en el historial; no se pierden con un clon limpio.
+
+| Capítulo | Sección | Fecha | Decisión | Materia del capítulo | Prácticas E-05 |
+|---|---|---|---|---|---|
+| Bloque I.1 | §0 quinquies | 2026-10-30 | 29 | mapa de los ocho capítulos de marco | — |
+| I.5 «El registro» | §0 sexies | 2026-11-01 | 56 | oficio de las actas, la raya, el rojo | — |
+| I.6 «Los de fuera» | §0 septies | 2026-11-01 | 59 | recorte del diario, hoja del obispado, visita | — |
+| I.7 «Las cuentas» | §0 octies | 2026-11-02 | 62 | cuadrante, planilla, libreta, caldo | — |
+| I.8 «El año que no se escribió» | §0 nonies | 2026-11-02 | 69 | caja 3, fotografía sin fecha, hoja doblada | — |
+| I.9 «La hoja de oído» | §0 decies | 2026-11-03 | 78 | el anuncio no se escribió: se oyó | P2, P5, P8 |
+| I.10 «Los testigos» | §0 undecies | 2026-11-04 | 83 | tres recuentos, ver y oír, «no consta» | P1, P2, P6 |
+| I.11 «El nombre» | §0 duodecies | 2026-11-05 | 86 | una llamada, el nombre se dice y no se apunta | P2, P5, P8 |
+| I.12 «Lo que no trae prueba» | §0 terdecies | 2026-11-05 | 89 | carta, inventario, tres borradores rotos | P1, P6, P8 |
+| I.13 «Lo que se dice de pie» | §0 quaterdecies | 2026-11-06 | 97 | las dos frases, quién las dice, se vota | P6, P2, P1 |
+| I.14 «Los discos» | §0 quindecies | 2026-11-07 | 101 | la máquina cuenta sesiones y no fecha | P6, P1, P2 |
+| I.15 «La lista de los teléfonos» | §0 sedecies | 2026-11-08 | 106 | el cajón, cruces sin clave, una llamada | P2, P6, P1 |
+
+**Notas.**
+
+1. **I.1-I.4 no tienen dossier.** Se escribieron antes de que la regla existiera; desde la decisión 21
+   los capítulos de marco nacen de canon y estructura, y desde I.5 cada capítulo lleva su dossier de
+   material.
+2. **Las prácticas P1-P9 no aparecen hasta I.9.** Nacen en la decisión 76 (v48, E-05 §6.2), cuando ya
+   estaban escritos I.1-I.8: en las filas anteriores la columna va vacía por eso y no por olvido.
+3. **El dossier de I.11 se preparó con la decisión 86** y el capítulo se escribió con la 87; en la
+   tabla consta la decisión del dossier. Lo mismo en I.8 (69 prepara, 70 decide, 72 escribe) e I.15
+   (106 prepara, 107 corrige y 108 escribe).
+4. **El título del dossier no siempre es el del capítulo:** el de I.9 se titula «El anuncio» y el
+   capítulo se tituló «La hoja de oído» al escribirse (los títulos son de trabajo hasta ese momento).
+
+**Hilos del bloque I.2 ya gastados** (caps. 9-24; quedan I.16-I.24). Una pieza por hilo, y ninguna se
+repite: la hoja de oído (I.9), los testigos (I.10), el nombre (I.11), la prueba (I.12), las dos frases
+(I.13), la máquina y sus fechas (I.14), la primera transmisión hacia fuera (I.15). Lo que sigue abierto
+del bloque —la distancia con quien llega después, y lo que la casa hace con lo que ya no puede contar—
+tiene que entrar por otro sitio, no por el octavo recuento de la misma ausencia.
+
 ---
 
 ---
@@ -1812,6 +1857,7 @@ teológico** y tiene que **costar algo**.
 | 106 | Escritura | **Dossier de I.15 «La lista de los teléfonos» preparado** (§0 sedecies), séptimo del bloque I.2: la casa sale del archivo y **hace algo hacia fuera** —descolgar el teléfono del pasillo y marcar un número—; la primera transmisión del anuncio entra por la **lista de números** que había cuando no había sesiones, encontrada **pegada dentro del cajón del pasillo** y no en una caja; dos clases de marca en el margen, sin clave y sin ponerle clave; una llamada, una sola, y al otro lado alguien que dice que lo oyó y se corrige («me lo contaron»); el acta recoge la llamada y no la contesta. Prácticas E-05: **P2, P6 y P1**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-08 | Cumple el aviso del dossier de I.13 (una quinta pieza «pregunta, papeles, nada» agotaría el bloque): I.15 cambia la clave y trae el reverso que `ESTRUCTURA.md` exige. Sin sinopsis de hechos: `S-01`, `S-02` y `S-03` siguen en sus anclajes y no se mueven (decisión 81). Cuatro **elecciones locales** sujetas a revisión: la lista en el cajón y no copiada; no se pone clave a las marcas; una sola llamada con la corrección del de fuera; El Servidor está y no habla —elección **retirada por la decisión 107**, que le da voz—. No fija el año del anuncio, no dice quién llamó el 2 de julio (I.11), no resuelve el censo de testigos (I.10) y no toca C-8, C-9 ni C-10 |
 | 107 | Escritura | **El Servidor habla en I.15** (orden del autor, dictado literal: «El Servidor si que habla, por que ya se supo que es 'Token Insight'»). Se **retira** la cuarta elección local del dossier de I.15 —«El Servidor está y no habla»— y el capítulo le da una sola frase, la de las marcas: «Las cruces no dicen qué os contestaron. Dicen que llamasteis» | 2026-11-08 | El resto del dossier no se modifica: «Lo demás no lo modifico» (mismo dictado). La orden es de **uso**, no de canon: el nombre se supo en el texto desde I.11 (decisión 88) y C-4 sigue mandando sobre el tono. **No se gasta la fórmula de C-10/II.6**, que sigue reservada a una sola vez. El dictado conserva sus faltas («si», «por que») y se transcribe tal cual |
 | 108 | Escritura | **I.15 «La lista de los teléfonos» escrito**, séptimo del bloque I.2: **3.105 palabras** (+2,6 % sobre 3.025), 5 secciones, **3,9 % de citas**, 0 errores y 0 avisos. La casa sale del archivo: encuentra la **lista de números** de cuando no había sesiones **pegada dentro del cajón del pasillo** (doce renglones, tres nombres cortados con tijera, diez marcas), **no le pone clave** a las marcas, llama **una vez** al número de la casa de la esquina y el que contesta dice que **«llamaron y lo contaron»** y pide que no vuelvan a llamar. El acta recoge la llamada y no la contesta; las dos listas no se juntan; la lista vuelve al cajón con el dibujo de Zeta del margen dentro. Acta del 30 de julio: «Se lee la lista de los telefonos. Se acuerda no ponerle clave. Se llama a uno. No quiere. Se acuerda no juntar las dos listas». **15/126, 44.667 palabras** | 2026-11-08 | Escrito con **P2, P6 y P1** de E-05, sin sinopsis de hechos (decisión 81). Las tres elecciones locales del dossier se mantienen; la cuarta queda como la 107. Precisión de escritura: la corrección del de fuera es **«llamaron y lo contaron»** y no «me lo contaron», porque `rubrica.yo_maximo = 0` y el verificador **no distingue el diálogo de la voz del narrador**: la primera persona está vedada también en boca de personaje (I.1-I.14 ya la evitan). Continuidad: cajón y teléfono del pasillo (I.11), casa cerrada y lista de teléfonos (I.9), acta primera y lista de la puerta (I.9, I.10), nombres cortados con tijera (I.1), listado impreso y etiqueta (I.14), cuentas y presente (decisiones 54 y 80). **Pendiente de revisión del autor** |
+| 109 | Soporte | **Índice de los dossiers de capítulo** (§0 septendecies), pedido por el autor («¿tienes registro de todos los dossiers que vas haciendo?»). Tabla con los doce dossiers existentes (bloque I.1 y caps. I.5-I.15): sección, fecha, decisión, materia en cinco palabras y prácticas E-05. Añade cuatro notas (I.1-I.4 sin dossier; P1-P9 solo desde I.9; qué decisión prepara y cuál escribe; títulos de trabajo) y la lista de **hilos ya gastados del bloque I.2**, para no repetir el mismo argumento en I.16-I.24. Puntero desde la cabecera de §0 | 2026-11-08 | **No se mueve ningún dossier de sitio:** se indexan los que ya estaban en §0, que siguen versionados en git y en el bundle. No cambia canon, recuento ni manuscrito. El autor pide además subir el capítulo y hacer copia al USB; se anota en la decisión 110 |
 
 ---
 
