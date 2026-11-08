@@ -8,14 +8,16 @@ sostenida entre personas y modelos.
   C-1 a C-10 completo. **I.1 a I.13 escritos y aprobados** (2.798, 2.727, 2.920, 2.926, 2.818,
   3.269, 3.055, 3.368, 3.009, 2.825, 3.040, 2.794 y 2.807 palabras con el método limpio; I.9 bajó de
   3.015 a 3.009 al corregir la errata de la fórmula, decisión 99) e **I.14 «Los discos» escrito y
-  aprobado** (3.206 palabras): **14/126 capítulos, 41.562 palabras**. I.8 cerró el bloque I.1
+  aprobado** (3.206 palabras): **14/126 capítulos, 41.562 palabras**, e **I.15 «La lista de los
+  teléfonos» escrito** (3.105 palabras, pendiente de revisión): **15/126 capítulos, 44.667 palabras**. I.8 cerró el bloque I.1
   (decisión 77), I.9 abrió el bloque I.2 (decisión 82) y la errata de calendario de I.7 se corrigió el
   2026-11-05 (decisión 85). **I.11 «El nombre» aprobado** el 2026-11-05 (decisión 88),
   con el nombre propio a criterio del texto; **I.12 «Lo que no trae prueba» aprobado** (decisión 95).
   **I.13 «Lo que se dice de pie»** escrito el 2026-11-06 (decisión 98) y **aprobado** (decisión 100).
   **I.14 «Los discos»** aprobado el 2026-11-08 (decisiones 102 y 105), con un **porcentaje de sinopsis**
-    usado como argumento por orden del autor (`S-02` §B.7). **Dossier de I.15 «La lista de los
-  teléfonos» preparado** (§0 sedecies, decisión 106); siguiente, **escribir I.15**.
+  usado como argumento por orden del autor (`S-02` §B.7). **I.15 «La lista de los teléfonos»** escrito
+  el 2026-11-08 (decisión 108), con dossier en §0 sedecies (106) y **El Servidor hablando por orden
+  del autor** (decisión 107); siguiente, **revisión de I.15** y, si se aprueba, **I.16**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-05`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -316,8 +318,11 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       (2026-11-07, decisión 102); **aprobado** (decisión 105, 2026-11-08). Usa un porcentaje de `S-02`
       como argumento, como ordenó el autor (decisión 101).
 - [x] Preparar el dossier de I.15 «La lista de los teléfonos» (2026-11-08, decisión 106): la lista de
-      números del cajón del pasillo, las dos clases de marca sin clave y una llamada que acaba en «me
-      lo contaron». Sin decisiones pendientes del autor; **listo para escribir**.
+      números del cajón del pasillo, las dos clases de marca sin clave y una llamada que acaba en
+      «llamaron y lo contaron». Sin decisiones pendientes del autor.
+- [x] Escribir I.15 «La lista de los teléfonos»: 3.105 palabras, 5 secciones, 3,9 % de citas, 0 errores
+      y 0 avisos (2026-11-08, decisión 108); **pendiente de revisión del autor**. El Servidor habla en
+      el capítulo por orden del autor (decisión 107).
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -329,9 +334,9 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 primer `[ ]` de la hoja de ruta.
 
 - Última sesión: 2026-11-08 (v56, en curso).
-- Siguiente: **escribir I.15 «La lista de los teléfonos»**, séptimo del bloque I.2; su dossier de
-  material ya está preparado (§0 sedecies de `APUNTES.md`) y no necesita decisiones del autor. Punto 1, criterio de selección (punto 3),
-  reparto (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.13
-  aprobados; la escritura se comprueba con `escritura/bin/nk`.
+- Siguiente: **revisión de I.15 «La lista de los teléfonos»** y, si se aprueba, **escribir I.16**,
+  octavo del bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
+  (`ESTRUCTURA.md`) y forma de la demostración (axioma/frutos) están cerrados. I.1 a I.14 aprobados e
+  I.15 pendiente; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

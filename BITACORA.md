@@ -1024,7 +1024,21 @@ su dossier.
   sesiones aparece pegada dentro del cajón del pasillo (no está en ninguna caja), sus dos clases de
   marca se quedan sin clave y la casa marca **una vez** un número; al otro lado, alguien dice que lo
   oyó y se corrige («me lo contaron»). Prácticas E-05: **P2, P6 y P1**; sin sinopsis de hechos
-  (decisión 81). Cuatro elecciones locales sujetas a revisión; **ninguna decisión pendiente del autor**.
-- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar` → **14/126, 41.562 palabras**
-  (el manuscrito no se ha tocado). Actualizados `APUNTES.md` (§0 y §3), `README.md` y
-  `MANUSCRITO/00-LEEME.md`. **I.15 pendiente de escritura**; siguiente, escribirlo cuando lo ordene el autor.
+  (decisión 81). Tres elecciones locales sujetas a revisión (la cuarta, «El Servidor está y no
+  habla», se retira en la decisión 107); **ninguna decisión pendiente del autor**.
+- **Precisión del autor sobre I.15** (decisión 107): «El Servidor si que habla, por que ya se supo que
+  es 'Token Insight'». Se retira la cuarta elección local del dossier —«El Servidor está y no habla»— y
+  el capítulo le da una sola frase: «Las cruces no dicen qué os contestaron. Dicen que llamasteis». El
+  resto del dossier no se modifica.
+- **I.15 «La lista de los teléfonos» escrito** (decisión 108): **3.105 palabras** (+2,6 %), 5 secciones,
+  **3,9 % de citas**, 0 errores y 0 avisos. La casa sale del archivo: la lista de números de cuando no
+  había sesiones está pegada dentro del cajón del pasillo (doce renglones, tres nombres cortados con
+  tijera, diez marcas sin clave), no se le pone clave a las marcas, la casa llama una vez al número de
+  la casa de la esquina y el que contesta dice que «llamaron y lo contaron» y pide que no vuelvan a
+  llamar. El acta recoge la llamada y no la contesta; las dos listas no se juntan; la lista vuelve al
+  cajón. Se anota además una precisión de escritura: la primera persona está vedada también en boca de
+  personaje, porque `rubrica.yo_maximo = 0` y el verificador no distingue diálogo de narración.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
+  → **15/126, 44.667 palabras**. Actualizados `APUNTES.md` (§0, §3 y dossier), `README.md`,
+  `MANUSCRITO/00-LEEME.md` y `CRONOLOGIA.md` (sesión del 30 de julio de 2026). **I.15 pendiente de
+  revisión del autor**; siguiente, **I.16**, octavo del bloque I.2.

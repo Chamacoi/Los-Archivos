@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 14,
-  "palabras": 41562,
+  "escritos": 15,
+  "palabras": 44667,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 14,
-      "palabras": 41562
+      "escritos": 15,
+      "palabras": 44667
     },
     {
       "id": "II",
@@ -169,11 +169,11 @@
     },
     {
       "id": "I.15",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "La lista de los teléfonos",
+      "escrito": true,
+      "palabras": 3105,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": 0.0264,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/15-capitulo.md"
     },

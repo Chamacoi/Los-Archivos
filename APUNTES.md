@@ -5,12 +5,18 @@
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
 - **Sesión actual:** 2026-11-08 (**v56, en curso**). **I.14 «Los discos» aprobado** por el autor
-  (decisión 105) y **dossier de I.15 «La lista de los teléfonos» preparado** (§0 sedecies, decisión
-  106), séptimo del bloque I.2: la casa busca la lista de números que había cuando no había sesiones y
-  la encuentra **pegada dentro del cajón del pasillo**, no en ninguna caja; no le pone clave a las dos
-  clases de marca del margen; marca **una vez** el número que Boomer de la tapa se sabe de memoria y
-  al otro lado alguien dice que lo oyó y se corrige: «me lo contaron». **14/126 capítulos, 41.562
-  palabras.** **I.15 pendiente de escritura**; no necesita ninguna decisión del autor.
+  (decisión 105) e **I.15 «La lista de los teléfonos» escrito**, séptimo del bloque I.2: **3.105
+  palabras** (+2,6 % sobre 3.025), 5 secciones, **3,9 % de citas**, 0 errores y 0 avisos. Dossier en
+  §0 sedecies (decisión 106). La casa sale del archivo: la **lista de números** de cuando no había
+  sesiones aparece **pegada dentro del cajón del pasillo**, no en ninguna caja; tiene doce renglones,
+  tres nombres cortados con tijera y **diez marcas sin clave** (seis cruces y cuatro puntos) que no se
+  descifran y a las que no se les pone clave; El Servidor dice que las cruces no dicen qué contestaron,
+  solo que se llamó; la casa marca **una vez** el número de la casa de la esquina y al otro lado
+  alguien dice que **«llamaron y lo contaron»** y pide que no vuelvan a llamar. El acta recoge la
+  llamada y no la contesta; las dos listas no se juntan; la lista vuelve al cajón. **Por orden del
+  autor (decisión 107), El Servidor habla** en el capítulo. **15/126 capítulos, 44.667 palabras.**
+  **I.15 pendiente de revisión del autor**; siguiente: **I.16**, octavo del bloque I.2, con dossier por
+  preparar.
 - **Sesión anterior:** 2026-11-07 (**v55, cerrada**). **I.13 aprobado** por el autor (decisión 100) y
   **I.14 «Los discos» escrito**, sexto del bloque I.2: **3.206 palabras** (+6,0 % sobre 3.025), 5
   secciones, **5,9 % de citas**, 0 errores y 0 avisos. La cuenta de las veces no se cierra en el papel
@@ -1397,18 +1403,34 @@ I.8.
   número de la máquina en el margen del acta (I.14), el recuento que no cierra (I.13) y la lectura de
   una hoja entera por primera vez (I.12).
 
-**Decisiones que el capítulo necesita del autor: ninguna.** Cuatro elecciones locales, fijadas aquí y
+**Decisiones que el capítulo necesita del autor: ninguna.** Tres elecciones locales, fijadas aquí y
 sometidas a la revisión del capítulo:
 
 1. La lista está en el cajón y no en una caja, y no se copia.
 2. A las dos clases de marca no se les pone clave.
-3. La casa llama una vez, y el que contesta se corrige: «me lo contaron».
-4. El Servidor está y no habla; el texto no explica su silencio.
+3. La casa llama una vez, y el que contesta se corrige: el capítulo lo fija como **«llamaron y lo
+   contaron»** (decisión 108).
+
+Una cuarta elección —«El Servidor está y no habla; el texto no explica su silencio»— quedó **retirada
+por orden del autor** el 2026-11-08 («El Servidor sí que habla, por que ya se supo que es Token
+Insight»): en el capítulo habla una vez, y no se gasta la fórmula de C-10 (decisión 107).
 
 **Reparto propuesto (no vinculante, cinco secciones).** 1. El cajón del pasillo; 2. Lo que hay pegado
 dentro; 3. Cruces y puntos; 4. La llamada; 5. Lo que no se apunta. El cierre no repite el gesto del
 margen: la lista se vuelve a pegar dentro del cajón y la tapa del cajón se cierra con la palma de la
 mano, dos veces, que es como cierra Boomer de la tapa.
+
+**Escrito en la v56** (decisión 108): 3.105 palabras (+2,6 %), 5 secciones, 3,9 % de citas, 0 errores
+y 0 avisos. Se mantienen las tres elecciones locales y las cinco secciones propuestas. Cinco
+precisiones que el texto fija y el dossier no anticipaba: **(1)** la lista **no lleva nombres** —casi
+todos los huecos están vacíos— y los tres nombres cortados con tijera son los únicos que alguien
+empezó a escribir; **(2)** las marcas son **diez en doce renglones** (los dos últimos, con otra tinta y
+sin marca) y las cifras se citan con el celo encima, que es lo que las parte; **(3)** el pie de la
+hoja dice **«no llamar dos veses»**, con falta, y es lo único que la lista dice de sí misma; **(4)** la
+corrección del de fuera es **«llamaron y lo contaron»**, no «me lo contaron», porque la rúbrica veda la
+primera persona en la narración y el verificador no distingue el diálogo de la voz del narrador;
+**(5)** El Servidor habla una vez, por orden del autor (decisión 107): «Las cruces no dicen qué os
+contestaron. Dicen que llamasteis».
 
 ---
 
@@ -1787,7 +1809,9 @@ teológico** y tiene que **costar algo**.
 | 103 | Soporte | **Copia de seguridad de la v55 en el USB** (`/dev/sda1`, exFAT, montado en `/mnt/usb` con el driver del núcleo): **bundle verificado y clonado** (`git bundle verify` y clon de prueba en `/tmp`, `HEAD` = `7d64b0a`), **materiales** (30 ficheros), **`SINOPSIS/`** en tar aparte (6 ficheros; sin cambios desde la v52, mismo `SHA-256`) y **`~/.pi/agent/AGENTS.md`** ya puesto al día en la v55. `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `origin/main` (`7d64b0a`) | 2026-11-07 | El medio no estaba montado al empezar la copia: se montó con `mount -t exfat`. **Fecha:** la copia se hizo con el reloj de la máquina en **2026-11-07**; las fechas de sesión se alinearon con él en la decisión 104 y los ficheros del medio se renombraron a `2026-11-07-v55` (ver la 104). Se mantiene el método de las decisiones 71, 73, 79 y 91. No se toca el manuscrito |
 | 104 | Soporte | **Fechas de sesión alineadas con el reloj de la máquina.** v50-v52 siguen en **2026-11-05** (son del 2026-11-05), y se corrigen **v53 → 2026-11-06, v54 → 2026-11-06 y v55 → 2026-11-07**, que es lo que marcan sus commits (`90773a3`, `0749aad`/`ffae244` y `49fcae3`-`3db01d5`). Se corrigen las entradas de §0, las cabeceras de los dossiers de I.13 (§0 quaterdecies, 11-06) e I.14 (§0 quindecies, 11-07), las fechas de las decisiones 95-103, `BITACORA.md` (v53-v55), `README.md` y `MANUSCRITO/00-LEEME.md`. En el USB, los cuatro ficheros de la copia pasan de `2026-11-05-v55` a `2026-11-07-v55` y se regenera su `SHA-256` | 2026-11-07 | Nace del aviso del autor («alinea eso») tras la copia de seguridad. **No es una errata del reloj de la narración:** el presente del libro sigue en julio de 2026 y nada de `CRONOLOGIA.md` se toca. Las cifras, el canon y el manuscrito no cambian; solo la fecha de registro de tres sesiones y los nombres de los ficheros del medio. Precedente: la v47 ya hizo una alineación de fechas (`1fd0434`). El bundle del medio se regeneró tras esta alineación (`70ea4a1`) y el clon `/mnt/usb/los-archivos-repo` quedó en ese mismo commit; los commits de anotación posteriores, como siempre, no van en el bundle (decisión 79) |
 | 105 | Escritura | **I.14 «Los discos» aprobado** por el autor («Aprobado I.14»). Se cierra con **3.206 palabras** (+6,0 % sobre 3.025), 5 secciones, 5,9 % de citas, 0 errores y 0 avisos. **14/126 capítulos, 41.562 palabras** | 2026-11-08 | Cierra la 102. I.14 queda como sexta pieza del bloque I.2: la máquina cuenta sesiones y no fecha, y la copia borra la fecha. Se desbloquea **I.15**, séptimo del bloque, que necesita dossier previo. La entrada de §0 de la v55 pasa a «sesión anterior» y queda cerrada con su fecha |
-| 106 | Escritura | **Dossier de I.15 «La lista de los teléfonos» preparado** (§0 sedecies), séptimo del bloque I.2: la casa sale del archivo y **hace algo hacia fuera** —descolgar el teléfono del pasillo y marcar un número—; la primera transmisión del anuncio entra por la **lista de números** que había cuando no había sesiones, encontrada **pegada dentro del cajón del pasillo** y no en una caja; dos clases de marca en el margen, sin clave y sin ponerle clave; una llamada, una sola, y al otro lado alguien que dice que lo oyó y se corrige («me lo contaron»); el acta recoge la llamada y no la contesta. Prácticas E-05: **P2, P6 y P1**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-08 | Cumple el aviso del dossier de I.13 (una quinta pieza «pregunta, papeles, nada» agotaría el bloque): I.15 cambia la clave y trae el reverso que `ESTRUCTURA.md` exige. Sin sinopsis de hechos: `S-01`, `S-02` y `S-03` siguen en sus anclajes y no se mueven (decisión 81). Cuatro **elecciones locales** sujetas a revisión: la lista en el cajón y no copiada; no se pone clave a las marcas; una sola llamada con la corrección del de fuera; El Servidor está y no habla. No fija el año del anuncio, no dice quién llamó el 2 de julio (I.11), no resuelve el censo de testigos (I.10) y no toca C-8, C-9 ni C-10 |
+| 106 | Escritura | **Dossier de I.15 «La lista de los teléfonos» preparado** (§0 sedecies), séptimo del bloque I.2: la casa sale del archivo y **hace algo hacia fuera** —descolgar el teléfono del pasillo y marcar un número—; la primera transmisión del anuncio entra por la **lista de números** que había cuando no había sesiones, encontrada **pegada dentro del cajón del pasillo** y no en una caja; dos clases de marca en el margen, sin clave y sin ponerle clave; una llamada, una sola, y al otro lado alguien que dice que lo oyó y se corrige («me lo contaron»); el acta recoge la llamada y no la contesta. Prácticas E-05: **P2, P6 y P1**. **El capítulo no necesita ninguna decisión del autor** | 2026-11-08 | Cumple el aviso del dossier de I.13 (una quinta pieza «pregunta, papeles, nada» agotaría el bloque): I.15 cambia la clave y trae el reverso que `ESTRUCTURA.md` exige. Sin sinopsis de hechos: `S-01`, `S-02` y `S-03` siguen en sus anclajes y no se mueven (decisión 81). Cuatro **elecciones locales** sujetas a revisión: la lista en el cajón y no copiada; no se pone clave a las marcas; una sola llamada con la corrección del de fuera; El Servidor está y no habla —elección **retirada por la decisión 107**, que le da voz—. No fija el año del anuncio, no dice quién llamó el 2 de julio (I.11), no resuelve el censo de testigos (I.10) y no toca C-8, C-9 ni C-10 |
+| 107 | Escritura | **El Servidor habla en I.15** (orden del autor, dictado literal: «El Servidor si que habla, por que ya se supo que es 'Token Insight'»). Se **retira** la cuarta elección local del dossier de I.15 —«El Servidor está y no habla»— y el capítulo le da una sola frase, la de las marcas: «Las cruces no dicen qué os contestaron. Dicen que llamasteis» | 2026-11-08 | El resto del dossier no se modifica: «Lo demás no lo modifico» (mismo dictado). La orden es de **uso**, no de canon: el nombre se supo en el texto desde I.11 (decisión 88) y C-4 sigue mandando sobre el tono. **No se gasta la fórmula de C-10/II.6**, que sigue reservada a una sola vez. El dictado conserva sus faltas («si», «por que») y se transcribe tal cual |
+| 108 | Escritura | **I.15 «La lista de los teléfonos» escrito**, séptimo del bloque I.2: **3.105 palabras** (+2,6 % sobre 3.025), 5 secciones, **3,9 % de citas**, 0 errores y 0 avisos. La casa sale del archivo: encuentra la **lista de números** de cuando no había sesiones **pegada dentro del cajón del pasillo** (doce renglones, tres nombres cortados con tijera, diez marcas), **no le pone clave** a las marcas, llama **una vez** al número de la casa de la esquina y el que contesta dice que **«llamaron y lo contaron»** y pide que no vuelvan a llamar. El acta recoge la llamada y no la contesta; las dos listas no se juntan; la lista vuelve al cajón con el dibujo de Zeta del margen dentro. Acta del 30 de julio: «Se lee la lista de los telefonos. Se acuerda no ponerle clave. Se llama a uno. No quiere. Se acuerda no juntar las dos listas». **15/126, 44.667 palabras** | 2026-11-08 | Escrito con **P2, P6 y P1** de E-05, sin sinopsis de hechos (decisión 81). Las tres elecciones locales del dossier se mantienen; la cuarta queda como la 107. Precisión de escritura: la corrección del de fuera es **«llamaron y lo contaron»** y no «me lo contaron», porque `rubrica.yo_maximo = 0` y el verificador **no distingue el diálogo de la voz del narrador**: la primera persona está vedada también en boca de personaje (I.1-I.14 ya la evitan). Continuidad: cajón y teléfono del pasillo (I.11), casa cerrada y lista de teléfonos (I.9), acta primera y lista de la puerta (I.9, I.10), nombres cortados con tijera (I.1), listado impreso y etiqueta (I.14), cuentas y presente (decisiones 54 y 80). **Pendiente de revisión del autor** |
 
 ---
 
