@@ -3,8 +3,7 @@
 ## Versiones con soporte
 
 Se aceptan informes para la versión más reciente disponible en la rama
-`main`. Si publicas versiones o etiquetas, indica aquí cuáles reciben
-actualizaciones de seguridad y durante cuánto tiempo.
+`main`. Si publicas versiones o etiquetas; este documento es público desde la v56, v57.
 
 ## Qué se considera un problema de seguridad
 
