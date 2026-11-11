@@ -1089,7 +1089,8 @@ su dossier.
   `/mnt/usb/los-archivos-repo` actualizado. Nombres `los-archivos-2026-11-11-v57.*`. **Fechas de
   sesión alineadas con el reloj:** la v57 pasa de 2026-11-08 a **2026-11-11** en los apuntes, los
   dossiers, el índice, las decisiones 111-114, el README, esta bitácora, el LEEME, el glosario, la
-  sinopsis y `AGENTS.md`; la fecha de la narración (6 de agosto de 2026) no se toca.
+  sinopsis y `AGENTS.md`; la fecha de la narración (6 de agosto de 2026) no se toca. El bundle se
+  regeneró tras el commit de alineación (`625b380`, 123 commits) y el clon del USB quedó en él.
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
   → **16/126, 47.466 palabras**. Actualizados `APUNTES.md` (§0, dossier §0 octodecies, índice §0
   septendecies, §3, C-1 y nota de F), `SINOPSIS/00-indice.md` y `SINOPSIS/S-06` (no versionada),
