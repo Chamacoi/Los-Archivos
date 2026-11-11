@@ -1058,7 +1058,7 @@ su dossier.
   `AGENTS.md` del agente. **I.15 pendiente de revisión del autor**; siguiente, **I.16**, octavo del
   bloque I.2.
 
-## v57 — 2026-11-11 (en curso)
+## v57 — 2026-11-11
 
 - **I.15 «La lista de los teléfonos» aprobado** por el autor («Ya está revisado el I.15», decisión 111):
   se cierra con **3.105 palabras** (+2,6 %), 5 secciones, 3,9 % de citas, 0 errores y 0 avisos.
@@ -1091,6 +1091,9 @@ su dossier.
   dossiers, el índice, las decisiones 111-114, el README, esta bitácora, el LEEME, el glosario, la
   sinopsis y `AGENTS.md`; la fecha de la narración (6 de agosto de 2026) no se toca. El bundle se
   regeneró tras el commit de alineación (`625b380`, 123 commits) y el clon del USB quedó en él.
+- **Sesión cerrada.** Árbol limpio, `origin/main` al día (`b983ba6`) y copia de la v57 en el USB
+  comprobada (`sha256sum -c` de los cuatro ficheros). Próximo paso: **revisión de I.16 «La fotocopia»**
+  y, si se aprueba, **I.17**, noveno del bloque I.2, con dossier por preparar.
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
   → **16/126, 47.466 palabras**. Actualizados `APUNTES.md` (§0, dossier §0 octodecies, índice §0
   septendecies, §3, C-1 y nota de F), `SINOPSIS/00-indice.md` y `SINOPSIS/S-06` (no versionada),

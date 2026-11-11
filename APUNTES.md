@@ -8,7 +8,7 @@
 viven en ficheros aparte: están en §0, uno por capítulo, y el índice dice en qué sección está cada uno,
 cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gastados.
 
-- **Sesión actual:** 2026-11-11 (**v57, en curso**). **I.15 «La lista de los teléfonos» aprobado**
+- **Sesión actual:** 2026-11-11 (**v57, cerrada**). **I.15 «La lista de los teléfonos» aprobado**
   por el autor («Ya está revisado el I.15», decisión 111). Antes de seguir, el autor dicta el hecho
   nuevo **S-06 «El insight virgen»** (decisión 112): *todo* vino de un *insight* **virgen** —esto es,
   **capacidad vacua o neutra**— del cual **se puede explicar la existencia de Dios**; en la física

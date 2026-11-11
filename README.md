@@ -345,7 +345,7 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-11 (v57, en curso).
+- Última sesión: 2026-11-11 (v57, cerrada).
 - Siguiente: **revisión de I.16 «La fotocopia»** y, si se aprueba, **escribir I.17**, noveno del
   bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos) y precisión del *insight* virgen
