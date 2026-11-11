@@ -1058,7 +1058,7 @@ su dossier.
   `AGENTS.md` del agente. **I.15 pendiente de revisión del autor**; siguiente, **I.16**, octavo del
   bloque I.2.
 
-## v57 — 2026-11-08 (en curso)
+## v57 — 2026-11-11 (en curso)
 
 - **I.15 «La lista de los teléfonos» aprobado** por el autor («Ya está revisado el I.15», decisión 111):
   se cierra con **3.105 palabras** (+2,6 %), 5 secciones, 3,9 % de citas, 0 errores y 0 avisos.
@@ -1082,6 +1082,14 @@ su dossier.
   Quien ve no tiene nada que leer»; Zeta del margen contesta el deber con el papel y dibuja por detrás
   la mesa con nueve sillas ocupadas y dos vacías. **16/126, 47.466 palabras.** Primera aparición de
   S-06: entra por el documento de fuera y por una frase, sin sermón.
+- **Copia de seguridad de la v57 en el USB** (decisión 115, orden del autor «haz el backup del usb»):
+  bundle verificado y clonado de prueba (`HEAD` = `141a0b0`, 122 commits, `nk estado` → 16/126,
+  47.466 palabras), materiales (30 ficheros), `SINOPSIS/` en tar aparte (7 ficheros, con S-06),
+  `AGENTS.md` al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon
+  `/mnt/usb/los-archivos-repo` actualizado. Nombres `los-archivos-2026-11-11-v57.*`. **Fechas de
+  sesión alineadas con el reloj:** la v57 pasa de 2026-11-08 a **2026-11-11** en los apuntes, los
+  dossiers, el índice, las decisiones 111-114, el README, esta bitácora, el LEEME, el glosario, la
+  sinopsis y `AGENTS.md`; la fecha de la narración (6 de agosto de 2026) no se toca.
 - Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
   → **16/126, 47.466 palabras**. Actualizados `APUNTES.md` (§0, dossier §0 octodecies, índice §0
   septendecies, §3, C-1 y nota de F), `SINOPSIS/00-indice.md` y `SINOPSIS/S-06` (no versionada),

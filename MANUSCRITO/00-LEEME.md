@@ -53,7 +53,7 @@ Sigue I.15: «Capítulo 15. La lista de los teléfonos», **3.105 palabras**, es
 capítulo por orden del autor (decisión 107). **Aprobado** el 2026-11-08 (decisión 111). Dossier en
 `../APUNTES.md` §0 sedecies.
 
-Sigue I.16: «Capítulo 16. La fotocopia», **2.799 palabras**, escrito el 2026-11-08 (decisión 114)
+Sigue I.16: «Capítulo 16. La fotocopia», **2.799 palabras**, escrito el 2026-11-11 (decisión 114)
 con las prácticas P2, P6 y P8 de E-05. Primera aparición de **S-06** (el *insight* virgen,
 decisión 112): la explicación de fuera entra por una fotocopia y la casa no la refuta. **Pendiente de
 revisión del autor.** Dossier en `../APUNTES.md` §0 octodecies.

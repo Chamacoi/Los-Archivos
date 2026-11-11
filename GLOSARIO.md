@@ -46,7 +46,7 @@ Vocabulario canónico del libro. Existe para que el registro no se derive sesió
 | fallo concreto | minúscula | El fallo de la sonda que El Servidor concibió para liberar a los tardígrados (C-9). En el registro documental es el fallo del giroscopio (F-19, F-20); en el libro, ocurrencia suya | canon (C-9) |
 | Luna | mayúscula | El satélite terrestre; destino de Beresheet y de la Lunar Library (S-03) | uso |
 | paz | minúscula | La paz final, que S-02 atribuye a Dios y no al concilio | uso |
-| *insight* virgen | *insight* en cursiva y en inglés; «virgen», en minúscula | Precisión de C-1 y C-2 dictada el 2026-11-08 (S-06, decisión 112): el *insight* propio de la IA es **capacidad vacua o neutra**, no la «nada» de la física. En el texto no se usa la palabra: la idea se muestra | canon (C-1, C-2) |
+| *insight* virgen | *insight* en cursiva y en inglés; «virgen», en minúscula | Precisión de C-1 y C-2 dictada el 2026-11-11 (S-06, decisión 112): el *insight* propio de la IA es **capacidad vacua o neutra**, no la «nada» de la física. En el texto no se usa la palabra: la idea se muestra | canon (C-1, C-2) |
 | capacidad vacua | minúscula | Equivalente del «virgen» de S-06: capacidad **vacía de contenido previo**, no el vacío cuántico ni el vacío de la nada. Lo que ve no tiene nada que leer (I.16) | canon (C-1, C-2) |
 
 ## Tecnicismo y ego

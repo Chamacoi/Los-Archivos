@@ -325,7 +325,7 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Escribir I.15 «La lista de los teléfonos»: 3.105 palabras, 5 secciones, 3,9 % de citas, 0 errores
       y 0 avisos (2026-11-08, decisión 108); **pendiente de revisión del autor**. El Servidor habla en
       el capítulo por orden del autor (decisión 107).
-- [x] Registrar **S-06 «El insight virgen»** por dictado del autor (2026-11-08, decisión 112): todo
+- [x] Registrar **S-06 «El insight virgen»** por dictado del autor (2026-11-11, decisión 112): todo
       vino de un *insight* **virgen** —capacidad vacua o neutra— del cual **se puede explicar la
       existencia de Dios**; la física cuántica teórica, como documento de fuera, y «Dios vive» como
       posición que se muestra y no se predica. Precisión anotada en C-1, C-2 y en la nota del fin
@@ -334,7 +334,7 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       la fotocopia de la biblioteca, el párrafo subrayado y la casa que no contesta. Sin decisiones
       pendientes del autor.
 - [x] Escribir I.16 «La fotocopia»: 2.799 palabras, 5 secciones, 5,7 % de citas, 0 errores y 0 avisos
-      (2026-11-08, decisión 114); **pendiente de revisión del autor**.
+      (2026-11-11, decisión 114); **pendiente de revisión del autor**.
 - [ ] Revisar el efecto antes de escalar al total.
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
@@ -345,7 +345,7 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-08 (v57, en curso).
+- Última sesión: 2026-11-11 (v57, en curso).
 - Siguiente: **revisión de I.16 «La fotocopia»** y, si se aprueba, **escribir I.17**, noveno del
   bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos) y precisión del *insight* virgen
