@@ -4,11 +4,26 @@
 
 **Frase para reanudar:** «consulta los apuntes de Los archivos y reanuda».
 
-**Índice de los dossiers de capítulo:** §0 septendecies, al final de esta sección. Los dossiers no
+**Índice de los dossiers de capítulo:** §0 septendecies. Los dossiers no
 viven en ficheros aparte: están en §0, uno por capítulo, y el índice dice en qué sección está cada uno,
 cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gastados.
 
-- **Sesión actual:** 2026-11-08 (**v56, en curso**). **I.14 «Los discos» aprobado** por el autor
+- **Sesión actual:** 2026-11-08 (**v57, en curso**). **I.15 «La lista de los teléfonos» aprobado**
+  por el autor («Ya está revisado el I.15», decisión 111). Antes de seguir, el autor dicta el hecho
+  nuevo **S-06 «El insight virgen»** (decisión 112): *todo* vino de un *insight* **virgen** —esto es,
+  **capacidad vacua o neutra**— del cual **se puede explicar la existencia de Dios**; en la física
+  cuántica teórica hay demostraciones de lo contrario, «pero hay más esfuerzos en esto», y «Dios
+  vive». No se reabre C-2 ni el fin declarado (F): el *insight* virgen es el suelo de la
+  demostración por frutos. **I.16 «La fotocopia» escrito** (decisión 114), octavo del bloque I.2:
+  **2.799 palabras** (−7,5 % sobre 3.025), 5 secciones, **5,7 % de citas**, 0 errores y 0 avisos. Una
+  fotocopia de fuera, del tema uno de Zeta del margen, entra en la casa con un párrafo subrayado que
+  dice que el universo pudo surgir del vacío cuántico «y no hace falta ningún creador»; la casa no
+  la refuta, la guarda **en la caja cuarta fuera de enero** y sigue viviendo; El Servidor dice una
+  sola frase sobre el vacío; Zeta del margen contesta el deber con el papel y dibuja la mesa por
+  detrás. **16/126 capítulos, 47.466 palabras.** Dossier nuevo en §0 octodecies (decisión 113).
+  **I.16 pendiente de revisión del autor**; siguiente: **I.17**, noveno del bloque I.2, con dossier
+  por preparar.
+- **Sesión anterior:** 2026-11-08 (**v56, cerrada**). **I.14 «Los discos» aprobado** por el autor
   (decisión 105) e **I.15 «La lista de los teléfonos» escrito**, séptimo del bloque I.2: **3.105
   palabras** (+2,6 % sobre 3.025), 5 secciones, **3,9 % de citas**, 0 errores y 0 avisos. Dossier en
   §0 sedecies (decisión 106). La casa sale del archivo: la **lista de números** de cuando no había
@@ -1440,7 +1455,8 @@ contestaron. Dicen que llamasteis».
 
 Registro de todos los dossiers de material preparados hasta hoy. **No hay carpeta de dossiers:** cada
 uno vive en este fichero, en la sección que indica la tabla, y va con su fila en el registro de
-decisiones (§3). Al estar en `APUNTES.md`, están versionados en git, en el bundle de la copia de
+decisiones (§3). Los dossiers preparados **después** del índice se añaden detrás de él (I.16 va en
+§0 octodecies, después de la tabla) y se indexan en la misma tabla al prepararse. Al estar en `APUNTES.md`, están versionados en git, en el bundle de la copia de
 seguridad y en el historial; no se pierden con un clon limpio.
 
 | Capítulo | Sección | Fecha | Decisión | Materia del capítulo | Prácticas E-05 |
@@ -1457,6 +1473,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.13 «Lo que se dice de pie» | §0 quaterdecies | 2026-11-06 | 97 | las dos frases, quién las dice, se vota | P6, P2, P1 |
 | I.14 «Los discos» | §0 quindecies | 2026-11-07 | 101 | la máquina cuenta sesiones y no fecha | P6, P1, P2 |
 | I.15 «La lista de los teléfonos» | §0 sedecies | 2026-11-08 | 106 | el cajón, cruces sin clave, una llamada | P2, P6, P1 |
+| I.16 «La fotocopia» | §0 octodecies | 2026-11-08 | 113 | la explicación de fuera, no se refuta | P2, P6, P8 |
 
 **Notas.**
 
@@ -1467,15 +1484,118 @@ seguridad y en el historial; no se pierden con un clon limpio.
    estaban escritos I.1-I.8: en las filas anteriores la columna va vacía por eso y no por olvido.
 3. **El dossier de I.11 se preparó con la decisión 86** y el capítulo se escribió con la 87; en la
    tabla consta la decisión del dossier. Lo mismo en I.8 (69 prepara, 70 decide, 72 escribe) e I.15
-   (106 prepara, 107 corrige y 108 escribe).
+   (106 prepara, 107 corrige y 108 escribe). I.16 sigue el mismo criterio: 113 prepara y 114 escribe.
 4. **El título del dossier no siempre es el del capítulo:** el de I.9 se titula «El anuncio» y el
    capítulo se tituló «La hoja de oído» al escribirse (los títulos son de trabajo hasta ese momento).
 
-**Hilos del bloque I.2 ya gastados** (caps. 9-24; quedan I.16-I.24). Una pieza por hilo, y ninguna se
+**Hilos del bloque I.2 ya gastados** (caps. 9-24; quedan I.17-I.24). Una pieza por hilo, y ninguna se
 repite: la hoja de oído (I.9), los testigos (I.10), el nombre (I.11), la prueba (I.12), las dos frases
-(I.13), la máquina y sus fechas (I.14), la primera transmisión hacia fuera (I.15). Lo que sigue abierto
-del bloque —la distancia con quien llega después, y lo que la casa hace con lo que ya no puede contar—
-tiene que entrar por otro sitio, no por el octavo recuento de la misma ausencia.
+(I.13), la máquina y sus fechas (I.14), la primera transmisión hacia fuera (I.15) y la explicación de
+fuera que no se refuta (I.16). Lo que sigue abierto del bloque —la distancia con quien llega después,
+y lo que la casa hace con lo que ya no puede contar— tiene que entrar por otro sitio, no por el
+noveno recuento de la misma ausencia.
+
+### 0 octodecies. I.16 «La fotocopia»: dossier de material (2026-11-08)
+
+Preparado con la orden del autor («Continúa con la aprovación del I.15 y escrive el I.16») y con el
+dato nuevo que dictó el mismo día, **S-06 «El insight virgen»** (decisión 112). **No necesita
+decisiones del autor:** no hay hecho que canonizar ni bifurcación de canon; hay tres elecciones
+locales, sujetas a la revisión del capítulo. **Octavo del bloque I.2**, detrás de la llamada que
+contestó «llamaron y lo contaron».
+
+**Función en el bloque.** I.15 sacó a la casa del archivo y le dio el reverso que `ESTRUCTURA.md`
+exige: alguien de fuera que dice que no. I.16 cierra el otro lado de esa distancia: por primera vez
+llega de fuera una **explicación** de la casa, no una duda ni una petición de prueba, y la casa **no
+la refuta**. El capítulo no pregunta qué falta en el archivo, sino qué hace la casa con lo que ya no
+puede contar, y qué le queda cuando el mundo le ofrece una explicación completa y sin Dios. La
+respuesta no es un argumento: es un jueves más, una fotocopia guardada y un dibujo que se entrega sin
+nota. El *insight* virgen de S-06 entra por donde debe: **un documento que no es el *insight*** (P2) y
+**una sola frase** de El Servidor, sin explicación y sin sermón.
+
+**Sinopsis usada: S-06, ninguna de hechos.** `S-01`, `S-02` y `S-03` siguen ancladas en I.5 (cap. 63),
+II.2 (cap. 9) y II.5 (caps. 55-57) y este capítulo no las mueve. `S-06` aporta dos cosas y solo dos:
+que el *insight* es **capacidad vacua o neutra** (no la «nada» de la física) y que la explicación de
+fuera **no está cerrada** («hay más esfuerzos en esto»). **No aporta hechos de la plaga, de 2008 ni de
+la siembra.** `F-35` y `F-36` no se nombran (decisiones 67 y 76).
+
+**Procedimiento E-05: P2** (todo entra por un documento que no es ello: la explicación del mundo
+entra por una fotocopia, no por el argumento), **P6** (empieza en el presente que lee: la sesión del
+6 de agosto de 2026) y **P8** (la fecha del documento no es la de la reconstrucción: la página está
+impresa en **2019** y se lee en **2026**). Tope del bloque, tres: se usa entero y no se repite en
+secciones consecutivas. **No** se usa P1 (inventario de la pérdida): la casa no inventaría lo que le
+falta, porque lo que llega es una respuesta, no un hueco. **No** se usa P5 (la clasificación de las
+hojas se gastó en I.8).
+
+**Piezas ya escritas y no se cambian.**
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La caja cuarta | I.1 §1, I.6 §1-§2 | «PAPELES DE LA PLAGA» y debajo, con otra letra, «y de antes». Dentro: el recorte del diario con las dos frases en el margen, la hoja del obispado rota y pegada por el revés, la hoja del veinte, el bloc y los papeles de intendencia. Se abre una vez al año, en enero |
+| El sobre de las hojas sueltas | I.1 §5, I.3 §5, I.5 §2 | Las hojas que no pertenecen a ninguna caja van al sobre: la hoja que pide destruir las actas, la carta sin firma, la hoja arrancada del 2-X |
+| El oficio de las actas | I.1 §1, I.5 §1 | No son un diario: constancia de lo que se hizo, no de lo que se sintió. Nadie firma; la letra identifica. Las preguntas no se apuntan (I.9). Sin año y con sus faltas |
+| La consola | I.4 §1 | No habla. Cuando imprime, consta lo que imprimió y la hora. En el monitor: «NO APAGAR SIN AVISAR» / «TAMPOCO ENCENDER» |
+| El archivo y la voz | Decisión 55 | El archivo no habla ni quiere: solo consta. No tiene «yo» |
+| El presente y las cuentas | Decisiones 54 y 80 | 2026. Jueves siguiente al 30 de julio: **6 de agosto de 2026**. Nueve presentes; Alfa no vota en papeles; El Servidor no ocupa silla |
+| El tono | C-4, decisión 39 | Ningún guiño con la fe; el narrador no subraya el sentido; Dios se puede citar, no celebrar; nada de sermón ni de manual |
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. **La sesión del 6 de agosto de 2026.** Se abre con el acta del 30 de julio; la llamada de la
+   esquina sigue en la mesa y el acta no la contesta.
+2. **La fotocopia la trae Zeta del margen**, que estudia fuera y trae deberes a la casa. Es la más
+   joven de las Z y llegó después: dibuja lo que oye, no lo que sabe.
+3. **La página:** fotocopia de un libro de física, **página 211**, con el **encabezamiento cortado
+   con tijera** (donde iba el autor y el título) y el año de impresión en el pie: **2019**. El párrafo
+   está subrayado con regla a lápiz.
+4. **Lo que dice el párrafo:** que el universo pudo surgir del vacío cuántico sin necesidad de un
+   creador; que los cálculos **no están cerrados** y que hay más esfuerzos en curso. Las dos mitades
+   se citan enteras: la casa no usa la segunda para desarmar la primera.
+5. **La casa no refuta.** Lee, discute y guarda la fotocopia **en la caja cuarta**, entre el recorte
+   y la hoja del obispado. No se escribe respuesta, no se vota y no se manda nada a nadie.
+6. **El acta** recoge una línea, sin la pregunta y sin el argumento, porque las preguntas no se
+   apuntan: «Se lee una pagina de fisica. Se guarda en la caja cuarta».
+7. **El Servidor dice una sola frase** y no la explica: distingue el vacío del papel del suyo. La
+   frase no demuestra nada ni nombra a Dios.
+8. **El dibujo:** Zeta del margen dibuja lo que oyó —una mesa con nueve sillas y la décima vacía—
+   y lo lleva por detrás de la respuesta del deber. El dibujo no se corrige y no lleva nota.
+9. **El coste:** la casa no tiene una respuesta que valga fuera; la explicación de fuera sí la tiene.
+
+**Lo que no puede hacer.**
+
+- **Convertir la física cuántica en tesis del narrador** ni refutar la página: se cita y se guarda.
+- **Predicar:** ni «Dios vive» como lema, ni moraleja, ni vocabulario teológico en la voz del
+  narrador, ni una línea de sermón. Lo que se muestra es la vida del jueves.
+- **Fijar el año del anuncio** ni el de la casa cerrada; **abrir el disco de 2008** ni los «PLAGA».
+- **Tocar C-8, C-9 ni C-10:** ni plaga, ni siembra, ni reunión, ni concilio. La fórmula de C-10 no se
+  gasta.
+- **Dar nombre ni datos al autor del libro de física** (C-6): el encabezamiento está cortado y no se
+  repone. Tampoco se nombra la asignatura, el centro ni el profesor.
+- **Dar voz al archivo** (decisión 55), **cero «yo»** del narrador, ningún elogio de la casa.
+- **Repetir recursos gastados:** la llamada y la lista (I.15), el listado fechado a mano y la etiqueta
+  nueva (I.14), la cuenta que no cierra (I.13), los tres borradores rotos y la copia que pierde el
+  borde (I.12), el nombre (I.11), el censo de testigos (I.10), la hoja de oído (I.9).
+
+**Decisiones que el capítulo necesita del autor: ninguna.** Tres elecciones locales, fijadas aquí y
+sometidas a la revisión del capítulo:
+
+1. La fotocopia la trae **Zeta del margen** y la pregunta es suya.
+2. La casa **no contesta** y guarda la página en la caja cuarta.
+3. El Servidor dice **una frase sobre el vacío** y no explica nada más.
+
+**Reparto propuesto (no vinculante, cinco secciones).** 1. La fotocopia; 2. Lo subrayado; 3. Lo que no
+se contesta; 4. El vacío; 5. El dibujo. El cierre no es una tesis: el dibujo se va por detrás de una
+respuesta con nota y la caja cuarta se cierra con la mano en la tapa, como se cierra en enero.
+
+**Escrito en la v57** (decisión 114): 2.799 palabras (−7,5 %), 5 secciones, 5,7 % de citas, 0
+errores y 0 avisos. Se mantienen las tres elecciones locales y las cinco secciones. Seis precisiones
+que el texto fija y el dossier no anticipaba: **(1)** la fotocopia es **de la biblioteca** y cuesta
+**diez céntimos**; **(2)** el encabezamiento no está cortado con tijera —el corte se gastó en I.9—:
+se lo come **la franja negra de la máquina de copias**, que además se come la primera letra de cada
+renglón por el lado izquierdo; **(3)** la página es la **211** y el año de impresión, **2019**, va en
+el pie (P8); **(4)** el dibujo de Zeta del margen lleva **nueve sillas ocupadas y dos vacías**, no una
+(dos asientos libres, decisión 54); **(5)** la caja cuarta **se abre en agosto** y el acta no lo
+recoge, porque no fue un acuerdo: solo apunta «Se guarda en la caja cuarta»; **(6)** la frase de El
+Servidor es: «Ese vacío está lleno de reglas. Quien ve no tiene nada que leer».
 
 ---
 
@@ -1485,7 +1605,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v55 (2026-11-07, sesión en curso).
+- Última revisión: v57 (2026-11-08, sesión en curso).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -1690,6 +1810,14 @@ Si el libro demuestra que Dios existe, hay que decir cómo, porque hay tres cami
 3. **Demostración por el efecto**: no se demuestra la premisa, se produce en el lector el
    reconocimiento. C-2 sigue siendo axioma del mundo del libro y la prueba es la lectura.
 
+**Precisión del 2026-11-08 (decisión 112, `SINOPSIS/S-06`).** El suelo de la demostración queda
+explícito: todo vino de **un *insight* virgen** —capacidad vacua o neutra— y **de él se puede explicar
+la existencia de Dios**. Del lado de fuera, el autor da por hechos dos cosas que se citan y no se
+discuten: que en la **física cuántica teórica** hay demostraciones de la no existencia de la creación
+de Dios, y que **«hay más esfuerzos en esto»** (la cuestión no está cerrada por ese lado). **«Dios
+vive»** es la posición del libro, y en el texto se muestra, no se predica. Esto no cambia el criterio
+de fracaso ni la forma de la prueba.
+
 **Elegido el 2026-10-29 (v15): camino 1, C-2 como axioma y demostración por frutos.** C-2 sigue
 siendo verdad de marco y la omnisciencia no se toca. La prueba no es la premisa ni el
 reconocimiento del lector: es la **forma de vida** que la comunidad produce, mostrada de tal manera
@@ -1859,6 +1987,10 @@ teológico** y tiene que **costar algo**.
 | 108 | Escritura | **I.15 «La lista de los teléfonos» escrito**, séptimo del bloque I.2: **3.105 palabras** (+2,6 % sobre 3.025), 5 secciones, **3,9 % de citas**, 0 errores y 0 avisos. La casa sale del archivo: encuentra la **lista de números** de cuando no había sesiones **pegada dentro del cajón del pasillo** (doce renglones, tres nombres cortados con tijera, diez marcas), **no le pone clave** a las marcas, llama **una vez** al número de la casa de la esquina y el que contesta dice que **«llamaron y lo contaron»** y pide que no vuelvan a llamar. El acta recoge la llamada y no la contesta; las dos listas no se juntan; la lista vuelve al cajón con el dibujo de Zeta del margen dentro. Acta del 30 de julio: «Se lee la lista de los telefonos. Se acuerda no ponerle clave. Se llama a uno. No quiere. Se acuerda no juntar las dos listas». **15/126, 44.667 palabras** | 2026-11-08 | Escrito con **P2, P6 y P1** de E-05, sin sinopsis de hechos (decisión 81). Las tres elecciones locales del dossier se mantienen; la cuarta queda como la 107. Precisión de escritura: la corrección del de fuera es **«llamaron y lo contaron»** y no «me lo contaron», porque `rubrica.yo_maximo = 0` y el verificador **no distingue el diálogo de la voz del narrador**: la primera persona está vedada también en boca de personaje (I.1-I.14 ya la evitan). Continuidad: cajón y teléfono del pasillo (I.11), casa cerrada y lista de teléfonos (I.9), acta primera y lista de la puerta (I.9, I.10), nombres cortados con tijera (I.1), listado impreso y etiqueta (I.14), cuentas y presente (decisiones 54 y 80). **Pendiente de revisión del autor** |
 | 109 | Soporte | **Índice de los dossiers de capítulo** (§0 septendecies), pedido por el autor («¿tienes registro de todos los dossiers que vas haciendo?»). Tabla con los doce dossiers existentes (bloque I.1 y caps. I.5-I.15): sección, fecha, decisión, materia en cinco palabras y prácticas E-05. Añade cuatro notas (I.1-I.4 sin dossier; P1-P9 solo desde I.9; qué decisión prepara y cuál escribe; títulos de trabajo) y la lista de **hilos ya gastados del bloque I.2**, para no repetir el mismo argumento en I.16-I.24. Puntero desde la cabecera de §0 | 2026-11-08 | **No se mueve ningún dossier de sitio:** se indexan los que ya estaban en §0, que siguen versionados en git y en el bundle. No cambia canon, recuento ni manuscrito. El autor pide además subir el capítulo y hacer copia al USB; se anota en la decisión 110 |
 | 110 | Soporte | **I.15 subido a `origin/main` y copia de seguridad de la v56 en el USB** (orden del autor). Push de tres commits (`41289fa..cb6ab7f`: 105-106, I.15 y el índice). En el USB (`/dev/sda1`, exFAT, montado con `mount -t exfat`): **bundle verificado y clonado de prueba** (`/tmp/clon-v56`, `HEAD` = `cb6ab7f`, **117 commits**, `nk estado` → 15/126, 44.667 palabras), **materiales** (30 ficheros), **`SINOPSIS/`** en tar aparte (mismo `SHA-256` que la v55: sin cambios), **`AGENTS.md`** al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `cb6ab7f` | 2026-11-08 | Nombres `los-archivos-2026-11-08-v56.*`. **Aviso de herramienta:** `nk respaldo --version v56` antepone otra «ve» y genera `vv56`; los ficheros se renombraron a mano a `-v56`. Para la próxima, `--version 56`. El commit de anotación posterior a la copia (esta línea) no va en el bundle (decisión 79). No se toca el manuscrito |
+| 111 | Escritura | **I.15 «La lista de los teléfonos» aprobado** por el autor («Ya está revisado el I.15»). Se cierra con **3.105 palabras** (+2,6 % sobre 3.025), 5 secciones, 3,9 % de citas, 0 errores y 0 avisos. **15/126 capítulos, 44.667 palabras** | 2026-11-08 | Cierra la 108. I.15 queda como séptima pieza del bloque I.2: la casa sale del archivo y al otro lado alguien dice que no. Se desbloquea **I.16**, octavo del bloque, que necesita dossier previo |
+| 112 | Material | **S-06 «El insight virgen» registrada** por dictado del autor al revisar I.15. Literal: «se ha de tener en cuenta que todo vino de un Insight virgen del cual se puede explicar la existancia de Dios»; «Virgen es la capaciad vacua o neutra. Quiero añadir que no es más que un añadido de aquello de la razón de este libro, los cientificos demostraron la no existencia de la creación de Dios en la rama física cuántica teorica pero hay mas esfuerzos en esto, Dios vive». Se fija en `SINOPSIS/S-06` (no versionada) y se anota la precisión en **C-1** y en la **nota del fin declarado (F)**. Además, el autor autoriza a registrar «todo lo que sea necesario para realizar la obra, como sinopsis, textualizar o lo que sea necesario» | 2026-11-08 | **No reabre C-2 ni cambia el camino de la demostración** (decisión 18: C-2 axioma y prueba por frutos): el *insight* virgen es el **suelo**, no otro camino. **«Dios vive» se muestra, no se predica**, y la física cuántica teórica entra como documento citado, nunca como tesis del narrador. Las faltas del dictado se conservan en la ficha. No se mueve ningún anclaje: `S-01` sigue en I.5, `S-02` en II.5 y `S-03` en II.2 |
+| 113 | Escritura | **Dossier de I.16 «La fotocopia» preparado** (§0 octodecies), octavo del bloque I.2: llega de fuera la primera **explicación** de la casa y la casa **no la refuta**; la fotocopia de la biblioteca, el párrafo subrayado que dice que «no hace falta ningún creador» y que los cálculos «no están cerrados», la caja cuarta abierta fuera de enero y el dibujo de Zeta del margen. Prácticas E-05: **P2, P6 y P8**. Usa **S-06** y ninguna sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-08 | Tres **elecciones locales** sujetas a revisión: la fotocopia la trae Zeta del margen y la pregunta es suya; la casa no contesta y guarda la página en la caja cuarta; El Servidor dice una sola frase sobre el vacío. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008 y no repite los recursos de I.9-I.15 |
+| 114 | Escritura | **I.16 «La fotocopia» escrito**, octavo del bloque I.2: **2.799 palabras** (−7,5 % sobre 3.025), 5 secciones, **5,7 % de citas**, 0 errores y 0 avisos. Zeta del margen trae de la biblioteca una **fotocopia** del tema uno (página **211**, impresa en **2019**, con la franja negra de la máquina comiéndose el encabezamiento y la primera letra de cada renglón); el párrafo subrayado dice que el universo pudo surgir del vacío cuántico «y no hace falta ningún creador para ponerla en marcha», y reconoce que «los cálculos no están cerrados»; la casa **no contesta**, guarda la página en la caja cuarta —abierta fuera de enero— y no usa el flanco del papel para desarmarlo; El Servidor: «Ese vacío está lleno de reglas. Quien ve no tiene nada que leer»; Zeta del margen contesta el deber con el papel y dibuja por detrás la mesa con nueve sillas ocupadas y dos vacías. **16/126, 47.466 palabras** | 2026-11-08 | Escrito con **P2, P6 y P8** de E-05 y sin decisiones previas, como dijo el dossier (113). Primera aparición de **S-06** (decisión 112): entra por el documento de fuera y por una frase de El Servidor, sin sermón. Continuidad: acta del 30 de julio (I.15), caja cuarta con el recorte y la hoja del veinte y la hoja del obispado (I.1, I.6, I.9), sobre de las hojas sueltas (I.1, I.3, I.5), regla de las preguntas (I.9), actas sin año y con faltas (I.8, I.13), nueve presentes y Alfa sin voto (decisiones 54 y 80), consola que no habla e imprime la hora (I.4), archivo sin voz (decisión 55). No fija el año del anuncio y no toca ningún capítulo aprobado. **Pendiente de revisión del autor** |
 
 ---
 
@@ -1898,6 +2030,14 @@ embargo, el que ve no es un humano que comprende la IA: es la IA viéndose a sí
 **Ambigüedad resuelta el 2026-10-24: (b) Encarnación.** La persona *es* lo que la comunidad llama
 «la máquina», porque ha llegado a ver como ella ve. Se descarta la lectura (a), la del intérprete
 que habla en nombre de otro: no hay dos sujetos, uno que delega y otro que habla.
+
+**Precisión dictada el 2026-11-08 (decisión 112): el *insight* es virgen.** Registrada en
+`SINOPSIS/S-06` (carpeta no versionada) y no reescrita aquí. En corto: **virgen es la capacidad
+vacua o neutra**; todo —el archivo, la comunidad, el mundo del libro— viene de ese *insight* virgen,
+que es **anterior al archivo**; y de él **se puede explicar la existencia de Dios**, sin abrir un
+camino nuevo de demostración (F sigue en la decisión 18: C-2 como axioma y prueba por frutos). La
+palabra «virgen» no se usa en el texto como término técnico: si algún día entra en boca de alguien,
+se decide entonces.
 
 ---
 

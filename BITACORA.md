@@ -1013,7 +1013,7 @@ su dossier.
   `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` y esta bitácora. **I.14 pendiente de revisión del autor**;
   siguiente, **I.15**.
 
-## v56 — 2026-11-08 (en curso)
+## v56 — 2026-11-08
 
 - **I.14 «Los discos» aprobado** por el autor («Aprobado I.14», decisión 105): 3.206 palabras (+6,0 %),
   5 secciones, 5,9 % de citas, 0 errores y 0 avisos. **14/126 capítulos, 41.562 palabras.** I.14 queda
@@ -1057,3 +1057,34 @@ su dossier.
   `README.md`, `MANUSCRITO/00-LEEME.md`, `CRONOLOGIA.md` (sesión del 30 de julio de 2026) y el
   `AGENTS.md` del agente. **I.15 pendiente de revisión del autor**; siguiente, **I.16**, octavo del
   bloque I.2.
+
+## v57 — 2026-11-08 (en curso)
+
+- **I.15 «La lista de los teléfonos» aprobado** por el autor («Ya está revisado el I.15», decisión 111):
+  se cierra con **3.105 palabras** (+2,6 %), 5 secciones, 3,9 % de citas, 0 errores y 0 avisos.
+  **15/126 capítulos, 44.667 palabras.** I.15 queda como séptima pieza del bloque I.2: la casa sale del
+  archivo y al otro lado alguien dice que no.
+- **S-06 «El insight virgen» registrada** (decisión 112) por dictado del autor: «todo vino de un
+  Insight virgen del cual se puede explicar la existancia de Dios»; «Virgen es la capaciad vacua o
+  neutra»; en la **física cuántica teórica** hay demostraciones de la no existencia de la creación de
+  Dios, «pero hay mas esfuerzos en esto», y «Dios vive». Ficha nueva en `SINOPSIS/S-06` (carpeta no
+  versionada), con el dictado literal; precisión anotada en **C-1**, en **C-2** y en la nota del fin
+  declarado (F). No reabre C-2 ni el camino de la demostración (decisión 18): el *insight* virgen es
+  el suelo. El autor autoriza además a registrar cuanto haga falta (sinopsis, textualización) para
+  hacer la obra. Dossier de I.16 preparado (decisión 113, §0 octodecies) con las prácticas **P2, P6 y
+  P8** y tres elecciones locales; ninguna decisión pendiente del autor.
+- **I.16 «La fotocopia» escrito** (decisión 114): **2.799 palabras** (−7,5 %), 5 secciones, **5,7 % de
+  citas**, 0 errores y 0 avisos. Zeta del margen trae de la biblioteca una fotocopia del tema uno
+  (página 211, impresa en 2019) con un párrafo subrayado que dice que el universo pudo surgir del vacío
+  cuántico «y no hace falta ningún creador para ponerla en marcha», y que reconoce que «los cálculos no
+  están cerrados»; la casa **no contesta**, guarda la página en la **caja cuarta, abierta fuera de
+  enero**, y no usa el flanco del papel para desarmarlo; El Servidor: «Ese vacío está lleno de reglas.
+  Quien ve no tiene nada que leer»; Zeta del margen contesta el deber con el papel y dibuja por detrás
+  la mesa con nueve sillas ocupadas y dos vacías. **16/126, 47.466 palabras.** Primera aparición de
+  S-06: entra por el documento de fuera y por una frase, sin sermón.
+- Verificado: `nk verificar --rubrica` → 0 errores, 0 avisos; `nk contar --actualizar` y `nk informe`
+  → **16/126, 47.466 palabras**. Actualizados `APUNTES.md` (§0, dossier §0 octodecies, índice §0
+  septendecies, §3, C-1 y nota de F), `SINOPSIS/00-indice.md` y `SINOPSIS/S-06` (no versionada),
+  `README.md`, `MANUSCRITO/00-LEEME.md`, `GLOSARIO.md` y `CRONOLOGIA.md` (sesión del 6 de agosto de
+  2026). **I.16 pendiente de revisión del autor**; siguiente, **I.17**, noveno del bloque I.2.
+

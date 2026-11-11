@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 15,
-  "palabras": 44667,
+  "escritos": 16,
+  "palabras": 47466,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 15,
-      "palabras": 44667
+      "escritos": 16,
+      "palabras": 47466
     },
     {
       "id": "II",
@@ -179,11 +179,11 @@
     },
     {
       "id": "I.16",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "La fotocopia",
+      "escrito": true,
+      "palabras": 2799,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": -0.0747,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/16-capitulo.md"
     },
