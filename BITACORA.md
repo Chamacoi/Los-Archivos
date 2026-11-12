@@ -1129,7 +1129,7 @@ su dossier.
   copia en el usb», decisión 118): se cierra con **2.799 palabras** (−7,5 %), 5 secciones, 5,7 % de
   citas, 0 errores y 0 avisos. **16/126 capítulos, 47.466 palabras.**
 - **I.17 «El cuadrante» escrito** (decisión 119), noveno del bloque I.2 y primera pieza del hilo que
-  el índice daba por abierto (la distancia con quien llega después): **3.014 palabras** (−0,4 %), 5
+  el índice daba por abierto (la distancia con quien llega después): **3.033 palabras** (+0,3 %), 5
   secciones, **3,7 % de citas**, 0 errores y 0 avisos. La casa descubre que el cuadrante de la puerta
   de la cocina es de julio y lo lee: es el **único papel donde un nombre va pegado a una obligación**
   y **se tira el día uno**; Boomer de la silla pide el relevo por las rodillas y propone a **Alfa**,
@@ -1138,14 +1138,14 @@ su dossier.
   porque el permiso se pone en lo que sale de la casa, y sin voto; el acta solo dice «Se escribe el
   cuadrante de agosto». El jueves siguiente Alfa sube las once sillas a las seis y veinte,
   Boomer de la silla se encuentra su silla puesta y el acta dice que asistieron nueve. **17/126,
-  50.480 palabras.** Dossier en §0 undevicies (117). **Pendiente de revisión del autor.**
+  50.499 palabras.** Dossier en §0 undevicies (117). **Pendiente de revisión del autor.**
 - Actualizados `APUNTES.md` (§0, dossier §0 undevicies con las ocho precisiones de escritura, índice
   §0 septendecies, §3), `README.md`, `CRONOLOGIA.md` (sesión del 13 de agosto de 2026), `GLOSARIO.md`
   (el cuadrante, el oficio, la silla doce), `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md`
   (`nk contar --actualizar`) y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**.
 - **Copia de seguridad de la v58 en el USB** (decisión 120, orden del autor): en `/mnt/usb`
   (`/dev/sda1`, exFAT, ya montado), bundle `los-archivos-2026-11-12-v58.bundle` **verificado** y
-  clonado de prueba (`/tmp/clon-v58`, `HEAD` = `3a058ab`, 128 commits, `nk estado` → 17/126, 50.480
+  clonado de prueba (`/tmp/clon-v58`, `HEAD` = `3a058ab`, 128 commits, `nk estado` → 17/126, 50.499
   palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), materiales (30 ficheros), `SINOPSIS/`
   en tar aparte (7 ficheros), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros comprobado con
   `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `3a058ab`. Nombres

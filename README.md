@@ -19,9 +19,9 @@ sostenida entre personas y modelos.
   del autor** (decisión 107) y **aprobado** (decisión 111). **I.16 «La fotocopia» escrito**
   (2.799 palabras, decisión 114) y **aprobado** (decisión 118), con dossier en §0 octodecies (113),
   primera pieza que trae de fuera una **explicación** de la casa y no la refuta; usa **S-06** por
-  primera vez. **I.17 «El cuadrante» escrito** (3.014 palabras, decisión 119), con dossier en §0
+  primera vez. **I.17 «El cuadrante» escrito** (3.033 palabras, decisión 119), con dossier en §0
   undevicies (117): el oficio de las sillas pasa de Boomer de la silla a Alfa por una línea del
-  cuadrante de la puerta de la cocina, que se tira el día uno. **17/126 capítulos, 50.480 palabras**;
+  cuadrante de la puerta de la cocina, que se tira el día uno. **17/126 capítulos, 50.499 palabras**;
   siguiente, **revisión de I.17** y, si se aprueba, **I.18**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
@@ -341,7 +341,7 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Preparar el dossier de I.17 «El cuadrante» (2026-11-12, decisión 117): el oficio de las sillas
       pasa de Boomer de la silla a Alfa por una línea del cuadrante de la puerta de la cocina, que se
       tira el día uno. Sin decisiones pendientes del autor.
-- [x] Escribir I.17 «El cuadrante»: 3.014 palabras, 5 secciones, 3,7 % de citas, 0 errores y 0 avisos
+- [x] Escribir I.17 «El cuadrante»: 3.033 palabras, 5 secciones, 3,7 % de citas, 0 errores y 0 avisos
       (2026-11-12, decisión 119); **pendiente de revisión del autor**.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es

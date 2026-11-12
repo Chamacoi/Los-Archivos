@@ -72,7 +72,8 @@ Zeta de los no consta miró la hoja de la puerta desde su silla. Tenía veintici
 
 —Y el cuadrante se tira —dijo Zeta de los no consta.
 
-—El cuadrante se tira el día uno —dijo Equis del registro.
+—El cuadrante se tira el día uno —dijo Equis del registro—. Cuando se pone el del mes, sale del
+cajón el del año pasado.
 
 —Entonces lo único que dice lo que hago se tira todos los meses.
 
@@ -188,7 +189,7 @@ Alfa se echó atrás en la silla hasta que tocó la pared y leyó el cuadrante e
 
 —Ponlo —dijo Alfa.
 
-Equis del registro pasó el bolígrafo por encima del lápiz, y el lápiz se quedó debajo del bolígrafo, como se queda siempre. Después pasó el bolígrafo por las otras líneas, que estaban a lápiz, y la hoja quedó entera en bolígrafo con el renglón de las sillas encima de su lápiz. La puso en la puerta con dos trozos de celo, en las mismas dos esquinas, y el cuadrante de julio lo dobló por la mitad y lo metió en el cajón del aparador, donde están los cuadrantes viejos, doblados por la mitad y en orden.
+Equis del registro pasó el bolígrafo por encima del lápiz, y el lápiz se quedó debajo del bolígrafo, como se queda siempre. Después pasó el bolígrafo por las otras líneas, que estaban a lápiz, y la hoja quedó entera en bolígrafo con el renglón de las sillas encima de su lápiz. La puso en la puerta con dos trozos de celo, en las mismas dos esquinas, y el cuadrante de julio lo dobló por la mitad y lo metió en el cajón del aparador, donde están los cuadrantes viejos, doblados por la mitad y en orden, del más nuevo al más viejo.
 
 —Se escribe el cuadrante de agosto —dijo Equis del registro, y lo apuntó en el acta.
 

@@ -5,7 +5,7 @@
   "objetivo_tipo": "referencia",
   "capitulos": 126,
   "escritos": 17,
-  "palabras": 50480,
+  "palabras": 50499,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -15,7 +15,7 @@
       "capitulos": 63,
       "presupuesto": 190552,
       "escritos": 17,
-      "palabras": 50480
+      "palabras": 50499
     },
     {
       "id": "II",
@@ -191,9 +191,9 @@
       "id": "I.17",
       "titulo": "El cuadrante",
       "escrito": true,
-      "palabras": 3014,
+      "palabras": 3033,
       "presupuesto": 3025,
-      "desviacion": -0.0036,
+      "desviacion": 0.0026,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/17-capitulo.md"
     },
