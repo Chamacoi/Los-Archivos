@@ -1143,3 +1143,13 @@ su dossier.
   §0 septendecies, §3), `README.md`, `CRONOLOGIA.md` (sesión del 13 de agosto de 2026), `GLOSARIO.md`
   (el cuadrante, el oficio, la silla doce), `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md`
   (`nk contar --actualizar`) y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**.
+- **Copia de seguridad de la v58 en el USB** (decisión 120, orden del autor): en `/mnt/usb`
+  (`/dev/sda1`, exFAT, ya montado), bundle `los-archivos-2026-11-12-v58.bundle` **verificado** y
+  clonado de prueba (`/tmp/clon-v58`, `HEAD` = `3a058ab`, 128 commits, `nk estado` → 17/126, 50.480
+  palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), materiales (30 ficheros), `SINOPSIS/`
+  en tar aparte (7 ficheros), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros comprobado con
+  `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `3a058ab`. Nombres
+  `los-archivos-2026-11-12-v58.*`. El commit de anotación posterior no va en el bundle (decisión 79).
+- **Sesión cerrada.** Árbol limpio, `origin/main` al día y copia de la v58 en el USB comprobada.
+  Próximo paso: **revisión de I.17 «El cuadrante»** y, si se aprueba, **I.18**, décimo del bloque
+  I.2, con dossier por preparar.
