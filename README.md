@@ -335,7 +335,9 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       pendientes del autor.
 - [x] Escribir I.16 «La fotocopia»: 2.799 palabras, 5 secciones, 5,7 % de citas, 0 errores y 0 avisos
       (2026-11-11, decisión 114); **pendiente de revisión del autor**.
-- [ ] Revisar el efecto antes de escalar al total.
+- [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
+      efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
+      el último paso de la obra, no un control previo. Reformulación C.)*
 - [x] Cadena de exportación a epub (`escritura/bin/nk exportar`).
 - [x] Decidir licencia y condiciones de publicación (decisiones 45 y 47).
 

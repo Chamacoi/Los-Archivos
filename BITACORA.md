@@ -1100,3 +1100,16 @@ su dossier.
   `README.md`, `MANUSCRITO/00-LEEME.md`, `GLOSARIO.md` y `CRONOLOGIA.md` (sesión del 6 de agosto de
   2026). **I.16 pendiente de revisión del autor**; siguiente, **I.17**, noveno del bloque I.2.
 
+
+## v58 — 2026-11-12
+
+- **Reformulada (C) la tarea suelta de la hoja de ruta** (decisión 116, orden del autor): «Revisar el
+  efecto antes de escalar al total» pasa a **«Al acabar el libro, volcar `MANUSCRITO/` a epub
+  (`nk exportar -f epub`) y revisar el efecto de la lectura completa antes de distribuir»**, y la
+  casilla **se queda `[ ]`**. La conversión a epub «se dará cuando se alcance el final»: no es un
+  control previo a escalar la escritura, es el **último paso de la obra**. La tarea venía de la
+  subida inicial (v18, `a770461`) y nunca se había ejecutado ni anotado; `libro.json` sigue con
+  `exportacion.formato = "epub"` y no hay ningún epub generado.
+- Actualizados `README.md` (hoja de ruta), `APUNTES.md` (§0, cabecera y §3) y `estado.json`
+  (`nk informe`). **No se toca el manuscrito**: 16/126, 47.466 palabras. I.16 sigue pendiente de
+  revisión del autor; siguiente, **I.17**, noveno del bloque I.2, con dossier por preparar.
