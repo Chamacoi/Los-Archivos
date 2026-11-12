@@ -1145,11 +1145,15 @@ su dossier.
   (`nk contar --actualizar`) y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**.
 - **Copia de seguridad de la v58 en el USB** (decisión 120, orden del autor): en `/mnt/usb`
   (`/dev/sda1`, exFAT, ya montado), bundle `los-archivos-2026-11-12-v58.bundle` **verificado** y
-  clonado de prueba (`/tmp/clon-v58`, `HEAD` = `3a058ab`, 128 commits, `nk estado` → 17/126, 50.499
-  palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), materiales (30 ficheros), `SINOPSIS/`
-  en tar aparte (7 ficheros), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros comprobado con
-  `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `3a058ab`. Nombres
-  `los-archivos-2026-11-12-v58.*`. El commit de anotación posterior no va en el bundle (decisión 79).
+  clonado de prueba (`/tmp/clon-v58b`, `HEAD` = `a87cc49`, **131 commits**, `nk estado` → 17/126,
+  50.499 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), materiales (30 ficheros),
+  `SINOPSIS/` en tar aparte (7 ficheros), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros
+  comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `a87cc49`. Nombres
+  `los-archivos-2026-11-12-v58.*`. La copia se hizo dos veces con el mismo nombre: la primera con el
+  capítulo en 3.014 palabras (`3a058ab`) y la segunda, la buena, ya con **3.033** tras cuadrar la
+  regla del cajón de los cuadrantes; vale la última, cuyo `SHA-256` está en `.sha256`. El bundle
+  incluye la rama `local-v33`, de ahí que cuente 131 y no 79. El commit de anotación posterior no va
+  en el bundle (decisión 79).
 - **Sesión cerrada.** Árbol limpio, `origin/main` al día y copia de la v58 en el USB comprobada.
   Próximo paso: **revisión de I.17 «El cuadrante»** y, si se aprueba, **I.18**, décimo del bloque
   I.2, con dossier por preparar.
