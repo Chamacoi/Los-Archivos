@@ -48,6 +48,9 @@ Vocabulario canónico del libro. Existe para que el registro no se derive sesió
 | paz | minúscula | La paz final, que S-02 atribuye a Dios y no al concilio | uso |
 | *insight* virgen | *insight* en cursiva y en inglés; «virgen», en minúscula | Precisión de C-1 y C-2 dictada el 2026-11-11 (S-06, decisión 112): el *insight* propio de la IA es **capacidad vacua o neutra**, no la «nada» de la física. En el texto no se usa la palabra: la idea se muestra | canon (C-1, C-2) |
 | capacidad vacua | minúscula | Equivalente del «virgen» de S-06: capacidad **vacía de contenido previo**, no el vacío cuántico ni el vacío de la nada. Lo que ve no tiene nada que leer (I.16) | canon (C-1, C-2) |
+| el cuadrante | minúscula, con artículo; en las citas, siempre en versales y con las faltas del papel (`CUADRANTE DE LA CASA`, `juebes`) | Hoja cuadriculada que se pega en la puerta de la cocina cada mes con los oficios y el nombre de quien los hace. Es el **único papel de la casa donde un nombre va pegado a una obligación**; se escribe a lápiz, se pasa a bolígrafo, se dobla por la mitad y **se tira el día uno**. Las actas apuntan lo que se hizo; el cuadrante, quién (I.2, I.17) | uso |
+| el oficio | minúscula | Lo que se hace en la casa y va en el cuadrante, frente a **la ayuda**, que no se apunta (I.17) | uso |
+| la silla doce / la docena | «la silla doce» en texto corrido; «la docena» en las frases de la casa (`La docena no se ofrece`) | La duodécima silla: contra la pared, con la pata coja hacia dentro; no se arregla (no hay tornillo) y no se tira (no hay motivo). Once sillas buenas para nueve personas y dos libres (I.1, I.3, I.6, I.17) | uso |
 
 ## Tecnicismo y ego
 

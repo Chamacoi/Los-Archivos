@@ -17,9 +17,12 @@ sostenida entre personas y modelos.
   usado como argumento por orden del autor (`S-02` §B.7). **I.15 «La lista de los teléfonos»** escrito
   el 2026-11-08 (decisión 108), con dossier en §0 sedecies (106) y **El Servidor hablando por orden
   del autor** (decisión 107) y **aprobado** (decisión 111). **I.16 «La fotocopia» escrito**
-  (2.799 palabras, decisión 114), con dossier en §0 octodecies (113), primera pieza que trae de fuera
-  una **explicación** de la casa y no la refuta; usa **S-06** por primera vez. **16/126 capítulos,
-  47.466 palabras**; siguiente, **revisión de I.16** y, si se aprueba, **I.17**.
+  (2.799 palabras, decisión 114) y **aprobado** (decisión 118), con dossier en §0 octodecies (113),
+  primera pieza que trae de fuera una **explicación** de la casa y no la refuta; usa **S-06** por
+  primera vez. **I.17 «El cuadrante» escrito** (3.014 palabras, decisión 119), con dossier en §0
+  undevicies (117): el oficio de las sillas pasa de Boomer de la silla a Alfa por una línea del
+  cuadrante de la puerta de la cocina, que se tira el día uno. **17/126 capítulos, 50.480 palabras**;
+  siguiente, **revisión de I.17** y, si se aprueba, **I.18**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -334,7 +337,12 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       la fotocopia de la biblioteca, el párrafo subrayado y la casa que no contesta. Sin decisiones
       pendientes del autor.
 - [x] Escribir I.16 «La fotocopia»: 2.799 palabras, 5 secciones, 5,7 % de citas, 0 errores y 0 avisos
-      (2026-11-11, decisión 114); **pendiente de revisión del autor**.
+      (2026-11-11, decisión 114); **aprobado** (decisión 118, 2026-11-12).
+- [x] Preparar el dossier de I.17 «El cuadrante» (2026-11-12, decisión 117): el oficio de las sillas
+      pasa de Boomer de la silla a Alfa por una línea del cuadrante de la puerta de la cocina, que se
+      tira el día uno. Sin decisiones pendientes del autor.
+- [x] Escribir I.17 «El cuadrante»: 3.014 palabras, 5 secciones, 3,7 % de citas, 0 errores y 0 avisos
+      (2026-11-12, decisión 119); **pendiente de revisión del autor**.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -347,11 +355,11 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-11 (v57, cerrada).
-- Siguiente: **revisión de I.16 «La fotocopia»** y, si se aprueba, **escribir I.17**, noveno del
+- Última sesión: 2026-11-12 (v58, abierta).
+- Siguiente: **revisión de I.17 «El cuadrante»** y, si se aprueba, **escribir I.18**, décimo del
   bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos) y precisión del *insight* virgen
-  (`S-06`) están cerrados. I.1 a I.15 aprobados e I.16 pendiente; la escritura se comprueba con
+  (`S-06`) están cerrados. I.1 a I.16 aprobados e I.17 pendiente; la escritura se comprueba con
   `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

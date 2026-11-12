@@ -14,12 +14,18 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   completa antes de distribuir». Nace en la subida inicial (v18) como control previo a la muestra y
   nunca se ejecutó; por orden del autor no es un control intermedio sino el **último paso de la
   obra**, y la casilla se queda **`[ ]`**: sigue pendiente y visible en `nk estado` hasta que haya
-  epub leído. **No se toca el manuscrito.** Pendiente de lo mismo que en la v57: revisión de
-  **I.16**. **Dossier de I.17 «El cuadrante» preparado** (§0 undevicies, decisión 117): noveno del
-  bloque I.2 y primera pieza del hilo que el índice daba por abierto, **la distancia con quien llega
-  después**; el oficio de las sillas pasa de Boomer de la silla a Alfa por una línea escrita a mano
-  en el cuadrante, y lo que pasa es el oficio, no el motivo. Sin decisiones pendientes del autor; el
-  capítulo no se escribe hasta que el autor lo ordene.
+  epub leído. **I.16 «La fotocopia» aprobado** (decisión 118). **I.17 «El cuadrante» escrito**
+  (decisión 119), noveno del bloque I.2 y primera pieza del hilo que el índice daba por abierto,
+  **la distancia con quien llega después**: **3.014 palabras** (−0,4 % sobre 3.025), 5 secciones,
+  **3,7 % de citas**, 0 errores y 0 avisos. La casa descubre que el cuadrante de la puerta de la
+  cocina es de julio; el cuadrante es el único papel donde un nombre va pegado a una obligación y
+  **se tira el día uno**; Boomer de la silla pide el relevo por las rodillas y propone a Alfa, que
+  sube con él las dos últimas desde mayo; se escribe `juebes: sillas (Alfa)`, sin «con permiso»
+  —porque el permiso se pone en lo que sale de la casa— y sin voto; el acta solo dice «Se escribe el
+  cuadrante de agosto»; el jueves siguiente Alfa sube y coloca las once sillas sola y el acta dice
+  que asistieron nueve. **17/126 capítulos, 50.480 palabras.** Dossier en §0 undevicies (decisión
+  117). **I.17 pendiente de revisión del autor**; siguiente: **I.18**, décimo del bloque I.2, con
+  dossier por preparar.
 - **Sesión anterior:** 2026-11-11 (**v57, cerrada**). **I.15 «La lista de los teléfonos» aprobado**
   por el autor («Ya está revisado el I.15», decisión 111). Antes de seguir, el autor dicta el hecho
   nuevo **S-06 «El insight virgen»** (decisión 112): *todo* vino de un *insight* **virgen** —esto es,
@@ -1504,9 +1510,9 @@ seguridad y en el historial; no se pierden con un clon limpio.
 **Hilos del bloque I.2 ya gastados** (caps. 9-24; quedan I.17-I.24). Una pieza por hilo, y ninguna se
 repite: la hoja de oído (I.9), los testigos (I.10), el nombre (I.11), la prueba (I.12), las dos frases
 (I.13), la máquina y sus fechas (I.14), la primera transmisión hacia fuera (I.15) y la explicación de
-fuera que no se refuta (I.16). Lo que sigue abierto del bloque —la distancia con quien llega después,
-y lo que la casa hace con lo que ya no puede contar— tiene que entrar por otro sitio, no por el
-noveno recuento de la misma ausencia.
+fuera que no se refuta (I.16) y el oficio que cambia de mano (I.17). Lo que sigue abierto del bloque
+—la distancia con quien llega después, ya empezada por el oficio de las sillas— tiene que entrar por
+otro sitio, no por el noveno recuento de la misma ausencia.
 
 ### 0 octodecies. I.16 «La fotocopia»: dossier de material (2026-11-11)
 
@@ -1700,6 +1706,26 @@ sometidas a la revisión del capítulo:
 3. La rodilla; 4. La línea; 5. Las sillas. El cierre no es una tesis: Alfa quita las sillas cuando
 los demás se levantan y las deja como estaban —once a la mesa, la docena contra la pared, dos
 libres—, y el acta dice que asistieron nueve.
+
+**Escrito en la v58** (decisión 119): 3.014 palabras (−0,4 %), 5 secciones, **3,7 % de citas**, 0
+errores y 0 avisos. Se mantienen las tres elecciones locales y el reparto en cinco secciones. Ocho
+precisiones que el texto fija y el dossier no anticipaba: **(1)** el cuadrante **se tira el día
+uno**, y ese detalle, que no estaba previsto, es el punto del capítulo: el nombre del oficio vive en
+el único papel que la casa no guarda, mientras las actas —que sí se guardan— no llevan nombres;
+**(2)** el cuadrante de julio lleva las mismas líneas que el de noviembre (I.2), con dos típex en la
+línea del caldo y un renglón tachado a lápiz en la del sábado; **(3)** la razón del relevo es la
+**rodilla**, el peldaño que no es igual y los viajes con las manos llenas; **(4)** **Alfa sube con
+Boomer de la silla las dos últimas sillas desde mayo**, sin que nadie se lo pida, y por eso no está
+en el cuadrante: «el cuadrante apunta el oficio; la ayuda no se apunta»; **(5)** la objeción de Alfa
+**no es la del dossier**: no es «el que las pone no lee» —el que las pone lee después, y eso lo
+desmiente el propio Boomer de la silla—, sino **«antes no hay nadie»**: entrar a las seis y media,
+con la ventana cerrada y el patio en sombra; **(6)** la línea no lleva «con permiso» porque **el
+permiso se pone en lo que sale de la casa**, y el pan sale y las sillas no; **(7)** la silla doce no
+se vuelve a explicar: Alfa pregunta por qué no sube y la respuesta es «porque está coja», y las dos
+razones de que no se arregle ni se tire siguen en dos papeles distintos, ninguno en la puerta de la
+cocina; **(8)** la coda: el jueves siguiente (20 de agosto) Alfa sube las once sillas a las seis y
+veinte y Boomer de la silla se encuentra su silla puesta; el cuadrante de septiembre se escribe el
+día 3 y la línea se copia sin que nadie la discuta. Sin decisiones del autor.
 
 ---
 
@@ -2098,6 +2124,8 @@ teológico** y tiene que **costar algo**.
 | 115 | Soporte | **Copia de seguridad de la v57 en el USB** (orden del autor: «haz el backup del usb»). En `/mnt/usb` (`/dev/sda1`, exFAT, ya montado): **bundle verificado y clonado de prueba** (`/tmp/clon-v57`, `HEAD` = `141a0b0`, **122 commits**, `nk estado` → 16/126, 47.466 palabras), **materiales** (30 ficheros), **`SINOPSIS/`** en tar aparte (**7 ficheros**, con S-06 nueva), **`AGENTS.md`** al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `141a0b0`. Nombres `los-archivos-2026-11-11-v57.*` | 2026-11-11 | **Alineación de fechas (decisión 104):** el reloj de la máquina marca **2026-11-11** y los commits de la sesión llevan esa fecha, así que la v57 pasa de 2026-11-08 a **2026-11-11** en §0, dossiers, índice, decisiones 111-114, `README.md`, `BITACORA.md`, `MANUSCRITO/00-LEEME.md`, `GLOSARIO.md`, `SINOPSIS/00-indice.md`, `SINOPSIS/S-06` y `AGENTS.md`. **No se toca la fecha de la narración:** la sesión del capítulo sigue siendo el **6 de agosto de 2026** (`CRONOLOGIA.md`). `nk respaldo --version 57` genera el nombre correcto (el aviso de la v56 era por pasar «v56»). El bundle se regeneró **después** del commit de alineación (`625b380`, 123 commits) y el clon `/mnt/usb/los-archivos-repo` quedó en él; los commits de anotación posteriores, como siempre, no van en el bundle (decisión 79). No se toca el manuscrito |
 | 116 | Soporte | **Reformulada (C) la tarea suelta de la hoja de ruta.** «Revisar el efecto antes de escalar al total» pasa a **«Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el efecto de la lectura completa antes de distribuir»**, y la casilla **se queda `[ ]`**. Dictado del autor: la conversión a epub «se dará cuando se alcance el final», de modo que no es un control previo a escalar la escritura sino el **último paso de la obra** | 2026-11-12 | La tarea nació en la subida inicial (v18, `a770461`, 2026-10-30) junto a «escribir I.2» y a la cadena de exportación, y **nunca se ejecutó ni se anotó**: no había decisión asociada, ni criterio de cierre, ni fecha, y salía en `nk estado` indefinidamente. `libro.json` sigue con `exportacion.formato = "epub"` y **no se ha generado ningún epub** hasta hoy. Se queda abierta a propósito: verla en `nk estado` recuerda que la obra no está cerrada hasta que haya epub leído. **No se toca el manuscrito**, ni el canon, ni las cifras. `estado.json` regenerado con `nk informe` |
 | 117 | Escritura | **Dossier de I.17 «El cuadrante» preparado** (§0 undevicies), noveno del bloque I.2 y primera pieza del hilo que el índice daba por abierto: **la distancia con quien llega después**, por el sitio menos gastado —lo primero que pasa de una mano a otra es un oficio—. El cuadrante pegado en la puerta de la cocina es el único papel donde un nombre va pegado a una obligación; las actas llevan números, no nombres. El relevo de las sillas pasa de **Boomer de la silla** a **Alfa** con un tachón, y el acta recoge que se escribió el cuadrante y no el nombre. Prácticas E-05: **P2, P6 y P8**. Sin sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-12 | Tres **elecciones locales** sujetas a revisión: el relevo se escribe en el cuadrante y no se vota; Alfa se niega una vez por la razón del que está de pie y acepta sin premio; la línea no lleva «con permiso», aunque las otras tareas de Alfa sí. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no explica las dos sillas libres (I.3, II.5) ni vuelve a explicar la silla coja (I.6 §4). No repite los recursos de I.9-I.16. **No se escribe hasta que el autor lo ordene** |
+| 118 | Escritura | **I.16 «La fotocopia» aprobado** por el autor («Aprobado I.16, escribe sube al repositorio y haz copia en el usb»). Se cierra con **2.799 palabras** (−7,5 % sobre 3.025), 5 secciones, 5,7 % de citas, 0 errores y 0 avisos. **16/126 capítulos, 47.466 palabras** | 2026-11-12 | Cierra la 114. I.16 queda como octava pieza del bloque I.2: llega de fuera una explicación y la casa no la refuta. La revisión comprobó los nueve puntos del dossier (§0 octodecies) y no encontró nada que corregir; se señalan como materia de criterio del autor, no como defectos, la coda de los tres días y el dibujo de nueve sillas ocupadas y dos vacías (la docena está contra la pared, I.1/I.3/I.6). Se desbloquea **I.18**, décimo del bloque, con dossier por preparar |
+| 119 | Escritura | **I.17 «El cuadrante» escrito**, noveno del bloque I.2: **3.014 palabras** (−0,4 % sobre 3.025), 5 secciones, **3,7 % de citas**, 0 errores y 0 avisos. La casa descubre que el cuadrante de la puerta de la cocina es de julio; se lee el de julio, se discute que el cuadrante es el único papel donde un nombre va pegado a una obligación y **se tira el día uno**; Boomer de la silla pide el relevo por las rodillas y propone a **Alfa**, que sube con él las dos últimas sillas desde mayo y no está en el cuadrante porque «la ayuda no se apunta»; Alfa objeta «antes no hay nadie» y acaba diciendo «ponlo»; la línea queda `juebes: sillas (Alfa)`, **sin «con permiso»** —el permiso se pone en lo que sale de la casa— y sin voto; el acta solo dice «Se escribe el cuadrante de agosto». El jueves siguiente Alfa sube las once sillas a las seis y veinte y Boomer de la silla se encuentra su silla puesta; el acta dice que asistieron nueve. **17/126, 50.480 palabras** | 2026-11-12 | Escrito con **P2, P6 y P8** de E-05 y sin decisiones previas, como dijo el dossier (117). Las tres elecciones locales se mantienen; la objeción de Alfa cambia respecto del dossier («el que las pone no lee» era falsa: lee después) por **«antes no hay nadie»**, y el detalle del **cuadrante que se tira el día uno** —no previsto— es el punto del capítulo. Sin sinopsis de hechos (decisión 81). Continuidad: cuadrante de noviembre y oficios de la casa (I.2), doce sillas y la docena contra la pared (I.1, I.3, I.6), actas sin nombres y sin año (I.5, I.8, I.13), acta del 6 de agosto y caja cuarta cerrada (I.16), Alfa sin voto en papeles (decisión 54) y sus tareas «con permiso» (I.2), nombres y oficios (PERSONAS). **Pendiente de revisión del autor** |
 
 ---
 

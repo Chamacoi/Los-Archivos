@@ -55,8 +55,14 @@ capítulo por orden del autor (decisión 107). **Aprobado** el 2026-11-08 (decis
 
 Sigue I.16: «Capítulo 16. La fotocopia», **2.799 palabras**, escrito el 2026-11-11 (decisión 114)
 con las prácticas P2, P6 y P8 de E-05. Primera aparición de **S-06** (el *insight* virgen,
-decisión 112): la explicación de fuera entra por una fotocopia y la casa no la refuta. **Pendiente de
-revisión del autor.** Dossier en `../APUNTES.md` §0 octodecies.
+decisión 112): la explicación de fuera entra por una fotocopia y la casa no la refuta. **Aprobado**
+el 2026-11-12 (decisión 118). Dossier en `../APUNTES.md` §0 octodecies.
+
+Sigue I.17: «Capítulo 17. El cuadrante», **3.014 palabras**, escrito el 2026-11-12 (decisión 119)
+con las prácticas P2, P6 y P8 de E-05. Sin sinopsis de hechos. El oficio de las sillas pasa de
+Boomer de la silla a Alfa por una línea escrita a mano en el cuadrante de la puerta de la cocina, y
+el acta no lo recoge. **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0
+undevicies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 

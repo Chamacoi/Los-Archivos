@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 16,
-  "palabras": 47466,
+  "escritos": 17,
+  "palabras": 50480,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 16,
-      "palabras": 47466
+      "escritos": 17,
+      "palabras": 50480
     },
     {
       "id": "II",
@@ -189,11 +189,11 @@
     },
     {
       "id": "I.17",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "El cuadrante",
+      "escrito": true,
+      "palabras": 3014,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": -0.0036,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/17-capitulo.md"
     },
