@@ -1111,5 +1111,17 @@ su dossier.
   subida inicial (v18, `a770461`) y nunca se había ejecutado ni anotado; `libro.json` sigue con
   `exportacion.formato = "epub"` y no hay ningún epub generado.
 - Actualizados `README.md` (hoja de ruta), `APUNTES.md` (§0, cabecera y §3) y `estado.json`
-  (`nk informe`). **No se toca el manuscrito**: 16/126, 47.466 palabras. I.16 sigue pendiente de
-  revisión del autor; siguiente, **I.17**, noveno del bloque I.2, con dossier por preparar.
+  (`nk informe`). **No se toca el manuscrito**: 16/126, 47.466 palabras.
+- **Revisión de I.16 comprobada** a petición del autor: `nk verificar --rubrica` → **0 errores y 0
+  avisos** en 16 capítulos; 2.804 palabras contadas por el script (**2.799** en `nk contar`) con
+  **5,7 % de citas**; cinco secciones; el capítulo cumple el dossier de §0 octodecies en los nueve
+  puntos que fija y no gasta P1 ni P5. Única errata detectada y no corregida: ninguna. La silla
+  doce contra la pared explica que el dibujo lleve **nueve sillas ocupadas y dos vacías** (I.1, I.3,
+  I.6: doce sillas, once buenas, dos libres). **I.16 sigue pendiente de la aprobación del autor.**
+- **Dossier de I.17 «El cuadrante» preparado** (§0 undevicies, decisión 117), noveno del bloque
+  I.2 y primera pieza del hilo que el índice daba por abierto (la distancia con quien llega
+  después): primero lo que pasa de una mano a otra no es la memoria, es un oficio. El cuadrante
+  pegado en la puerta de la cocina es el único papel donde un nombre va pegado a una obligación; el
+  relevo de las sillas pasa de Boomer de la silla a Alfa con un tachón y el acta no lo apunta.
+  Prácticas **P2, P6, P8**; tres elecciones locales; **ninguna decisión pendiente del autor**. No
+  se escribe hasta que el autor lo ordene.
