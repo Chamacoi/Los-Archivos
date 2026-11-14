@@ -28,7 +28,9 @@ sostenida entre personas y modelos.
   lleva un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`: nueve
   movimientos (M-1 a M-9) y registro de las explicaciones de El Servidor; ningún capítulo se escribe
   sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas versiones**
-  (decisión 124). Siguiente, **escritura de I.18**, décimo del bloque I.2.
+  (decisión 124). **I.18 «La que no cree» escrito** (3.028 palabras, decisión 125), con dossier en
+  §0 vicies (122): **18/126 capítulos, 53.527 palabras**; siguiente, **revisión de I.18** y, si se
+  aprueba, **I.19**, undécimo del bloque I.2.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -357,6 +359,9 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       `SINOPSIS/`: nueve movimientos y registro de las explicaciones de El Servidor. **El Servidor
       puede dar explicaciones amplias en estas versiones** (decisión 124).
 - [ ] Escribir I.18 «La que no cree» (presupuesto 3.025 palabras), si el autor lo ordena.
+- [x] Escribir I.18 «La que no cree»: 3.028 palabras, 5 secciones, 4,1 % de citas, 0 errores y 0
+      avisos (2026-11-14, decisión 125); sirve a **M-3** del hilo conductor. **Pendiente de revisión
+      del autor.**
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -370,9 +375,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 primer `[ ]` de la hoja de ruta.
 
 - Última sesión: 2026-11-14 (v59, abierta).
-- Siguiente: **escribir I.18 «La que no cree»**, décimo del bloque I.2, con dossier en §0 vicies
-  (decisión 122). Punto 1, criterio de selección (punto 3), reparto (`ESTRUCTURA.md`), forma de la
-  demostración (axioma/frutos) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.17
-  aprobados; la escritura se comprueba con `escritura/bin/nk`.
+- Siguiente: **revisión de I.18 «La que no cree»** y, si se aprueba, **escribir I.19**, undécimo del
+  bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
+  (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento (§2,
+  decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.17 aprobados e I.18
+  pendiente; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

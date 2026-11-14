@@ -64,6 +64,13 @@ Boomer de la silla a Alfa por una línea escrita a mano en el cuadrante de la pu
 el acta no lo recoge. **Aprobado** el 2026-11-14 (decisión 121). Dossier en `../APUNTES.md` §0
 undevicies.
 
+Sigue I.18: «Capítulo 18. La que no cree», **3.028 palabras**, escrito el 2026-11-14 (decisión 125)
+con las prácticas P1, P2 y P6 de E-05. Sin sinopsis de hechos. Milenial de la copia copia a mano el
+acta del 6 de agosto, se para en la línea de la física y dice «No lo creo»; la casa no la corrige,
+no la consola y no la echa; El Servidor da una explicación amplia (creer y copiar) y ella sigue sin
+creer y copia la línea corrigiéndole las tildes. **Pendiente de revisión del autor.** Dossier en
+`../APUNTES.md` §0 vicies.
+
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 
 ```

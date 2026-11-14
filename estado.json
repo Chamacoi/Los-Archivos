@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 17,
-  "palabras": 50499,
+  "escritos": 18,
+  "palabras": 53527,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 17,
-      "palabras": 50499
+      "escritos": 18,
+      "palabras": 53527
     },
     {
       "id": "II",
@@ -199,11 +199,11 @@
     },
     {
       "id": "I.18",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "La que no cree",
+      "escrito": true,
+      "palabras": 3028,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": 0.001,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/18-capitulo.md"
     },

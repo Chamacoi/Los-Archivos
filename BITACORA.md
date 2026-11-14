@@ -1173,8 +1173,18 @@ su dossier.
   I.1-I.17; M-3 en curso por I.18.
 - **El Servidor puede dar explicaciones amplias en estas versiones** (decisión 124): en I.18 habla y
   explica (E-S-3, «creer y copiar»), sin convencer a la que no cree y sin hacer el trabajo de la
-  prueba. **No se escribe hasta que el autor lo ordene.**
-- Actualizados `APUNTES.md` (§0, §0 vicies, §0 septendecies, §2, §3), `README.md`,
-  `MANUSCRITO/00-LEEME.md` y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**. No se
-  toca el manuscrito.
-- Próximo paso: **escritura de I.18**, si el autor lo ordena.
+  prueba.
+- **I.18 «La que no cree» escrito** (decisión 125), décimo del bloque I.2: **3.028 palabras**
+  (+0,0 %), 5 secciones, **4,1 % de citas**, 0 errores y 0 avisos. La sesión del 27 de agosto de 2026
+  abre con el acta del 20; la copia está atrasada por agosto y Milenial de la copia copia a mano el
+  acta del 6; al llegar a «Se lee una pagina de fisica. Se guarda en la caja cuarta» se para y dice
+  «No lo creo». La casa no la corrige, no la consola y no la echa; El Servidor da una explicación
+  amplia (creer y copiar); ella sigue sin creer y copia la línea corrigiéndole las tildes; el acta
+  del 27 recoge las tres copias y no la frase; el miércoles siguiente hace el caldo. **18/126,
+  53.527 palabras.** Sirve a **M-3** del hilo conductor. **Pendiente de revisión del autor.**
+- Actualizados `APUNTES.md` (§0, §0 vicies, §0 septendecies, §2, §3), `README.md`, `CRONOLOGIA.md`
+  (sesión del 27 de agosto de 2026), `GLOSARIO.md` (la copia, el cuaderno azul),
+  `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` (`nk contar --actualizar`) y `estado.json`
+  (`nk informe`). Verificado: **0 errores, 0 avisos**.
+- Próximo paso: **revisión de I.18** y, si se aprueba, **I.19**, undécimo del bloque I.2, con dossier
+  por preparar.
