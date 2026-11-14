@@ -1182,6 +1182,10 @@ su dossier.
   amplia (creer y copiar); ella sigue sin creer y copia la línea corrigiéndole las tildes; el acta
   del 27 recoge las tres copias y no la frase; el miércoles siguiente hace el caldo. **18/126,
   53.527 palabras.** Sirve a **M-3** del hilo conductor. **Pendiente de revisión del autor.**
+- **Copia de seguridad de la v59 en el USB** (decisión 126, orden del autor: «está revisado. Copia al
+  USB»). Bundle verificado (136 commits, `HEAD` = `44f059e`), materiales (30 ficheros), `SINOPSIS/`
+  en tar aparte (7 ficheros) y `AGENTS.md` ya con el estado de la v59; `SHA-256` de los cuatro
+  ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `44f059e`.
 - Actualizados `APUNTES.md` (§0, §0 vicies, §0 septendecies, §2, §3), `README.md`, `CRONOLOGIA.md`
   (sesión del 27 de agosto de 2026), `GLOSARIO.md` (la copia, el cuaderno azul),
   `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` (`nk contar --actualizar`) y `estado.json`
