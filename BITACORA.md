@@ -1155,5 +1155,10 @@ su dossier.
   incluye la rama `local-v33`, de ahí que cuente 131 y no 79. El commit de anotación posterior no va
   en el bundle (decisión 79).
 - **Sesión cerrada.** Árbol limpio, `origin/main` al día y copia de la v58 en el USB comprobada.
-  Próximo paso: **revisión de I.17 «El cuadrante»** y, si se aprueba, **I.18**, décimo del bloque
-  I.2, con dossier por preparar.
+- **I.17 «El cuadrante» aprobado** por el autor («aprobado I.17», decisión 121), ya con la sesión
+  cerrada: se cierra con **3.033 palabras** (+0,3 %), 5 secciones, 3,7 % de citas, 0 errores y 0
+  avisos. La revisión comprobó los nueve puntos del dossier (§0 undevicies) y las ocho precisiones
+  de escritura, y no encontró nada que corregir. **17/126 capítulos, 50.499 palabras.**
+- Actualizados `APUNTES.md` (§0, §0 undevicies, §3), `README.md`, `MANUSCRITO/00-LEEME.md` y
+  `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**. No se toca el manuscrito.
+- Próximo paso: **I.18**, décimo del bloque I.2, con dossier por preparar.
