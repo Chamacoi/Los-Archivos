@@ -61,7 +61,7 @@ el 2026-11-12 (decisión 118). Dossier en `../APUNTES.md` §0 octodecies.
 Sigue I.17: «Capítulo 17. El cuadrante», **3.033 palabras**, escrito el 2026-11-12 (decisión 119)
 con las prácticas P2, P6 y P8 de E-05. Sin sinopsis de hechos. El oficio de las sillas pasa de
 Boomer de la silla a Alfa por una línea escrita a mano en el cuadrante de la puerta de la cocina, y
-el acta no lo recoge. **Aprobado** el 2026-11-12 (decisión 121). Dossier en `../APUNTES.md` §0
+el acta no lo recoge. **Aprobado** el 2026-11-14 (decisión 121). Dossier en `../APUNTES.md` §0
 undevicies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:

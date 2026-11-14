@@ -22,8 +22,10 @@ sostenida entre personas y modelos.
   primera vez. **I.17 «El cuadrante» escrito** (3.033 palabras, decisión 119) y **aprobado**
   (decisión 121), con dossier en §0 undevicies (117): el oficio de las sillas pasa de Boomer de la
   silla a Alfa por una línea del cuadrante de la puerta de la cocina, que se tira el día uno.
-  **17/126 capítulos, 50.499 palabras**; siguiente, **dossier y escritura de I.18**, décimo del
-  bloque I.2.
+  **17/126 capítulos, 50.499 palabras**. **Dossier de I.18 «La que no cree» preparado** (§0 vicies,
+  decisión 122): el **criterio de fracaso** de §2 entra como **generador del argumento** (la que
+  copia a mano dice que no cree; la casa no la convierte, no la discute y no la echa); siguiente,
+  **escritura de I.18**, décimo del bloque I.2.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -343,7 +345,11 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       pasa de Boomer de la silla a Alfa por una línea del cuadrante de la puerta de la cocina, que se
       tira el día uno. Sin decisiones pendientes del autor.
 - [x] Escribir I.17 «El cuadrante»: 3.033 palabras, 5 secciones, 3,7 % de citas, 0 errores y 0 avisos
-      (2026-11-12, decisión 119); **aprobado** (decisión 121, 2026-11-12).
+      (2026-11-12, decisión 119); **aprobado** (decisión 121, 2026-11-14).
+- [x] Preparar el dossier de I.18 «La que no cree» (2026-11-14, decisión 122): el criterio de
+      fracaso como generador del argumento; la que copia a mano dice que no cree y la casa no la
+      convierte. Prácticas P1, P2 y P6; tres elecciones locales sujetas a revisión.
+- [ ] Escribir I.18 «La que no cree» (presupuesto 3.025 palabras), si el autor lo ordena.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -356,10 +362,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-12 (v58, cerrada).
-- Siguiente: **escribir I.18**, décimo del bloque I.2, con dossier por preparar. Punto 1, criterio
-  de selección (punto 3), reparto (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos) y
-  precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.17 aprobados; la escritura se
-  comprueba con `escritura/bin/nk`.
+- Última sesión: 2026-11-14 (v59, abierta).
+- Siguiente: **escribir I.18 «La que no cree»**, décimo del bloque I.2, con dossier en §0 vicies
+  (decisión 122). Punto 1, criterio de selección (punto 3), reparto (`ESTRUCTURA.md`), forma de la
+  demostración (axioma/frutos) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.17
+  aprobados; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

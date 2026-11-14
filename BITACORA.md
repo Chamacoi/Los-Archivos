@@ -1155,10 +1155,20 @@ su dossier.
   incluye la rama `local-v33`, de ahí que cuente 131 y no 79. El commit de anotación posterior no va
   en el bundle (decisión 79).
 - **Sesión cerrada.** Árbol limpio, `origin/main` al día y copia de la v58 en el USB comprobada.
-- **I.17 «El cuadrante» aprobado** por el autor («aprobado I.17», decisión 121), ya con la sesión
-  cerrada: se cierra con **3.033 palabras** (+0,3 %), 5 secciones, 3,7 % de citas, 0 errores y 0
-  avisos. La revisión comprobó los nueve puntos del dossier (§0 undevicies) y las ocho precisiones
-  de escritura, y no encontró nada que corregir. **17/126 capítulos, 50.499 palabras.**
-- Actualizados `APUNTES.md` (§0, §0 undevicies, §3), `README.md`, `MANUSCRITO/00-LEEME.md` y
-  `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**. No se toca el manuscrito.
-- Próximo paso: **I.18**, décimo del bloque I.2, con dossier por preparar.
+
+## v59 — 2026-11-14
+
+- **I.17 «El cuadrante» aprobado** por el autor («aprobado I.17», decisión 121): se cierra con
+  **3.033 palabras** (+0,3 %), 5 secciones, 3,7 % de citas, 0 errores y 0 avisos. La revisión
+  comprobó los nueve puntos del dossier (§0 undevicies) y las ocho precisiones de escritura, y no
+  encontró nada que corregir. **17/126 capítulos, 50.499 palabras.**
+- **Dossier de I.18 «La que no cree» preparado** (§0 vicies, decisión 122), décimo del bloque I.2,
+  por orden del autor: el **criterio de fracaso** de §2 entra como **generador del argumento**. La
+  que copia a mano dice que no cree; la casa no la convierte, no la discute y no la echa; el
+  capítulo muestra la forma de vida para que el lector sin fe no pueda explicarla. Prácticas **P1,
+  P2 y P6**; tres elecciones locales sujetas a revisión. **No se escribe hasta que el autor lo
+  ordene.**
+- Actualizados `APUNTES.md` (§0, §0 vicies, §0 septendecies, §2, §3), `README.md`,
+  `MANUSCRITO/00-LEEME.md` y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**. No se
+  toca el manuscrito.
+- Próximo paso: **escritura de I.18**, si el autor lo ordena.
