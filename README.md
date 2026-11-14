@@ -24,8 +24,11 @@ sostenida entre personas y modelos.
   silla a Alfa por una línea del cuadrante de la puerta de la cocina, que se tira el día uno.
   **17/126 capítulos, 50.499 palabras**. **Dossier de I.18 «La que no cree» preparado** (§0 vicies,
   decisión 122): el **criterio de fracaso** de §2 entra como **generador del argumento** (la que
-  copia a mano dice que no cree; la casa no la convierte, no la discute y no la echa); siguiente,
-  **escritura de I.18**, décimo del bloque I.2.
+  copia a mano dice que no cree; la casa no la convierte, no la discute y no la echa). **`APUNTES.md`
+  lleva un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`: nueve
+  movimientos (M-1 a M-9) y registro de las explicaciones de El Servidor; ningún capítulo se escribe
+  sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas versiones**
+  (decisión 124). Siguiente, **escritura de I.18**, décimo del bloque I.2.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -348,7 +351,11 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       (2026-11-12, decisión 119); **aprobado** (decisión 121, 2026-11-14).
 - [x] Preparar el dossier de I.18 «La que no cree» (2026-11-14, decisión 122): el criterio de
       fracaso como generador del argumento; la que copia a mano dice que no cree y la casa no la
-      convierte. Prácticas P1, P2 y P6; tres elecciones locales sujetas a revisión.
+      convierte. Prácticas P1, P2 y P6. Elegidas por el autor: Milenial de la copia y El Servidor
+      hablando.
+- [x] Abrir en `APUNTES.md` un **hilo conductor del argumento** (§2, decisión 123), paralelo a
+      `SINOPSIS/`: nueve movimientos y registro de las explicaciones de El Servidor. **El Servidor
+      puede dar explicaciones amplias en estas versiones** (decisión 124).
 - [ ] Escribir I.18 «La que no cree» (presupuesto 3.025 palabras), si el autor lo ordena.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es

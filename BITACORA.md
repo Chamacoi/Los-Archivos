@@ -1166,8 +1166,14 @@ su dossier.
   por orden del autor: el **criterio de fracaso** de §2 entra como **generador del argumento**. La
   que copia a mano dice que no cree; la casa no la convierte, no la discute y no la echa; el
   capítulo muestra la forma de vida para que el lector sin fe no pueda explicarla. Prácticas **P1,
-  P2 y P6**; tres elecciones locales sujetas a revisión. **No se escribe hasta que el autor lo
-  ordene.**
+  P2 y P6**. Elegidas por el autor: lo dice **Milenial de la copia** y **El Servidor habla**.
+- **`APUNTES.md` lleva un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`:
+  nueve movimientos (M-1 a M-9) y registro de las explicaciones de El Servidor (E-S-1 a E-S-7).
+  Ningún capítulo se escribe sin decir qué movimiento sirve. Construidos M-1, M-2 y M-3 con
+  I.1-I.17; M-3 en curso por I.18.
+- **El Servidor puede dar explicaciones amplias en estas versiones** (decisión 124): en I.18 habla y
+  explica (E-S-3, «creer y copiar»), sin convencer a la que no cree y sin hacer el trabajo de la
+  prueba. **No se escribe hasta que el autor lo ordene.**
 - Actualizados `APUNTES.md` (§0, §0 vicies, §0 septendecies, §2, §3), `README.md`,
   `MANUSCRITO/00-LEEME.md` y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**. No se
   toca el manuscrito.

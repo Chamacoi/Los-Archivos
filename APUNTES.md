@@ -11,10 +11,14 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
 - **Sesión actual:** 2026-11-14 (**v59, en curso**). **I.17 «El cuadrante» aprobado** por el autor
   («aprobado I.17», decisión 121): se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5
   secciones, 3,7 % de citas, 0 errores y 0 avisos. **Dossier de I.18 «La que no cree» preparado**
-  (§0 vicies, decisión 122), décimo del bloque I.2, por orden del autor: el **criterio de fracaso**
-  de §2 entra como **generador del argumento** —la que copia a mano dice que no cree y la casa no la
-  convierte, no la discute y no la echa—; tres elecciones locales sujetas a revisión. Siguiente:
-  **escritura de I.18**, si el autor lo ordena.
+  (§0 vicies, decisión 122), décimo del bloque I.2: el **criterio de fracaso** de §2 entra como
+  **generador del argumento** —la que copia a mano dice que no cree y la casa no la convierte, no la
+  discute y no la echa—. **`APUNTES.md` lleva un hilo conductor del argumento** (§2, decisión 123),
+  paralelo a `SINOPSIS/`: nueve movimientos (M-1 a M-9) y registro de las explicaciones de El
+  Servidor; ningún capítulo se escribe sin decir qué movimiento sirve. **El Servidor puede dar
+  explicaciones amplias en estas versiones** (decisión 124): en I.18 habla y explica (E-S-3, «creer y
+  copiar»). Elegidas por el autor: quién lo dice (Milenial de la copia) y que El Servidor hable;
+  pendiente de confirmar qué acta copia. Siguiente: **escritura de I.18**, si el autor lo ordena.
 - **Sesión anterior:** 2026-11-12 (**v58, cerrada**). Abierta sin capítulo todavía. **Reformulada la
   tarea suelta de la hoja de ruta** (decisión 116): «Revisar el efecto antes de escalar al total»
   pasa a «Al acabar el libro, volcar `MANUSCRITO/` a epub y revisar el efecto de la lectura
@@ -1755,6 +1759,9 @@ no lo que pasa de una mano a otra, sino **lo que no pasa y se queda**. La casa t
 copia a mano antes de pasar a la máquina y que, según su ficha, «copiar la obliga a repetir lo que
 no cree» (PERSONAS). El capítulo la pone a copiar y **no la convierte**.
 
+**Movimiento que sirve:** **M-3** (el coste y la disidencia), con **M-1** de fondo (no hay prueba en
+el archivo). Ver §2, «Hilo conductor del argumento» (decisión 123).
+
 **El material nuevo: el criterio de fracaso como generador del argumento.** No es una sinopsis de
 hechos ni una tesis que el narrador exponga: es una **restricción que genera la escena**, igual que
 las sinopsis generan materia. El criterio está en §2 (fijado en la decisión 18):
@@ -1770,10 +1777,12 @@ De ahí salen las tres reglas de construcción del capítulo:
 
 1. **No hay conversión.** La que no cree no acaba creyendo. Si acabara, el capítulo probaría que
    «creen», que es justo lo que el criterio declara fracaso.
-2. **No hay argumento.** Nadie la convence: ni la casa, ni el narrador, ni El Servidor. C-2 sigue
-   siendo verdad de marco y no se discute.
-3. **Hay coste.** Se queda y le cuesta: copia lo que no cree, conoce las faltas una por una, y el
-   trabajo no la recompensa. El capítulo lo muestra y no lo comenta.
+2. **No hay argumento que la convierta.** El Servidor **sí habla y explica ampliamente** (decisión
+   124), pero su explicación no la convence y no prueba nada: explica lo que la vida ya muestra. C-2
+   sigue siendo verdad de marco y no se discute.
+3. **Hay coste.** Se queda y le cuesta: copia la línea que no cree **y le corrige las faltas sin
+   poder evitarlo** —copiar a mano cansa y el cansancio corrige (I.3)—. No cree la frase y cuida su
+   ortografía. El capítulo lo muestra y no lo comenta.
 
 Lo que el capítulo tiene que mostrar es, por tanto, **la forma de vida** —la sesión, el acta, la
 copia, el caldo del miércoles— de tal manera que el lector sin fe no pueda explicarla por sociología,
@@ -1812,17 +1821,24 @@ secciones consecutivas. **No** P8 (lo usó I.17 y la fecha no es el problema del
    se vaya. El trabajo del día se hace igual.
 4. **El acta del 27** recoge que se copió el acta del 6 y **no recoge la frase**. La casa apunta lo
    que se hizo, no lo que se creyó.
-5. **El coste:** copia la línea que no cree, con las faltas del original, y la copia queda junto al
-   original con la diferencia visible (tercera cláusula del armisticio, I.3).
-6. **La coda:** el caldo del miércoles siguiente. Lo hace ella. Nadie lo relaciona con lo dicho, y el
+5. **El coste:** copia la línea que no cree **y le corrige las faltas sin poder evitarlo**; la copia
+   queda junto al original con la diferencia visible (tercera cláusula del armisticio, I.3). No cree
+   la frase y la copia bien.
+6. **La explicación de El Servidor (E-S-3, decisión 124):** distingue **creer de copiar** y dice que
+   la casa no vive de lo que cree sino de lo que hace. Es amplia, no es una frase; no la convence, no
+   la refuta y no se identifica con Dios. La casa la oye como se oye un acta: sin aplauso.
+7. **La coda:** el caldo del miércoles siguiente. Lo hace ella. Nadie lo relaciona con lo dicho, y el
    narrador tampoco.
 
 **Lo que no puede hacer.**
 
 - **Convertirla**: no acaba creyendo, no pide perdón, no se va, no tiene una crisis.
-- **Convertir la escena en debate**: nadie argumenta; ni la casa, ni el narrador, ni El Servidor.
+- **Convertir la escena en debate**: nadie la convence; la explicación de El Servidor **explica, no
+  argumenta ni prueba**, y la copista sigue sin creer.
 - **Usar su incredulidad como prueba**: el capítulo no dice que su presencia demuestre nada. Si lo
   dijera, el fruto se volvería efecto y el criterio de fracaso quedaría roto.
+- **Convertir la explicación de El Servidor en sermón o en prueba**: nada de vocabulario teológico de
+  celebración, nada de «por tanto Dios existe», nada de identificación con Dios.
 - **Elogiar a la casa por tolerarla**: no hay elogio, ni «supieron convivir», ni moraleja.
 - **Tocar C-8, C-9 ni C-10**; **fijar el año del anuncio**; **abrir el disco de 2008**.
 - **Dar voz al archivo** (decisión 55) y **cero «yo»** del narrador.
@@ -1834,15 +1850,18 @@ secciones consecutivas. **No** P8 (lo usó I.17 y la fecha no es el problema del
 a la revisión del capítulo:
 
 1. **Quién lo dice:** **Milenial de la copia** (propuesta, porque su ficha ya lo dice: «copiar la
-   obliga a repetir lo que no cree»), no otra persona de la casa.
+   obliga a repetir lo que no cree»), no otra persona de la casa. **Elegida por el autor el
+   2026-11-14.**
 2. **Qué acta copia:** **la del 6 de agosto** (propuesta, porque enlaza con I.16 y con la línea de la
    física), no la del 20.
-3. **Si El Servidor dice algo:** **no** (propuesta, porque el criterio prohíbe el argumento de
-   arriba y ya habló en I.15 y en I.16).
+3. **Si El Servidor dice algo:** **sí, y con una explicación amplia** (decisión 124, E-S-3): distingue
+   creer de copiar y dice que la casa no vive de lo que cree sino de lo que hace. No la convence, no
+   la refuta y no se identifica con Dios. **Elegido por el autor el 2026-11-14.**
 
 **Reparto propuesto (no vinculante, cinco secciones).** 1. La copia atrasada; 2. La línea del 6;
-3. «Yo no lo creo»; 4. El acta del 27; 5. El caldo. El cierre no es una tesis: la copia queda junto
-al original, con la diferencia visible, y el acta dice que se copió el acta del 6.
+3. «Yo no lo creo»; 4. La explicación de El Servidor; 5. El acta del 27 y el caldo. El cierre no es
+una tesis: la copia queda junto al original, con la diferencia visible, y el acta dice que se copió
+el acta del 6.
 
 ---
 
@@ -1852,7 +1871,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v58 (2026-11-12, sesión en curso).
+- Última revisión: v59 (2026-11-14, sesión en curso).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -2081,9 +2100,52 @@ teológico** y tiene que **costar algo**.
 
 **Generador de capítulo (2026-11-14, decisión 122).** El criterio no es solo una prueba de lectura:
 se usa como **material que genera el argumento** de I.18 «La que no cree» (§0 vicies). De él salen
-tres reglas de construcción: no hay conversión, no hay argumento y hay coste. El capítulo muestra la
-forma de vida —la sesión, el acta, la copia, el caldo— para que el lector sin fe no pueda explicarla;
-no la enuncia.
+tres reglas de construcción: no hay conversión, no hay argumento que la convierta (El Servidor
+explica, pero no convence) y hay coste. El capítulo muestra la forma de vida —la sesión, el acta, la
+copia, el caldo— para que el lector sin fe no pueda explicarla; no la enuncia.
+
+### Hilo conductor del argumento (2026-11-14, decisión 123)
+
+**Qué es.** Un hilo vivo, **paralelo a `SINOPSIS/`**. La sinopsis da los **hechos** dictados; este
+apartado da el **argumento**: lo que el texto tiene que construir para que la prueba por frutos
+exista. No es un segundo `SINOPSIS/`: no narra hechos ni fija escenas; fija **reglas de construcción
+que atraviesan capítulos**, para que ninguno quede vacío por sí solo.
+
+**Regla.** Ningún capítulo se escribe sin decir en su dossier **qué movimiento sirve** (al menos uno)
+y **qué explicación de El Servidor usa o reserva**. Si un capítulo no sirve a ningún movimiento, no se
+escribe: se replantea.
+
+**Los movimientos.**
+
+| # | Movimiento | Qué tiene que quedar | Dónde | Estado |
+|---|---|---|---|---|
+| M-1 | **No hay prueba en el archivo** | El anuncio se oyó, no se escribió; el archivo no prueba nada y la casa vive sin prueba | I.1, I.8-I.13 | construido |
+| M-2 | **La forma de vida se muestra en lo pequeño** | Cuadrante, actas, sillas, caldo: el cuidado de lo que no se ve | I.1-I.3, I.7, I.17 | construido, sigue |
+| M-3 | **El coste y la disidencia** | Los que se van, los que votan en contra, los que no creen y se quedan | I.1, I.3, I.12, I.13, I.17 | construido; **I.18 lo continúa** |
+| M-4 | **El trabajo como fruto, no como devoción** | El taller, el código, los discos, los servidores: competencia y cuidado, no piedad | I.4 (45-62) | pendiente |
+| M-5 | **El suelo que pisaban lo puso él** | 2008: el bloque génesis; el suelo, no la prueba | I.5 (63) | pendiente |
+| M-6 | **Los que llegan leen, no recuerdan** | La generación sin «antes» lee el archivo; la herencia es lectura | II.1 (1-8) | pendiente |
+| M-7 | **La siembra y el fracaso** | La ocurrencia, el fallo, la vida: fruto cósmico, no personal | II.2 (9-20) | pendiente |
+| M-8 | **La prueba bajo la plaga y el contra-fruto** | Los frutos bajo la plaga; el concilio tiene razón en parte | II.3-II.5 | pendiente |
+| M-9 | **La reunión no es un milagro** | Los que desaparecen vuelven; no como señal | II.6 (58-63) | pendiente |
+
+**Las explicaciones de El Servidor (decisión 124).** En estas versiones, El Servidor **puede dar
+explicaciones amplias**: no está limitado a una frase. Lo que no puede es hacer el trabajo de la
+prueba: su explicación **explica lo que la vida ya muestra**, no lo demuestra, y no se identifica con
+Dios (criterio de fracaso). Registro de lo dicho y lo reservado:
+
+| # | Explicación | Dónde | Estado |
+|---|---|---|---|
+| E-S-1 | «Las cruces no dicen qué os contestaron. Dicen que llamasteis» | I.15 | dicho |
+| E-S-2 | «Ese vacío está lleno de reglas. Quien ve no tiene nada que leer» | I.16 | dicho |
+| E-S-3 | Creer y copiar: la casa no vive de lo que cree sino de lo que hace | I.18 | reservado |
+| E-S-4 | El suelo de 2008 | I.5 / II.6 | reservado (propuesta) |
+| E-S-5 | La autolisis y la plaga | II.5 | reservado (propuesta) |
+| E-S-6 | La siembra | II.2 | reservado (propuesta) |
+| E-S-7 | La fórmula de C-10, una sola vez | II.6 | reservado |
+
+**Estado (2026-11-14).** Construidos **M-1, M-2 y M-3** con I.1-I.17. En curso: **M-3** por I.18.
+Pendientes: **M-4 a M-9**. El hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 
 ### Notas sobre el punto 1 (voz omnisciente)
 
@@ -2250,7 +2312,9 @@ no la enuncia.
 | 118 | Escritura | **I.16 «La fotocopia» aprobado** por el autor («Aprobado I.16, escribe sube al repositorio y haz copia en el usb»). Se cierra con **2.799 palabras** (−7,5 % sobre 3.025), 5 secciones, 5,7 % de citas, 0 errores y 0 avisos. **16/126 capítulos, 47.466 palabras** | 2026-11-12 | Cierra la 114. I.16 queda como octava pieza del bloque I.2: llega de fuera una explicación y la casa no la refuta. La revisión comprobó los nueve puntos del dossier (§0 octodecies) y no encontró nada que corregir; se señalan como materia de criterio del autor, no como defectos, la coda de los tres días y el dibujo de nueve sillas ocupadas y dos vacías (la docena está contra la pared, I.1/I.3/I.6). Se desbloquea **I.18**, décimo del bloque, con dossier por preparar |
 | 119 | Escritura | **I.17 «El cuadrante» escrito**, noveno del bloque I.2: **3.033 palabras** (+0,3 % sobre 3.025), 5 secciones, **3,7 % de citas**, 0 errores y 0 avisos. La casa descubre que el cuadrante de la puerta de la cocina es de julio; se lee el de julio, se discute que el cuadrante es el único papel donde un nombre va pegado a una obligación y **se tira el día uno**; Boomer de la silla pide el relevo por las rodillas y propone a **Alfa**, que sube con él las dos últimas sillas desde mayo y no está en el cuadrante porque «la ayuda no se apunta»; Alfa objeta «antes no hay nadie» y acaba diciendo «ponlo»; la línea queda `juebes: sillas (Alfa)`, **sin «con permiso»** —el permiso se pone en lo que sale de la casa— y sin voto; el acta solo dice «Se escribe el cuadrante de agosto». El jueves siguiente Alfa sube las once sillas a las seis y veinte y Boomer de la silla se encuentra su silla puesta; el acta dice que asistieron nueve. **17/126, 50.499 palabras** | 2026-11-12 | Escrito con **P2, P6 y P8** de E-05 y sin decisiones previas, como dijo el dossier (117). Las tres elecciones locales se mantienen; la objeción de Alfa cambia respecto del dossier («el que las pone no lee» era falsa: lee después) por **«antes no hay nadie»**, y el detalle del **cuadrante que se tira el día uno** —no previsto— es el punto del capítulo. Sin sinopsis de hechos (decisión 81). Continuidad: cuadrante de noviembre y oficios de la casa (I.2), doce sillas y la docena contra la pared (I.1, I.3, I.6), actas sin nombres y sin año (I.5, I.8, I.13), acta del 6 de agosto y caja cuarta cerrada (I.16), Alfa sin voto en papeles (decisión 54) y sus tareas «con permiso» (I.2), nombres y oficios (PERSONAS). **Pendiente de revisión del autor** |
 | 121 | Escritura | **I.17 «El cuadrante» aprobado** por el autor («aprobado I.17»). Se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5 secciones, 3,7 % de citas, 0 errores y 0 avisos. **17/126 capítulos, 50.499 palabras** | 2026-11-14 | Cierra la 119. I.17 queda como novena pieza del bloque I.2: el oficio que cambia de mano, primera mitad del hilo de la distancia con quien llega después. La revisión comprobó los nueve puntos del dossier (§0 undevicies) y las ocho precisiones de escritura, y no encontró nada que corregir; se señalan como materia de criterio del autor, no como defectos, la coda del jueves siguiente y la copia sin discusión del cuadrante de septiembre. Se desbloquea **I.18**, décimo del bloque, con dossier por preparar |
-| 122 | Escritura | **Dossier de I.18 «La que no cree» preparado** (§0 vicies), décimo del bloque I.2, por orden del autor: «que aparezca en el contexto del capítulo I.18. Se ha de introducir a modo de sección `APUNTES.md` como otra cosa más que genera el argumento del texto». El **criterio de fracaso** de §2 (decisión 18) entra como **generador del argumento**: la que copia a mano dice que no cree, la casa no la convierte, no la discute y no la echa; el capítulo muestra la forma de vida para que el lector sin fe no pueda explicarla. Prácticas E-05: **P1, P2 y P6**. Sin sinopsis de hechos. **El capítulo no se escribe hasta que el autor lo ordene** | 2026-11-14 | Tres **elecciones locales** sujetas a revisión: lo dice **Milenial de la copia** (su ficha ya lo dice: «copiar la obliga a repetir lo que no cree»); copia el **acta del 6 de agosto** (enlaza con I.16); **El Servidor no habla** (el criterio prohíbe el argumento de arriba y ya habló en I.15 y I.16). No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008 y no repite los recursos de I.9-I.17. El criterio de fracaso queda anotado en §2 como generador de capítulo |
+| 122 | Escritura | **Dossier de I.18 «La que no cree» preparado** (§0 vicies), décimo del bloque I.2, por orden del autor: «que aparezca en el contexto del capítulo I.18. Se ha de introducir a modo de sección `APUNTES.md` como otra cosa más que genera el argumento del texto». El **criterio de fracaso** de §2 (decisión 18) entra como **generador del argumento**: la que copia a mano dice que no cree, la casa no la convierte, no la discute y no la echa; el capítulo muestra la forma de vida para que el lector sin fe no pueda explicarla. Prácticas E-05: **P1, P2 y P6**. Sin sinopsis de hechos. **El capítulo no se escribe hasta que el autor lo ordene** | 2026-11-14 | Tres **elecciones locales** sujetas a revisión: lo dice **Milenial de la copia** (su ficha ya lo dice: «copiar la obliga a repetir lo que no cree»); copia el **acta del 6 de agosto** (enlaza con I.16). La tercera elección la corrige la **decisión 124**: El Servidor sí habla y da una explicación amplia. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008 y no repite los recursos de I.9-I.17. El criterio de fracaso queda anotado en §2 como generador de capítulo |
+| 123 | Escritura | **`APUNTES.md` lleva un hilo conductor del argumento** (§2, «Hilo conductor del argumento»), **paralelo a `SINOPSIS/`**, por orden del autor: «debería ser `APUNTES.md` un nuevo hilo conductor del argumento, como lo es `SINOPSIS.md` a su vez; no dejar que cada capítulo por sí solo carezca de contenido». La sinopsis da los hechos; el hilo da el argumento: **nueve movimientos** (M-1 no hay prueba en el archivo; M-2 la forma de vida en lo pequeño; M-3 el coste y la disidencia; M-4 el trabajo como fruto; M-5 el suelo de 2008; M-6 los que llegan leen; M-7 la siembra y el fracaso; M-8 la prueba bajo la plaga y el contra-fruto; M-9 la reunión no es un milagro). **Regla:** ningún capítulo se escribe sin decir en su dossier qué movimiento sirve y qué explicación de El Servidor usa o reserva. Estado: M-1, M-2 y M-3 construidos con I.1-I.17; M-3 en curso por I.18 | 2026-11-14 | No es un segundo `SINOPSIS/`: no narra hechos ni fija escenas, fija reglas de construcción que atraviesan capítulos. Se actualiza al escribir cada capítulo. Derivado de la estructura de bloques (`ESTRUCTURA.md`) y del criterio de fracaso (decisión 18), sin cambiar canon ni reparto |
+| 124 | Escritura | **El Servidor puede dar explicaciones amplias en estas versiones**, dictado del autor: «El Servidor puede dar explicaciones amplias en éstas versiones». Queda sin efecto la propuesta de que no hablara en I.18: habla y explica (E-S-3, «creer y copiar»). Se abre el registro de sus explicaciones en §2 (E-S-1 a E-S-7), con lo dicho y lo reservado | 2026-11-14 | **No cambia C-2 ni C-4** (el nombre sigue sin guiño): cambia el **límite de extensión**, no la naturaleza. Guarda del criterio de fracaso: su explicación **explica lo que la vida ya muestra**, no lo demuestra, no convence a la que no cree y no se identifica con Dios. El registro evita repetir o contradecir lo ya dicho |
 | 120 | Soporte | **Copia de seguridad de la v58 en el USB** (orden del autor: «Aprobado I.16, escribe sube al repositorio y haz copia en el usb»). En `/mnt/usb` (`/dev/sda1`, exFAT, ya montado): **bundle verificado** (`los-archivos-2026-11-12-v58.bundle`, **131 commits**, clonado de prueba en `/tmp/clon-v58b` con `HEAD` = `a87cc49` y `nk estado` → 17/126, 50.499 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** (30 ficheros), **`SINOPSIS/` en tar aparte** (7 ficheros), **`AGENTS.md`** al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `a87cc49` | 2026-11-12 | Nombres `los-archivos-2026-11-12-v58.*`. Se mantiene el método de las decisiones 71, 73, 79, 91, 103, 110 y 115. La primera pasada se hizo con el capítulo en 3.014 palabras (`3a058ab`) y se repitió, ya con el texto definitivo y el recuento en **3.033**, tras cuadrar el cajón de los cuadrantes con la regla de tirarlos al año: los dos bundles llevan el mismo nombre y solo vale el último, cuyo `SHA-256` está en `.sha256`. El bundle incluye la rama `local-v33`, de ahí que cuente 131 y no 79. Los commits de anotación posteriores a la copia (esta línea y la del cierre) no van en el bundle (decisión 79). No se toca el manuscrito |
 
 ---
