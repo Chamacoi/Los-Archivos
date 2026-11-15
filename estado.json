@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 18,
-  "palabras": 53527,
+  "escritos": 19,
+  "palabras": 56544,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 18,
-      "palabras": 53527
+      "escritos": 19,
+      "palabras": 56544
     },
     {
       "id": "II",
@@ -209,11 +209,11 @@
     },
     {
       "id": "I.19",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "La casa de la esquina",
+      "escrito": true,
+      "palabras": 3017,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": -0.0026,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/19-capitulo.md"
     },
@@ -1289,7 +1289,6 @@
     }
   ],
   "tareas_abiertas": [
-    "Escribir I.18 «La que no cree» (presupuesto 3.025 palabras), si el autor lo ordena.",
     "Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es el último paso de la obra, no un control previo. Reformulación C.)*",
     "Títulos definitivos de las partes y de los capítulos (los de trabajo son «Los que oyeron» y «Los que leyeron»).",
     "Deuda material con la naturaleza (E-02 §10.1).",

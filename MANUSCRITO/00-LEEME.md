@@ -68,8 +68,14 @@ Sigue I.18: «Capítulo 18. La que no cree», **3.028 palabras**, escrito el 202
 con las prácticas P1, P2 y P6 de E-05. Sin sinopsis de hechos. Milenial de la copia copia a mano el
 acta del 6 de agosto, se para en la línea de la física y dice «No lo creo»; la casa no la corrige,
 no la consola y no la echa; El Servidor da una explicación amplia (creer y copiar) y ella sigue sin
-creer y copia la línea corrigiéndole las tildes. **Pendiente de revisión del autor.** Dossier en
-`../APUNTES.md` §0 vicies.
+creer y copia la línea corrigiéndole las tildes. **Aprobado** el 2026-11-15 (decisión 127). Dossier
+en `../APUNTES.md` §0 vicies.
+
+Sigue I.19: «Capítulo 19. La casa de la esquina», **3.017 palabras**, escrito el 2026-11-15
+(decisión 129) con las prácticas P7, P4 y P2 de E-05 y sin sinopsis de hechos. La casa no vuelve a
+llamar a la que pidió que no se le llamara, pero le lleva una vez una ración de caldo con una nota
+sin firma; la olla no vuelve y en octubre está de maceta en una ventana. Sirve a **M-2** del hilo
+conductor. **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0 unvicies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 

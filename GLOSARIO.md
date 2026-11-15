@@ -53,6 +53,9 @@ Vocabulario canónico del libro. Existe para que el registro no se derive sesió
 | la copia | minúscula | El paso a mano de las actas antes de pasarlas a la consola, y el cuaderno donde se guarda. La copia y el original se conservan juntos y **la diferencia se deja ver** (tercera cláusula del armisticio, I.3). Copiar no es creer: la copista corrige las tildes de lo que no cree (I.18) | uso |
 | el cuaderno azul | minúscula | Cuaderno de tapas duras y hojas cuadriculadas donde se copian las actas a mano antes de pasarlas a la máquina. Guarda la copia de las dos primeras actas y la tercera cláusula del armisticio; se guarda en la caja segunda con la etiqueta «COPIAS. NO SON COPIAS» (I.3, I.18) | uso |
 | la silla doce / la docena | «la silla doce» en texto corrido; «la docena» en las frases de la casa (`La docena no se ofrece`) | La duodécima silla: contra la pared, con la pata coja hacia dentro; no se arregla (no hay tornillo) y no se tira (no hay motivo). Once sillas buenas para nueve personas y dos libres (I.1, I.3, I.6, I.17) | uso |
+| la casa de la esquina | minúscula | La casa del número marcado en la lista de los teléfonos (I.15): puerta verde, visillo y poyete. Pidió que no se le llamara; recibe una ración de caldo una sola vez (I.19) | uso |
+| la casa de la parra | minúscula | Nombre de puertas afuera de la casa de la comunidad: es lo que dice la nota del caldo y lo que dice Alfa en la puerta (I.19). No es nombre de persona | uso |
+| el poyete | minúscula | El antepecho de la ventana de la casa de la esquina, donde se deja la olla con la nota (I.19) | uso |
 
 ## Tecnicismo y ego
 
