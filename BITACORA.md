@@ -1213,6 +1213,14 @@ su dossier.
   vuelve: el sábado se compra otra y el gasto va a la libreta sin motivo. En octubre la olla vieja
   está de **maceta** en la ventana de la casa verde, y el acta del 1 de octubre no lo recoge.
   **19/126, 56.544 palabras.** Sirve a **M-2** con M-3 de fondo y M-1 en el cierre.
+- **Subido a `origin/main`** (`ce551da..8a79590`) y **copia de seguridad de la v60 en el USB**
+  (decisión 130, orden del autor: «commitea y actualiza todo, también el USB»). En `/mnt/usb`
+  (`/dev/sda1`, exFAT, ya montado): bundle `los-archivos-2026-11-15-v60.bundle` **verificado** y
+  clonado de prueba (`/tmp/clon-v60`, `HEAD` = `8a79590`, **139 commits**, `nk estado` → 19/126,
+  56.544 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), materiales (30 ficheros),
+  `SINOPSIS/` en tar aparte (7 ficheros, mismo `SHA-256` que en la v59), `AGENTS.md` al día con el
+  estado de la v60 y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon
+  `/mnt/usb/los-archivos-repo` actualizado a `8a79590`. Nombres `los-archivos-2026-11-15-v60.*`.
 - Actualizados `APUNTES.md` (§0, §0 unvicies, §0 septendecies, §2, §3), `README.md`,
   `CRONOLOGIA.md` (3, 9 y 10 de septiembre y 1 de octubre de 2026), `GLOSARIO.md` (la casa de la
   esquina, la casa de la parra, el poyete), `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md`
