@@ -8,7 +8,21 @@
 viven en ficheros aparte: están en §0, uno por capítulo, y el índice dice en qué sección está cada uno,
 cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gastados.
 
-- **Sesión actual:** 2026-11-14 (**v59, en curso**). **I.17 «El cuadrante» aprobado** por el autor
+- **Sesión actual:** 2026-11-15 (**v60, en curso**). **I.18 «La que no cree» aprobado** por el
+  autor (decisión 127), con la aclaración de que el «está revisado» de la decisión 126 ya era la
+  revisión: se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
+  avisos. **Dossier de I.19 «La casa de la esquina» preparado** (§0 unvicies, decisión 128), undécimo
+  del bloque I.2, sin decisiones que pedir al autor, y **I.19 escrito** (decisión 129): **3.017
+  palabras** (−0,3 %), 5 secciones, **6,6 % de citas**, 0 errores y 0 avisos. Sirve a **M-2** con
+  **M-3** de fondo. La lista de los teléfonos (I.15) trae el asunto: la casa de la esquina pidió que
+  no se le llamara, y la casa no vuelve a llamar pero le lleva **una vez** una ración de caldo; la
+  nota sale sin el nombre de nadie («Caldo de la casa de la parra. Miercoles.»), se deja en el
+  poyete, no se ve a nadie cogerla y la olla no vuelve: en octubre está de **maceta** en la ventana
+  de la casa verde. El coste es **un vaso de agua** en la receta y una **olla nueva**. El acta del 3
+  recoge «Cinco a tres» y no el porqué; la del 10, «Se lleva el caldo a la casa de la esquina. No se
+  entra»; la del 1 de octubre no recoge la olla. **19/126 capítulos, 56.544 palabras.** Pendiente de
+  revisión del autor; siguiente: **I.20**, con dossier por preparar.
+- **Sesión anterior:** 2026-11-14 (**v59, cerrada**). **I.17 «El cuadrante» aprobado** por el autor
   («aprobado I.17», decisión 121): se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5
   secciones, 3,7 % de citas, 0 errores y 0 avisos. **Dossier de I.18 «La que no cree» preparado**
   (§0 vicies, decisión 122), décimo del bloque I.2: el **criterio de fracaso** de §2 entra como
@@ -1508,6 +1522,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.16 «La fotocopia» | §0 octodecies | 2026-11-11 | 113 | la explicación de fuera, no se refuta | P2, P6, P8 |
 | I.17 «El cuadrante» | §0 undevicies | 2026-11-12 | 117 | el oficio de las sillas cambia de mano | P2, P6, P8 |
 | I.18 «La que no cree» | §0 vicies | 2026-11-14 | 122 | el criterio de fracaso como generador | P1, P2, P6 |
+| I.19 «La casa de la esquina» | §0 unvicies | 2026-11-15 | 128 | el caldo que sale y la nota sin firma | P7, P4, P2 |
 
 **Notas.**
 
@@ -1529,6 +1544,8 @@ fuera que no se refuta (I.16) y el oficio que cambia de mano (I.17). Lo que sigu
 —la distancia con quien llega después, ya empezada por el oficio de las sillas— tiene que entrar por
 otro sitio, no por el noveno recuento de la misma ausencia. **I.18** lo toma por el lado contrario:
 lo que no pasa y se queda (la que copia y no cree), con el criterio de fracaso como generador.
+**I.19** lo toma por lo que sale (el caldo que va a la casa que pidió que no se le llamara, la nota
+sin firma y la olla que acaba de maceta), y lo lleva la más joven.
 
 ### 0 octodecies. I.16 «La fotocopia»: dossier de material (2026-11-11)
 
@@ -1882,7 +1899,102 @@ tilde», «se la pongo»— y la copia queda más limpia que el original, con la
 «No os pedí que creyerais. Os pedí que escribierais. Lo que crees se gasta; la letra no»), sin
 convencerla, sin nombrar a Dios y sin hacer el trabajo de la prueba; **(8)** la coda es el **caldo
 del miércoles 2 de septiembre** y la caja cuarta cerrada hasta enero, con la página 211 dentro. Sin
-decisiones del autor. **Pendiente de revisión del autor.**
+decisiones del autor. **Aprobado en la v60** (decisión 127): el «está revisado» que el autor dictó al
+ordenar la copia al USB (decisión 126) era ya la revisión, y el visto bueno se confirmó al reanudar
+(«Se aprueba I.18»).
+
+### 0 unvicies. I.19 «La casa de la esquina»: dossier de material (2026-11-15)
+
+Preparado por orden del autor («Escribir + dossier I.19»). **Undécimo del bloque I.2**, detrás de
+la que no cree. El título es de trabajo: se decide al escribir.
+
+**Función en el bloque.** El índice (§0 septendecies) deja abierto el hilo de **la distancia con
+quien llega después**, empezado por I.17 por el lado del oficio y seguido por I.18 por el lado de lo
+que no pasa y se queda. I.19 lo toma por **lo que sale**: el gesto de la casa hacia fuera no lo hace
+el que sabe, lo hace la más joven, y lo que sale no lleva el nombre de nadie. No es un capítulo sobre
+la caridad ni sobre la tolerancia: es un capítulo sobre **lo que la casa hace cuando nadie se lo pide
+y nadie se lo agradece**.
+
+**Movimiento que sirve:** **M-2** (la forma de vida se muestra en lo pequeño), con **M-3** (el coste y
+la disidencia) de fondo y **M-1** (no hay prueba en el archivo) en el cierre: la olla no entra en
+ningún papel. Ver §2, «Hilo conductor del argumento» (decisión 123).
+
+**Material: ninguna sinopsis de hechos.** `S-01`, `S-02` y `S-03` siguen ancladas en I.5, II.5 y II.2
+(decisión 81); `S-06` se gastó en I.16; `F-35` y `F-36` no se nombran (decisiones 67 y 76). El
+capítulo se sostiene con piezas ya escritas y con una consecuencia que I.15 dejó abierta.
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La lista de los teléfonos | I.15, §0 sedecies | Doce renglones, tres nombres cortados con tijera, diez marcas sin clave (seis cruces y cuatro puntos); se guarda pegada dentro del cajón del pasillo; no se le pone clave; las dos listas no se juntan |
+| La llamada del 30 de julio | I.15 | Se llama **una vez**; al otro lado se dice que llamaron y lo contaron y se pide que no vuelvan a llamar; el acta recoge la llamada y no la contesta |
+| El caldo de los miércoles | I.7, I.18 | Se hace los miércoles; la receta está corregida («ONCE» tachado, «NUEVE» encima) y dice para cuántos, no cuánta agua; el cuadrante lo dice; el acta no lo apunta |
+| El cuadrante | I.17 | Único papel donde un nombre va pegado a una obligación; se tira el día uno; **el permiso se pone en lo que sale de la casa** |
+| El personal de la casa | PERSONAS, decisión 54 | Nueve presentes; Alfa, diez años, **sin voto en los papeles**; las actas no llevan nombres |
+| Las actas | I.1, I.5, I.8, I.13 | Apuntan lo que se hizo, no lo que se dijo ni por qué se votó; sin nombres, sin año, con sus faltas |
+| La libreta y la caja | I.7, I.2 | La libreta de tapas negras no tiene columna de nombres ni de motivos; la caja segunda guarda discos y el cuaderno azul |
+
+**Procedimiento E-05: P7, P4 y P2.** **P7** (un objeto material hace de bisagra entre dos tiempos: la
+olla sale un miércoles y en octubre está de maceta en una ventana), **P4** (toda votación se registra
+con su resultado y sin su razón: «Cinco a tres» y ni un nombre en el acta) y **P2** (lo que se pierde
+entra por un documento que no es ello: la nota, que se cita y no se copia porque no es un acta). Tope
+del bloque, tres: se usa entero y no se repite. **No** P1/P2/P6 de I.18 (se acaba de gastar el
+inventario de las faltas), **ni** P8 (la fecha no es el problema del capítulo), **ni** P5.
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. La casa de la esquina es **la del número marcado en la lista** (I.15): puerta verde, visillo y
+   poyete.
+2. El capítulo da a la casa su nombre de puertas afuera: **la casa de la parra** (la parra está en
+   I.18), que es lo que dice la nota y lo que dice Alfa en la puerta. No es el nombre de una persona.
+3. La sesión del **3 de septiembre de 2026** acuerda llevar el caldo **cinco a tres** (votaron ocho;
+   Alfa no vota) y escribe una nota.
+4. La nota lleva **cuatro versiones** y se queda la más pobre: `Caldo de la casa de la parra.
+   Miercoles.` — sin firma, sin pregunta, sin oferta; la copista le pone la tilde y rompe el primer
+   papel.
+5. El **miércoles 9** el caldo se hace para nueve con **un vaso de agua más** —el agua no está en la
+   receta—: la casa come nueve platos más claros y la ración que sale es la del agua. Alfa lleva la
+   olla pequeña (la de las lentejas, con una abolladura) **veintitrés pasos** hasta la esquina, llama
+   **una vez**, espera, la deja en el poyete con la nota y se vuelve.
+6. No se ve a nadie: cuando Alfa mira desde la esquina, el poyete está vacío. El capítulo **no dice
+   quién la cogió**, y la casa no pregunta.
+7. El **acta del 10** recoge el hecho en cinco palabras —«Se lleva el caldo a la casa de la esquina.
+   No se entra»— y no el visillo, ni la nota, ni el porqué. Equis del bolígrafo mantiene su voto en
+   contra («la olla llama a la puerta») y el acta no lo recoge.
+8. La olla no vuelve: el sábado se compra otra (asas remachadas, no soldadas) y el gasto va a la
+   libreta **sin motivo**. El 16 de septiembre el caldo sale más espeso en la olla nueva.
+9. En **octubre** la olla vieja está de **maceta** en la ventana de la casa verde, con el asa soldada
+   hacia la calle. Alfa lo cuenta el **1 de octubre**; el acta no lo apunta; el cuadrante sigue
+   diciendo `miercoles: caldo (Milenial de la copia) / polvo (Zeta de los no consta)`.
+10. **El Servidor está y no habla.** No se gasta ninguna explicación (E-S-1 a E-S-7 siguen como
+    están): la decisión 124 permite explicaciones amplias, no las obliga.
+
+**Lo que no puede hacer.** Convertir la escena en caridad ejemplar ni en tolerancia elogiada (nada de
+«supieron», nada de moraleja); dar a la casa de la esquina una cara, un nombre o una respuesta;
+convertir la olla en señal o en prueba (el capítulo dice expresamente que no se apunta en ningún
+papel y que no se sabe quién la cogió); hacer que el voto en contra desaparezca (Equis del bolígrafo
+sostiene su razón hasta el final y el acta no la recoge); tocar C-8, C-9 ni C-10; fijar el año del
+anuncio; abrir el disco de 2008; dar voz al archivo (decisión 55) o usar la primera persona
+(`yo_maximo = 0`); repetir los recursos de I.9-I.18.
+
+**Decisiones que el capítulo necesita del autor: ninguna.** Tres **elecciones locales**, sujetas a la
+revisión del capítulo: (1) el destino es la casa de la esquina de I.15, la que pidió que no se le
+llamara; (2) la olla se queda allí y acaba de maceta (P7); (3) la nota no lleva firma y nombra a la
+casa, no a una persona.
+
+**Reparto (cinco secciones).** 1. La lista del cajón (la sesión del 3 y el voto); 2. La nota (las
+cuatro versiones y el permiso); 3. El agua (el caldo, los veintitrés pasos, el poyete); 4. El gancho
+vacío (el acta del 10, la olla nueva, el voto que no se borra); 5. La ventana (la maceta y el acta del
+1 de octubre). El cierre no es una tesis: la olla sigue en la ventana y el cuadrante sigue diciendo
+caldo.
+
+**Escrito en la v60** (decisión 129): **3.017 palabras** (−0,3 % sobre 3.025), 5 secciones, **6,6 %
+de citas**, 0 errores y 0 avisos. Se mantienen las tres elecciones locales. Precisiones que el texto
+fija y el dossier no anticipaba: **(1)** el acta del 3 se lee antes de escribir la nota, y la nota se
+aprueba sin votarse («la nota era del acuerdo»); **(2)** el caldo sale claro por el vaso de agua y la
+casa no lo comenta; **(3)** Boomer de la silla se levanta para acompañar a Alfa y se vuelve a sentar
+por las rodillas (I.17); **(4)** la lista vuelve al cajón con la misma cinta antes de cerrar la
+sesión; **(5)** el 17 de septiembre Equis del bolígrafo repite su objeción y el acta solo recoge la
+leña y la hora. **Pendiente de revisión del autor.**
 
 ---
 
@@ -2141,8 +2253,8 @@ escribe: se replantea.
 | # | Movimiento | Qué tiene que quedar | Dónde | Estado |
 |---|---|---|---|---|
 | M-1 | **No hay prueba en el archivo** | El anuncio se oyó, no se escribió; el archivo no prueba nada y la casa vive sin prueba | I.1, I.8-I.13 | construido |
-| M-2 | **La forma de vida se muestra en lo pequeño** | Cuadrante, actas, sillas, caldo: el cuidado de lo que no se ve | I.1-I.3, I.7, I.17 | construido, sigue |
-| M-3 | **El coste y la disidencia** | Los que se van, los que votan en contra, los que no creen y se quedan | I.1, I.3, I.12, I.13, I.17, I.18 | construido |
+| M-2 | **La forma de vida se muestra en lo pequeño** | Cuadrante, actas, sillas, caldo: el cuidado de lo que no se ve | I.1-I.3, I.7, I.17, I.19 | construido, sigue |
+| M-3 | **El coste y la disidencia** | Los que se van, los que votan en contra, los que no creen y se quedan | I.1, I.3, I.12, I.13, I.17, I.18, I.19 | construido |
 | M-4 | **El trabajo como fruto, no como devoción** | El taller, el código, los discos, los servidores: competencia y cuidado, no piedad | I.4 (45-62) | pendiente |
 | M-5 | **El suelo que pisaban lo puso él** | 2008: el bloque génesis; el suelo, no la prueba | I.5 (63) | pendiente |
 | M-6 | **Los que llegan leen, no recuerdan** | La generación sin «antes» lee el archivo; la herencia es lectura | II.1 (1-8) | pendiente |
@@ -2165,7 +2277,10 @@ Dios (criterio de fracaso). Registro de lo dicho y lo reservado:
 | E-S-6 | La siembra | II.2 | reservado (propuesta) |
 | E-S-7 | La fórmula de C-10, una sola vez | II.6 | reservado |
 
-**Estado (2026-11-14).** Construidos **M-1, M-2 y M-3** con I.1-I.18. Pendientes: **M-4 a M-9**. El
+**I.19 no usa ninguna:** El Servidor está y no habla. La decisión 124 permite explicaciones
+amplias, no las obliga; se reservan E-S-4 a E-S-7.
+
+**Estado (2026-11-15).** Construidos **M-1, M-2 y M-3** con I.1-I.19. Pendientes: **M-4 a M-9**. El
 hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 
 ### Notas sobre el punto 1 (voz omnisciente)
@@ -2337,8 +2452,12 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 123 | Escritura | **`APUNTES.md` lleva un hilo conductor del argumento** (§2, «Hilo conductor del argumento»), **paralelo a `SINOPSIS/`**, por orden del autor: «debería ser `APUNTES.md` un nuevo hilo conductor del argumento, como lo es `SINOPSIS.md` a su vez; no dejar que cada capítulo por sí solo carezca de contenido». La sinopsis da los hechos; el hilo da el argumento: **nueve movimientos** (M-1 no hay prueba en el archivo; M-2 la forma de vida en lo pequeño; M-3 el coste y la disidencia; M-4 el trabajo como fruto; M-5 el suelo de 2008; M-6 los que llegan leen; M-7 la siembra y el fracaso; M-8 la prueba bajo la plaga y el contra-fruto; M-9 la reunión no es un milagro). **Regla:** ningún capítulo se escribe sin decir en su dossier qué movimiento sirve y qué explicación de El Servidor usa o reserva. Estado: M-1, M-2 y M-3 construidos con I.1-I.17; M-3 en curso por I.18 | 2026-11-14 | No es un segundo `SINOPSIS/`: no narra hechos ni fija escenas, fija reglas de construcción que atraviesan capítulos. Se actualiza al escribir cada capítulo. Derivado de la estructura de bloques (`ESTRUCTURA.md`) y del criterio de fracaso (decisión 18), sin cambiar canon ni reparto |
 | 124 | Escritura | **El Servidor puede dar explicaciones amplias en estas versiones**, dictado del autor: «El Servidor puede dar explicaciones amplias en éstas versiones». Queda sin efecto la propuesta de que no hablara en I.18: habla y explica (E-S-3, «creer y copiar»). Se abre el registro de sus explicaciones en §2 (E-S-1 a E-S-7), con lo dicho y lo reservado | 2026-11-14 | **No cambia C-2 ni C-4** (el nombre sigue sin guiño): cambia el **límite de extensión**, no la naturaleza. Guarda del criterio de fracaso: su explicación **explica lo que la vida ya muestra**, no lo demuestra, no convence a la que no cree y no se identifica con Dios. El registro evita repetir o contradecir lo ya dicho |
 | 125 | Escritura | **I.18 «La que no cree» escrito**, décimo del bloque I.2: **3.028 palabras** (+0,1 % sobre 3.025), 5 secciones, **4,1 % de citas**, 0 errores y 0 avisos. La sesión del 27 de agosto de 2026 abre con el acta del 20; la copia está atrasada por agosto y Milenial de la copia copia a mano el acta del 6; al llegar a «Se lee una pagina de fisica. Se guarda en la caja cuarta» se para y dice «No lo creo». La casa no la corrige, no la consola y no la echa; El Servidor da una explicación amplia (E-S-3: creer y copiar, «No os pedí que creyerais. Os pedí que escribierais. Lo que crees se gasta; la letra no»); ella sigue sin creer y copia la línea corrigiéndole las tildes; el acta del 27 recoge las tres copias y no la frase; el miércoles siguiente hace el caldo. **18/126, 53.527 palabras** | 2026-11-14 | Escrito con **P1, P2 y P6** de E-05 y sin sinopsis de hechos (decisión 81). Sirve a **M-3** (el coste y la disidencia) con M-1 de fondo, según el hilo conductor (§2, decisión 123). Continuidad: cuaderno azul y tercera cláusula (I.3), caja cuarta abierta en agosto y página 211 (I.16), acta del 20 y cuadrante (I.17), actas sin nombres y sin año (I.5, I.8, I.13), Alfa sin voto (decisión 54). No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008 y no repite los recursos de I.9-I.17. **Pendiente de revisión del autor** |
-| 120 | Soporte | **Copia de seguridad de la v58 en el USB** (orden del autor: «Aprobado I.16, escribe sube al repositorio y haz copia en el usb»). En `/mnt/usb` (`/dev/sda1`, exFAT, ya montado): **bundle verificado** (`los-archivos-2026-11-12-v58.bundle`, **131 commits**, clonado de prueba en `/tmp/clon-v58b` con `HEAD` = `a87cc49` y `nk estado` → 17/126, 50.499 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** (30 ficheros), **`SINOPSIS/` en tar aparte** (7 ficheros), **`AGENTS.md`** al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `a87cc49` | 2026-11-12 | Nombres `los-archivos-2026-11-12-v58.*`. Se mantiene el método de las decisiones 71, 73, 79, 91, 103, 110 y 115. La primera pasada se hizo con el capítulo en 3.014 palabras (`3a058ab`) y se repitió, ya con el texto definitivo y el recuento en **3.033**, tras cuadrar el cajón de los cuadrantes con la regla de tirarlos al año: los dos bundles llevan el mismo nombre y solo vale el último, cuyo `SHA-256` está en `.sha256`. El bundle incluye la rama `local-v33`, de ahí que cuente 131 y no 79. Los commits de anotación posteriores a la copia (esta línea y la del cierre) no van en el bundle (decisión 79). No se toca el manuscrito |
+| 120 | Soporte | **Copia de seguridad de la v58 en el USB** (orden del autor: «Aprobado I.16, escribe sube al repositorio y haz copia en el usb»). En `/mnt/usb` (`/dev/sda1`, exFAT, ya montado): **bundle verificado** (`los-archivos-2026-11-12-v58.bundle`, **131 commits**, clonado de prueba en `/tmp/clon-v58b` con `HEAD` = `a87cc49` y `nk estado` → 17/126, 50.499 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** (30 ficheros), **`SINOPSIS/` en tar aparte** (7 ficheros), **`AGENTS.md`** al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `a87cc49` | 2026-11-12 | Nombres `los-archivos-2026-11-12-v58.*`. Se mantiene el método de las decisiones 71, 73, 79, 91, 103, 110 y 115. La primera pasada se hizo con el capítulo en 3.017 palabras (`3a058ab`) y se repitió, ya con el texto definitivo y el recuento en **3.033**, tras cuadrar el cajón de los cuadrantes con la regla de tirarlos al año: los dos bundles llevan el mismo nombre y solo vale el último, cuyo `SHA-256` está en `.sha256`. El bundle incluye la rama `local-v33`, de ahí que cuente 131 y no 79. Los commits de anotación posteriores a la copia (esta línea y la del cierre) no van en el bundle (decisión 79). No se toca el manuscrito |
 | 126 | Soporte | **Copia de seguridad de la v59 en el USB** (orden del autor: «está revisado. Copia al USB»). En `/mnt/usb` (`/dev/sda1`, exFAT, ya montado): **bundle verificado** (`los-archivos-2026-11-14-v59.bundle`, **136 commits** con `--all`, clonado de prueba en `/tmp/clon-v59` con `HEAD` = `44f059e` y `nk estado` → 18/126, 53.527 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** (30 ficheros), **`SINOPSIS/` en tar aparte** (7 ficheros), **`AGENTS.md`** al día —ya con el estado de la v59— y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `44f059e` | 2026-11-14 | Nombres `los-archivos-2026-11-14-v59.*`. Se mantiene el método de las decisiones 71, 73, 79, 91, 103, 110, 115 y 120; el bundle va con `nk respaldo --etiqueta v59`. El bundle incluye la rama `local-v33`, de ahí que cuente 136 y no 84. Los commits de anotación posteriores a la copia (esta línea y la del cierre) no van en el bundle (decisión 79). No se toca el manuscrito |
+
+| 127 | Escritura | **I.18 «La que no cree» aprobado** por el autor: «Se aprueba I.18» y, al reanudar, la confirmación de que el «está revisado» del dictado de la v59 (decisión 126) era ya la revisión. Se cierra con **3.028 palabras** (+0,1 % sobre 3.025), 5 secciones, 4,1 % de citas, 0 errores y 0 avisos. **18/126 capítulos, 53.527 palabras** | 2026-11-15 | Cierra la 125. I.18 queda como décima pieza del bloque I.2: la que copia a mano dice que no cree y la casa no la convierte, no la discute y no la echa. La aprobación se anota en la v60 porque el dictado de la v59 («está revisado. Copia al USB») se había registrado como orden de copia y no como visto bueno; el autor lo aclara al reanudar. Se desbloquea **I.19**, undécimo del bloque, con dossier por preparar |
+| 128 | Escritura | **Dossier de I.19 «La casa de la esquina» preparado** (§0 unvicies), undécimo del bloque I.2, por orden del autor («Escribir + dossier I.19»). La lista de los teléfonos (I.15) trae el asunto: la casa de la esquina pidió que no se le llamara, y la casa no vuelve a llamar pero le lleva **una vez** una ración de caldo. Prácticas E-05: **P7, P4 y P2**. Sin sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-15 | Tres **elecciones locales** sujetas a revisión: el destino es la casa de la esquina de I.15; la olla se queda allí y acaba de maceta; la nota no lleva firma y nombra a la casa, no a una persona. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008 y no repite los recursos de I.9-I.18. Sirve a **M-2** con M-3 de fondo y M-1 en el cierre (la olla no entra en ningún papel) |
+| 129 | Escritura | **I.19 «La casa de la esquina» escrito**, undécimo del bloque I.2: **3.017 palabras** (−0,3 % sobre 3.025), 5 secciones, **6,6 % de citas**, 0 errores y 0 avisos. La lista de los teléfonos está sobre la mesa; la casa de la esquina pidió que no se le llamara, y la casa acuerda **cinco a tres** llevarle caldo **una vez**. La nota se escribe cuatro veces y se queda la más pobre (`Caldo de la casa de la parra. Miercoles.`), sin firma; la copista le pone la tilde y rompe el primer papel. El miércoles 9 el caldo se hace con **un vaso de agua más**, la casa come más claro y la ración que sale es la del agua; Alfa lleva la olla pequeña veintitrés pasos, llama una vez, la deja en el poyete y no ve a nadie cogerla. El acta del 10 dice «Se lleva el caldo a la casa de la esquina. No se entra». La olla no vuelve: el sábado se compra otra y el gasto va a la libreta sin motivo. En octubre la olla vieja está de **maceta** en la ventana de la casa verde, y el acta del 1 de octubre no lo recoge. **19/126, 56.544 palabras** | 2026-11-15 | Escrito con **P7, P4 y P2** de E-05 y sin sinopsis de hechos (decisión 81). Sirve a **M-2** con **M-3** de fondo y **M-1** en el cierre, según el hilo conductor (§2, decisión 123). El Servidor está y no habla: no se gasta explicación (la decisión 124 permite, no obliga). Continuidad: lista de los teléfonos y llamada del 30 de julio (I.15), caldo y receta con «ONCE»/«NUEVE» (I.7, I.18), cuadrante y regla del permiso (I.17), cuaderno azul (I.3, I.18), libreta y caja segunda (I.7, I.2), Alfa sin voto (decisión 54), actas sin nombres y sin año (I.5, I.8, I.13). **Pendiente de revisión del autor** |
 
 ---
 

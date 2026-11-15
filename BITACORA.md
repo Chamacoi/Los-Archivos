@@ -1150,7 +1150,7 @@ su dossier.
   `SINOPSIS/` en tar aparte (7 ficheros), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros
   comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `a87cc49`. Nombres
   `los-archivos-2026-11-12-v58.*`. La copia se hizo dos veces con el mismo nombre: la primera con el
-  capítulo en 3.014 palabras (`3a058ab`) y la segunda, la buena, ya con **3.033** tras cuadrar la
+  capítulo en 3.017 palabras (`3a058ab`) y la segunda, la buena, ya con **3.033** tras cuadrar la
   regla del cajón de los cuadrantes; vale la última, cuyo `SHA-256` está en `.sha256`. El bundle
   incluye la rama `local-v33`, de ahí que cuente 131 y no 79. El commit de anotación posterior no va
   en el bundle (decisión 79).
@@ -1192,3 +1192,30 @@ su dossier.
   (`nk informe`). Verificado: **0 errores, 0 avisos**.
 - Próximo paso: **revisión de I.18** y, si se aprueba, **I.19**, undécimo del bloque I.2, con dossier
   por preparar.
+
+## v60 — 2026-11-15
+
+- **I.18 «La que no cree» aprobado** por el autor (decisión 127): «Se aprueba I.18», con la
+  aclaración de que el «está revisado» que dictó al ordenar la copia al USB (decisión 126) era ya
+  la revisión. Se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
+  avisos. **18/126 capítulos, 53.527 palabras.**
+- **Dossier de I.19 «La casa de la esquina» preparado** (§0 unvicies, decisión 128), undécimo del
+  bloque I.2: la lista de los teléfonos, el caldo que sale, la nota sin firma y la olla que acaba de
+  maceta. Prácticas **P7, P4 y P2**; sin sinopsis de hechos. Sin decisiones pendientes del autor.
+- **I.19 «La casa de la esquina» escrito** (decisión 129): **3.017 palabras** (−0,3 %), 5 secciones,
+  **6,6 % de citas**, 0 errores y 0 avisos. La casa de la esquina pidió que no se le llamara y la
+  casa no vuelve a llamar, pero acuerda **cinco a tres** llevarle una vez una ración de caldo. La
+  nota se escribe cuatro veces y se queda la más pobre (`Caldo de la casa de la parra. Miercoles.`),
+  sin firma; la copista le pone la tilde y rompe el primer papel. El miércoles 9 el caldo se hace
+  con **un vaso de agua más**, la casa come más claro y la ración que sale es la del agua; Alfa
+  lleva la olla pequeña veintitrés pasos, llama una vez, la deja en el poyete y no ve a nadie
+  cogerla. El acta del 10 dice «Se lleva el caldo a la casa de la esquina. No se entra». La olla no
+  vuelve: el sábado se compra otra y el gasto va a la libreta sin motivo. En octubre la olla vieja
+  está de **maceta** en la ventana de la casa verde, y el acta del 1 de octubre no lo recoge.
+  **19/126, 56.544 palabras.** Sirve a **M-2** con M-3 de fondo y M-1 en el cierre.
+- Actualizados `APUNTES.md` (§0, §0 unvicies, §0 septendecies, §2, §3), `README.md`,
+  `CRONOLOGIA.md` (3, 9 y 10 de septiembre y 1 de octubre de 2026), `GLOSARIO.md` (la casa de la
+  esquina, la casa de la parra, el poyete), `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md`
+  (`nk contar --actualizar`) y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**.
+- Próximo paso: **revisión de I.19** y, si se aprueba, **I.20**, duodécimo del bloque I.2, con
+  dossier por preparar.

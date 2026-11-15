@@ -5,32 +5,17 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo. **I.1 a I.17 escritos y aprobados** (2.798, 2.727, 2.920, 2.926, 2.818,
-  3.269, 3.055, 3.368, 3.009, 2.825, 3.040, 2.794, 2.807, 3.206 y 3.105 palabras con el método
-  limpio; I.9 bajó de 3.015 a 3.009 al corregir la errata de la fórmula, decisión 99), e
-  **I.16 «La fotocopia» escrito**: **17/126 capítulos, 50.499 palabras**. I.8 cerró el bloque I.1
-  (decisión 77), I.9 abrió el bloque I.2 (decisión 82) y la errata de calendario de I.7 se corrigió el
-  2026-11-05 (decisión 85). **I.11 «El nombre» aprobado** el 2026-11-05 (decisión 88),
-  con el nombre propio a criterio del texto; **I.12 «Lo que no trae prueba» aprobado** (decisión 95).
-  **I.13 «Lo que se dice de pie»** escrito el 2026-11-06 (decisión 98) y **aprobado** (decisión 100).
-  **I.14 «Los discos»** aprobado el 2026-11-08 (decisiones 102 y 105), con un **porcentaje de sinopsis**
-  usado como argumento por orden del autor (`S-02` §B.7). **I.15 «La lista de los teléfonos»** escrito
-  el 2026-11-08 (decisión 108), con dossier en §0 sedecies (106) y **El Servidor hablando por orden
-  del autor** (decisión 107) y **aprobado** (decisión 111). **I.16 «La fotocopia» escrito**
-  (2.799 palabras, decisión 114) y **aprobado** (decisión 118), con dossier en §0 octodecies (113),
-  primera pieza que trae de fuera una **explicación** de la casa y no la refuta; usa **S-06** por
-  primera vez. **I.17 «El cuadrante» escrito** (3.033 palabras, decisión 119) y **aprobado**
-  (decisión 121), con dossier en §0 undevicies (117): el oficio de las sillas pasa de Boomer de la
-  silla a Alfa por una línea del cuadrante de la puerta de la cocina, que se tira el día uno.
-  **17/126 capítulos, 50.499 palabras**. **Dossier de I.18 «La que no cree» preparado** (§0 vicies,
-  decisión 122): el **criterio de fracaso** de §2 entra como **generador del argumento** (la que
-  copia a mano dice que no cree; la casa no la convierte, no la discute y no la echa). **`APUNTES.md`
-  lleva un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`: nueve
-  movimientos (M-1 a M-9) y registro de las explicaciones de El Servidor; ningún capítulo se escribe
-  sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas versiones**
-  (decisión 124). **I.18 «La que no cree» escrito** (3.028 palabras, decisión 125), con dossier en
-  §0 vicies (122): **18/126 capítulos, 53.527 palabras**; siguiente, **revisión de I.18** y, si se
-  aprueba, **I.19**, undécimo del bloque I.2.
+  C-1 a C-10 completo. **I.1 a I.18 escritos y aprobados** con el método limpio (decisión 28); I.8
+  cerró el bloque I.1 (decisión 77) e I.9 abrió el bloque I.2 (decisión 82). Correcciones de errata
+  autorizadas: calendario de I.7 (decisión 85) y fórmula de I.9 (decisión 99). **I.19 «La casa de la
+  esquina» escrito** (3.017 palabras, decisión 129), undécimo del bloque I.2, con dossier en §0
+  unvicies (128): **19/126 capítulos, 56.544 palabras**. **I.18 «La que no cree» aprobado** en la v60
+  (decisión 127), con el criterio de fracaso como generador del argumento (§2). **`APUNTES.md` lleva
+  un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`: nueve movimientos
+  (M-1 a M-9) y registro de las explicaciones de El Servidor (E-S-1 a E-S-7); ningún capítulo se
+  escribe sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas
+  versiones** (decisión 124). Siguiente: **revisión de I.19** y, si se aprueba, **I.20**, con dossier
+  por preparar.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -358,10 +343,15 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Abrir en `APUNTES.md` un **hilo conductor del argumento** (§2, decisión 123), paralelo a
       `SINOPSIS/`: nueve movimientos y registro de las explicaciones de El Servidor. **El Servidor
       puede dar explicaciones amplias en estas versiones** (decisión 124).
-- [ ] Escribir I.18 «La que no cree» (presupuesto 3.025 palabras), si el autor lo ordena.
 - [x] Escribir I.18 «La que no cree»: 3.028 palabras, 5 secciones, 4,1 % de citas, 0 errores y 0
-      avisos (2026-11-14, decisión 125); sirve a **M-3** del hilo conductor. **Pendiente de revisión
-      del autor.**
+      avisos (2026-11-14, decisión 125); sirve a **M-3** del hilo conductor. **Aprobado** en la v60
+      (decisión 127).
+- [x] Preparar el dossier de I.19 «La casa de la esquina» (2026-11-15, decisión 128): la lista de
+      los teléfonos, el caldo que sale, la nota sin firma y la olla que acaba de maceta. Prácticas
+      P7, P4 y P2. Sin decisiones pendientes del autor.
+- [x] Escribir I.19 «La casa de la esquina»: 3.017 palabras, 5 secciones, 6,6 % de citas, 0 errores
+      y 0 avisos (2026-11-15, decisión 129); sirve a **M-2** con M-3 de fondo. **Pendiente de
+      revisión del autor.**
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -374,11 +364,11 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-14 (v59, abierta).
-- Siguiente: **revisión de I.18 «La que no cree»** y, si se aprueba, **escribir I.19**, undécimo del
-  bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
-  (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento (§2,
-  decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.17 aprobados e I.18
-  pendiente; la escritura se comprueba con `escritura/bin/nk`.
+- Última sesión: 2026-11-15 (v60, en curso).
+- Siguiente: **revisión de I.19 «La casa de la esquina»** y, si se aprueba, **escribir I.20**,
+  duodécimo del bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3),
+  reparto (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento
+  (§2, decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.18 aprobados e
+  I.19 pendiente de revisión; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».
