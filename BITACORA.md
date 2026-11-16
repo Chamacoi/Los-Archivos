@@ -1211,7 +1211,7 @@ su dossier.
   lleva la olla pequeña veintitrés pasos, llama una vez, la deja en el poyete y no ve a nadie
   cogerla. El acta del 10 dice «Se lleva el caldo a la casa de la esquina. No se entra». La olla no
   vuelve: el sábado se compra otra y el gasto va a la libreta sin motivo. En octubre la olla vieja
-  está de **maceta** en la ventana de la casa verde, y el acta del 1 de octubre no lo recoge.
+  está de **maceta** en la ventana de la casa de la esquina, y el acta del 1 de octubre no lo recoge.
   **19/126, 56.544 palabras.** Sirve a **M-2** con M-3 de fondo y M-1 en el cierre.
 - **Subido a `origin/main`** (`ce551da..8a79590`) y **copia de seguridad de la v60 en el USB**
   (decisión 130, orden del autor: «commitea y actualiza todo, también el USB»). En `/mnt/usb`
@@ -1225,5 +1225,13 @@ su dossier.
   `CRONOLOGIA.md` (3, 9 y 10 de septiembre y 1 de octubre de 2026), `GLOSARIO.md` (la casa de la
   esquina, la casa de la parra, el poyete), `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md`
   (`nk contar --actualizar`) y `estado.json` (`nk informe`). Verificado: **0 errores, 0 avisos**.
-- Próximo paso: **revisión de I.19** y, si se aprueba, **I.20**, duodécimo del bloque I.2, con
+- **Revisión de I.19** por orden del autor («Toca el texto I.19 opción 2», decisión 131): la olla
+  que sale es la pequeña y el gancho vacío es el bajo; se compra una olla pequeña con asa remachada
+  y el estreno pasa a las lentejas del domingo; la compra vuelve al lunes; «casa verde» pasa a «casa
+  de la esquina»; «no sabía» por «no sabían». **3.041 palabras** (+0,5 %), 5 secciones, 6,6 % de
+  citas, 0 errores y 0 avisos. **19/126, 56.568 palabras.**
+- **Régimen de `SINOPSIS/` fijado** por el autor (decisión 132): los **7 ficheros** no se dan a
+  conocer y se preservan; lo que se usa son los **datos**, que generan contenido. Sigue ignorada por
+  git y en el tar aparte de la copia; fuera de índices compartidos.
+- Próximo paso: **aprobación de I.19** y, si se aprueba, **I.20**, duodécimo del bloque I.2, con
   dossier por preparar.

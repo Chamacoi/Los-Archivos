@@ -12,18 +12,18 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   autor (decisión 127), con la aclaración de que el «está revisado» de la decisión 126 ya era la
   revisión: se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
   avisos. **Dossier de I.19 «La casa de la esquina» preparado** (§0 unvicies, decisión 128), undécimo
-  del bloque I.2, sin decisiones que pedir al autor, y **I.19 escrito** (decisión 129): **3.017
-  palabras** (−0,3 %), 5 secciones, **6,6 % de citas**, 0 errores y 0 avisos. Sirve a **M-2** con
-  **M-3** de fondo. La lista de los teléfonos (I.15) trae el asunto: la casa de la esquina pidió que
+  del bloque I.2, sin decisiones que pedir al autor, y **I.19 escrito** (decisión 129) y **revisado**
+  por orden del autor (decisión 131): **3.041 palabras** (+0,5 %), 5 secciones, **6,6 % de citas**, 0
+  errores y 0 avisos. Sirve a **M-2** con **M-3** de fondo. La lista de los teléfonos (I.15) trae el asunto: la casa de la esquina pidió que
   no se le llamara, y la casa no vuelve a llamar pero le lleva **una vez** una ración de caldo; la
   nota sale sin el nombre de nadie («Caldo de la casa de la parra. Miercoles.»), se deja en el
   poyete, no se ve a nadie cogerla y la olla no vuelve: en octubre está de **maceta** en la ventana
-  de la casa verde. El coste es **un vaso de agua** en la receta y una **olla nueva**. El acta del 3
-  recoge «Cinco a tres» y no el porqué; la del 10, «Se lleva el caldo a la casa de la esquina. No se
-  entra»; la del 1 de octubre no recoge la olla. **19/126 capítulos, 56.544 palabras.** **Subido a
+  de la casa de la esquina. El coste es **un vaso de agua** en la receta y una **olla nueva** (pequeña:
+  la que sale es la de las lentejas). El acta del 3 recoge «Cinco a tres» y no el porqué; la del 10,
+  «Se lleva el caldo a la casa de la esquina. No se entra»; la del 1 de octubre no recoge la olla. **19/126 capítulos, 56.568 palabras.** **Subido a
   `origin/main`** (`ce551da..8a79590`) y **copia de seguridad de la v60 en el USB** (decisión 130):
   bundle verificado, materiales, `SINOPSIS/` en tar aparte, `AGENTS.md` al día y hashes comprobados.
-  Pendiente de revisión del autor; siguiente: **I.20**, con dossier por preparar.
+  **Pendiente de aprobación** del autor; siguiente: **I.20**, con dossier por preparar.
 - **Sesión anterior:** 2026-11-14 (**v59, cerrada**). **I.17 «El cuadrante» aprobado** por el autor
   («aprobado I.17», decisión 121): se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5
   secciones, 3,7 % de citas, 0 errores y 0 avisos. **Dossier de I.18 «La que no cree» preparado**
@@ -1998,6 +1998,20 @@ por las rodillas (I.17); **(4)** la lista vuelve al cajón con la misma cinta an
 sesión; **(5)** el 17 de septiembre Equis del bolígrafo repite su objeción y el acta solo recoge la
 leña y la hora. **Pendiente de revisión del autor.**
 
+**Revisado en la v60** (decisión 131, orden del autor: «Toca el texto I.19 opción 2»), sin mover los
+diez puntos de arriba salvo el tamaño del objeto perdido: **(1)** la olla que sale de la casa es la
+**pequeña** —la de las lentejas, con la abolladura y el asa soldada del lado de fuera— y el gancho que
+queda vacío es el **gancho bajo**, donde colgaba; **(2)** la casa compra el sábado una **olla
+pequeña** con el asa remachada, no una grande, y la trae Boomer de la silla; **(3)** el caldo de los
+miércoles se sigue haciendo en la **olla grande**, y el estreno de la nueva se traslada a las
+**lentejas del domingo**, que salen más espesas y «saben a olla nueva»; **(4)** el punto 8 del dossier
+—«el 16 de septiembre el caldo sale más espeso en la olla nueva»— **no se cumple**: el caldo sale
+como siempre y lo que cambia es el guiso del domingo; **(5)** la compra vuelve al **lunes**, como dice
+el cuadrante, y la salida al mercado del sábado es la de la olla; **(6)** «la casa verde» pasa a «la
+casa de la esquina» porque el capítulo no le daba ese nombre y verde es el color de la puerta;
+**(7)** «no sabía» por «no sabían», errata de concordancia. Cierra en **3.041 palabras** (+0,5 %), 5
+secciones, 6,6 % de citas, 0 errores y 0 avisos.
+
 ---
 
 ---
@@ -2462,6 +2476,10 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 129 | Escritura | **I.19 «La casa de la esquina» escrito**, undécimo del bloque I.2: **3.017 palabras** (−0,3 % sobre 3.025), 5 secciones, **6,6 % de citas**, 0 errores y 0 avisos. La lista de los teléfonos está sobre la mesa; la casa de la esquina pidió que no se le llamara, y la casa acuerda **cinco a tres** llevarle caldo **una vez**. La nota se escribe cuatro veces y se queda la más pobre (`Caldo de la casa de la parra. Miercoles.`), sin firma; la copista le pone la tilde y rompe el primer papel. El miércoles 9 el caldo se hace con **un vaso de agua más**, la casa come más claro y la ración que sale es la del agua; Alfa lleva la olla pequeña veintitrés pasos, llama una vez, la deja en el poyete y no ve a nadie cogerla. El acta del 10 dice «Se lleva el caldo a la casa de la esquina. No se entra». La olla no vuelve: el sábado se compra otra y el gasto va a la libreta sin motivo. En octubre la olla vieja está de **maceta** en la ventana de la casa verde, y el acta del 1 de octubre no lo recoge. **19/126, 56.544 palabras** | 2026-11-15 | Escrito con **P7, P4 y P2** de E-05 y sin sinopsis de hechos (decisión 81). Sirve a **M-2** con **M-3** de fondo y **M-1** en el cierre, según el hilo conductor (§2, decisión 123). El Servidor está y no habla: no se gasta explicación (la decisión 124 permite, no obliga). Continuidad: lista de los teléfonos y llamada del 30 de julio (I.15), caldo y receta con «ONCE»/«NUEVE» (I.7, I.18), cuadrante y regla del permiso (I.17), cuaderno azul (I.3, I.18), libreta y caja segunda (I.7, I.2), Alfa sin voto (decisión 54), actas sin nombres y sin año (I.5, I.8, I.13). **Pendiente de revisión del autor** |
 
 | 130 | Soporte | **Copia de seguridad de la v60 en el USB** (orden del autor: «commitea y actualiza todo, también el USB»). Primero, `origin/main` (`ce551da..8a79590`). En `/mnt/usb` (`/dev/sda1`, exFAT, montado con `mount -t exfat`): **bundle verificado** (`los-archivos-2026-11-15-v60.bundle`, **139 commits** con `--all`, clonado de prueba en `/tmp/clon-v60` con `HEAD` = `8a79590` y `nk estado` → 19/126, 56.544 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** (30 ficheros), **`SINOPSIS/`** en tar aparte (7 ficheros, mismo `SHA-256` que en la v55-v59: sin cambios), **`AGENTS.md`** al día —ya con el estado de la v60— y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `8a79590` | 2026-11-15 | Nombres `los-archivos-2026-11-15-v60.*`. Se mantiene el método de las decisiones 71, 73, 79, 91, 103, 110, 115, 120 y 126; el bundle va con `nk respaldo --etiqueta v60`. El bundle incluye la rama `local-v33`, de ahí que cuente 139 y no 87. Los commits de anotación posteriores a la copia (esta línea y la del cierre) no van en el bundle (decisión 79). No se toca el manuscrito |
+
+| 131 | Escritura | **Revisión de I.19 por orden del autor** («Toca el texto I.19 opción 2»): cuatro correcciones sobre el capítulo escrito, sin cambiar canon ni dossier. **(1) La olla:** la que sale de la casa es la **pequeña** (la de las lentejas) y el gancho que queda vacío es el bajo; la casa compra una **olla pequeña** con asa remachada, el caldo de los miércoles se sigue haciendo en la grande y el estreno de la nueva pasa a las **lentejas del domingo**. **(2) La compra:** «volvía al lunes», como el cuadrante, y la olla la trae Boomer de la silla el sábado. **(3) «La casa verde» → «la casa de la esquina».** **(4) Concordancia:** «no sabía» por «no sabían». Queda en **3.041 palabras** (+0,5 %), 5 secciones, 6,6 % de citas, 0 errores y 0 avisos. **19/126, 56.568 palabras** | 2026-11-15 | Cierra el defecto de continuidad interna detectado en la revisión: el capítulo decía que el gancho vacío era el de la olla grande y la olla que salía era la pequeña. Se elige la **opción 2** de las dos propuestas al autor (tocar solo el capítulo, no el dossier). No cambia canon, no toca C-8, C-9 ni C-10, no mueve anclajes de sinopsis y no altera los diez puntos del dossier §0 unvicies salvo el tamaño del objeto perdido, anotado en §0 unvicies. La fila 129 conserva la cifra y la descripción con que se escribió, como registro |
+
+| 132 | Material | **Régimen de `SINOPSIS/` fijado por el autor**: los **7 ficheros** no se han de dar a conocer y se han de **preservar**; lo que sí se usa son los **datos**, que son material para generar contenido. `SINOPSIS/` sigue en `.gitignore` (no versionada desde la v44), fuera de las exportaciones y de cualquier índice compartido; la información se consulta para escribir y solo se cita a través de lo que dice el capítulo | 2026-11-15 | Precisa la decisión 112 y el uso de sinopsis de la 81: **la ficha es privada, el hecho no**. Se comprueba que los siete ficheros están ignorados por git y en el tar aparte de la copia de la v60 (decisión 130). No se indexan en herramientas de consulta compartidas; si se indexan para uso local, van en un índice aparte, nunca en el del repositorio. No cambia canon ni manuscrito |
 
 ---
 
