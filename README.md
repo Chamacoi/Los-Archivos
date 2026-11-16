@@ -373,7 +373,7 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-15 y 16 (v60, en curso).
+- Última sesión: 2026-11-15 y 16 (v60, cerrada).
 - Siguiente: **revisión de I.19 «La casa de la esquina»** y, si se aprueba, **escribir I.20**,
   duodécimo del bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3),
   reparto (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento

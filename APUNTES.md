@@ -8,7 +8,7 @@
 viven en ficheros aparte: están en §0, uno por capítulo, y el índice dice en qué sección está cada uno,
 cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gastados.
 
-- **Sesión actual:** 2026-11-15 y 16 (**v60, en curso**). **I.18 «La que no cree» aprobado** por el
+- **Sesión actual:** 2026-11-15 y 16 (**v60, cerrada**). **I.18 «La que no cree» aprobado** por el
   autor (decisión 127), con la aclaración de que el «está revisado» de la decisión 126 ya era la
   revisión: se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
   avisos. **Dossier de I.19 «La casa de la esquina» preparado** (§0 unvicies, decisión 128), undécimo
@@ -32,7 +32,9 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   regla del cuaderno. No se abre»; la página 61 no se lee y el cuaderno vuelve bajo los discos, más
   blanco que escrito. Prácticas **P8, P2 y P1**; sirve a **M-1** con M-2 y M-3 de fondo. **20/126
   capítulos, 59.747 palabras.** **Pendiente de revisión del autor**; siguiente: **I.21**, decimotercero
-  del bloque I.2, con dossier por preparar.
+  del bloque I.2, con dossier por preparar. **Sesión cerrada** el 2026-11-16 por orden del autor («lo
+  dejamos así»): I.20 queda sin revisar, el USB en el bundle del 16 —anterior a I.20— y no se hace
+  otra copia; el último commit de la sesión es la anotación de este cierre.
 - **Sesión anterior:** 2026-11-14 (**v59, cerrada**). **I.17 «El cuadrante» aprobado** por el autor
   («aprobado I.17», decisión 121): se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5
   secciones, 3,7 % de citas, 0 errores y 0 avisos. **Dossier de I.18 «La que no cree» preparado**

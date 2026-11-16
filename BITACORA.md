@@ -1264,3 +1264,10 @@ su dossier.
   verificado con **0 errores, 0 avisos**.
 - Próximo paso: **revisión de I.20** por el autor y, si se aprueba, **I.21**, decimotercero del
   bloque I.2, con dossier por preparar.
+- **Cierre de la v60** (orden del autor: «lo dejamos así, cierra esta sesión de git»): sesión de dos
+  días (15 y 16) con I.19 aprobado y revisado (3.041 palabras), I.20 escrito (3.179) y pendiente de
+  revisión, diez decisiones nuevas (131-137 más las de soporte) y **20/126 capítulos, 59.747
+  palabras**, verificado con 0 errores y 0 avisos. El código queda en `origin/main` (`4efb187` y el
+  commit de este cierre); **no se hace copia nueva al USB**: el medio lleva la segunda pasada del 16
+  (`08450ae`), anterior a I.20, por acuerdo del autor. Próximo arranque: revisión de I.20 y, si se
+  aprueba, I.21 con dossier por preparar.
