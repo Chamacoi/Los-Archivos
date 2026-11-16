@@ -1193,7 +1193,7 @@ su dossier.
 - Próximo paso: **revisión de I.18** y, si se aprueba, **I.19**, undécimo del bloque I.2, con dossier
   por preparar.
 
-## v60 — 2026-11-15
+## v60 — 2026-11-15 y 16
 
 - **I.18 «La que no cree» aprobado** por el autor (decisión 127): «Se aprueba I.18», con la
   aclaración de que el «está revisado» que dictó al ordenar la copia al USB (decisión 126) era ya
@@ -1242,5 +1242,13 @@ su dossier.
   apunta lo que no se corrige y **se vota siete a uno no reabrirlo**; la página 61 no se lee y el
   blanco sigue en blanco. Prácticas **P8, P2 y P1**; sin sinopsis de hechos. **Una decisión
   pendiente del autor:** si El Servidor habla (E-S-8) o se queda callado.
+- **Copia de seguridad de la v60, segunda pasada** (decisión 135): el reloj marca **2026-11-16**, así
+  que la revisión, la aprobación y el dossier (131-134) pasan a esa fecha y la v60 queda como sesión
+  de dos días. En `/mnt/usb` (`/dev/sda1`, exFAT, montado con `mount -t exfat`): bundle
+  `los-archivos-2026-11-16-v60.bundle` **verificado** y clonado de prueba (`/tmp/clon-v60b`, `HEAD` =
+  `08450ae`, **143 commits**, `nk estado` → 19/126, 56.568 palabras, `nk verificar --rubrica` → 0
+  errores y 0 avisos), materiales, `SINOPSIS/` en tar aparte (mismo `SHA-256`: sin cambios),
+  `AGENTS.md` al día y los cuatro `SHA-256` comprobados; clon `/mnt/usb/los-archivos-repo` en
+  `08450ae`. El bundle del 15 se conserva como histórico (es anterior a la revisión).
 - Próximo paso: **decisión del autor sobre El Servidor en I.20** y, si la hay, escritura del
   duodécimo capítulo del bloque I.2.

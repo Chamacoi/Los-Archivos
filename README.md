@@ -354,7 +354,7 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Escribir I.19 «La casa de la esquina»: 5 secciones, 6,6 % de citas, 0 errores y 0 avisos
       (2026-11-15, decisión 129); sirve a **M-2** con M-3 de fondo. **Revisado** por orden del autor
       (decisión 131): 3.041 palabras. **Aprobado** (decisión 133).
-- [x] Preparar el dossier de I.20 «El cuaderno de los errores» (2026-11-15, decisión 134): el
+- [x] Preparar el dossier de I.20 «El cuaderno de los errores» (2026-11-16, decisión 134): el
       cuaderno cerrado el 12-II, el blanco, la regla de la tapa y el siete a uno que no lo reabre.
       Prácticas P8, P2 y P1. **Una decisión pendiente del autor**: si El Servidor habla (E-S-8).
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
@@ -369,7 +369,7 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-15 (v60, en curso).
+- Última sesión: 2026-11-15 y 16 (v60, en curso).
 - Siguiente: **revisión de I.19 «La casa de la esquina»** y, si se aprueba, **escribir I.20**,
   duodécimo del bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3),
   reparto (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento
