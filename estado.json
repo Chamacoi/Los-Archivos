@@ -5,7 +5,7 @@
   "objetivo_tipo": "referencia",
   "capitulos": 126,
   "escritos": 19,
-  "palabras": 56544,
+  "palabras": 56568,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -15,7 +15,7 @@
       "capitulos": 63,
       "presupuesto": 190552,
       "escritos": 19,
-      "palabras": 56544
+      "palabras": 56568
     },
     {
       "id": "II",
@@ -211,9 +211,9 @@
       "id": "I.19",
       "titulo": "La casa de la esquina",
       "escrito": true,
-      "palabras": 3017,
+      "palabras": 3041,
       "presupuesto": 3025,
-      "desviacion": -0.0026,
+      "desviacion": 0.0053,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/19-capitulo.md"
     },

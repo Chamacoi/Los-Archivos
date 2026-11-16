@@ -4,7 +4,7 @@
 
 ## 1. La lista del cajón
 
-La sesión del 3 de septiembre se abrió a las siete y diez. Asistieron nueve. Septiembre traía tres cosas: el colegio de Alfa, que empezaba el lunes; la compra grande, que volvía al viernes; y la caldera, que había dejado de hacer ruido en agosto sin que nadie la tocara. La casa habló de las tres por ese orden.
+La sesión del 3 de septiembre se abrió a las siete y diez. Asistieron nueve. Septiembre traía tres cosas: el colegio de Alfa, que empezaba el lunes; la compra grande, que volvía al lunes; y la caldera, que había dejado de hacer ruido en agosto sin que nadie la tocara. La casa habló de las tres por ese orden.
 
 Leyó Equis del registro el acta del 27 de agosto, de pie, con el cuaderno abierto:
 
@@ -19,7 +19,7 @@ Sobre la mesa, al lado del cuaderno de las actas, había una hoja que no era del
 
 —Se pega —dijo Zeta de los no consta.
 
-Nadie la cogió. La casa siguió con el colegio de Alfa, que necesitaba un babi y una lista de libros que no estaba en ningún sitio, y con la compra, que en septiembre volvía al viernes, y con la caldera, que no había que tocar porque se había callado sola y eso, en la casa, también era un dato.
+Nadie la cogió. La casa siguió con el colegio de Alfa, que necesitaba un babi y una lista de libros que no estaba en ningún sitio, y con la compra, que en septiembre volvía al lunes, y con la caldera, que no había que tocar porque se había callado sola y eso, en la casa, también era un dato.
 
 —Uno de estos no quiere —dijo Milenial de la copia.
 
@@ -59,7 +59,7 @@ Equis del bolígrafo dejó el bolígrafo en la mesa.
 
 —Es la puerta.
 
-Milenial de la pregunta dijo que no sabían si comía caldo, ni si comía, ni si estaba, y que la casa no tenía costumbre de llamar dos veces. Boomer de la tapa dijo que a él le habían enseñado que al que no quiere no se le insiste, y que en su casa no se llamaba a la puerta del que no quería. Zeta de los no consta dijo que en la residencia había gente que no quería visita y comía igual, y que la comida no era una visita. Boomer de la silla dijo que el caldo se hacía igual y que una olla más o una olla menos no cambiaba la receta.
+Milenial de la pregunta dijo que no sabía si comía caldo, ni si comía, ni si estaba, y que la casa no tenía costumbre de llamar dos veces. Boomer de la tapa dijo que a él le habían enseñado que al que no quiere no se le insiste, y que en su casa no se llamaba a la puerta del que no quería. Zeta de los no consta dijo que en la residencia había gente que no quería visita y comía igual, y que la comida no era una visita. Boomer de la silla dijo que el caldo se hacía igual y que una olla más o una olla menos no cambiaba la receta.
 
 —Cambia la ración —dijo Milenial de la pregunta.
 
@@ -161,7 +161,7 @@ Milenial de la copia dobló la nota por la mitad, sin apretar el doblez, y la de
 
 El miércoles 9 de septiembre Milenial de la copia hizo el caldo como lo hace siempre. Sacó la receta de la ranura del bote, con el «ONCE» tachado y el «NUEVE» escrito encima, y puso el agua, el hueso, la cebolla y la zanahoria. La receta no dice cuánta agua: dice para cuántos. Para nueve.
 
-La olla grande estaba en el gancho de la pared, con el asa soldada del lado de la pared. Milenial de la copia la llenó, contó los platos y contó las personas, y salieron nueve y nueve. Después miró la olla, y miró la receta, y echó un vaso de agua más. El agua no está en la receta. La receta dice para cuántos, y el agua la pone la mano.
+La olla grande estaba en el gancho de la pared, con el asa soldada del lado de la pared, y la pequeña colgaba del gancho bajo, al lado de la sartén. Milenial de la copia llenó la grande, contó los platos y contó las personas, y salieron nueve y nueve. Después miró la olla, y miró la receta, y echó un vaso de agua más. El agua no está en la receta. La receta dice para cuántos, y el agua la pone la mano.
 
 El caldo salió claro. La casa lo comió a la una y media, y nadie dijo nada del color. Boomer de la tapa dijo que el caldo de septiembre siempre salía claro porque la verdura venía del tiempo nuevo, y Milenial de la copia no lo desmintió. Se sirvieron nueve platos. El vaso de agua era la ración que iba a salir. En la olla quedó esa ración, la que no se sirvió, y Milenial de la copia la dejó enfriar, la pasó a la olla pequeña, la tapó y puso encima el paño de cuadros.
 
@@ -193,7 +193,7 @@ En la esquina se volvió. El poyete estaba vacío. La puerta seguía cerrada y e
 
 —Con la olla.
 
-La casa no preguntó más. Alfa se sentó y merendó, y a las ocho y media se cenó lo que había. Las sillas se subieron al día siguiente, como se subían todos los jueves. En el gancho de la pared quedó el hueco de la olla grande, que no era un hueco: era un gancho vacío, y la casa tenía otro gancho al lado, con la sartén.
+La casa no preguntó más. Alfa se sentó y merendó, y a las ocho y media se cenó lo que había. Las sillas se subieron al día siguiente, como se subían todos los jueves. En el gancho de la pared siguió la olla grande, y el gancho bajo quedó vacío, con la sartén al lado en el suyo.
 
 ## 4. El gancho vacío
 
@@ -208,9 +208,11 @@ Equis del bolígrafo dijo que seguía pareciéndole que la olla había llamado a
 
 Milenial de la pregunta preguntó si el voto en contra se apuntaba en el acta. Equis del registro dijo que se apuntaba el resultado y no quién había votado qué: en la casa se apuntaba lo que la casa había hecho. En el acta del 3 estaban el cinco y el tres, y no estaban los nombres. Los nombres no se escriben en las actas, y los votos tampoco se escriben con nombre: se escriben contados, como las sillas.
 
-El sábado la compra fue al mercado y volvió con una olla grande, del mismo tamaño que la otra y con las asas remachadas en vez de soldadas. Costó lo que costó y se apuntó en la libreta de tapas negras, en la columna de las salidas, sin decir por qué. La libreta no tiene columna de motivos. La casa colgó la olla nueva en el gancho y la sartén siguió en el suyo.
+El sábado Boomer de la silla fue al mercado y volvió con una olla pequeña, del tamaño de la que faltaba y con el asa remachada en vez de soldada. Costó lo que costó y se apuntó en la libreta de tapas negras, en la columna de las salidas, sin decir por qué. La libreta no tiene columna de motivos. La casa colgó la olla nueva en el gancho bajo y la sartén siguió en el suyo.
 
-El miércoles siguiente, 16 de septiembre, Milenial de la copia hizo el caldo en la olla nueva. La receta no cambia: para nueve. La olla nueva era más honda que la otra y el caldo subió menos, y salió más espeso, y la casa dijo que estaba mejor. Boomer de la tapa dijo que el hueso había salido bueno. Zeta del margen dijo que el caldo de la olla nueva sabía a olla nueva, y Boomer de la silla dijo que eso no se puede saber.
+El miércoles siguiente, 16 de septiembre, Milenial de la copia hizo el caldo en la olla grande, la de siempre. La receta no cambia: para nueve. El caldo salió como sale todos los meses, y la casa se lo comió, y Boomer de la tapa dijo que el hueso había salido bueno.
+
+La olla nueva no se estrenó hasta el domingo, con las lentejas. Era más honda que la otra, las lentejas subieron menos y salieron más espesas, y Zeta del margen dijo que sabían a olla nueva, y Boomer de la silla dijo que eso no se puede saber.
 
 No hubo caldo que llevar. La casa de la esquina no llamó, y la casa no llamó a la casa de la esquina. En el cajón del pasillo, la lista de los teléfonos seguía pegada con la misma cinta por las esquinas, con las diez marcas sin clave, y allí siguió.
 
@@ -218,7 +220,7 @@ En la sesión del 17 de septiembre se habló del invierno, que llegaba temprano,
 
 ## 5. La ventana
 
-El 1 de octubre, jueves, Alfa llegó a la sesión con una cosa que había visto. Había ido al colegio por la calle de la esquina y en la ventana de la casa verde había una planta de hoja ancha, y la planta estaba en una olla, y la olla tenía el asa soldada del lado de la calle.
+El 1 de octubre, jueves, Alfa llegó a la sesión con una cosa que había visto. Había ido al colegio por la calle de la esquina y en la ventana de la casa de la esquina había una planta de hoja ancha, y la planta estaba en una olla, y la olla tenía el asa soldada del lado de la calle.
 
 —Era la nuestra —dijo Alfa.
 
@@ -231,11 +233,11 @@ Equis del registro tenía el cuaderno abierto y el bolígrafo encima. Miró a Al
 > Sesion del 1 de octubre. Se abre a las siete y dies. Asisten nueve. Se lee el acta del 17. Se pide
 > la leña. Se cierra a las ocho y cuarenta.
 
-La casa no apuntó lo de la olla en ningún papel. No estaba en el acta, ni en la libreta de tapas negras, ni en el cuaderno azul, ni en el cuaderno de los errores. La olla había salido de la casa un miércoles de septiembre con una ración de caldo y una nota sin firma, y en octubre estaba en una ventana con una planta dentro. La casa siguió haciendo caldo los miércoles en la olla nueva y subiendo las sillas los jueves, y el invierno entró como entra todos los años, con la leña pedida y la ventana del pasillo cerrando mal.
+La casa no apuntó lo de la olla en ningún papel. No estaba en el acta, ni en la libreta de tapas negras, ni en el cuaderno azul, ni en el cuaderno de los errores. La olla había salido de la casa un miércoles de septiembre con una ración de caldo y una nota sin firma, y en octubre estaba en una ventana con una planta dentro. La casa siguió haciendo caldo los miércoles en la olla grande y subiendo las sillas los jueves, y el invierno entró como entra todos los años, con la leña pedida y la ventana del pasillo cerrando mal.
 
 En el cuadrante de octubre, pegado en la puerta de la cocina, la línea del miércoles siguió diciendo lo mismo:
 
 > CUADRANTE DE LA CASA. OCTUBRE
 > miercoles: caldo (Milenial de la copia) / polvo (Zeta de los no consta)
 
-El cuadrante se tira el día uno, y la olla no estaba en ningún cuadrante. Alfa pasó por delante de la ventana muchas veces aquel otoño. La planta creció y el asa soldada se fue quedando del lado de la calle. La casa de la esquina nunca llamó, y la casa de la parra no volvió a llevar caldo, porque se lleva una vez, como se llama una vez. En la cocina, el gancho vacío se ocupó con la olla nueva, la de las asas remachadas, que hacía el caldo más espeso.
+El cuadrante se tira el día uno, y la olla no estaba en ningún cuadrante. Alfa pasó por delante de la ventana muchas veces aquel otoño. La planta creció y el asa soldada se fue quedando del lado de la calle. La casa de la esquina nunca llamó, y la casa de la parra no volvió a llevar caldo, porque se lleva una vez, como se llama una vez. En la cocina, el gancho bajo se ocupó con la olla nueva, la del asa remachada, que estrenó las lentejas a los pocos días.
