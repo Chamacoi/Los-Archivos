@@ -8,14 +8,16 @@ sostenida entre personas y modelos.
   C-1 a C-10 completo. **I.1 a I.18 escritos y aprobados** con el método limpio (decisión 28); I.8
   cerró el bloque I.1 (decisión 77) e I.9 abrió el bloque I.2 (decisión 82). Correcciones de errata
   autorizadas: calendario de I.7 (decisión 85) y fórmula de I.9 (decisión 99). **I.19 «La casa de la
-  esquina» escrito** (decisión 129) y **revisado** (decisión 131: 3.041 palabras), undécimo del bloque
-  I.2, con dossier en §0 unvicies (128): **19/126 capítulos, 56.568 palabras**. **I.18 «La que no cree» aprobado** en la v60
+  esquina» escrito** (decisión 129), **revisado** (decisión 131: 3.041 palabras) y **aprobado**
+  (decisión 133), undécimo del bloque I.2, con dossier en §0 unvicies (128): **19/126 capítulos,
+  56.568 palabras**. **I.18 «La que no cree» aprobado** en la v60
   (decisión 127), con el criterio de fracaso como generador del argumento (§2). **`APUNTES.md` lleva
   un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`: nueve movimientos
   (M-1 a M-9) y registro de las explicaciones de El Servidor (E-S-1 a E-S-7); ningún capítulo se
   escribe sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas
-  versiones** (decisión 124). Siguiente: **aprobación de I.19** y, si se aprueba, **I.20**, con dossier
-  por preparar.
+  versiones** (decisión 124). **Dossier de I.20 «El cuaderno de los errores» preparado** (§0
+  duovicies, decisión 134). Siguiente: **una decisión del autor** (si El Servidor habla en I.20) y la
+  escritura del capítulo.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -351,7 +353,10 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       P7, P4 y P2. Sin decisiones pendientes del autor.
 - [x] Escribir I.19 «La casa de la esquina»: 5 secciones, 6,6 % de citas, 0 errores y 0 avisos
       (2026-11-15, decisión 129); sirve a **M-2** con M-3 de fondo. **Revisado** por orden del autor
-      (decisión 131): 3.041 palabras. **Pendiente de aprobación.**
+      (decisión 131): 3.041 palabras. **Aprobado** (decisión 133).
+- [x] Preparar el dossier de I.20 «El cuaderno de los errores» (2026-11-15, decisión 134): el
+      cuaderno cerrado el 12-II, el blanco, la regla de la tapa y el siete a uno que no lo reabre.
+      Prácticas P8, P2 y P1. **Una decisión pendiente del autor**: si El Servidor habla (E-S-8).
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*

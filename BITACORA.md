@@ -1233,5 +1233,14 @@ su dossier.
 - **Régimen de `SINOPSIS/` fijado** por el autor (decisión 132): los **7 ficheros** no se dan a
   conocer y se preservan; lo que se usa son los **datos**, que generan contenido. Sigue ignorada por
   git y en el tar aparte de la copia; fuera de índices compartidos.
-- Próximo paso: **aprobación de I.19** y, si se aprueba, **I.20**, duodécimo del bloque I.2, con
-  dossier por preparar.
+- **I.19 «La casa de la esquina» aprobado** (decisión 133, «aprobado I.19»): se cierra con **3.041
+  palabras** (+0,5 %), 5 secciones, 6,6 % de citas, 0 errores y 0 avisos. **19/126, 56.568
+  palabras.** Texto y anotación ya en `origin/main` (`cdd9753..9821590`).
+- **Dossier de I.20 «El cuaderno de los errores» preparado** (§0 duovicies, decisión 134), duodécimo
+  del bloque I.2: el cuaderno se cierra el 12-II, el mismo día en que la consola empieza a escribir
+  su registro; la casa lee la regla de la tapa («Salvo que se pregunte»), Alfa pregunta para qué se
+  apunta lo que no se corrige y **se vota siete a uno no reabrirlo**; la página 61 no se lee y el
+  blanco sigue en blanco. Prácticas **P8, P2 y P1**; sin sinopsis de hechos. **Una decisión
+  pendiente del autor:** si El Servidor habla (E-S-8) o se queda callado.
+- Próximo paso: **decisión del autor sobre El Servidor en I.20** y, si la hay, escritura del
+  duodécimo capítulo del bloque I.2.

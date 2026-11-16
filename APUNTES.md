@@ -12,9 +12,9 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   autor (decisión 127), con la aclaración de que el «está revisado» de la decisión 126 ya era la
   revisión: se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
   avisos. **Dossier de I.19 «La casa de la esquina» preparado** (§0 unvicies, decisión 128), undécimo
-  del bloque I.2, sin decisiones que pedir al autor, y **I.19 escrito** (decisión 129) y **revisado**
-  por orden del autor (decisión 131): **3.041 palabras** (+0,5 %), 5 secciones, **6,6 % de citas**, 0
-  errores y 0 avisos. Sirve a **M-2** con **M-3** de fondo. La lista de los teléfonos (I.15) trae el asunto: la casa de la esquina pidió que
+  del bloque I.2, sin decisiones que pedir al autor, y **I.19 escrito** (decisión 129), **revisado**
+  por orden del autor (decisión 131) y **aprobado** (decisión 133): **3.041 palabras** (+0,5 %), 5
+  secciones, **6,6 % de citas**, 0 errores y 0 avisos. Sirve a **M-2** con **M-3** de fondo. La lista de los teléfonos (I.15) trae el asunto: la casa de la esquina pidió que
   no se le llamara, y la casa no vuelve a llamar pero le lleva **una vez** una ración de caldo; la
   nota sale sin el nombre de nadie («Caldo de la casa de la parra. Miercoles.»), se deja en el
   poyete, no se ve a nadie cogerla y la olla no vuelve: en octubre está de **maceta** en la ventana
@@ -23,7 +23,10 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   «Se lleva el caldo a la casa de la esquina. No se entra»; la del 1 de octubre no recoge la olla. **19/126 capítulos, 56.568 palabras.** **Subido a
   `origin/main`** (`ce551da..8a79590`) y **copia de seguridad de la v60 en el USB** (decisión 130):
   bundle verificado, materiales, `SINOPSIS/` en tar aparte, `AGENTS.md` al día y hashes comprobados.
-  **Pendiente de aprobación** del autor; siguiente: **I.20**, con dossier por preparar.
+  **Dossier de I.20 «El cuaderno de los errores» preparado** (§0 duovicies, decisión 134), duodécimo
+  del bloque I.2: el cuaderno cerrado el 12-II, el blanco, la regla de la tapa y el siete a uno que
+  no lo reabre. Prácticas **P8, P2 y P1**. **Pendiente de una decisión del autor** (si El Servidor
+  habla o se calla) y de la orden de escritura.
 - **Sesión anterior:** 2026-11-14 (**v59, cerrada**). **I.17 «El cuadrante» aprobado** por el autor
   («aprobado I.17», decisión 121): se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5
   secciones, 3,7 % de citas, 0 errores y 0 avisos. **Dossier de I.18 «La que no cree» preparado**
@@ -1525,6 +1528,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.17 «El cuadrante» | §0 undevicies | 2026-11-12 | 117 | el oficio de las sillas cambia de mano | P2, P6, P8 |
 | I.18 «La que no cree» | §0 vicies | 2026-11-14 | 122 | el criterio de fracaso como generador | P1, P2, P6 |
 | I.19 «La casa de la esquina» | §0 unvicies | 2026-11-15 | 128 | el caldo que sale y la nota sin firma | P7, P4, P2 |
+| I.20 «El cuaderno de los errores» | §0 duovicies | 2026-11-15 | 134 | el cuaderno cerrado y el blanco | P8, P2, P1 |
 
 **Notas.**
 
@@ -1547,7 +1551,9 @@ fuera que no se refuta (I.16) y el oficio que cambia de mano (I.17). Lo que sigu
 otro sitio, no por el noveno recuento de la misma ausencia. **I.18** lo toma por el lado contrario:
 lo que no pasa y se queda (la que copia y no cree), con el criterio de fracaso como generador.
 **I.19** lo toma por lo que sale (el caldo que va a la casa que pidió que no se le llamara, la nota
-sin firma y la olla que acaba de maceta), y lo lleva la más joven.
+sin firma y la olla que acaba de maceta), y lo lleva la más joven. **I.20** lo toma por lo que se dejó
+de apuntar: el cuaderno de los errores se cierra el 12-II, la casa vota no reabrirlo y se queda más
+blanco que escrito.
 
 ### 0 octodecies. I.16 «La fotocopia»: dossier de material (2026-11-11)
 
@@ -2011,6 +2017,84 @@ el cuadrante, y la salida al mercado del sábado es la de la olla; **(6)** «la 
 casa de la esquina» porque el capítulo no le daba ese nombre y verde es el color de la puerta;
 **(7)** «no sabía» por «no sabían», errata de concordancia. Cierra en **3.041 palabras** (+0,5 %), 5
 secciones, 6,6 % de citas, 0 errores y 0 avisos.
+
+### 0 duovicies. I.20 «El cuaderno de los errores»: dossier de material (2026-11-15)
+
+Preparado por orden del autor («aprobado I.19, continúa con el usb y el dossier»). **Duodécimo del
+bloque I.2**, detrás de la casa de la esquina. El título es de trabajo: se decide al escribir.
+
+**Función en el bloque.** El índice (§0 septendecies) deja abierto el hilo de **la distancia con
+quien llega después**, llevado por I.17 (el oficio que cambia de mano), I.18 (lo que no pasa y se
+queda) e I.19 (lo que sale). I.20 lo toma por **lo que se dejó de apuntar**: el cuaderno de los
+errores se cierra el 12-II, el mismo día en que la consola empieza a escribir su propio registro, y
+nadie vuelve a copiar a mano. No es un capítulo sobre la humildad del archivo ni sobre el perdón de
+las faltas: es un capítulo sobre **un cuaderno que se queda más blanco que escrito** y sobre la
+pregunta de la que llega, que no entiende para qué se apunta lo que no se corrige.
+
+**Movimiento que sirve:** **M-1** (no hay prueba en el archivo), con **M-2** (la forma de vida se
+muestra en lo pequeño: el oficio de copiar a mano) y **M-3** (el coste y la disidencia: quien vota
+que no se reabra) de fondo. Ver §2, «Hilo conductor del argumento» (decisión 123).
+
+**Material: ninguna sinopsis de hechos.** `S-01`, `S-02` y `S-03` siguen ancladas en I.5, II.5 y II.2
+(decisión 81); `S-06` se gastó en I.16; `F-35` y `F-36` no se nombran (decisiones 67 y 76). El
+capítulo se sostiene con piezas ya fijadas y con una consecuencia que I.4 dejó dicha y nadie ha
+mirado desde entonces.
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| El cuaderno de los errores | I.4 §3-5 | Tapas duras; empezado en marzo, siete meses antes del acta primera; regla en la cara interior de la tapa («SE COPIA LO QUE SALE. NO SE TRADUCE. NO SE ARREGLA LA FALTA.»); columna QUÉ PASÓ; **cerrado el 12-II** con `sha256sum -c` y «did NOT match»; **página 61**; bajo la regla, añadido «Salvo que se pregunte»; guardado en la caja segunda bajo los discos, con la goma estirada y **más blanco que escrito** |
+| El registro de la consola | I.4 §5 | Desde febrero lo escribe la consola, con horas y avisos. **El cuaderno se dejó de llevar; nadie volvió a copiar a mano** |
+| Las correcciones en rojo | I.5 | Tres en todo el archivo; el rojo no se ha usado nunca para una opinión |
+| El cuaderno azul | I.3, I.18 | Las copias a mano de las actas; la tercera cláusula: lo corregido se deja ver y no se borra |
+| Las actas | I.1, I.5, I.8, I.13, I.19 | Apuntan lo que se hizo, no lo que se dijo ni por qué se votó; sin nombres, sin año, con sus faltas |
+| La caja segunda | I.1, I.7, I.14 | Discos, memorias, cuaderno azul, etiquetas sueltas y el cuaderno de los errores debajo de los discos |
+| El inventario de I.12 | I.12 | El cuaderno «prueba que la casa copia lo que sale y que no lo traduce ni lo arregla. No prueba nada de fuera: todo lo que hay dentro salió de la consola» |
+| El 12-II | PERSONAS, decisión 54 | Es el día del cierre y el de la salida de Milenial de la hoja; **la división y las dos salidas no se narran aquí** (materia de I.3 y de II.6) |
+
+**Procedimiento E-05: P8, P2 y P1.** **P8** (la fecha del documento no es la fecha de la
+reconstrucción: el cuaderno se fecha el 12-II y lo que hay dentro es de antes), **P2** (lo que se
+perdió entra por un documento que no es ello: la goma estirada, el blanco, la página 61, no un
+resumen) y **P1** (se inventaría la pérdida: qué clases de error apuntaba el cuaderno y cuáles no).
+Tope del bloque, tres: se usa entero y no se repite. **No** P6 (gastado en I.18 y en I.19), **ni**
+P5, **ni** P7/P4 de I.19.
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. La sesión del **24 de septiembre de 2026** saca el cuaderno de la caja segunda porque la goma se
+   ha estirado y hay que ver si el blanco ha cogido humedad.
+2. La casa lee **la regla de la tapa** en voz alta, como leyó la de las actas, y alguien repara en el
+   añadido «Salvo que se pregunte», que está con otra letra y no se sabe quién lo puso.
+3. Alfa pregunta para qué se apunta lo que no se corrige, y la casa no sabe contestar sin abrir el
+   cuaderno.
+4. Se vota **reabrirlo** y sale **siete a uno que no** (votaron ocho; Alfa no vota). El que vota en
+   contra de reabrir da su razón: «ya está escrito lo que pasó».
+5. El acta recoge el hecho en pocas palabras —«Se lee la regla del cuaderno. No se abre»— y no el
+   añadido, ni la pregunta de Alfa, ni el siete a uno.
+6. La **página 61** no se lee. La casa sabe lo que dice y no la lee: el capítulo **no dice** qué
+   pasó con la suma del 12-II.
+7. El cuaderno vuelve a la caja segunda, **debajo de los discos**, con la goma estirada: la goma se
+   estira y no se cambia.
+8. Se dice **una vez** y sin explicarlo: desde febrero el registro lo escribe la consola y nadie
+   copia a mano. El blanco que queda no se tacha.
+
+**Lo que no puede hacer.** Explicar la suma que no coincidió (el «did NOT match» se queda sin
+causa); narrar la división, la plaga ni las dos salidas (I.3, II.5, II.6); abrir el cuaderno más
+allá de la tapa y de la página 61 sin leerla; dar a Alfa una revelación (no entiende, y eso es el
+punto); convertir el cuaderno en prueba (M-1); dar voz al archivo (decisión 55) o usar la primera
+persona (`yo_maximo = 0`); repetir las entradas del 4 y el 11 de marzo que I.4 ya cita, ni el rojo
+de I.5, ni el inventario de I.12, ni los recursos de I.9-I.19.
+
+**Decisiones que el capítulo necesita del autor: una.** ¿Habla El Servidor? Dos opciones: **(a)**
+ está y no habla, como en I.19, y se reservan E-S-4 a E-S-7; **(b)** una explicación nueva, **E-S-8**,
+ breve, sobre el blanco (explica lo que la vida ya muestra, no lo demuestra, y no se identifica con
+Dios). Las tres **elecciones locales**, sujetas a revisión: la sesión es el 24 de septiembre; se vota
+no reabrir; el acta no recoge ni la pregunta ni el resultado.
+
+**Reparto (cinco secciones).** 1. La caja (el cuaderno bajo los discos, la goma estirada, la página
+61); 2. La tapa (la regla y el añadido «Salvo que se pregunte»); 3. La pregunta de Alfa (para qué se
+apunta lo que no se corrige); 4. La sesión del 24 (siete a uno, el acta mínima); 5. El blanco (vuelve
+bajo los discos, la consola escribe sola, nadie copia a mano). El cierre no es una tesis: el cuaderno
+está en la caja y el blanco sigue en blanco.
 
 ---
 
@@ -2480,6 +2564,10 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 131 | Escritura | **Revisión de I.19 por orden del autor** («Toca el texto I.19 opción 2»): cuatro correcciones sobre el capítulo escrito, sin cambiar canon ni dossier. **(1) La olla:** la que sale de la casa es la **pequeña** (la de las lentejas) y el gancho que queda vacío es el bajo; la casa compra una **olla pequeña** con asa remachada, el caldo de los miércoles se sigue haciendo en la grande y el estreno de la nueva pasa a las **lentejas del domingo**. **(2) La compra:** «volvía al lunes», como el cuadrante, y la olla la trae Boomer de la silla el sábado. **(3) «La casa verde» → «la casa de la esquina».** **(4) Concordancia:** «no sabía» por «no sabían». Queda en **3.041 palabras** (+0,5 %), 5 secciones, 6,6 % de citas, 0 errores y 0 avisos. **19/126, 56.568 palabras** | 2026-11-15 | Cierra el defecto de continuidad interna detectado en la revisión: el capítulo decía que el gancho vacío era el de la olla grande y la olla que salía era la pequeña. Se elige la **opción 2** de las dos propuestas al autor (tocar solo el capítulo, no el dossier). No cambia canon, no toca C-8, C-9 ni C-10, no mueve anclajes de sinopsis y no altera los diez puntos del dossier §0 unvicies salvo el tamaño del objeto perdido, anotado en §0 unvicies. La fila 129 conserva la cifra y la descripción con que se escribió, como registro |
 
 | 132 | Material | **Régimen de `SINOPSIS/` fijado por el autor**: los **7 ficheros** no se han de dar a conocer y se han de **preservar**; lo que sí se usa son los **datos**, que son material para generar contenido. `SINOPSIS/` sigue en `.gitignore` (no versionada desde la v44), fuera de las exportaciones y de cualquier índice compartido; la información se consulta para escribir y solo se cita a través de lo que dice el capítulo | 2026-11-15 | Precisa la decisión 112 y el uso de sinopsis de la 81: **la ficha es privada, el hecho no**. Se comprueba que los siete ficheros están ignorados por git y en el tar aparte de la copia de la v60 (decisión 130). No se indexan en herramientas de consulta compartidas; si se indexan para uso local, van en un índice aparte, nunca en el del repositorio. No cambia canon ni manuscrito |
+
+| 133 | Escritura | **I.19 «La casa de la esquina» aprobado** por el autor («aprobado I.19»). Se cierra con **3.041 palabras** (+0,5 % sobre 3.025), 5 secciones, **6,6 % de citas**, 0 errores y 0 avisos. **19/126 capítulos, 56.568 palabras** | 2026-11-15 | Cierra la 129 y la revisión de la 131. I.19 queda como undécima pieza del bloque I.2: el caldo que sale una vez y la nota sin firma, con la olla de maceta en octubre y fuera de todo papel. Se desbloquea **I.20**, duodécimo del bloque, con dossier por preparar. El texto y su anotación se subieron en `cdd9753..9821590` (commits `8d7dff7` y `9821590`) |
+
+| 134 | Escritura | **Dossier de I.20 «El cuaderno de los errores» preparado** (§0 duovicies), duodécimo del bloque I.2: el cuaderno se cierra el **12-II**, el mismo día en que la consola empieza a escribir su registro; la casa lo saca para ver el blanco, lee la regla de la tapa y el añadido «Salvo que se pregunte», Alfa pregunta para qué se apunta lo que no se corrige y **se vota siete a uno no reabrirlo**; la página 61 no se lee y la suma del 12-II se queda sin causa. Prácticas E-05: **P8, P2 y P1**. Sin sinopsis de hechos. **Una decisión para el autor: si El Servidor habla (E-S-8) o se queda callado** | 2026-11-15 | Tres **elecciones locales** sujetas a revisión: la sesión es el 24 de septiembre de 2026; se vota no reabrir; el acta no recoge ni la pregunta ni el resultado. No toca C-8, C-9 ni C-10, no narra la división ni las dos salidas (I.3 y II.6), no abre el disco de 2008, no explica la suma que no coincidió y no repite los recursos de I.9-I.19 (ni las entradas de marzo de I.4, ni el rojo de I.5, ni el inventario de I.12). **No se escribe hasta que el autor lo ordene** |
 
 ---
 
