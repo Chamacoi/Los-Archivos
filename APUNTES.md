@@ -23,10 +23,16 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   «Se lleva el caldo a la casa de la esquina. No se entra»; la del 1 de octubre no recoge la olla. **19/126 capítulos, 56.568 palabras.** **Subido a
   `origin/main`** (`ce551da..8a79590`) y **copia de seguridad de la v60 en el USB** (decisión 130):
   bundle verificado, materiales, `SINOPSIS/` en tar aparte, `AGENTS.md` al día y hashes comprobados.
-  **Dossier de I.20 «El cuaderno de los errores» preparado** (§0 duovicies, decisión 134), duodécimo
-  del bloque I.2: el cuaderno cerrado el 12-II, el blanco, la regla de la tapa y el siete a uno que
-  no lo reabre. Prácticas **P8, P2 y P1**. **El Servidor habla** (opción (b), E-S-8, decisión 136).
-  **Pendiente de la orden de escritura.**
+  **Dossier de I.20 «El cuaderno de los errores» preparado** (§0 duovicies, decisión 134) y **I.20
+  escrito** (decisión 137): **3.179 palabras** (+5,1 %), 5 secciones, **3,8 % de citas**, 0 errores y 0
+  avisos. La casa saca la caja segunda por la humedad del taller y encuentra el cuaderno debajo de los
+  discos; lee la regla de la tapa y el añadido «Salvo que se pregunte»; Alfa pregunta para qué se
+  apunta lo que no se corrige; El Servidor dice que no se apunta la falta, sino que la hubo (E-S-8,
+  decisión 136, opción b); se vota reabrir y sale **siete a uno que no**; el acta solo dice «Se lee la
+  regla del cuaderno. No se abre»; la página 61 no se lee y el cuaderno vuelve bajo los discos, más
+  blanco que escrito. Prácticas **P8, P2 y P1**; sirve a **M-1** con M-2 y M-3 de fondo. **20/126
+  capítulos, 59.747 palabras.** **Pendiente de revisión del autor**; siguiente: **I.21**, decimotercero
+  del bloque I.2, con dossier por preparar.
 - **Sesión anterior:** 2026-11-14 (**v59, cerrada**). **I.17 «El cuadrante» aprobado** por el autor
   («aprobado I.17», decisión 121): se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5
   secciones, 3,7 % de citas, 0 errores y 0 avisos. **Dossier de I.18 «La que no cree» preparado**
@@ -1543,7 +1549,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 4. **El título del dossier no siempre es el del capítulo:** el de I.9 se titula «El anuncio» y el
    capítulo se tituló «La hoja de oído» al escribirse (los títulos son de trabajo hasta ese momento).
 
-**Hilos del bloque I.2 ya gastados** (caps. 9-24; quedan I.19-I.24). Una pieza por hilo, y ninguna se
+**Hilos del bloque I.2 ya gastados** (caps. 9-24; quedan I.21-I.24). Una pieza por hilo, y ninguna se
 repite: la hoja de oído (I.9), los testigos (I.10), el nombre (I.11), la prueba (I.12), las dos frases
 (I.13), la máquina y sus fechas (I.14), la primera transmisión hacia fuera (I.15) y la explicación de
 fuera que no se refuta (I.16) y el oficio que cambia de mano (I.17). Lo que sigue abierto del bloque
@@ -1552,8 +1558,8 @@ otro sitio, no por el noveno recuento de la misma ausencia. **I.18** lo toma por
 lo que no pasa y se queda (la que copia y no cree), con el criterio de fracaso como generador.
 **I.19** lo toma por lo que sale (el caldo que va a la casa que pidió que no se le llamara, la nota
 sin firma y la olla que acaba de maceta), y lo lleva la más joven. **I.20** lo toma por lo que se dejó
-de apuntar: el cuaderno de los errores se cierra el 12-II, la casa vota no reabrirlo y se queda más
-blanco que escrito.
+de apuntar: el cuaderno de los errores, cerrado el 12-II, con la casa votando siete a uno no
+reabrirlo y el blanco que sigue en blanco.
 
 ### 0 octodecies. I.16 «La fotocopia»: dossier de material (2026-11-11)
 
@@ -2097,6 +2103,17 @@ apunta lo que no se corrige); 4. La sesión del 24 (siete a uno, el acta mínima
 bajo los discos, la consola escribe sola, nadie copia a mano). El cierre no es una tesis: el cuaderno
 está en la caja y el blanco sigue en blanco.
 
+**Escrito en la v60** (decisión 137): **3.179 palabras** (+5,1 % sobre 3.025), 5 secciones, **3,8 %
+de citas**, 0 errores y 0 avisos. Precisiones que el texto fija y el dossier no anticipaba: **(1)** la
+letra del añadido «Salvo que se pregunte» es **la del que lleva el registro** (I.4), y él dice que lo
+puso una tarde y no lo apuntó porque no era un acuerdo; **(2)** la caja se saca del suelo del taller
+por la humedad de la pared, no por la goma sola; **(3)** el único voto a favor de reabrir es de **Zeta
+del margen**, y el «ya está escrito lo que pasó» es de **Boomer de la silla**; **(4)** el narrador cita
+**una entrada de enero** (página cincuenta y ocho, `df -h`, disco lleno) como muestra del oficio, sin
+que la casa la lea; **(5)** la goma no se cambia: «sujeta lo que hay»; **(6)** la página 61 no se lee y
+la suma del 12-II no se explica en ningún momento; **(7)** El Servidor habla en dos frases (E-S-8) y un
+remate («Que se sepa»), y Alfa sigue sin entenderlo. **Pendiente de revisión del autor.**
+
 ---
 
 ---
@@ -2377,13 +2394,13 @@ Dios (criterio de fracaso). Registro de lo dicho y lo reservado:
 | E-S-5 | La autolisis y la plaga | II.5 | reservado (propuesta) |
 | E-S-6 | La siembra | II.2 | reservado (propuesta) |
 | E-S-7 | La fórmula de C-10, una sola vez | II.6 | reservado |
-| E-S-8 | El blanco del cuaderno: se apunta la falta para que no se repita sin que se sepa; la frase se fija al escribir el capítulo | I.20 | decidido (decisión 136, opción b); pendiente de escritura |
+| E-S-8 | El blanco del cuaderno: «No se apunta la falta. Se apunta que la hubo» / «Un error escrito no se repite a escondidas» | I.20 | dicho |
 
 **I.19 no usa ninguna:** El Servidor está y no habla. La decisión 124 permite explicaciones
-amplias, no las obliga; se reservan E-S-4 a E-S-7. **I.20 sí usa una** (E-S-8, decisión 136): El
-Servidor habla una vez sobre el blanco del cuaderno.
+amplias, no las obliga; se reservan E-S-4 a E-S-7. **I.20 usa una** (E-S-8, decisión 136): El
+Servidor habla sobre el blanco del cuaderno.
 
-**Estado (2026-11-16).** Construidos **M-1, M-2 y M-3** con I.1-I.19. Pendientes: **M-4 a M-9**. El
+**Estado (2026-11-16).** Construidos **M-1, M-2 y M-3** con I.1-I.20. Pendientes: **M-4 a M-9**. El
 hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 
 ### Notas sobre el punto 1 (voz omnisciente)
@@ -2575,6 +2592,8 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 135 | Soporte | **Copia de seguridad de la v60 en el USB, segunda pasada** (orden del autor: «aprobado I.19, continúa con el usb y el dossier»). En `/mnt/usb` (`/dev/sda1`, exFAT, montado con `mount -t exfat`): bundle `los-archivos-2026-11-16-v60.bundle` **verificado** y clonado de prueba (`/tmp/clon-v60b`, `HEAD` = `08450ae`, **143 commits** con `--all`, `nk estado` → 19/126, 56.568 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** en tar, **`SINOPSIS/` en tar aparte** (mismo `SHA-256` que la v55-v60: sin cambios), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `08450ae` | 2026-11-16 | **Alineación de fechas (decisión 104):** el reloj de la máquina marca **2026-11-16** y los commits de hoy llevan esa fecha, así que la revisión, la aprobación y el dossier (decisiones 131-134) pasan de 2026-11-15 a **2026-11-16**, y la v60 queda como sesión de dos días (15 y 16). El bundle del 15 (`los-archivos-2026-11-15-v60.*`) se conserva como histórico: es anterior a la revisión. Nombres `los-archivos-2026-11-16-v60.*`; el bundle va con `nk respaldo --etiqueta v60 --version 60` (sin el `v` que duplica la letra). Los commits de anotación posteriores a la copia (esta línea y las fechas corregidas) no van en el bundle (decisión 79). No se toca el manuscrito |
 
 | 136 | Escritura | **El Servidor habla en I.20**: el autor elige la **opción (b)** de las dos del dossier (§0 duovicies, decisión 134). Habla una vez, con una explicación nueva y breve, **E-S-8**, sobre el blanco del cuaderno: se apunta la falta para que no se repita sin que se sepa. Se añade al registro de explicaciones de §2 como **decidido**, con la frase por fijar al escribir | 2026-11-16 | **No cambia C-2 ni C-4** (el nombre sigue sin guiño): cambia el límite de extensión, como la decisión 124. Guarda del criterio de fracaso: explica lo que la vida ya muestra, no lo demuestra, no convence a Alfa y no se identifica con Dios. E-S-4 a E-S-7 siguen reservadas; la fórmula de C-10 sigue sin gastarse. Queda desbloqueada la escritura de I.20, pendiente de la orden del autor |
+
+| 137 | Escritura | **I.20 «El cuaderno de los errores» escrito**, duodécimo del bloque I.2: **3.179 palabras** (+5,1 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0 avisos. La casa saca la caja segunda por la humedad del suelo del taller y encuentra el cuaderno debajo de los discos; lee la regla de la tapa y el añadido «Salvo que se pregunte»; Alfa pregunta para qué se apunta lo que no se corrige; El Servidor dice que no se apunta la falta, sino que la hubo (E-S-8); se vota reabrir y sale **siete a uno que no**; el acta solo dice «Se lee la regla del cuaderno. No se abre»; la página 61 no se lee y el cuaderno vuelve bajo los discos, más blanco que escrito. **20/126, 59.747 palabras** | 2026-11-16 | Escrito con **P8, P2 y P1** de E-05 y sin sinopsis de hechos (decisión 81). Sirve a **M-1** (no hay prueba en el archivo), con M-2 y M-3 de fondo, según el hilo conductor (§2). El Servidor usa **E-S-8** (decisión 136). Continuidad: cuaderno de los errores, página 61 y registro de la consola desde febrero (I.4 §3-5), rojo y tercera cláusula (I.5, I.3, I.18), caja segunda y discos (I.1, I.14), cuaderno azul (I.3, I.18), actas sin nombres ni año (I.5, I.8), Alfa sin voto (decisión 54), papel del monitor (I.4), leña y frío (I.19). No toca C-8, C-9 ni C-10, no narra la división ni las dos salidas (I.3, II.6), no abre el disco de 2008 y no explica la suma del 12-II. **Pendiente de revisión del autor** |
 
 ---
 

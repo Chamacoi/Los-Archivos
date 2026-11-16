@@ -1251,4 +1251,16 @@ su dossier.
   errores y 0 avisos), materiales, `SINOPSIS/` en tar aparte (mismo `SHA-256`: sin cambios),
   `AGENTS.md` al día y los cuatro `SHA-256` comprobados; clon `/mnt/usb/los-archivos-repo` en
   `08450ae`. El bundle del 15 se conserva como histórico (es anterior a la revisión).
-- Próximo paso: **escribir I.20**, duodécimo del bloque I.2, con El Servidor hablando (E-S-8).
+- **I.20 «El cuaderno de los errores» escrito** (decisión 137): **3.179 palabras** (+5,1 %), 5
+  secciones, **3,8 % de citas**, 0 errores y 0 avisos. La casa saca la caja segunda por la humedad del
+  suelo del taller y encuentra el cuaderno debajo de los discos; lee la regla de la tapa y el añadido
+  «Salvo que se pregunte» (la letra del registro, sin fecha); Alfa pregunta para qué se apunta lo que
+  no se corrige y El Servidor contesta con **E-S-8** («No se apunta la falta. Se apunta que la hubo»);
+  se vota reabrir y sale **siete a uno que no** (Zeta del margen quiere); el acta solo dice «Se lee la
+  regla del cuaderno. No se abre»; la página 61 no se lee, la suma del 12-II no se explica y el
+  cuaderno vuelve bajo los discos, **más blanco que escrito**. Prácticas **P8, P2 y P1**; sirve a
+  **M-1** con M-2 y M-3 de fondo. **20/126, 59.747 palabras.** Actualizados `CRONOLOGIA.md` (24 de
+  septiembre de 2026), `GLOSARIO.md` (el cuaderno de los errores), `ESTRUCTURA.md` y `estado.json`;
+  verificado con **0 errores, 0 avisos**.
+- Próximo paso: **revisión de I.20** por el autor y, si se aprueba, **I.21**, decimotercero del
+  bloque I.2, con dossier por preparar.
