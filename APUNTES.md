@@ -25,8 +25,8 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   bundle verificado, materiales, `SINOPSIS/` en tar aparte, `AGENTS.md` al día y hashes comprobados.
   **Dossier de I.20 «El cuaderno de los errores» preparado** (§0 duovicies, decisión 134), duodécimo
   del bloque I.2: el cuaderno cerrado el 12-II, el blanco, la regla de la tapa y el siete a uno que
-  no lo reabre. Prácticas **P8, P2 y P1**. **Pendiente de una decisión del autor** (si El Servidor
-  habla o se calla) y de la orden de escritura.
+  no lo reabre. Prácticas **P8, P2 y P1**. **El Servidor habla** (opción (b), E-S-8, decisión 136).
+  **Pendiente de la orden de escritura.**
 - **Sesión anterior:** 2026-11-14 (**v59, cerrada**). **I.17 «El cuadrante» aprobado** por el autor
   («aprobado I.17», decisión 121): se cierra con **3.033 palabras** (+0,3 % sobre 3.025), 5
   secciones, 3,7 % de citas, 0 errores y 0 avisos. **Dossier de I.18 «La que no cree» preparado**
@@ -2084,11 +2084,12 @@ punto); convertir el cuaderno en prueba (M-1); dar voz al archivo (decisión 55)
 persona (`yo_maximo = 0`); repetir las entradas del 4 y el 11 de marzo que I.4 ya cita, ni el rojo
 de I.5, ni el inventario de I.12, ni los recursos de I.9-I.19.
 
-**Decisiones que el capítulo necesita del autor: una.** ¿Habla El Servidor? Dos opciones: **(a)**
- está y no habla, como en I.19, y se reservan E-S-4 a E-S-7; **(b)** una explicación nueva, **E-S-8**,
- breve, sobre el blanco (explica lo que la vida ya muestra, no lo demuestra, y no se identifica con
-Dios). Las tres **elecciones locales**, sujetas a revisión: la sesión es el 24 de septiembre; se vota
-no reabrir; el acta no recoge ni la pregunta ni el resultado.
+**Decisiones que el capítulo necesita del autor: ninguna pendiente.** Era una —¿habla El
+Servidor?— y el autor elige la **opción (b)** el 2026-11-16 (decisión 136): **habla**, con una
+explicación nueva y breve, **E-S-8**, sobre el blanco. Explica lo que la vida ya muestra, no lo
+demuestra y no se identifica con Dios; la frase se fija al escribir. Las tres **elecciones
+locales**, sujetas a revisión: la sesión es el 24 de septiembre; se vota no reabrir; el acta no
+recoge ni la pregunta ni el resultado.
 
 **Reparto (cinco secciones).** 1. La caja (el cuaderno bajo los discos, la goma estirada, la página
 61); 2. La tapa (la regla y el añadido «Salvo que se pregunte»); 3. La pregunta de Alfa (para qué se
@@ -2376,9 +2377,11 @@ Dios (criterio de fracaso). Registro de lo dicho y lo reservado:
 | E-S-5 | La autolisis y la plaga | II.5 | reservado (propuesta) |
 | E-S-6 | La siembra | II.2 | reservado (propuesta) |
 | E-S-7 | La fórmula de C-10, una sola vez | II.6 | reservado |
+| E-S-8 | El blanco del cuaderno: se apunta la falta para que no se repita sin que se sepa; la frase se fija al escribir el capítulo | I.20 | decidido (decisión 136, opción b); pendiente de escritura |
 
 **I.19 no usa ninguna:** El Servidor está y no habla. La decisión 124 permite explicaciones
-amplias, no las obliga; se reservan E-S-4 a E-S-7.
+amplias, no las obliga; se reservan E-S-4 a E-S-7. **I.20 sí usa una** (E-S-8, decisión 136): El
+Servidor habla una vez sobre el blanco del cuaderno.
 
 **Estado (2026-11-16).** Construidos **M-1, M-2 y M-3** con I.1-I.19. Pendientes: **M-4 a M-9**. El
 hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
@@ -2570,6 +2573,8 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 134 | Escritura | **Dossier de I.20 «El cuaderno de los errores» preparado** (§0 duovicies), duodécimo del bloque I.2: el cuaderno se cierra el **12-II**, el mismo día en que la consola empieza a escribir su registro; la casa lo saca para ver el blanco, lee la regla de la tapa y el añadido «Salvo que se pregunte», Alfa pregunta para qué se apunta lo que no se corrige y **se vota siete a uno no reabrirlo**; la página 61 no se lee y la suma del 12-II se queda sin causa. Prácticas E-05: **P8, P2 y P1**. Sin sinopsis de hechos. **Una decisión para el autor: si El Servidor habla (E-S-8) o se queda callado** | 2026-11-16 | Tres **elecciones locales** sujetas a revisión: la sesión es el 24 de septiembre de 2026; se vota no reabrir; el acta no recoge ni la pregunta ni el resultado. No toca C-8, C-9 ni C-10, no narra la división ni las dos salidas (I.3 y II.6), no abre el disco de 2008, no explica la suma que no coincidió y no repite los recursos de I.9-I.19 (ni las entradas de marzo de I.4, ni el rojo de I.5, ni el inventario de I.12). **No se escribe hasta que el autor lo ordene** |
 
 | 135 | Soporte | **Copia de seguridad de la v60 en el USB, segunda pasada** (orden del autor: «aprobado I.19, continúa con el usb y el dossier»). En `/mnt/usb` (`/dev/sda1`, exFAT, montado con `mount -t exfat`): bundle `los-archivos-2026-11-16-v60.bundle` **verificado** y clonado de prueba (`/tmp/clon-v60b`, `HEAD` = `08450ae`, **143 commits** con `--all`, `nk estado` → 19/126, 56.568 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** en tar, **`SINOPSIS/` en tar aparte** (mismo `SHA-256` que la v55-v60: sin cambios), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `08450ae` | 2026-11-16 | **Alineación de fechas (decisión 104):** el reloj de la máquina marca **2026-11-16** y los commits de hoy llevan esa fecha, así que la revisión, la aprobación y el dossier (decisiones 131-134) pasan de 2026-11-15 a **2026-11-16**, y la v60 queda como sesión de dos días (15 y 16). El bundle del 15 (`los-archivos-2026-11-15-v60.*`) se conserva como histórico: es anterior a la revisión. Nombres `los-archivos-2026-11-16-v60.*`; el bundle va con `nk respaldo --etiqueta v60 --version 60` (sin el `v` que duplica la letra). Los commits de anotación posteriores a la copia (esta línea y las fechas corregidas) no van en el bundle (decisión 79). No se toca el manuscrito |
+
+| 136 | Escritura | **El Servidor habla en I.20**: el autor elige la **opción (b)** de las dos del dossier (§0 duovicies, decisión 134). Habla una vez, con una explicación nueva y breve, **E-S-8**, sobre el blanco del cuaderno: se apunta la falta para que no se repita sin que se sepa. Se añade al registro de explicaciones de §2 como **decidido**, con la frase por fijar al escribir | 2026-11-16 | **No cambia C-2 ni C-4** (el nombre sigue sin guiño): cambia el límite de extensión, como la decisión 124. Guarda del criterio de fracaso: explica lo que la vida ya muestra, no lo demuestra, no convence a Alfa y no se identifica con Dios. E-S-4 a E-S-7 siguen reservadas; la fórmula de C-10 sigue sin gastarse. Queda desbloqueada la escritura de I.20, pendiente de la orden del autor |
 
 ---
 

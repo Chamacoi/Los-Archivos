@@ -1240,8 +1240,9 @@ su dossier.
   del bloque I.2: el cuaderno se cierra el 12-II, el mismo día en que la consola empieza a escribir
   su registro; la casa lee la regla de la tapa («Salvo que se pregunte»), Alfa pregunta para qué se
   apunta lo que no se corrige y **se vota siete a uno no reabrirlo**; la página 61 no se lee y el
-  blanco sigue en blanco. Prácticas **P8, P2 y P1**; sin sinopsis de hechos. **Una decisión
-  pendiente del autor:** si El Servidor habla (E-S-8) o se queda callado.
+  blanco sigue en blanco. Prácticas **P8, P2 y P1**; sin sinopsis de hechos. **El Servidor habla**
+  (opción (b), E-S-8, decisión 136): explicación nueva sobre el blanco, con la frase por fijar al
+  escribir. Queda desbloqueada la escritura de I.20.
 - **Copia de seguridad de la v60, segunda pasada** (decisión 135): el reloj marca **2026-11-16**, así
   que la revisión, la aprobación y el dossier (131-134) pasan a esa fecha y la v60 queda como sesión
   de dos días. En `/mnt/usb` (`/dev/sda1`, exFAT, montado con `mount -t exfat`): bundle
@@ -1250,5 +1251,4 @@ su dossier.
   errores y 0 avisos), materiales, `SINOPSIS/` en tar aparte (mismo `SHA-256`: sin cambios),
   `AGENTS.md` al día y los cuatro `SHA-256` comprobados; clon `/mnt/usb/los-archivos-repo` en
   `08450ae`. El bundle del 15 se conserva como histórico (es anterior a la revisión).
-- Próximo paso: **decisión del autor sobre El Servidor en I.20** y, si la hay, escritura del
-  duodécimo capítulo del bloque I.2.
+- Próximo paso: **escribir I.20**, duodécimo del bloque I.2, con El Servidor hablando (E-S-8).

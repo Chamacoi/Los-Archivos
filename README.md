@@ -16,8 +16,8 @@ sostenida entre personas y modelos.
   (M-1 a M-9) y registro de las explicaciones de El Servidor (E-S-1 a E-S-7); ningún capítulo se
   escribe sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas
   versiones** (decisión 124). **Dossier de I.20 «El cuaderno de los errores» preparado** (§0
-  duovicies, decisión 134). Siguiente: **una decisión del autor** (si El Servidor habla en I.20) y la
-  escritura del capítulo.
+  duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). Siguiente: **escritura de
+  I.20**.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -356,7 +356,8 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       (decisión 131): 3.041 palabras. **Aprobado** (decisión 133).
 - [x] Preparar el dossier de I.20 «El cuaderno de los errores» (2026-11-16, decisión 134): el
       cuaderno cerrado el 12-II, el blanco, la regla de la tapa y el siete a uno que no lo reabre.
-      Prácticas P8, P2 y P1. **Una decisión pendiente del autor**: si El Servidor habla (E-S-8).
+      Prácticas P8, P2 y P1. **El Servidor habla** (opción (b), E-S-8, decisión 136): pendiente de
+      la orden de escritura.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
