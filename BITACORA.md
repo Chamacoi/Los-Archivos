@@ -1282,5 +1282,19 @@ su dossier.
   raya, la etiqueta «COPIAS. NO SON COPIAS», el voto **seis a dos** que las fotos no son copias y la
   que llegó después volviendo a leer de la caja. Prácticas **P2 y P1**; sirve a **M-1** con M-2 y M-3
   de fondo. Tres elecciones locales sujetas a revisión; ninguna decisión pendiente del autor.
-- Próximo paso: **escribir I.21** cuando el autor lo ordene. Sin tocar el manuscrito en esta sesión:
-  **20/126 capítulos, 59.747 palabras**, 0 errores y 0 avisos.
+- **S-07 «Alquiler de amigos» registrada** por dictado del autor (decisión 140): el negocio que se
+  anunció como alquiler de amigos y resultó una tienda de perros (para tener compañía), mariposas (por
+  su belleza) y orquídeas (por ser exóticas), y el final: el empleado enfermó de cáncer, se jubiló y
+  **no quedó nada**. Entra como **contraste de fuera**, sin moraleja y sin convertir la enfermedad en
+  plaga ni en castigo.
+- **I.21 «Alquiler de amigos» escrito** (decisión 141): **2.838 palabras** (−6,2 %), 5 secciones,
+  **4,0 % de citas**, 0 errores y 0 avisos. El anuncio aparece doblado dentro del periódico que hay
+  debajo de la caja segunda, con «SE CIERRA. GRACIAS A TODOS.» por detrás; la casa discute «alquilar
+  no es vender»; Alfa dice «once de octubre» y el acta es del diez, porque la foto de la página doce
+  del cuaderno azul **corta el margen** donde está el «10» en rojo; se inventaría lo que una foto no
+  guarda y se prueba con el «DIARIO» del lomo; se vota **seis a dos que las fotos no son copias**, no
+  se borran y el móvil sale de la casa todos los días. Prácticas **P2 y P1**; sirve a **M-1** con M-2
+  y M-3 de fondo. Actualizados `CRONOLOGIA.md`, `GLOSARIO.md`, `ESTRUCTURA.md`, `README.md`,
+  `estado.json` y `SINOPSIS/` (no versionada).
+- Próximo paso: **revisión de I.21** por el autor y, si se aprueba, **I.22**, con dossier por
+  preparar. **21/126 capítulos, 62.585 palabras**, 0 errores y 0 avisos.

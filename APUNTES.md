@@ -16,8 +16,14 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   llegó después no aprendió las actas en la caja sino en el **móvil** de Alfa, y la foto de la página
   doce del cuaderno azul corta el **margen** donde está el «10» en rojo con la raya; se vota **seis a
   dos** que las fotos no son copias y el móvil sigue saliendo de la casa. Prácticas **P2 y P1**; sirve
-  a **M-1** con M-2 y M-3 de fondo. **20/126 capítulos, 59.747 palabras.** No se escribe hasta que el
-  autor lo ordene.
+  a **M-1** con M-2 y M-3 de fondo. El autor dicta además **S-07 «Alquiler de amigos»** (decisión 140)
+  y **I.21 «Alquiler de amigos» queda escrito** (decisión 141): **2.838 palabras** (−6,2 %), 5
+  secciones, **4,0 % de citas**, 0 errores y 0 avisos. El anuncio de una tienda que vendía compañía,
+  belleza y exotismo aparece doblado dentro del periódico que hay debajo de la caja segunda; la foto
+  de la página doce del cuaderno azul corta el margen donde está el «10» en rojo y Alfa dice «once»;
+  se vota **seis a dos** que las fotos no son copias; la tienda cerró porque al que la atendía le
+  diagnosticaron un cáncer y se jubiló. **21/126 capítulos, 62.585 palabras.** Pendiente de revisión
+  del autor; próximo paso: **I.22**, decimocuarto del bloque I.2, con dossier por preparar.
 - **Sesión anterior:** 2026-11-15 y 16 (**v60, cerrada**). **I.18 «La que no cree» aprobado** por el
   autor (decisión 127), con la aclaración de que el «está revisado» de la decisión 126 ya era la
   revisión: se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
@@ -1547,7 +1553,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.18 «La que no cree» | §0 vicies | 2026-11-14 | 122 | el criterio de fracaso como generador | P1, P2, P6 |
 | I.19 «La casa de la esquina» | §0 unvicies | 2026-11-15 | 128 | el caldo que sale y la nota sin firma | P7, P4, P2 |
 | I.20 «El cuaderno de los errores» | §0 duovicies | 2026-11-16 | 134 | el cuaderno cerrado y el blanco | P8, P2, P1 |
-| I.21 «Las fotos del acta» | §0 tervicies | 2026-11-18 | 139 | la foto que corta el margen | P2, P1 |
+| I.21 «Alquiler de amigos» | §0 tervicies | 2026-11-18 | 139 | la foto que corta el margen | P2, P1 |
 
 **Notas.**
 
@@ -2155,10 +2161,12 @@ original junto a la copia para que la diferencia se pueda leer, y se conserva lo
 su coste: la copia limpia es la que se lee y la que se puede fotografiar. Se puede describir sin
 vocabulario teológico y el narrador no elogia.
 
-**Material: ninguna sinopsis de hechos.** `S-01`, `S-02` y `S-03` siguen ancladas en I.5, II.5 y II.2
-(decisión 81); `S-06` se gastó en I.16; `F-35` y `F-36` no se nombran (decisiones 67 y 76). El
-capítulo se sostiene con una pieza que ha estado en casi todos los capítulos sin ser materia de
-ninguno —**el móvil**— y con una página que I.3 dejó escrita y nadie ha vuelto a mirar.
+**Material: ninguna sinopsis de hechos al prepararlo; S-07 sí, al escribirlo** (dictada por el autor el
+mismo día, decisión 140). `S-01`, `S-02` y `S-03` siguen ancladas en I.5, II.5 y II.2 (decisión 81);
+`S-06` se gastó en I.16; `F-35` y `F-36` no se nombran (decisiones 67 y 76). El capítulo se sostiene
+con una pieza que ha estado en casi todos los capítulos sin ser materia de ninguno —**el móvil**—, con
+una página que I.3 dejó escrita y nadie ha vuelto a mirar y, desde S-07, con el **anuncio de una
+tienda de fuera** que vendía la copia de la compañía, la belleza y lo exótico (decisión 141).
 
 | Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
 |---|---|---|
@@ -2227,7 +2235,26 @@ página doce); 3. La foto (el móvil boca abajo en la mesa, qué se ve y qué qu
 COPIAS); 5. Seis a dos (la votación, el acta mínima, el móvil que sale de la casa, Alfa leyendo de la
 caja). El cierre no es una tesis: la foto está en el móvil y la página está en la caja.
 
-**Presupuesto:** 3.025 palabras (±20 %). **No se escribe hasta que el autor lo ordene.**
+**Presupuesto:** 3.025 palabras (±20 %).
+
+**Escrito en la v61** (decisión 141): **2.838 palabras** (−6,2 % sobre 3.025), 5 secciones, **4,0 % de
+citas**, 0 errores y 0 avisos. El título de trabajo cambia al escribirse: **«Alquiler de amigos»**, por
+el anuncio que entra de fuera, no por el móvil. Precisiones que el texto fija y el dossier no
+anticipaba: **(1)** el anuncio estaba **dentro del periódico** que había debajo de la caja segunda,
+con la línea «SE CIERRA. GRACIAS A TODOS.» por detrás y la letra de nadie de la casa; **(2)** la
+propuesta de Zeta de los no consta **no lleva motivo dicho**: dice que hay que hacerles fotos a las
+actas y la casa discute cómo, no por qué; **(3)** la casa discute **«alquilar no es vender»** y deja el
+asunto sin resolver, y repara en que la tienda abría también los jueves; **(4)** la prueba de lo que no
+guarda una foto se hace **en la sesión**, con el lomo del cuaderno de cuadros y la palabra «DIARIO»
+bajo la raya: la foto no la recoge ni inclinando el móvil hacia la ventana; **(5)** la foto del acta
+primera, hecha delante de todos, sale con un **blanco de flash** y la casa ve que media hoja cabe bajo
+un dedo; **(6)** votan que sí **Equis del bolígrafo y Milenial de la copia** (una copia es una copia, y
+el cuaderno azul lo es); **(7)** la tienda es de la **calle del colegio, 4**, abrió «en marzo del año
+anterior», vendió también correas, jaulas de cartón y macetas pequeñas, y **la casa no habla de ella**;
+**(8)** el cierre es la caja segunda encima del periódico y del anuncio, con las letras corridas, y la
+última línea del capítulo: «De la tienda no quedó nada.» Uso de **S-07** (decisión 140) como contraste
+de fuera, sin moraleja y sin convertir el cáncer en plaga ni en castigo. **Pendiente de revisión del
+autor.**
 
 ---
 
@@ -2713,6 +2740,10 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 138 | Escritura | **I.20 «El cuaderno de los errores» aprobado** por el autor («He leido I.20, queda aprobado»). Se cierra con **3.179 palabras** (+5,1 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0 avisos. **20/126 capítulos, 59.747 palabras** | 2026-11-18 | Cierra la 137. I.20 queda como duodécima pieza del bloque I.2: el cuaderno cerrado el 12-II, el siete a uno que no lo reabre y el blanco que sigue en blanco; sirve a **M-1** con M-2 y M-3 de fondo y gasta **E-S-8** (decisión 136). Sin correcciones del autor: el capítulo pasa tal como se escribió. Se desbloquea **I.21**, decimotercero del bloque, con dossier por preparar |
 
 | 139 | Escritura | **Dossier de I.21 «Las fotos del acta» preparado** (§0 tervicies), decimotercero del bloque I.2, por orden del autor al aprobar I.20 («Prepara del dossier de I.21»). La que llegó después no aprendió las actas en la caja sino en el **móvil**: Alfa fotografía el cuaderno azul desde hace meses, y la foto de la **página doce** corta el **margen** donde está el «10» en rojo con la raya, así que en el móvil solo se lee «11»; la diferencia que la tercera cláusula mandaba dejar a la vista queda fuera de cuadro. Se vota **seis a dos que las fotos no son copias**, no se borran y el móvil sigue saliendo de la casa. Prácticas E-05: **P2 y P1** (no P8, que repetiría el hallazgo de I.14). Sin sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-18 | Tres **elecciones locales** sujetas a revisión: la sesión es el 8 de octubre de 2026; la foto que falla es la de la página doce del cuaderno azul y Alfa dice «once»; se vota seis a dos que no son copias y nada se decide sobre el móvil. Sirve a **M-1** con M-2 y M-3 de fondo. El Servidor está y no habla: no se gasta E-S-4 a E-S-7 y E-S-8 acaba de usarse en I.20. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas y no repite los recursos de I.9-I.20 (ni la escena del móvil de I.1, ni la fecha de la copia de I.14, ni la pregunta de Alfa de I.5). **No se escribe hasta que el autor lo ordene** |
+
+| 140 | Material | **S-07 «Alquiler de amigos» registrada** por dictado del autor al ordenar la escritura de I.21: «Se fomentó montar un negocio al estilo "Alquier de amigos". Aquello resultó ser una tienda que se vendían, perros (para tener compañia), mariposas (por su belleza), orquideas (por ser exóticas), pero el empleado contrajo cancer y se tubo que jubilar, así que todo sirvió de nada y con este mal final se acaba todo». Se fija en `SINOPSIS/S-07-alquiler-de-amigos.md` (no versionada), con el dictado literal y las grafías conservadas | 2026-11-18 | **No es canon por sí misma** (regla 4 de `SINOPSIS/`): el hecho es material para generar contenido, no materia del archivo. Uso propuesto y aplicado: **contraste de fuera** (`ESTRUCTURA.md`) y **documento** (P2). Guardas: el narrador **no** dice que el negocio fracasara por vender, sino que enfermó el que lo atendía; la enfermedad **no es la plaga, no es castigo** y no convierte a la casa en resto justo (criterio de fracaso, §2). No fija años ni nombres (C-6) |
+
+| 141 | Escritura | **I.21 «Alquiler de amigos» escrito**, decimotercero del bloque I.2: **2.838 palabras** (−6,2 % sobre 3.025), 5 secciones, **4,0 % de citas**, 0 errores y 0 avisos. Se levanta la caja segunda del suelo húmedo y dentro del periódico aparece el anuncio de **ALQUILER DE AMIGOS** (perros a 300 € para tener compañía, mariposas a 15 € por su belleza, orquídeas a 30 € por ser exóticas), con «SE CIERRA. GRACIAS A TODOS.» por detrás; Alfa dice «once de octubre» y el acta es del diez; el móvil tiene **treinta y una fotos** de páginas del cuaderno azul, y la de la **página doce** corta el margen donde está el «10» en rojo con la raya; se inventaría lo que una foto no guarda (margen, reverso, trasluz, grosor, olor, color, raya) y se prueba con la palabra «DIARIO» del lomo; se vota **seis a dos que las fotos no son copias** y nadie decide sobre el móvil, que sale de la casa todos los días; la tienda cerró porque al que la atendía le diagnosticaron un cáncer y se jubiló. **21/126, 62.585 palabras** | 2026-11-18 | Escrito con **P2 y P1** de E-05 (y no P8, que repetiría el hallazgo de I.14) y sin sinopsis de hechos, usando **S-07** (decisión 140). Sirve a **M-1** con M-2 y M-3 de fondo, según el hilo conductor (§2). El Servidor está y no habla: E-S-4 a E-S-7 siguen reservadas. Continuidad: móvil de Alfa (I.1, I.4, I.5, I.9, I.11), página doce y tercera cláusula (I.3, I.18), etiqueta «COPIAS. NO SON COPIAS» (I.1, I.3), caja primera y «NO SACAR DE LA CASA» (I.1), lomo «DIARIO» (I.5), periódico y humedad (I.20), cuota y libreta (I.7), actas sin nombres ni año y Alfa sin voto (decisión 54). No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas, no explica la suma del 12-II y no repite los recursos de I.9-I.20. **Pendiente de revisión del autor** |
 
 ---
 

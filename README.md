@@ -5,23 +5,25 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo. **I.1 a I.18 escritos y aprobados** con el método limpio (decisión 28); I.8
+  C-1 a C-10 completo. **I.1 a I.20 escritos y aprobados** con el método limpio (decisión 28), e **I.21 pendiente de revisión**; I.8
   cerró el bloque I.1 (decisión 77) e I.9 abrió el bloque I.2 (decisión 82). Correcciones de errata
   autorizadas: calendario de I.7 (decisión 85) y fórmula de I.9 (decisión 99). **I.19 «La casa de la
   esquina» escrito** (decisión 129), **revisado** (decisión 131: 3.041 palabras) y **aprobado**
   (decisión 133), undécimo del bloque I.2, con dossier en §0 unvicies (128). **I.20 «El cuaderno de
   los errores» escrito** (decisión 137: 3.179 palabras) y **aprobado** (decisión 138), duodécimo del
-  bloque: **20/126 capítulos, 59.747 palabras**. **Dossier de I.21 «Las fotos del acta» preparado**
-  (§0 tervicies, decisión 139): el móvil de Alfa, la foto de la página doce del cuaderno azul que
-  corta el margen y el voto seis a dos que las fotos no son copias. **I.18 «La que no cree» aprobado** en la v60
+  bloque. **I.21 «Alquiler de amigos» escrito** (decisión 141: 2.838 palabras), decimotercero del
+  bloque, con dossier en §0 tervicies (139): **21/126 capítulos, 62.585 palabras**. **S-07 «Alquiler
+  de amigos» registrada** (decisión 140) como contraste de fuera: la tienda que vendía compañía,
+  belleza y exotismo, el anuncio doblado dentro del periódico de debajo de la caja segunda y la foto
+  de la página doce que corta el margen donde está el «10» en rojo. **I.18 «La que no cree» aprobado** en la v60
   (decisión 127), con el criterio de fracaso como generador del argumento (§2). **`APUNTES.md` lleva
   un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`: nueve movimientos
   (M-1 a M-9) y registro de las explicaciones de El Servidor (E-S-1 a E-S-7); ningún capítulo se
   escribe sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas
   versiones** (decisión 124). **Dossier de I.20 «El cuaderno de los errores» preparado** (§0
-  duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). Siguiente: **escribir
-  I.21**, decimotercero del bloque I.2, cuando el autor lo ordene.
-- **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
+  duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). Siguiente: **revisión de
+  I.21** y, si se aprueba, **I.22**, decimocuarto del bloque I.2, con dossier por preparar.
+- **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-07`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
   `CRONOLOGIA.md` y `FUENTES.md`.
@@ -366,8 +368,11 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Preparar el dossier de I.21 «Las fotos del acta» (2026-11-18, decisión 139): el móvil de Alfa,
       la foto de la página doce del cuaderno azul que corta el margen donde está el «10» en rojo, y el
       voto seis a dos que las fotos no son copias. Prácticas P2 y P1. Sin decisiones del autor.
-- [ ] Escribir I.21 «Las fotos del acta»: 3.025 palabras de presupuesto, decimotercero del bloque I.2.
-      No se escribe hasta que el autor lo ordene.
+- [x] Escribir I.21 «Alquiler de amigos»: 2.838 palabras, 5 secciones, 4,0 % de citas, 0 errores y
+      0 avisos (2026-11-18, decisión 141); sirve a **M-1** con M-2 y M-3 de fondo y usa **S-07**
+      (decisión 140). **Pendiente de revisión del autor.**
+- [ ] Escribir I.22: 3.025 palabras de presupuesto, decimocuarto del bloque I.2, con dossier por
+      preparar y sin escribir hasta que el autor lo ordene.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -381,10 +386,10 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 primer `[ ]` de la hoja de ruta.
 
 - Última sesión: 2026-11-18 (v61, en curso).
-- Siguiente: **escribir I.21 «Las fotos del acta»**, decimotercero del bloque I.2, con dossier ya
-  preparado (§0 tervicies, decisión 139). Punto 1, criterio de selección (punto 3), reparto
+- Siguiente: **revisión de I.21 «Alquiler de amigos»** y, si se aprueba, **escribir I.22**,
+  decimocuarto del bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento (§2,
-  decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.20 aprobados; la
-  escritura se comprueba con `escritura/bin/nk`.
+  decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.20 aprobados e
+  I.21 pendiente de revisión; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

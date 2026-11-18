@@ -57,6 +57,8 @@ Vocabulario canónico del libro. Existe para que el registro no se derive sesió
 | la casa de la esquina | minúscula | La casa del número marcado en la lista de los teléfonos (I.15): puerta verde, visillo y poyete. Pidió que no se le llamara; recibe una ración de caldo una sola vez (I.19) | uso |
 | la casa de la parra | minúscula | Nombre de puertas afuera de la casa de la comunidad: es lo que dice la nota del caldo y lo que dice Alfa en la puerta (I.19). No es nombre de persona | uso |
 | el poyete | minúscula | El antepecho de la ventana de la casa de la esquina, donde se deja la olla con la nota (I.19) | uso |
+| la tienda de alquiler de amigos | minúscula | La tienda de la calle del colegio, 4, frente al colegio: se anunció como «alquiler de amigos» y vendía perros (300 €, «para tener compañía»), mariposas (15 €, «por su belleza») y orquídeas (30 €, «por ser exóticas»), con correas, jaulas de cartón y macetas pequeñas. Abría martes y jueves por la tarde. En la primavera enfermó el que la atendía y se jubiló; no hubo traspaso y la persiana no volvió a subir (I.21). El anuncio, con «SE CIERRA. GRACIAS A TODOS.» por detrás, es lo único que queda de ella: quedó bajo la caja segunda, fuera de toda caja, porque no era de la casa | uso |
+| el móvil de Alfa | minúscula | El teléfono de Alfa: pantalla partida por una esquina y funda transparente de borde amarillo. Está en la casa desde I.1 (la fórmula dicha con el móvil en la mano) y en I.21 se sabe que guarda **treinta y una fotos** de páginas del cuaderno azul, hechas en la cocina sobre el hule, para leerlas por la noche. Las fotos no son copias (seis a dos) y nadie decide sobre ellas | uso |
 
 ## Tecnicismo y ego
 
