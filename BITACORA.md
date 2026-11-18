@@ -1271,3 +1271,16 @@ su dossier.
   commit de este cierre); **no se hace copia nueva al USB**: el medio lleva la segunda pasada del 16
   (`08450ae`), anterior a I.20, por acuerdo del autor. Próximo arranque: revisión de I.20 y, si se
   aprueba, I.21 con dossier por preparar.
+
+## v61 — 2026-11-18
+
+- **I.20 «El cuaderno de los errores» aprobado** por el autor («He leido I.20, queda aprobado»,
+  decisión 138): 3.179 palabras (+5,1 % sobre 3.025), 5 secciones, 3,8 % de citas, 0 errores y 0
+  avisos. Duodécima pieza del bloque I.2; sirve a **M-1** con M-2 y M-3 de fondo y gasta **E-S-8**.
+- **Dossier de I.21 «Las fotos del acta» preparado** (§0 tervicies, decisión 139): el móvil de Alfa,
+  la foto de la página doce del cuaderno azul que corta el margen donde está el «10» en rojo con la
+  raya, la etiqueta «COPIAS. NO SON COPIAS», el voto **seis a dos** que las fotos no son copias y la
+  que llegó después volviendo a leer de la caja. Prácticas **P2 y P1**; sirve a **M-1** con M-2 y M-3
+  de fondo. Tres elecciones locales sujetas a revisión; ninguna decisión pendiente del autor.
+- Próximo paso: **escribir I.21** cuando el autor lo ordene. Sin tocar el manuscrito en esta sesión:
+  **20/126 capítulos, 59.747 palabras**, 0 errores y 0 avisos.

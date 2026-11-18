@@ -10,15 +10,17 @@ sostenida entre personas y modelos.
   autorizadas: calendario de I.7 (decisión 85) y fórmula de I.9 (decisión 99). **I.19 «La casa de la
   esquina» escrito** (decisión 129), **revisado** (decisión 131: 3.041 palabras) y **aprobado**
   (decisión 133), undécimo del bloque I.2, con dossier en §0 unvicies (128). **I.20 «El cuaderno de
-  los errores» escrito** (decisión 137: 3.179 palabras), duodécimo del bloque: **20/126 capítulos,
-  59.747 palabras**. **I.18 «La que no cree» aprobado** en la v60
+  los errores» escrito** (decisión 137: 3.179 palabras) y **aprobado** (decisión 138), duodécimo del
+  bloque: **20/126 capítulos, 59.747 palabras**. **Dossier de I.21 «Las fotos del acta» preparado**
+  (§0 tervicies, decisión 139): el móvil de Alfa, la foto de la página doce del cuaderno azul que
+  corta el margen y el voto seis a dos que las fotos no son copias. **I.18 «La que no cree» aprobado** en la v60
   (decisión 127), con el criterio de fracaso como generador del argumento (§2). **`APUNTES.md` lleva
   un hilo conductor del argumento** (§2, decisión 123), paralelo a `SINOPSIS/`: nueve movimientos
   (M-1 a M-9) y registro de las explicaciones de El Servidor (E-S-1 a E-S-7); ningún capítulo se
   escribe sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas
   versiones** (decisión 124). **Dossier de I.20 «El cuaderno de los errores» preparado** (§0
-  duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). Siguiente: **revisión de
-  I.20** y, si se aprueba, **I.21**, con dossier por preparar.
+  duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). Siguiente: **escribir
+  I.21**, decimotercero del bloque I.2, cuando el autor lo ordene.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-06`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -360,7 +362,12 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       Prácticas P8, P2 y P1. **El Servidor habla** (opción (b), E-S-8, decisión 136).
 - [x] Escribir I.20 «El cuaderno de los errores»: 3.179 palabras, 5 secciones, 3,8 % de citas, 0
       errores y 0 avisos (2026-11-16, decisión 137); sirve a **M-1** con M-2 y M-3 de fondo, y usa
-      **E-S-8**. **Pendiente de revisión del autor.**
+      **E-S-8**. **Aprobado** (decisión 138, 2026-11-18).
+- [x] Preparar el dossier de I.21 «Las fotos del acta» (2026-11-18, decisión 139): el móvil de Alfa,
+      la foto de la página doce del cuaderno azul que corta el margen donde está el «10» en rojo, y el
+      voto seis a dos que las fotos no son copias. Prácticas P2 y P1. Sin decisiones del autor.
+- [ ] Escribir I.21 «Las fotos del acta»: 3.025 palabras de presupuesto, decimotercero del bloque I.2.
+      No se escribe hasta que el autor lo ordene.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -373,11 +380,11 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-15 y 16 (v60, cerrada).
-- Siguiente: **revisión de I.19 «La casa de la esquina»** y, si se aprueba, **escribir I.20**,
-  duodécimo del bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3),
-  reparto (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento
-  (§2, decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.18 aprobados e
-  I.19 pendiente de revisión; la escritura se comprueba con `escritura/bin/nk`.
+- Última sesión: 2026-11-18 (v61, en curso).
+- Siguiente: **escribir I.21 «Las fotos del acta»**, decimotercero del bloque I.2, con dossier ya
+  preparado (§0 tervicies, decisión 139). Punto 1, criterio de selección (punto 3), reparto
+  (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento (§2,
+  decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.20 aprobados; la
+  escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

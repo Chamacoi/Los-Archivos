@@ -8,7 +8,17 @@
 viven en ficheros aparte: están en §0, uno por capítulo, y el índice dice en qué sección está cada uno,
 cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gastados.
 
-- **Sesión actual:** 2026-11-15 y 16 (**v60, cerrada**). **I.18 «La que no cree» aprobado** por el
+- **Sesión actual:** 2026-11-18 (**v61, abierta**). **I.20 «El cuaderno de los errores» aprobado** por
+  el autor («He leido I.20, queda aprobado», decisión 138): se cierra con **3.179 palabras** (+5,1 %),
+  5 secciones, 3,8 % de citas, 0 errores y 0 avisos, y queda como duodécima pieza del bloque I.2
+  (sirve a M-1 con M-2 y M-3 de fondo). **Dossier de I.21 «Las fotos del acta» preparado** (§0
+  tervicies, decisión 139), decimotercero del bloque I.2, sin decisiones que pedir al autor: la que
+  llegó después no aprendió las actas en la caja sino en el **móvil** de Alfa, y la foto de la página
+  doce del cuaderno azul corta el **margen** donde está el «10» en rojo con la raya; se vota **seis a
+  dos** que las fotos no son copias y el móvil sigue saliendo de la casa. Prácticas **P2 y P1**; sirve
+  a **M-1** con M-2 y M-3 de fondo. **20/126 capítulos, 59.747 palabras.** No se escribe hasta que el
+  autor lo ordene.
+- **Sesión anterior:** 2026-11-15 y 16 (**v60, cerrada**). **I.18 «La que no cree» aprobado** por el
   autor (decisión 127), con la aclaración de que el «está revisado» de la decisión 126 ya era la
   revisión: se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
   avisos. **Dossier de I.19 «La casa de la esquina» preparado** (§0 unvicies, decisión 128), undécimo
@@ -1537,6 +1547,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.18 «La que no cree» | §0 vicies | 2026-11-14 | 122 | el criterio de fracaso como generador | P1, P2, P6 |
 | I.19 «La casa de la esquina» | §0 unvicies | 2026-11-15 | 128 | el caldo que sale y la nota sin firma | P7, P4, P2 |
 | I.20 «El cuaderno de los errores» | §0 duovicies | 2026-11-16 | 134 | el cuaderno cerrado y el blanco | P8, P2, P1 |
+| I.21 «Las fotos del acta» | §0 tervicies | 2026-11-18 | 139 | la foto que corta el margen | P2, P1 |
 
 **Notas.**
 
@@ -1561,7 +1572,9 @@ lo que no pasa y se queda (la que copia y no cree), con el criterio de fracaso c
 **I.19** lo toma por lo que sale (el caldo que va a la casa que pidió que no se le llamara, la nota
 sin firma y la olla que acaba de maceta), y lo lleva la más joven. **I.20** lo toma por lo que se dejó
 de apuntar: el cuaderno de los errores, cerrado el 12-II, con la casa votando siete a uno no
-reabrirlo y el blanco que sigue en blanco.
+reabrirlo y el blanco que sigue en blanco. **I.21** lo toma por el **instrumento**: el móvil que está
+en la casa desde I.1 y que nadie había mirado, la copia que no deja diferencia que leer y la foto que
+se va de la casa todos los días sin que nadie lo haya decidido.
 
 ### 0 octodecies. I.16 «La fotocopia»: dossier de material (2026-11-11)
 
@@ -2114,7 +2127,107 @@ del margen**, y el «ya está escrito lo que pasó» es de **Boomer de la silla*
 **una entrada de enero** (página cincuenta y ocho, `df -h`, disco lleno) como muestra del oficio, sin
 que la casa la lea; **(5)** la goma no se cambia: «sujeta lo que hay»; **(6)** la página 61 no se lee y
 la suma del 12-II no se explica en ningún momento; **(7)** El Servidor habla en dos frases (E-S-8) y un
-remate («Que se sepa»), y Alfa sigue sin entenderlo. **Pendiente de revisión del autor.**
+remate («Que se sepa»), y Alfa sigue sin entenderlo. **Aprobado en la v61** (decisión 138).
+
+---
+
+### 0 tervicies. I.21 «Las fotos del acta»: dossier de material (2026-11-18)
+
+Preparado por orden del autor al aprobar I.20 («He leido I.20, queda aprobado. Prepara del dossier de
+I.21»). **Decimotercero del bloque I.2**, detrás del cuaderno cerrado. El título es de trabajo: se
+decide al escribir.
+
+**Función en el bloque.** El índice (§0 septendecies) deja abierto el hilo de **la distancia con
+quien llega después**, llevado por I.17 (el oficio que cambia de mano), I.18 (lo que no pasa y se
+queda), I.19 (lo que sale) e I.20 (lo que se dejó de apuntar). I.21 no lo toma por una persona nueva
+ni por lo que falta en una caja, sino por **el instrumento**: el móvil de Alfa, que está en la casa
+desde I.1 y no ha sido materia de ningún capítulo. La que llegó después no aprendió las actas en el
+archivo: las aprendió en una foto. El capítulo no va de juventud ni de técnica; va de una **copia que
+no deja diferencia que leer**, y de que la casa no tiene regla para ella.
+
+**Movimiento que sirve:** **M-1** (no hay prueba en el archivo), con **M-2** (la forma de vida se
+muestra en lo pequeño: el margen, las tildes de la copia, el oficio de leer en voz alta) y **M-3** (el
+coste y la disidencia: se vota, y la que llegó después vuelve a leer peor) de fondo. Ver §2, «Hilo
+conductor del argumento» (decisión 123).
+
+**Fruto que se ve** (`ESTRUCTURA.md`, «Prueba por frutos»): la **fidelidad al archivo** —se guarda el
+original junto a la copia para que la diferencia se pueda leer, y se conserva lo que avergüenza—, con
+su coste: la copia limpia es la que se lee y la que se puede fotografiar. Se puede describir sin
+vocabulario teológico y el narrador no elogia.
+
+**Material: ninguna sinopsis de hechos.** `S-01`, `S-02` y `S-03` siguen ancladas en I.5, II.5 y II.2
+(decisión 81); `S-06` se gastó en I.16; `F-35` y `F-36` no se nombran (decisiones 67 y 76). El
+capítulo se sostiene con una pieza que ha estado en casi todos los capítulos sin ser materia de
+ninguno —**el móvil**— y con una página que I.3 dejó escrita y nadie ha vuelto a mirar.
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| El móvil de Alfa | I.1 §4, I.4 §2, I.5 §1, I.9 §1, I.11 §4; PERSONAS ficha 3 | Lo lleva siempre («con el móvil en la mano, como siempre») y lo deja **boca abajo**; el ruido de la casa era su móvil y nadie le pidió que lo explicara; dice la fórmula con el móvil en la mano y la repite entera cuando se la piden. **Tiene diez años y no vota** (decisión 54) |
+| La página doce del cuaderno azul | I.3 §2 | La sesión del **10 de octubre** está fechada **el 11 en la copia**; alguien lo corrigió después, **en el margen**, con bolígrafo **rojo**: «10» con una raya debajo. No se ha borrado ninguna de las dos cifras |
+| La tercera cláusula del armisticio | I.3, I.18 | **Lo corregido se deja ver**; la copia y el original se guardan juntos y **la diferencia se puede leer**. No obliga a copiar: obliga a que lo corregido se deje ver |
+| La etiqueta «COPIAS. NO SON COPIAS» | I.1 §2, I.3 §2 | Mayúsculas pequeñas y subrayado doble, en la caja segunda; en el reverso, **«Si esto es una copia, entonces»**, sin terminar |
+| La etiqueta de la caja primera | I.1 | «CAJA 1. ACTAS… **NO SACAR DE LA CASA**». El papel no sale; de la foto no dice nada nadie |
+| El rojo | I.3, I.5 | Tres veces en todo el archivo y **nunca para una opinión**; vive en el **margen** |
+| El margen | I.3 §2-§3, I.10, I.16 | El sitio de lo que no cabe en el renglón: el rojo de la página doce, el «no consta» tachado y el «Sí consta» debajo (I.3 §3), los dibujos de Zeta del margen |
+| La caja segunda y el suelo del taller | I.20 | Se sacó del suelo el 24 de septiembre por la humedad y volvió al suelo húmedo sobre una hoja de periódico; el blanco del cuaderno era más que lo escrito |
+| Las actas | I.1, I.5, I.8, I.13 | Apuntan lo que se hizo, no lo que se dijo ni por qué se votó; sin nombres, sin año, con sus faltas; no hay reproche y no se corrige a nadie |
+
+**Procedimiento E-05: P2 y P1.** **P2** (todo entra por un documento que no es ello: la foto, no el
+archivo) y **P1** (se inventaría lo que falta: qué no guarda una foto de una página). Tope del bloque,
+tres: se usan **dos**. **No** P8: el hallazgo de que la copia lleva la fecha de la copia ya está en
+I.14 («el oficio borra la fecha») y aquí la foto **no borra la fecha**, corta el margen donde está la
+corrección. **No** P6: no se narra un hecho pasado que alguien lea, sino la sesión presente. **No**
+P5 (gastado en I.9, I.11 y I.20) **ni** P7/P4 de I.19 **ni** P3/P9, que se reparten en I.3 y II.1.
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. La sesión del **8 de octubre de 2026** (jueves): han pasado dos jueves desde el 24 de septiembre; la
+   leña pedida el 1 de octubre no ha llegado y la caja segunda sigue en el suelo del taller, sobre el
+   periódico.
+2. **Zeta de los no consta** propone fotografiar las actas: el agua se llevaría el papel y la casa no
+   tiene copia de la caja primera.
+3. Antes de votarlo, **Alfa dice una fecha que no está en el acta** —«once de octubre»— y la casa
+   busca el papel: el acta dice diez. No hay reproche y no se le pide que se explique.
+4. Las fotos existen desde hace meses: **Alfa fotografió el cuaderno azul**, no la caja primera,
+   porque la copia tiene las tildes y se lee mejor. En el móvil hay una treintena de páginas.
+5. La foto de la **página doce** corta el **margen**: en el móvil solo se lee «11»; el «10» en rojo
+   con la raya quedó fuera de cuadro. La diferencia que la tercera cláusula mandaba dejar a la vista
+   está en el sitio que la foto no guarda.
+6. Se hace el inventario de lo que una foto no guarda: el margen, el reverso (la frase empezada de la
+   etiqueta), el tachón que se lee **al trasluz**, el grosor, el olor, la raya. (P1)
+7. Se vota **si las fotos son copias**: **seis a dos que no** (votaron ocho; Alfa no vota). El que
+   vota que sí lo dice en voz alta; el acta solo dice «Las fotos no son copias».
+8. Nadie decide sobre las fotos: **no se borran**, y **el móvil sale de la casa todos los días**. No se
+   dice adónde.
+9. Alfa vuelve a leer de la caja: lee más despacio, con el dedo, y **no se queja**.
+10. La etiqueta «COPIAS. NO SON COPIAS» se pone sobre la mesa y **la frase del reverso no se termina**.
+
+**Lo que no puede hacer.** Repetir la escena de I.1 (la fórmula dicha sin mirar la caja y repetida
+mirando la caja): aquí la frase no se dice mal por distracción, sino que **la copia está cortada**, y
+el fallo no tiene autor. Repetir el hallazgo de I.14 (la copia borra la fecha) ni la pregunta de Alfa
+de I.5 y de I.20 (una pregunta sin respuesta): aquí **no pregunta, dice**, y el trabajo lo hace **Equis
+del registro**, que sabe qué hay en cada caja. Convertir la foto en prueba (M-1) o en revelación para
+Alfa: no entiende por qué la foto está mal y no hace falta que lo entienda. Dar voz al archivo
+(decisión 55) o usar la primera persona (`yo_maximo = 0`). Explicar la suma del 12-II, la división, las
+dos salidas, la plaga, 2008 o el anuncio; reabrir el cuaderno de los errores (I.20); tocar C-8, C-9 y
+C-10. Resolver «Si esto es una copia, entonces». Y no convertirlo en un capítulo sobre la técnica: el
+móvil estaba en el mundo del libro desde I.1 y su funcionamiento no se explica.
+
+**Decisiones que el capítulo necesita del autor: ninguna pendiente.** No hay hecho que canonizar ni
+bifurcación de canon. Tres **elecciones locales**, sujetas a revisión: (1) la sesión es el **8 de
+octubre de 2026**; (2) la foto que falla es la de la **página doce del cuaderno azul** y Alfa dice
+«once»; (3) se vota **seis a dos que las fotos no son copias**, no se borran y el móvil sigue saliendo
+de la casa. **El Servidor está y no habla:** no se gasta E-S-4 a E-S-7 y E-S-8 acaba de usarse en I.20
+(la decisión 124 permite, no obliga).
+
+**Reparto (cinco secciones).** 1. El suelo (la caja segunda sobre el periódico, la leña que no llega,
+la propuesta de Zeta de los no consta); 2. Once (la fecha que Alfa dice, la búsqueda del papel, la
+página doce); 3. La foto (el móvil boca abajo en la mesa, qué se ve y qué quedó fuera de cuadro);
+4. Lo que no cabe (el inventario: margen, reverso, trasluz, grosor, olor; la etiqueta COPIAS. NO SON
+COPIAS); 5. Seis a dos (la votación, el acta mínima, el móvil que sale de la casa, Alfa leyendo de la
+caja). El cierre no es una tesis: la foto está en el móvil y la página está en la caja.
+
+**Presupuesto:** 3.025 palabras (±20 %). **No se escribe hasta que el autor lo ordene.**
 
 ---
 
@@ -2124,7 +2237,7 @@ Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está ent
 Estado: **ABIERTO**. Nada de este fichero es definitivo salvo lo marcado como CERRADO o como canon.
 
 - Creado: sesión de trabajo inicial (v1).
-- Última revisión: v59 (2026-11-14, sesión en curso).
+- Última revisión: v61 (2026-11-18, sesión en curso).
 - Naturaleza: apuntes de proyecto, no texto de la obra. El texto de la obra va en `MANUSCRITO/`.
 
 ---
@@ -2596,6 +2709,10 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 136 | Escritura | **El Servidor habla en I.20**: el autor elige la **opción (b)** de las dos del dossier (§0 duovicies, decisión 134). Habla una vez, con una explicación nueva y breve, **E-S-8**, sobre el blanco del cuaderno: se apunta la falta para que no se repita sin que se sepa. Se añade al registro de explicaciones de §2 como **decidido**, con la frase por fijar al escribir | 2026-11-16 | **No cambia C-2 ni C-4** (el nombre sigue sin guiño): cambia el límite de extensión, como la decisión 124. Guarda del criterio de fracaso: explica lo que la vida ya muestra, no lo demuestra, no convence a Alfa y no se identifica con Dios. E-S-4 a E-S-7 siguen reservadas; la fórmula de C-10 sigue sin gastarse. Queda desbloqueada la escritura de I.20, pendiente de la orden del autor |
 
 | 137 | Escritura | **I.20 «El cuaderno de los errores» escrito**, duodécimo del bloque I.2: **3.179 palabras** (+5,1 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0 avisos. La casa saca la caja segunda por la humedad del suelo del taller y encuentra el cuaderno debajo de los discos; lee la regla de la tapa y el añadido «Salvo que se pregunte»; Alfa pregunta para qué se apunta lo que no se corrige; El Servidor dice que no se apunta la falta, sino que la hubo (E-S-8); se vota reabrir y sale **siete a uno que no**; el acta solo dice «Se lee la regla del cuaderno. No se abre»; la página 61 no se lee y el cuaderno vuelve bajo los discos, más blanco que escrito. **20/126, 59.747 palabras** | 2026-11-16 | Escrito con **P8, P2 y P1** de E-05 y sin sinopsis de hechos (decisión 81). Sirve a **M-1** (no hay prueba en el archivo), con M-2 y M-3 de fondo, según el hilo conductor (§2). El Servidor usa **E-S-8** (decisión 136). Continuidad: cuaderno de los errores, página 61 y registro de la consola desde febrero (I.4 §3-5), rojo y tercera cláusula (I.5, I.3, I.18), caja segunda y discos (I.1, I.14), cuaderno azul (I.3, I.18), actas sin nombres ni año (I.5, I.8), Alfa sin voto (decisión 54), papel del monitor (I.4), leña y frío (I.19). No toca C-8, C-9 ni C-10, no narra la división ni las dos salidas (I.3, II.6), no abre el disco de 2008 y no explica la suma del 12-II. **Pendiente de revisión del autor** |
+
+| 138 | Escritura | **I.20 «El cuaderno de los errores» aprobado** por el autor («He leido I.20, queda aprobado»). Se cierra con **3.179 palabras** (+5,1 % sobre 3.025), 5 secciones, **3,8 % de citas**, 0 errores y 0 avisos. **20/126 capítulos, 59.747 palabras** | 2026-11-18 | Cierra la 137. I.20 queda como duodécima pieza del bloque I.2: el cuaderno cerrado el 12-II, el siete a uno que no lo reabre y el blanco que sigue en blanco; sirve a **M-1** con M-2 y M-3 de fondo y gasta **E-S-8** (decisión 136). Sin correcciones del autor: el capítulo pasa tal como se escribió. Se desbloquea **I.21**, decimotercero del bloque, con dossier por preparar |
+
+| 139 | Escritura | **Dossier de I.21 «Las fotos del acta» preparado** (§0 tervicies), decimotercero del bloque I.2, por orden del autor al aprobar I.20 («Prepara del dossier de I.21»). La que llegó después no aprendió las actas en la caja sino en el **móvil**: Alfa fotografía el cuaderno azul desde hace meses, y la foto de la **página doce** corta el **margen** donde está el «10» en rojo con la raya, así que en el móvil solo se lee «11»; la diferencia que la tercera cláusula mandaba dejar a la vista queda fuera de cuadro. Se vota **seis a dos que las fotos no son copias**, no se borran y el móvil sigue saliendo de la casa. Prácticas E-05: **P2 y P1** (no P8, que repetiría el hallazgo de I.14). Sin sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-18 | Tres **elecciones locales** sujetas a revisión: la sesión es el 8 de octubre de 2026; la foto que falla es la de la página doce del cuaderno azul y Alfa dice «once»; se vota seis a dos que no son copias y nada se decide sobre el móvil. Sirve a **M-1** con M-2 y M-3 de fondo. El Servidor está y no habla: no se gasta E-S-4 a E-S-7 y E-S-8 acaba de usarse en I.20. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas y no repite los recursos de I.9-I.20 (ni la escena del móvil de I.1, ni la fecha de la copia de I.14, ni la pregunta de Alfa de I.5). **No se escribe hasta que el autor lo ordene** |
 
 ---
 
