@@ -21,8 +21,11 @@ sostenida entre personas y modelos.
   (M-1 a M-9) y registro de las explicaciones de El Servidor (E-S-1 a E-S-7); ningún capítulo se
   escribe sin decir qué movimiento sirve. **El Servidor puede dar explicaciones amplias en estas
   versiones** (decisión 124). **Dossier de I.20 «El cuaderno de los errores» preparado** (§0
-  duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). Siguiente: **revisión de
-  I.21** y, si se aprueba, **I.22**, decimocuarto del bloque I.2, con dossier por preparar.
+  duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). **I.21 «Alquiler de
+  amigos» aprobado** en la v61 (decisión 142). **Dossier de I.22 «Las etiquetas sueltas» preparado**
+  (§0 quatervicies, decisión 143), decimocuarto del bloque I.2: la bolsa de etiquetas sueltas de la
+  caja segunda, el nombre que sobrevive a la cosa. Siguiente: **escribir I.22** cuando el autor lo
+  ordene.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-07`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -370,9 +373,10 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
       voto seis a dos que las fotos no son copias. Prácticas P2 y P1. Sin decisiones del autor.
 - [x] Escribir I.21 «Alquiler de amigos»: 2.838 palabras, 5 secciones, 4,0 % de citas, 0 errores y
       0 avisos (2026-11-18, decisión 141); sirve a **M-1** con M-2 y M-3 de fondo y usa **S-07**
-      (decisión 140). **Pendiente de revisión del autor.**
-- [ ] Escribir I.22: 3.025 palabras de presupuesto, decimocuarto del bloque I.2, con dossier por
-      preparar y sin escribir hasta que el autor lo ordene.
+      (decisión 140). **Aprobado** por el autor en la v61 (decisión 142).
+- [ ] Escribir I.22 «Las etiquetas sueltas»: 3.025 palabras de presupuesto, decimocuarto del bloque
+      I.2, **dossier preparado** (§0 quatervicies, decisión 143) y sin escribir hasta que el autor lo
+      ordene.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -386,8 +390,8 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 primer `[ ]` de la hoja de ruta.
 
 - Última sesión: 2026-11-18 (v61, en curso).
-- Siguiente: **revisión de I.21 «Alquiler de amigos»** y, si se aprueba, **escribir I.22**,
-  decimocuarto del bloque I.2, con dossier por preparar. Punto 1, criterio de selección (punto 3), reparto
+- Siguiente: **escribir I.22 «Las etiquetas sueltas»** (dossier en §0 quatervicies, decisión 143),
+  decimocuarto del bloque I.2. Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento (§2,
   decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.20 aprobados e
   I.21 pendiente de revisión; la escritura se comprueba con `escritura/bin/nk`.

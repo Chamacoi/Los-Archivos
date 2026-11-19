@@ -1296,5 +1296,19 @@ su dossier.
   se borran y el móvil sale de la casa todos los días. Prácticas **P2 y P1**; sirve a **M-1** con M-2
   y M-3 de fondo. Actualizados `CRONOLOGIA.md`, `GLOSARIO.md`, `ESTRUCTURA.md`, `README.md`,
   `estado.json` y `SINOPSIS/` (no versionada).
-- Próximo paso: **revisión de I.21** por el autor y, si se aprueba, **I.22**, con dossier por
-  preparar. **21/126 capítulos, 62.585 palabras**, 0 errores y 0 avisos.
+- **I.21 «Alquiler de amigos» aprobado** por el autor («Leí I.21, está bien», decisión 142): 2.838
+  palabras (−6,2 % sobre 3.025), 5 secciones, 4,0 % de citas, 0 errores y 0 avisos. Decimotercera
+  pieza del bloque I.2; sin correcciones. **21/126 capítulos, 62.585 palabras.**
+- **Dossier de I.22 «Las etiquetas sueltas» preparado** (§0 quatervicies, decisión 143),
+  decimocuarto del bloque I.2: la **bolsa de etiquetas sueltas** de la caja segunda, que está en la
+  caja desde I.1 y ningún capítulo ha vaciado; la caja se levanta del suelo húmedo sobre un **tablón**
+  apoyado en dos ladrillos, la bolsa se abre y las etiquetas caen; se inventaría qué nombraba cada una
+  —las cosas que se fueron, las que nunca estuvieron, una en blanco—, Zeta del margen propone escribir
+  por detrás qué nombraba y solo se escriben tres o cuatro, y **no se tira ninguna** por acuerdo sin
+  votación («No se tira ninguna» / «No se tira ninguna»), como el «Se conserva» de I.1; una etiqueta
+  se queda pegada por fuera de la caja. Prácticas **P2 y P1**; sirve a **M-1** con M-2 y M-3 de fondo.
+  Tres elecciones locales sujetas a revisión; ninguna decisión pendiente del autor. El Servidor está y
+  no habla (E-S-4 a E-S-7 siguen reservadas).
+- Próximo paso: **escritura de I.22** cuando el autor la ordene y, aprobado el capítulo, **I.23**,
+  decimoquinto del bloque I.2, con dossier por preparar. **21/126 capítulos, 62.585 palabras**, 0
+  errores y 0 avisos.

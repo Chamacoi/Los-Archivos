@@ -22,8 +22,16 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   belleza y exotismo aparece doblado dentro del periódico que hay debajo de la caja segunda; la foto
   de la página doce del cuaderno azul corta el margen donde está el «10» en rojo y Alfa dice «once»;
   se vota **seis a dos** que las fotos no son copias; la tienda cerró porque al que la atendía le
-  diagnosticaron un cáncer y se jubiló. **21/126 capítulos, 62.585 palabras.** Pendiente de revisión
-  del autor; próximo paso: **I.22**, decimocuarto del bloque I.2, con dossier por preparar.
+  diagnosticaron un cáncer y se jubiló. **I.21 aprobado** por el autor («Leí I.21, está bien»,
+  decisión 142): se cierra con las **2.838 palabras** con que se escribió y queda como decimotercera
+  pieza del bloque I.2. **Dossier de I.22 «Las etiquetas sueltas» preparado** (§0 quatervicies,
+  decisión 143), decimocuarto del bloque I.2, sin decisiones que pedir al autor: la **bolsa de
+  etiquetas sueltas** de la caja segunda, que está en la caja desde I.1 y no ha sido materia de
+  ningún capítulo; al levantar la caja del suelo húmedo sobre un tablón se abre la bolsa y las
+  etiquetas caen al suelo; se inventaría qué nombraba cada una, no se tira ninguna y el acuerdo se
+  toma sin votación —«No se tira ninguna»—, como el «Se conserva» de I.1. Prácticas **P2 y P1**;
+  sirve a **M-1** con M-2 y M-3 de fondo. **21/126 capítulos, 62.585 palabras.** Próximo paso:
+  escribir I.22 cuando el autor lo ordene.
 - **Sesión anterior:** 2026-11-15 y 16 (**v60, cerrada**). **I.18 «La que no cree» aprobado** por el
   autor (decisión 127), con la aclaración de que el «está revisado» de la decisión 126 ya era la
   revisión: se cierra con **3.028 palabras** (+0,1 %), 5 secciones, 4,1 % de citas, 0 errores y 0
@@ -1554,6 +1562,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.19 «La casa de la esquina» | §0 unvicies | 2026-11-15 | 128 | el caldo que sale y la nota sin firma | P7, P4, P2 |
 | I.20 «El cuaderno de los errores» | §0 duovicies | 2026-11-16 | 134 | el cuaderno cerrado y el blanco | P8, P2, P1 |
 | I.21 «Alquiler de amigos» | §0 tervicies | 2026-11-18 | 139 | la foto que corta el margen | P2, P1 |
+| I.22 «Las etiquetas sueltas» | §0 quatervicies | 2026-11-18 | 143 | el nombre que sobrevive a la cosa | P2, P1 |
 
 **Notas.**
 
@@ -1580,7 +1589,10 @@ sin firma y la olla que acaba de maceta), y lo lleva la más joven. **I.20** lo 
 de apuntar: el cuaderno de los errores, cerrado el 12-II, con la casa votando siete a uno no
 reabrirlo y el blanco que sigue en blanco. **I.21** lo toma por el **instrumento**: el móvil que está
 en la casa desde I.1 y que nadie había mirado, la copia que no deja diferencia que leer y la foto que
-se va de la casa todos los días sin que nadie lo haya decidido.
+se va de la casa todos los días sin que nadie lo haya decidido. **I.22** lo toma por el **nombre**:
+la bolsa de etiquetas sueltas de la caja segunda, escritas por manos que sabían qué había en las
+cajas; al vaciarla, la casa se queda con los nombres y sin las cosas, y el que llegue después tendrá
+qué pegar y no qué nombrar.
 
 ### 0 octodecies. I.16 «La fotocopia»: dossier de material (2026-11-11)
 
@@ -2256,6 +2268,117 @@ anterior», vendió también correas, jaulas de cartón y macetas pequeñas, y *
 de fuera, sin moraleja y sin convertir el cáncer en plaga ni en castigo. **Pendiente de revisión del
 autor.**
 
+### 0 quatervicies. I.22 «Las etiquetas sueltas»: dossier de material (2026-11-18)
+
+Preparado por orden del autor al aprobar I.21 («Leí I.21, está bien. Prepara el dossier de I.22»).
+**Decimocuarto del bloque I.2**, detrás de las fotos del acta. El título es de trabajo: se decide al
+escribir. **No necesita decisiones del autor:** no hay hecho que canonizar ni bifurcación de canon;
+hay tres elecciones locales, sujetas a la revisión del capítulo.
+
+**Función en el bloque.** El índice (§0 septendecies) deja abierto el hilo de **la distancia con
+quien llega después**, llevado por I.17 (el oficio que cambia de mano), I.18 (lo que no pasa y se
+queda), I.19 (lo que sale), I.20 (lo que se dejó de apuntar) e I.21 (el instrumento). I.22 no lo
+toma por una persona, por un papel que falta ni por una máquina que copia: lo toma por **el nombre**.
+La casa no le hereda a quien llega lo que hay en las cajas; le hereda **lo que está escrito en las
+etiquetas**, y las etiquetas se escribieron cuando aún se sabía qué había dentro. Una etiqueta sin su
+objeto es lo único que el archivo tiene en común con el que viene detrás: un nombre que ya nadie
+puede comprobar.
+
+**Movimiento que sirve:** **M-1** (no hay prueba en el archivo), con **M-2** (la forma de vida se
+muestra en lo pequeño: la etiqueta escrita a mano, la fecha al margen, la caja que se levanta del
+suelo) y **M-3** (el coste y la disidencia: no se tira nada y no se explica nada) de fondo. Ver §2,
+«Hilo conductor del argumento» (decisión 123).
+
+**Fruto que se ve** (`ESTRUCTURA.md`, «Prueba por frutos»): la **fidelidad al archivo** —se conserva lo
+que avergüenza y también lo que ya no sirve, como una etiqueta que no tiene nada que nombrar—, con su
+coste: la casa guarda nombres y no puede decir qué nombraban, y quien herede la bolsa heredará la
+misma ignorancia. Se puede describir sin vocabulario teológico y el narrador no elogia.
+
+**Material: ninguna sinopsis de hechos.** `S-01`, `S-02` y `S-03` siguen ancladas en I.5, II.5 y II.2
+(decisión 81); `S-06` se gastó en I.16 y `S-07` en I.21; `F-35` y `F-36` no se nombran (decisiones 67
+y 76). El capítulo se sostiene con la pieza que I.1 dejó dentro de la caja segunda y que ningún
+capítulo ha vaciado: **la bolsa de plástico con etiquetas sueltas**.
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La bolsa de etiquetas sueltas | I.1 §2 | Dentro de la caja segunda, con los siete discos envueltos en papel de cocina, dos memorias USB y el cuaderno de tapas duras. Es lo único de la caja que no se ha sacado en ningún capítulo |
+| La caja segunda | I.1 §1-§2, I.14, I.20, I.21 | «DISCOS. NO TIRAR». Salió del suelo del taller el 24-IX por la humedad (I.20) y sigue en el suelo, sobre una hoja de periódico, con el anuncio de la tienda dentro (I.21). Se abre en el propio taller, no se lleva a la mesa grande |
+| Las etiquetas de la casa | I.1 §1-§2 | Escritas a mano, en mayúsculas, con faltas y con la fecha; la de la caja 1 con la **tinta corrida** en la última palabra; «COPIAS. NO SON COPIAS» con mayúsculas pequeñas y subrayado doble, y el reverso «Si esto es una copia, entonces», sin terminar; «SIN CLASIFICAR»; «2008. NO ABRIR TODAVÍA» |
+| El inventario de la casa | I.1 §5 | «silla 12 (coja)»: la casa apunta lo que tiene con su defecto y no lo explica. Es lo más parecido a una ficha que hay en la casa |
+| La raya y el tachón | I.2 §1, I.5 §1 | Lo que se arregla se tacha con una raya, no se borra: **la raya deja ver lo que había debajo**. «Lo que no paso, se corrige. Lo que se dijo, no» |
+| Lo que no es archivo | I.2 §1 | La lista de averías **no se fotografía** y, si se pierde, se pierde. Hay papeles de la casa que no entran en las cajas, y eso no es un defecto: es un límite |
+| El oficio del registro | I.1 §1, I.5 §1; PERSONAS ficha 1 | Equis del registro **sabe qué hay en cada caja**; las actas no llevan nombres ni año y constan lo que se hizo, no lo que se sintió |
+| El presente y la casa | Decisión 80; I.19-I.21 | 2026. I.21 es el jueves **8 de octubre**; la leña pedida el 1 de octubre no ha llegado; Alfa tiene diez años y **no vota** (decisión 54); El Servidor no ocupa silla |
+| El tono | C-4, decisión 39 | Ningún guiño con la fe; el narrador no subraya el sentido; Dios se puede citar, no celebrar; nada de sermón ni de manual |
+
+**Procedimiento E-05: P2 y P1.** **P2** (todo lo perdido entra por un documento que no es ello: la
+etiqueta, no la cosa) y **P1** (se inventaría lo que falta: un recuento de etiquetas y un inventario
+de lo que nombraban). Tope del bloque, tres: se usan **dos**. **No** P8: aquí no hay fechas de
+reconstrucción que corregir —las etiquetas llevan su fecha y no se discute—, y el hallazgo «la fecha
+del documento no es la del hecho» ya lo cargan I.14, I.20 e I.21. **No** P6: no se narra un hecho
+pasado que alguien lea, sino la sesión presente. **No** P5 (gastado en I.8, I.9, I.11 y I.20) **ni**
+P4/P7 de I.19 **ni** P3/P9, que se reparten en I.3 y II.1.
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. La sesión del **jueves 15 de octubre de 2026**: un jueves después del 8; la leña sigue sin llegar y
+   la caja segunda sigue en el suelo del taller, sobre el periódico doblado.
+2. **La caja se levanta del suelo.** Alguien trae un **tablón** para que no toque la humedad; no es
+   una estantería ni un mueble: es un tablón apoyado en dos ladrillos.
+3. Al mover la caja, **la bolsa se abre** (el plástico estaba cuarteado por el calor del verano) y las
+   etiquetas caen al suelo. Se cuentan antes de recogerlas; el número se fija al escribir.
+4. **Las etiquetas son de manos distintas** y cada una nombra algo: unas, cosas que ya no están en la
+   casa (rotas, tiradas, comidas por la humedad); otras, cosas que **nunca estuvieron dentro** de esas
+   cajas; una está **en blanco** y alguien la guardó igual.
+5. Se hace el **inventario de lo que nombraban**: las que nadie recuerda, las que dos personas
+   recuerdan distinto, las que nombran algo que sigue en la casa pero ya en otro sitio.
+6. **Zeta del margen** propone escribir por detrás de cada etiqueta qué nombraba, con la fecha. Se
+   empieza y no se termina: solo se escriben tres o cuatro, y no las más difíciles.
+7. **No se tira ninguna**, y no se vota: alguien dice «No se tira ninguna», otro repite «No se tira
+   ninguna», y se guardan en la bolsa, como en I.1 se guardó la hoja que pedía destruir las actas
+   («Se conserva» / «Se conserva»).
+8. **El acta** recoge una línea, sin el inventario y sin las palabras de nadie: «Se sacan las
+   etiquetas. No se tira ninguna».
+9. Las etiquetas vuelven a la bolsa y la bolsa a la caja, y la caja al tablón. **Una etiqueta se
+   queda pegada por fuera**, en la cara de la caja: nadie recuerda cuándo se pegó y no nombra nada de
+   lo que hay dentro.
+10. **El coste:** la caja deja de estar en el suelo y la humedad no se arregla; lo que se gana no es
+    archivo, es una altura. El que llegue después tendrá los nombres y no las cosas.
+
+**Lo que no puede hacer.** Repetir I.15 (la lista de los teléfonos y las cruces sin clave): allí el
+cruzado **oculta** a una persona y la llamada consta; aquí no se oculta nada —la cosa se fue— y la
+etiqueta no dice quién la escribió. Repetir I.12 (el inventario de lo que no trae prueba y los tres
+borradores rotos) ni I.10 (los tres recuentos de la misma ausencia): aquí lo que se cuenta son
+**nombres**, no ausencias. Repetir I.14 (las etiquetas de los discos y la fecha de la copia), I.20 (el
+cuaderno cerrado y el voto siete a uno) ni I.21 (la foto y lo que no cabe en ella): aquí **no se
+copia nada**; la etiqueta no es una copia de la cosa, es su nombre. No reabrir I.7 (la columna de
+nombres y el «No sale») ni I.8 (la clasificación de las hojas). No añadir personas (reparto cerrado,
+decisión 54) ni dar nombre a nadie que no lo tenga. Dar voz al archivo (decisión 55) o usar la
+primera persona. Explicar la suma del 12-II, la división, las dos salidas, la plaga, 2008 o el
+anuncio; abrir el disco de 2008; tocar C-8, C-9 y C-10. **Y, sobre todo, no convertir la etiqueta en
+símbolo:** ni de la identidad, ni de la memoria, ni de Dios. El narrador no dice que una etiqueta sin
+cosa sea una persona sin nombre; la deja en el suelo y la recoge.
+
+**Decisiones que el capítulo necesita del autor: ninguna pendiente.** Tres **elecciones locales**,
+sujetas a revisión: (1) la sesión es el **15 de octubre de 2026** y la caja se levanta sobre un
+**tablón**; (2) la bolsa se abre al mover la caja y **no se tira ninguna etiqueta**, por acuerdo sin
+votación; (3) una etiqueta queda **pegada por fuera** de la caja y no nombra nada de lo que hay
+dentro. **El Servidor está y no habla:** no se gasta E-S-4 a E-S-7 y E-S-8 se usó en I.20 (la
+decisión 124 permite, no obliga).
+
+**Reparto (cinco secciones).** 1. El tablón (la leña que no llega, la caja en el suelo sobre el
+periódico, los dos ladrillos y el tablón, el borde de la caja comido por la humedad); 2. La bolsa (el
+plástico cuarteado, las etiquetas por el suelo, el recuento, las letras distintas); 3. Lo que nombraban
+(el inventario: las cosas que se fueron, las que nunca estuvieron, la etiqueta en blanco); 4. No se
+tira (la propuesta de Zeta del margen, las tres o cuatro que se escriben por detrás, el «No se tira
+ninguna» repetido, el acta mínima); 5. Pegada (la caja sobre el tablón, la bolsa dentro, la etiqueta
+que se queda por fuera). El cierre no es una tesis: la caja está más alta y las etiquetas siguen sin
+sus cosas.
+
+**Presupuesto:** 3.025 palabras (±20 %). Del bloque I.2 quedan **9.696 palabras** para I.22-I.24
+(3.232 de media) si se quiere cerrar el bloque en las 48.400 de `ESTRUCTURA.md`; el capítulo puede
+quedarse en el presupuesto y el ajuste se hace en I.23 e I.24.
+
 ---
 
 ---
@@ -2542,8 +2665,10 @@ Dios (criterio de fracaso). Registro de lo dicho y lo reservado:
 amplias, no las obliga; se reservan E-S-4 a E-S-7. **I.20 usa una** (E-S-8, decisión 136): El
 Servidor habla sobre el blanco del cuaderno.
 
-**Estado (2026-11-16).** Construidos **M-1, M-2 y M-3** con I.1-I.20. Pendientes: **M-4 a M-9**. El
-hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
+**Estado (2026-11-18).** Construidos **M-1, M-2 y M-3** con I.1-I.21. Pendientes: **M-4 a M-9**. El
+hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`. **I.22** está en dossier (§0
+quatervicies, decisión 143): **M-1** por el nombre —la etiqueta que sobrevive a la cosa—, con M-2 y
+M-3 de fondo; El Servidor no habla y las explicaciones E-S-4 a E-S-7 siguen reservadas.
 
 ### Notas sobre el punto 1 (voz omnisciente)
 
@@ -2744,6 +2869,10 @@ hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
 | 140 | Material | **S-07 «Alquiler de amigos» registrada** por dictado del autor al ordenar la escritura de I.21: «Se fomentó montar un negocio al estilo "Alquier de amigos". Aquello resultó ser una tienda que se vendían, perros (para tener compañia), mariposas (por su belleza), orquideas (por ser exóticas), pero el empleado contrajo cancer y se tubo que jubilar, así que todo sirvió de nada y con este mal final se acaba todo». Se fija en `SINOPSIS/S-07-alquiler-de-amigos.md` (no versionada), con el dictado literal y las grafías conservadas | 2026-11-18 | **No es canon por sí misma** (regla 4 de `SINOPSIS/`): el hecho es material para generar contenido, no materia del archivo. Uso propuesto y aplicado: **contraste de fuera** (`ESTRUCTURA.md`) y **documento** (P2). Guardas: el narrador **no** dice que el negocio fracasara por vender, sino que enfermó el que lo atendía; la enfermedad **no es la plaga, no es castigo** y no convierte a la casa en resto justo (criterio de fracaso, §2). No fija años ni nombres (C-6) |
 
 | 141 | Escritura | **I.21 «Alquiler de amigos» escrito**, decimotercero del bloque I.2: **2.838 palabras** (−6,2 % sobre 3.025), 5 secciones, **4,0 % de citas**, 0 errores y 0 avisos. Se levanta la caja segunda del suelo húmedo y dentro del periódico aparece el anuncio de **ALQUILER DE AMIGOS** (perros a 300 € para tener compañía, mariposas a 15 € por su belleza, orquídeas a 30 € por ser exóticas), con «SE CIERRA. GRACIAS A TODOS.» por detrás; Alfa dice «once de octubre» y el acta es del diez; el móvil tiene **treinta y una fotos** de páginas del cuaderno azul, y la de la **página doce** corta el margen donde está el «10» en rojo con la raya; se inventaría lo que una foto no guarda (margen, reverso, trasluz, grosor, olor, color, raya) y se prueba con la palabra «DIARIO» del lomo; se vota **seis a dos que las fotos no son copias** y nadie decide sobre el móvil, que sale de la casa todos los días; la tienda cerró porque al que la atendía le diagnosticaron un cáncer y se jubiló. **21/126, 62.585 palabras** | 2026-11-18 | Escrito con **P2 y P1** de E-05 (y no P8, que repetiría el hallazgo de I.14) y sin sinopsis de hechos, usando **S-07** (decisión 140). Sirve a **M-1** con M-2 y M-3 de fondo, según el hilo conductor (§2). El Servidor está y no habla: E-S-4 a E-S-7 siguen reservadas. Continuidad: móvil de Alfa (I.1, I.4, I.5, I.9, I.11), página doce y tercera cláusula (I.3, I.18), etiqueta «COPIAS. NO SON COPIAS» (I.1, I.3), caja primera y «NO SACAR DE LA CASA» (I.1), lomo «DIARIO» (I.5), periódico y humedad (I.20), cuota y libreta (I.7), actas sin nombres ni año y Alfa sin voto (decisión 54). No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas, no explica la suma del 12-II y no repite los recursos de I.9-I.20. **Pendiente de revisión del autor** |
+
+| 142 | Escritura | **I.21 «Alquiler de amigos» aprobado** por el autor («Leí I.21, está bien»). Se cierra con **2.838 palabras** (−6,2 % sobre 3.025), 5 secciones, **4,0 % de citas**, 0 errores y 0 avisos. **21/126 capítulos, 62.585 palabras** | 2026-11-18 | Cierra la 141. I.21 queda como decimotercera pieza del bloque I.2: el anuncio doblado en el periódico, la foto que corta el margen donde está el «10» en rojo, el seis a dos que las fotos no son copias y el móvil que sale de la casa todos los días; sirve a **M-1** con M-2 y M-3 de fondo y usa **S-07** (decisión 140). Sin correcciones del autor: el capítulo pasa tal como se escribió. Se desbloquea **I.22**, decimocuarto del bloque, con dossier por preparar |
+
+| 143 | Escritura | **Dossier de I.22 «Las etiquetas sueltas» preparado** (§0 quatervicies), decimocuarto del bloque I.2, por orden del autor al aprobar I.21 («Prepara el dossier de I.22»). El hilo abierto del bloque —**la distancia con quien llega después**— se toma por **el nombre**: la **bolsa de etiquetas sueltas** de la caja segunda, que está en la caja desde I.1 y ningún capítulo ha vaciado. Se levanta la caja del suelo húmedo sobre un **tablón** apoyado en dos ladrillos, la bolsa se abre con el movimiento y las etiquetas caen; se inventaría qué nombraba cada una (cosas que se fueron, cosas que nunca estuvieron dentro, una en blanco), Zeta del margen propone escribir por detrás qué nombraba y solo se escriben tres o cuatro, y **no se tira ninguna** por acuerdo sin votación —«No se tira ninguna» / «No se tira ninguna»—, como el «Se conserva» de I.1. Prácticas E-05: **P2 y P1** (no P8, que repetiría el hallazgo de I.14). Sin sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-18 | Tres **elecciones locales** sujetas a revisión: la sesión es el **15 de octubre de 2026**; la bolsa se abre al mover la caja y no se tira ninguna etiqueta; una etiqueta queda **pegada por fuera** de la caja y no nombra nada de lo que hay dentro. Sirve a **M-1** con M-2 y M-3 de fondo. El Servidor está y no habla: no se gasta E-S-4 a E-S-7 y E-S-8 se usó en I.20. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas y no repite los recursos de I.9-I.21 (ni las cruces sin clave de I.15, ni el inventario de I.12, ni los recuentos de I.10). Guarda principal: **la etiqueta no se convierte en símbolo** —ni de la identidad, ni de la memoria, ni de Dios—. **No se escribe hasta que el autor lo ordene** |
 
 ---
 
