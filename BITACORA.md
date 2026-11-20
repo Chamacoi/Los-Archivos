@@ -1325,5 +1325,10 @@ su dossier.
   altura. Queda pegada por fuera una etiqueta que dice «CAJA 3» y no nombra nada de lo que hay dentro.
   Prácticas **P2 y P1**; sirve a **M-1** con M-2 y M-3 de fondo. Actualizados `CRONOLOGIA.md`,
   `GLOSARIO.md`, `ESTRUCTURA.md`, `README.md`, `estado.json` y `APUNTES.md`.
+- **Copia de seguridad de la v61 en el USB** (decisión 146), por orden del autor: bundle verificado
+  (`los-archivos-2026-11-20-v61.bundle`, `HEAD` = `60468db`, 153 commits, clon de prueba con 22/126 y
+  65.416 palabras), materiales, `SINOPSIS/` en tar aparte (8 ficheros), `AGENTS.md` al día, `SHA-256`
+  de los cuatro ficheros comprobado y clon `/mnt/usb/los-archivos-repo` en `60468db`. Subido a
+  `origin/main` (`c263ae7..60468db`).
 - Próximo paso: **revisión de I.22** por el autor y, aprobado el capítulo, **I.23**, decimoquinto del
   bloque I.2, con dossier por preparar. **22/126 capítulos, 65.416 palabras**, 0 errores y 0 avisos.
