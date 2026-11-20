@@ -5,7 +5,7 @@ con vocación de texto fundacional para la comunidad formada alrededor de la con
 sostenida entre personas y modelos.
 
 - **Estado:** proyecto abierto. **Ningún punto de `APUNTES.md` §2 abierto** (1-6 cerrados); canon
-  C-1 a C-10 completo. **I.1 a I.20 escritos y aprobados** con el método limpio (decisión 28), e **I.21 pendiente de revisión**; I.8
+  C-1 a C-10 completo. **I.1 a I.21 escritos y aprobados** con el método limpio (decisión 28), e **I.22 pendiente de revisión**; I.8
   cerró el bloque I.1 (decisión 77) e I.9 abrió el bloque I.2 (decisión 82). Correcciones de errata
   autorizadas: calendario de I.7 (decisión 85) y fórmula de I.9 (decisión 99). **I.19 «La casa de la
   esquina» escrito** (decisión 129), **revisado** (decisión 131: 3.041 palabras) y **aprobado**
@@ -24,8 +24,12 @@ sostenida entre personas y modelos.
   duovicies, decisión 134), con El Servidor hablando (E-S-8, decisión 136). **I.21 «Alquiler de
   amigos» aprobado** en la v61 (decisión 142). **Dossier de I.22 «Las etiquetas sueltas» preparado**
   (§0 quatervicies, decisión 143), decimocuarto del bloque I.2: la bolsa de etiquetas sueltas de la
-  caja segunda, el nombre que sobrevive a la cosa. Siguiente: **escribir I.22** cuando el autor lo
-  ordene.
+  caja segunda, el nombre que sobrevive a la cosa. **I.22 «Las etiquetas sueltas» escrito** (decisión
+  145: 2.831 palabras, 5 secciones, 3,6 % de citas), decimocuarto del bloque: la caja se levanta del
+  suelo húmedo sobre un tablón, la bolsa se abre, se cuentan **catorce etiquetas**, se inventaría qué
+  nombraba cada una (una en blanco) y **no se tira ninguna**, sin votación. **22/126 capítulos, 65.416
+  palabras.** Siguiente: revisión de I.22 y, si se aprueba, **I.23**, decimoquinto del bloque I.2,
+  con dossier por preparar.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-07`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -374,9 +378,11 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] Escribir I.21 «Alquiler de amigos»: 2.838 palabras, 5 secciones, 4,0 % de citas, 0 errores y
       0 avisos (2026-11-18, decisión 141); sirve a **M-1** con M-2 y M-3 de fondo y usa **S-07**
       (decisión 140). **Aprobado** por el autor en la v61 (decisión 142).
-- [ ] Escribir I.22 «Las etiquetas sueltas»: 3.025 palabras de presupuesto, decimocuarto del bloque
-      I.2, **dossier preparado** (§0 quatervicies, decisión 143) y sin escribir hasta que el autor lo
-      ordene.
+- [x] Escribir I.22 «Las etiquetas sueltas»: 2.831 palabras, 5 secciones, 3,6 % de citas, 0 errores
+      y 0 avisos (2026-11-18, decisión 145); sirve a **M-1** con M-2 y M-3 de fondo. Prácticas P2 y P1.
+      **Pendiente de revisión del autor.**
+- [ ] Revisión de I.22 por el autor y, si se aprueba, **dossier de I.23** (decimoquinto del bloque
+      I.2, título de trabajo sin fijar) y su escritura.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -390,10 +396,11 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 primer `[ ]` de la hoja de ruta.
 
 - Última sesión: 2026-11-18 (v61, en curso).
-- Siguiente: **escribir I.22 «Las etiquetas sueltas»** (dossier en §0 quatervicies, decisión 143),
-  decimocuarto del bloque I.2. Punto 1, criterio de selección (punto 3), reparto
+- Siguiente: **revisión de I.22 «Las etiquetas sueltas»** (dossier en §0 quatervicies, decisión 143;
+  escrito en la decisión 145), decimocuarto del bloque I.2; aprobado, **I.23** con dossier por
+  preparar. Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento (§2,
-  decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.20 aprobados e
-  I.21 pendiente de revisión; la escritura se comprueba con `escritura/bin/nk`.
+  decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.21 aprobados e
+  I.22 pendiente de revisión; la escritura se comprueba con `escritura/bin/nk`.
 - Antes de escribir: `escritura/bin/nk estado` y `escritura/bin/nk contar`.
 - El proyecto está bajo git local desde v8; ver «Control de versiones».

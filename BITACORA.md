@@ -1309,6 +1309,21 @@ su dossier.
   se queda pegada por fuera de la caja. Prácticas **P2 y P1**; sirve a **M-1** con M-2 y M-3 de fondo.
   Tres elecciones locales sujetas a revisión; ninguna decisión pendiente del autor. El Servidor está y
   no habla (E-S-4 a E-S-7 siguen reservadas).
-- Próximo paso: **escritura de I.22** cuando el autor la ordene y, aprobado el capítulo, **I.23**,
-  decimoquinto del bloque I.2, con dossier por preparar. **21/126 capítulos, 62.585 palabras**, 0
-  errores y 0 avisos.
+- **I.22 «Las etiquetas sueltas» escrito** por orden del autor (decisión 145): **2.831 palabras**
+  (−6,4 %), 5 secciones, **3,6 % de citas**, 0 errores y 0 avisos. La caja segunda se levanta del suelo
+  húmedo del taller sobre un **tablón** de pino apoyado en dos ladrillos de canto, los que sujetaban
+  abierta la puerta; al inclinarla se abre la bolsa de plástico —cuarteada por el calor del verano— y
+  caen **catorce etiquetas** de cuatro manos distintas. Se cuentan antes de tocarlas y se inventaría qué
+  nombraba cada una: las mantas podridas del armario, el calentador, el termómetro, la silla 12 que está
+  en la cocina, las llaves que nunca estuvieron en una caja, la sartén grande que no cupo nunca, la
+  libreta de las cuentas, la cinta aislante del cajón del pasillo, dos etiquetas repetidas y **una en
+  blanco**; la letra que añadió «y de antes» en la caja cuarta no está entre las cuatro. Zeta del margen
+  propone escribir por detrás qué nombraba cada una, con la fecha: se escriben cuatro, y en la blanca
+  queda «15-X. NO SE SABE». «No se tira ninguna» / «No se tira ninguna», sin votación, y la bolsa
+  tampoco se tira. El acta solo dice «Se sacan las etiquetas. No se tira ninguna». La caja vuelve al
+  tablón, la puerta se calza con una esquina del periódico y la humedad no se arregla: solo cambia la
+  altura. Queda pegada por fuera una etiqueta que dice «CAJA 3» y no nombra nada de lo que hay dentro.
+  Prácticas **P2 y P1**; sirve a **M-1** con M-2 y M-3 de fondo. Actualizados `CRONOLOGIA.md`,
+  `GLOSARIO.md`, `ESTRUCTURA.md`, `README.md`, `estado.json` y `APUNTES.md`.
+- Próximo paso: **revisión de I.22** por el autor y, aprobado el capítulo, **I.23**, decimoquinto del
+  bloque I.2, con dossier por preparar. **22/126 capítulos, 65.416 palabras**, 0 errores y 0 avisos.
