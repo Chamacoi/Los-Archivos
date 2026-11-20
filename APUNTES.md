@@ -39,8 +39,10 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   letra que añadió «y de antes» en la caja cuarta no está entre ellas; Zeta del margen propone
   escribir por detrás qué nombraba cada una y se escriben cuatro, con la blanca marcada «15-X. NO SE
   SABE»; **no se tira ninguna**, sin votación; una etiqueta que dice «CAJA 3» queda pegada por fuera y
-  no se quita. **22/126 capítulos, 65.416 palabras.** Próximo paso: **revisión de I.22** por el autor
-  y, si se aprueba, **I.23** (decimoquinto del bloque I.2), con dossier por preparar.
+  no se quita. **22/126 capítulos, 65.416 palabras.** **Sesión cerrada** el 2026-11-20 por orden del
+  autor («cerramos sesión v61»): I.22 queda **pendiente de revisión**, la copia al USB está hecha
+  (decisión 146, bundle en `60468db`) y el arranque siguiente es la **revisión de I.22** y, si se
+  aprueba, **I.23** (decimoquinto del bloque I.2), con dossier por preparar.
 - **Herramienta (2026-11-20, fuera de la escritura):** reconstruida la KB `los-archivos` de
   pi-knowledge (decisión 144): 932 chunks, 36 ficheros, cobertura 100 %, `knowledge_doctor`
   **98/100**; borrada la KB de prueba `tmp-medida-glosario`. Causa real del error anterior: el

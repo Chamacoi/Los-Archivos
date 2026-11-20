@@ -395,7 +395,7 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-18 (v61, en curso).
+- Última sesión: 2026-11-18 y 20 (v61, cerrada el 2026-11-20 por orden del autor).
 - Siguiente: **revisión de I.22 «Las etiquetas sueltas»** (dossier en §0 quatervicies, decisión 143;
   escrito en la decisión 145), decimocuarto del bloque I.2; aprobado, **I.23** con dossier por
   preparar. Punto 1, criterio de selección (punto 3), reparto

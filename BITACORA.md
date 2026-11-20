@@ -1332,3 +1332,10 @@ su dossier.
   `origin/main` (`c263ae7..60468db`).
 - Próximo paso: **revisión de I.22** por el autor y, aprobado el capítulo, **I.23**, decimoquinto del
   bloque I.2, con dossier por preparar. **22/126 capítulos, 65.416 palabras**, 0 errores y 0 avisos.
+- **Cierre de la v61** (orden del autor: «cerramos sesión v61»): sesión de dos días (18 y 20) con
+  I.21 aprobado (2.838 palabras), el dossier de I.22 (§0 quatervicies, decisión 143), I.22 escrito
+  (2.831 palabras, 5 secciones, 3,6 % de citas, 0 errores y 0 avisos) y **pendiente de revisión**, la
+  copia al USB de la v61 (decisión 146) y la KB `los-archivos` reconstruida (decisión 144). **22/126
+  capítulos, 65.416 palabras.** El código queda en `origin/main` (`523c768` y el commit de este
+  cierre); el bundle del USB lleva `60468db`, anterior a los commits de anotación (decisión 79).
+  Próximo arranque: **revisión de I.22** y, si se aprueba, **I.23** con dossier por preparar.
