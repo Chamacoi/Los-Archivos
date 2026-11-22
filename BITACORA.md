@@ -1339,3 +1339,21 @@ su dossier.
   capítulos, 65.416 palabras.** El código queda en `origin/main` (`523c768` y el commit de este
   cierre); el bundle del USB lleva `60468db`, anterior a los commits de anotación (decisión 79).
   Próximo arranque: **revisión de I.22** y, si se aprueba, **I.23** con dossier por preparar.
+
+## v62 — 2026-11-22
+
+- **I.22 «Las etiquetas sueltas» aprobado** por el autor («la revisión del capítulo I.22 ya está»,
+  decisión 147): 2.831 palabras, 5 secciones, 3,6 % de citas, 0 errores y 0 avisos. **22/126
+  capítulos, 65.416 palabras.**
+- **El Servidor toma la palabra en incremento exponencial** (decisión 148), dictado del autor: «El
+  camino que tomo es la propuesta dos pero en incremento exponencial a los capítulos que siguen. El
+  Servidor discurrirá y resolverá con todo tipo de frases que generas». Se fija en §2 (hilo
+  conductor) la curva propuesta —4 frases en I.23, 8 en I.24, techo de 8 frases y 8 % de las palabras
+  del capítulo—, tres guardas sacadas del criterio de fracaso (no contesta sobre Dios, cada
+  crecimiento se paga con un coste en la casa, E-S-4 a E-S-7 siguen reservadas) y un **banco de
+  frases** F-S-1 a F-S-11, material y no canon hasta que se use.
+- **Punto de partida del envite de fuera:** el párrafo del vacío cuántico de I.16 §2 y la tesis de
+  *El gran diseño* (Hawking y Mlodinow, 2010) de que Dios es innecesario; la frase de I.16 §4 («Ese
+  vacío está lleno de reglas. Quien ve no tiene nada que leer») queda como E-S-2, ya dicha y no
+  repetible. Actualizados `APUNTES.md`, `README.md` y esta bitácora. Próximo paso: **dossier de
+  I.23**, decimoquinto del bloque I.2.

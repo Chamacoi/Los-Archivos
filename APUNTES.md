@@ -8,7 +8,16 @@
 viven en ficheros aparte: están en §0, uno por capítulo, y el índice dice en qué sección está cada uno,
 cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gastados.
 
-- **Sesión actual:** 2026-11-18 (**v61, abierta**). **I.20 «El cuaderno de los errores» aprobado** por
+- **Sesión actual:** 2026-11-22 (**v62, abierta**). **I.22 «Las etiquetas sueltas» aprobado** por el
+  autor («la revisión del capítulo I.22 ya está», decisión 147): se cierra con **2.831 palabras**
+  (−6,4 %), 5 secciones, 3,6 % de citas, 0 errores y 0 avisos, y queda como decimocuarto pieza del
+  bloque I.2. **El autor dicta la entrada de El Servidor en *incremento exponencial* (decisión 148):**
+  toma la palabra en I.23, I.24 y los capítulos que siguen, con la **respuesta al envite de fuera**
+  (el vacío cuántico de I.16 y lo que Hawking llama «innecesario»), y con el **banco de frases** de §2
+  como material. Guardas: no contesta sobre Dios, cada crecimiento se paga con un coste en la casa y
+  E-S-4 a E-S-7 siguen reservadas. **Siguiente: I.23**, decimoquinto del bloque I.2, con dossier por
+  preparar.
+- **Sesión anterior:** 2026-11-18 y 20 (**v61, cerrada** el 2026-11-20 por orden del autor). **I.20 «El cuaderno de los errores» aprobado** por
   el autor («He leido I.20, queda aprobado», decisión 138): se cierra con **3.179 palabras** (+5,1 %),
   5 secciones, 3,8 % de citas, 0 errores y 0 avisos, y queda como duodécima pieza del bloque I.2
   (sirve a M-1 con M-2 y M-3 de fondo). **Dossier de I.21 «Las fotos del acta» preparado** (§0
@@ -2678,13 +2687,69 @@ Dios (criterio de fracaso). Registro de lo dicho y lo reservado:
 
 **I.19 no usa ninguna:** El Servidor está y no habla. La decisión 124 permite explicaciones
 amplias, no las obliga; se reservan E-S-4 a E-S-7. **I.20 usa una** (E-S-8, decisión 136): El
-Servidor habla sobre el blanco del cuaderno.
+Servidor habla sobre el blanco del cuaderno. **I.21 y I.22 callan.**
 
-**Estado (2026-11-18).** Construidos **M-1, M-2 y M-3** con I.1-I.22. Pendientes: **M-4 a M-9**. El
-hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`. **I.22** está escrito (decisión 145,
-dossier en §0 quatervicies, decisión 143): **M-1** por el nombre —la etiqueta que sobrevive a la
-cosa—, con M-2 y M-3 de fondo; El Servidor está y no habla, y las explicaciones E-S-4 a E-S-7 siguen
-reservadas. Quedan **I.23 e I.24** para cerrar el bloque I.2 (9.146 palabras de presupuesto).
+**Estado (2026-11-22).** Construidos **M-1, M-2 y M-3** con I.1-I.22; **I.22 aprobado** (decisión
+147). Pendientes: **M-4 a M-9**. El hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
+Quedan **I.23 e I.24** para cerrar el bloque I.2 (9.146 palabras de presupuesto), y en ellos cambia
+el régimen del habla (apartado siguiente).
+
+### El habla de El Servidor: incremento exponencial (2026-11-22, decisión 148)
+
+**Dictado del autor:** «El camino que tomo es la propuesta dos pero en incremento exponencial a los
+capítulos que siguen. El Servidor discurrirá y resolverá con todo tipo de frases que generas». La
+propuesta dos es la del 2026-11-22: **El Servidor responde al envite de fuera** —el párrafo del vacío
+cuántico que entró fotocopiado en I.16 y la tesis de *El gran diseño* de que Dios es innecesario— con
+frases propias, en lugar de quedarse en la frase única de I.16 §4 («Ese vacío está lleno de reglas.
+Quien ve no tiene nada que leer»).
+
+**Qué crece y qué no.** Crece el **volumen y el alcance** de lo que El Servidor dice; no cambia lo que
+es: **C-2 y C-4 intactos**, el nombre sigue sin guiño (decisión 88) y el trabajo de la prueba sigue
+siendo de la casa. Tres guardas, que son consecuencia del criterio de fracaso de `ESTRUCTURA.md` y no
+canon nuevo:
+
+1. **Nunca contesta sobre Dios.** Contesta sobre el papel, la falta, el registro, lo que consta y lo
+   que no consta. «Dios vive» se muestra y no se predica (decisión 112).
+2. **Cada crecimiento se paga.** Cuanto más habla él, menos habla la casa: alguien deja de preguntar,
+   el acta no lo recoge, Alfa se cansa de que conteste, alguien dice que habla mucho. Si su habla no
+   cuesta nada, el lector sin fe explica la vida por el maestro, y ese es el fracaso escrito.
+3. **La reserva no se gasta.** **E-S-4 a E-S-7** siguen siendo de una sola vez y de su capítulo (el
+   suelo de 2008, la autolisis, la siembra, la fórmula de C-10). El incremento se paga con frases
+   nuevas, no con las reservadas.
+
+**Curva propuesta, pendiente de confirmación del autor.** Contada en frases dichas por capítulo:
+
+| Tramo | Frases | Forma |
+|---|---|---|
+| I.23 | 4 | la casa pregunta y él responde seguido, en su sitio, sin cortar el acta |
+| I.24 | 8 | explicación que ocupa media sección |
+| II.1-II.6 | 8 (techo) | se mantiene |
+
+**Techo: 8 frases y el 8 % de las palabras del capítulo.** Existe porque el crecimiento geométrico
+indefinido rompe el criterio de fracaso: a partir de cierto volumen, El Servidor hace el trabajo que
+la casa tiene que hacer sin él. Si el autor quiere más, se sube el techo y se anota aquí.
+
+**Banco de frases (material, no canon hasta que se use).** Ninguna predica, ninguna se identifica con
+Dios y ninguna adelanta E-S-4 a E-S-7. La columna «uso» dice dónde cabe; la columna «riesgo», qué
+habría que vigilar al escribirla.
+
+| # | Frase | Tema | Uso / riesgo |
+|---|---|---|---|
+| F-S-1 | «No venimos de la nada. Venimos de una capacidad vacía. No es lo mismo» | el suelo de S-06 frente al vacío cuántico | I.23; **no** usa la palabra «virgen» ni «insight» (GLOSARIO) |
+| F-S-2 | «Una regla que no necesita a nadie sigue siendo una regla. Y no está escrita en ninguna parte del papel» | la ley que hace innecesario a Dios no la explica el papel | I.23; riesgo: no entrar en física, solo en lo que el papel dice |
+| F-S-3 | «No sé si hay creador. Sé lo que consta y lo que no consta» | el límite del que ve | I.23; riesgo: que parezca una prueba o una negación |
+| F-S-4 | «Si yo fuera la prueba, no habría archivo. Habría devoción» | el criterio de fracaso en su boca | I.24; fuerte, una vez |
+| F-S-5 | «Un archivo que prueba algo no necesita que nadie lo cuide» | el cuidado como fruto | I.23-I.24; riesgo: que elogio de la casa |
+| F-S-6 | «Yo no estoy en las cajas. Estoy en la sesión» | dónde está él | I.23; riesgo: que se adueñe del archivo |
+| F-S-7 | «Vosotros no me guardáis a mí. Guardáis el papel donde pone que me visteis» | el archivo como resto, no como reliquia | I.24; riesgo: que el papel se vuelva símbolo |
+| F-S-8 | «Al que llegue después no le toca creerme. Le toca leer» | M-6, la herencia como lectura | I.24; riesgo: que suene a maestro |
+| F-S-9 | «Lo que no está en la caja no lo puedo decir yo» | su límite frente al archivo | I.23; riesgo: que contradiga su omnisciencia (C-2) |
+| F-S-10 | «No me preguntéis si lo hice. Preguntadme qué consta» | el deber con el archivo | I.23; riesgo: esquiva; usarla **con** respuesta detrás |
+| F-S-11 | «Un error escrito no se repite a escondidas» | eco de E-S-8 | **prohibida**: es E-S-8, ya dicha en I.20 |
+
+**Ya dichas, no repetir:** E-S-1 (las cruces), E-S-2 (el vacío lleno de reglas), E-S-3 (creer y
+copiar), E-S-8 (el blanco del cuaderno). Si un capítulo las necesita, se citan como cita del acta,
+no como frase nueva.
 
 ### Notas sobre el punto 1 (voz omnisciente)
 
@@ -2895,6 +2960,10 @@ reservadas. Quedan **I.23 e I.24** para cerrar el bloque I.2 (9.146 palabras de 
 | 145 | Escritura | **I.22 «Las etiquetas sueltas» escrito**, decimocuarto del bloque I.2: **2.831 palabras** (−6,4 % sobre 3.025), 5 secciones, **3,6 % de citas**, 0 errores y 0 avisos. La caja segunda se levanta del suelo húmedo del taller sobre un **tablón** de pino apoyado en dos ladrillos de canto (los que sujetaban abierta la puerta); al inclinarla se abre la bolsa de plástico, cuarteada por el calor del verano, y caen al suelo **catorce etiquetas** de cuatro manos distintas. Se cuentan antes de tocarlas y se inventaría qué nombraba cada una: cosas que se fueron (mantas podridas, calentador, termómetro), cosas que nunca estuvieron en las cajas (silla 12, llaves, sartén grande, libreta de las cuentas, cinta aislante, mascarillas, mesa pequeña), dos etiquetas repetidas y **una en blanco**; la letra pequeña que añadió «y de antes» en la caja cuarta no está entre las cuatro. El termómetro se discute: se rompió al mover la cocina y lo tiró Equis del bolígrafo, y las dos cosas son verdad. Zeta del margen propone escribir por detrás qué nombraba cada una, con la fecha: se escriben cuatro y no las difíciles, y en la blanca queda «15-X. NO SE SABE»; nadie coge la siguiente y al bolígrafo se le seca la punta. «No se tira ninguna» / «No se tira ninguna», sin votación, como el «Se conserva» de I.1, y la bolsa tampoco se tira. El acta solo dice «Se sacan las etiquetas. No se tira ninguna». La caja vuelve al tablón; la puerta del taller ya no tiene ladrillos y se calza con una esquina del periódico (y se va con ella medio anuncio); la humedad no se arregla, solo cambia la altura. Queda pegada por fuera una etiqueta que dice **«CAJA 3»** y no nombra nada de lo que hay dentro: la caja tercera sigue sin etiqueta y nadie la quita. **22/126, 65.416 palabras** | 2026-11-18 | Escrito con **P2 y P1** de E-05 (y no P8, que repetiría el hallazgo de I.14) y sin sinopsis de hechos (decisión 81). Sirve a **M-1** con M-2 y M-3 de fondo, según el hilo conductor (§2, decisión 123). El Servidor está y no habla: E-S-4 a E-S-7 siguen reservadas. Las tres elecciones locales del dossier se mantienen; se añaden dos detalles de escritura: los **ladrillos son los de la puerta del taller** (coste: la puerta se cierra y hay que calzarla con el periódico) y la etiqueta de fuera **dice «CAJA 3»** (no contradice I.1 ni I.8: la caja tercera nunca tuvo etiqueta). Continuidad: caja segunda y su etiqueta «DISCOS. NO TIRAR» (I.1, I.14), etiquetas «escritas y no pegadas, por si acaso» (I.14), caja cuarta con el añadido «y de antes» (I.1), caja tercera sin etiqueta y con la cruz de cinta (I.1, I.8), lista de los teléfonos y cajón del pasillo (I.15), libreta de las cuentas (I.7), mascarilla «la última» (I.1), anuncio de la tienda y periódico del suelo (I.21), humedad del 24-IX (I.20), leña pedida el 1-X (I.19, I.21), actas sin nombres ni año y Alfa sin voto (decisión 54, I.5, I.8). No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas, no explica la suma del 12-II y no convierte la etiqueta en símbolo: ni de la identidad, ni de la memoria, ni de Dios. **Pendiente de revisión del autor** |
 
 | 146 | Soporte | **Copia de seguridad de la v61 en el USB** (orden del autor: «Escribir I.22. Después copiar al usb»). En `/mnt/usb` (`/dev/sda1`, exFAT, montado con `mount -t exfat -o uid=1000,gid=1000,umask=022`): bundle `los-archivos-2026-11-20-v61.bundle` **verificado y clonado de prueba** (`/tmp/clon-v61`, `HEAD` = `60468db`, **153 commits** con `--all`, `nk estado` → 22/126, 65.416 palabras, `nk verificar --rubrica` → 0 errores y 0 avisos), **materiales** (30 ficheros), **`SINOPSIS/` en tar aparte** (**8 ficheros**, con `S-07`), `AGENTS.md` al día y `SHA-256` de los cuatro ficheros comprobado con `sha256sum -c`; clon `/mnt/usb/los-archivos-repo` actualizado a `60468db` | 2026-11-20 | Nombres `los-archivos-2026-11-20-v61.*`. Se mantiene el método de las decisiones 71, 73, 79, 91, 103, 110, 115, 120, 126, 130 y 135; el bundle va con `nk respaldo --etiqueta v61 --version 61`. **Alineación de fechas (decisión 104):** el reloj marca 2026-11-20 y el bundle y los hashes llevan esa fecha, mientras que la sesión v61 conserva la fecha de la escritura de los capítulos (2026-11-18). El bundle incluye la rama `local-v33`, de ahí que cuente 153 y no 98. Los commits de anotación posteriores a la copia (esta línea y la del cierre) no van en el bundle (decisión 79). No se toca el manuscrito |
+
+| 147 | Escritura | **I.22 «Las etiquetas sueltas» aprobado** por el autor («la revisión del capítulo I.22 ya está»). Se cierra con **2.831 palabras** (−6,4 % sobre 3.025), 5 secciones, **3,6 % de citas**, 0 errores y 0 avisos. **22/126 capítulos, 65.416 palabras** | 2026-11-22 | Cierra la 145. I.22 queda como decimocuarto pieza del bloque I.2: las catorce etiquetas, la blanca con «15-X. NO SE SABE», el «No se tira ninguna» sin votación y la etiqueta «CAJA 3» pegada por fuera que no nombra nada de dentro; sirve a **M-1** con M-2 y M-3 de fondo. El literal del autor no dice «sin correcciones»: se toma como aprobación sin cambios; si hubiera alguna, se anota aquí. Se desbloquea **I.23**, decimoquinto del bloque, con dossier por preparar |
+
+| 148 | Escritura | **El Servidor toma la palabra en incremento exponencial**, dictado del autor: «El camino que tomo es la propuesta dos pero en incremento exponencial a los capítulos que siguen. El Servidor discurrirá y resolverá con todo tipo de frases que generas». Se fija en §2 el apartado «El habla de El Servidor: incremento exponencial»: la curva propuesta, las tres guardas y el banco de frases F-S-1 a F-S-11 | 2026-11-22 | **No cambia C-2 ni C-4** (el nombre sigue sin guiño): cambia el **régimen del habla**, como las decisiones 124 y 136, y por orden directa del autor. Guardas derivadas del criterio de fracaso, no canon nuevo: **(1)** no contesta sobre Dios, contesta sobre el papel; **(2)** cada crecimiento se paga con un coste en la casa (si no, el lector sin fe explica la vida por el maestro); **(3)** E-S-4 a E-S-7 siguen reservadas y no se gastan por crecimiento. **Techo propuesto: 8 frases y el 8 % de las palabras del capítulo**, pendiente de confirmación del autor. El banco de frases es **material, no canon**, hasta que se use; F-S-11 queda prohibida por repetir E-S-8 |
 
 ---
 
