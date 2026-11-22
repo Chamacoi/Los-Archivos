@@ -15,8 +15,13 @@ cuándo se escribió, con qué decisión y qué hilos del bloque quedan ya gasta
   toma la palabra en I.23, I.24 y los capítulos que siguen, con la **respuesta al envite de fuera**
   (el vacío cuántico de I.16 y lo que Hawking llama «innecesario»), y con el **banco de frases** de §2
   como material. Guardas: no contesta sobre Dios, cada crecimiento se paga con un coste en la casa y
-  E-S-4 a E-S-7 siguen reservadas. **Siguiente: I.23**, decimoquinto del bloque I.2, con dossier por
-  preparar.
+  E-S-4 a E-S-7 siguen reservadas. **Dossier de I.23 «Lo que no es un acuerdo» preparado** (§0
+  quinvicies, decisión 149) e **I.23 escrito** (decisión 150): **3.251 palabras** (+7,5 %), 5 secciones,
+  **4,2 % de citas**, 0 errores y 0 avisos. La casa le pregunta por fin al que está sentado, sin sacar
+  la fotocopia de la caja; **contesta cuatro frases** y **no se apuntan**, porque el acta apunta
+  acuerdos: «Eso no es un acuerdo». El recuento da **quince actas y cero frases suyas**. **23/126
+  capítulos, 68.667 palabras.** **Siguiente: I.24**, decimosexto y último del bloque I.2, con dossier
+  por preparar (quedan **3.614 palabras** para cerrar el bloque en 48.400).
 - **Sesión anterior:** 2026-11-18 y 20 (**v61, cerrada** el 2026-11-20 por orden del autor). **I.20 «El cuaderno de los errores» aprobado** por
   el autor («He leido I.20, queda aprobado», decisión 138): se cierra con **3.179 palabras** (+5,1 %),
   5 secciones, 3,8 % de citas, 0 errores y 0 avisos, y queda como duodécima pieza del bloque I.2
@@ -1587,6 +1592,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.20 «El cuaderno de los errores» | §0 duovicies | 2026-11-16 | 134 | el cuaderno cerrado y el blanco | P8, P2, P1 |
 | I.21 «Alquiler de amigos» | §0 tervicies | 2026-11-18 | 139 | la foto que corta el margen | P2, P1 |
 | I.22 «Las etiquetas sueltas» | §0 quatervicies | 2026-11-18 | 143 | el nombre que sobrevive a la cosa | P2, P1 |
+| I.23 «Lo que no es un acuerdo» | §0 quinvicies | 2026-11-22 | 149 | la respuesta que no entra en el acta | P2, P1 |
 
 **Notas.**
 
@@ -2403,6 +2409,105 @@ sus cosas.
 (3.232 de media) si se quiere cerrar el bloque en las 48.400 de `ESTRUCTURA.md`; el capítulo puede
 quedarse en el presupuesto y el ajuste se hace en I.23 e I.24.
 
+### 0 quinvicies. I.23 «Lo que no es un acuerdo»: dossier de material (2026-11-22)
+
+Preparado por orden del autor al aprobar la curva del habla de El Servidor («La curva no está mal.
+prepara el dossier de I.23 y sigue»). **Decimoquinto del bloque I.2**, penúltimo, detrás de las
+etiquetas sueltas. El título es de trabajo: se decide al escribir. **No necesita decisiones del
+autor:** el régimen del habla ya está dictado (decisión 148, curva confirmada) y no hay hecho nuevo
+que canonizar; hay cuatro elecciones locales, sujetas a la revisión del capítulo.
+
+**Función en el bloque.** I.16 hizo entrar la explicación de fuera y dejó escrito que la casa no la
+refuta; su §3 («Lo que no se contesta») dejó la pregunta abierta y sin gastar: se habló de contestar
+**al papel**, no de preguntar **al que está sentado a la cabecera**. Cinco capítulos después, I.23
+cobra esa deuda. Es el primer capítulo en que la casa le pregunta a El Servidor por la objeción de
+fuera, y con ello empieza el **incremento exponencial** de su habla: cuatro frases donde hasta ahora
+había una.
+
+**Movimiento que sirve:** **M-1** (no hay prueba en el archivo), en su forma más dura: tampoco su
+respuesta entra en el archivo. Con **M-3** (el coste: la casa decide no conservar lo mejor que ha
+oído) y **M-2** (la forma de vida en lo pequeño: el acta de una línea) de fondo. Ver §2, «Hilo
+conductor del argumento» (decisión 123).
+
+**Fruto que se ve** (`ESTRUCTURA.md`, «Prueba por frutos»): la **fidelidad al archivo** y el **coste de
+la regla**. La casa tiene una regla —el acta apunta acuerdos, no lo que se dice— y la cumple cuando
+le cuesta: lo que acaba de oír no se escribe. Se puede describir sin vocabulario teológico, el
+narrador no elogia y duele.
+
+**Material: ninguna sinopsis de hechos.** `S-01`, `S-02` y `S-03` siguen ancladas en I.5, II.5 y II.2
+(decisión 81); `S-06` se gastó en I.16 y `S-07` en I.21. El capítulo no trae pieza nueva: **trabaja
+sobre dos piezas ya fijadas** —la fotocopia de I.16, que **no se saca de la caja**— y sobre la regla
+del acta.
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| La fotocopia y su párrafo subrayado | I.16 §1-§3 | Guardada en la **caja cuarta fuera de enero**; la caja se abrió en agosto y **no se vuelve a abrir hasta enero**. Nadie escribió en su margen |
+| La regla del acta | I.1 §1, I.5 §1, I.13 §4-§5, I.15 §5 | El acta apunta **lo que se acuerda**, no lo que se hace ni lo que se dice. Se votó **no apuntar quién dice las frases** (seis a dos, I.13). «Dijo que lo contaron — Eso también falta — Eso no es un acuerdo» (I.15) |
+| El margen | I.16 §3 | **El margen es de la casa**: se escribe en el margen de un papel de la casa; en el de fuera escribe quien lo trajo. La fotocopia no lleva nada del margen |
+| El que pregunta por el papel | I.16 §3-§4 | **Milenial de la pregunta** propone lo que los demás están pensando y no dicen; dejó la pregunta abierta |
+| Las palabras de El Servidor en el archivo | I.1 §2, I.4, I.13 | Lo único transcrito son las **veintidós páginas** del disco «SIN CLASIFICAR», con marcas de lápiz «aquí se cortó», y no las transcribió la casa. Ninguna de sus frases de I.15, I.16, I.18 y I.20 está en un acta |
+| El presente | Decisión 80; I.21-I.22 | 2026. I.22 es el jueves **15 de octubre**; aquí es el **22**. La leña pedida el 1-X **sigue sin llegar**; la caja segunda está sobre el tablón y el suelo del taller sigue húmedo; la etiqueta «CAJA 3» sigue pegada por fuera |
+| El tono | C-4, decisión 39, decisión 148 | El Servidor **no predica, no explica a Dios y no se identifica con él**; el narrador no subraya; nada de sermón |
+
+**Procedimiento E-05: P2 y P1.** **P2** (todo lo perdido entra por un documento que no es ello: la
+respuesta entra por **el acta que se niega a recogerla**) y **P1** (se inventaría la pérdida: el
+recuento de **sus palabras** que hay en el archivo, que no es un recuento de ausencias sino el primero
+de palabras dichas). Tope del bloque, tres: se usan dos. **No** P6 (no se narra un hecho pasado: la
+sesión es presente) **ni** P8 (no hay fecha de reconstrucción que corregir). **No** P5, **ni** P4/P7
+de I.19, **ni** P3/P9.
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. La sesión del **jueves 22 de octubre de 2026**, con el frío que empieza y la leña sin llegar.
+2. La fotocopia **no se saca**: la caja cuarta no se abre hasta enero, y la pregunta se hace sin el
+   papel delante.
+3. **Quien pregunta es quien abre la caja** (precedente de I.13: la fórmula la dice el que abre).
+   Pregunta Equis del registro, que en I.16 dijo «el archivo no contesta».
+4. **El Servidor contesta cuatro frases** (E-S-9), en este orden: (1) que no va a decir si hay
+   creador, sino lo que consta; (2) «No venimos de la nada. Venimos de una capacidad vacía. No es lo
+   mismo»; (3) «Una regla que no necesita a nadie sigue siendo una regla. Y no está escrita en
+   ninguna parte del papel»; (4) «Yo no estoy en las cajas. Estoy en la sesión».
+5. **El coste del incremento, dicho en la ficción:** Boomer de la silla dirá que antes una frase suya
+   duraba una semana y que hoy han sido cuatro. Nadie pide más.
+6. **No se apunta.** Zeta del margen coge el bolígrafo y Equis del registro dice «Eso no es un
+   acuerdo». Se discute el margen y se decide que el margen es de los papeles de la casa. **No se
+   vota:** hay precedente (I.13, I.15). El acta recoge solo el acuerdo de no apuntarlo.
+7. **P1: el recuento.** La casa cuenta lo que tiene de sus palabras: **cero** frases en las actas, las
+   **veintidós páginas** de fuera con los «aquí se cortó», y el acta de hoy, que dice que hubo
+   respuesta y no la respuesta.
+8. **El cierre no es una tesis:** la casa sigue, la sesión se cierra a las ocho y cuarenta, y quien
+   llegue después tendrá constancia de que se preguntó y no de qué se contestó.
+
+**Lo que no puede hacer.** Repetir I.16 (el papel entra, se discute y se guarda): aquí el papel **no
+está** y no se saca de la caja. Repetir I.13 (la votación sobre apuntar quién dice las frases): aquí
+**no se vota**, decide el precedente, y lo que está en juego no es quién lo dice sino qué se dijo.
+Repetir I.15 (las llamadas, la lista, el «no quiere») ni I.20 (el cuaderno de los errores y el blanco)
+ni I.22 (las etiquetas y el nombre). No reabrir I.12 (la prueba) ni I.10 (los recuentos de la misma
+ausencia): el recuento de aquí es de **palabras de él**, y da cero. No añadir personas (decisión 54),
+no dar nombre a quien no lo tiene, no usar la primera persona (decisión 55). No explicar la suma del
+12-II, la división, las dos salidas, la plaga, 2008 ni el anuncio; no abrir el disco de 2008; no tocar
+C-8, C-9 ni C-10. **No gastar E-S-4 a E-S-7.** Y las tres guardas de la decisión 148: no contesta
+sobre Dios, cada crecimiento se paga y no se identifica con él.
+
+**Decisiones que el capítulo necesita del autor: ninguna.** Cuatro **elecciones locales**, sujetas a
+revisión: (1) la sesión es el **22 de octubre de 2026** y la pregunta se hace **sin** la fotocopia;
+(2) pregunta **Equis del registro** y contesta él en **cuatro frases**; (3) se decide no apuntarlo
+**sin votación**, por precedente, y el acta solo recoge el acuerdo; (4) **F-S-3 se ajusta** al
+escribir: no dice «no sé si hay creador» —C-2 no admite un vidente ignorante— sino que **no va a
+decirlo**, porque él contesta por lo que consta.
+
+**Reparto (cinco secciones).** 1. **El frío** (22 de octubre; la etiqueta «CAJA 3», el suelo húmedo, la
+leña que no llega; Milenial de la pregunta dice que el papel de agosto sigue sin contestar); 2. **La
+pregunta** (quién pregunta: el que abre la caja; Alfa pide preguntar y no le toca; Equis del registro
+pregunta y se oye preguntarlo); 3. **Cuatro frases** (la respuesta, seguida, sin interrupciones; la
+casa callada; Boomer de la silla cuenta las frases); 4. **Lo que no es un acuerdo** (el bolígrafo de
+Zeta del margen, el «eso no es un acuerdo», el margen de la casa, el acta de una línea); 5. **Lo que
+queda** (el recuento de sus palabras, las veintidós páginas, la pregunta que Alfa repite y él no
+repite, la sesión que se cierra).
+
+**Presupuesto: 3.430 palabras** (+13,4 % sobre 3.025; dentro del ±20 %), para cerrar el bloque I.2 en
+las 48.400 de `ESTRUCTURA.md` con I.24: quedan **6.865** y se reparten 3.430 + 3.435.
+
 ---
 
 ---
@@ -2684,6 +2789,7 @@ Dios (criterio de fracaso). Registro de lo dicho y lo reservado:
 | E-S-6 | La siembra | II.2 | reservado (propuesta) |
 | E-S-7 | La fórmula de C-10, una sola vez | II.6 | reservado |
 | E-S-8 | El blanco del cuaderno: «No se apunta la falta. Se apunta que la hubo» / «Un error escrito no se repite a escondidas» | I.20 | dicho |
+| E-S-9 | La respuesta al papel de fuera, en cuatro frases: «No os voy a decir si hay creador. Os voy a decir lo que consta» / «No venimos de la nada. Venimos de una capacidad vacía. No es lo mismo» / «Una regla que no necesita a nadie sigue siendo una regla. Y no está escrita en ninguna parte del papel» / «No estoy en las cajas. Estoy en la sesión» | I.23 | dicho |
 
 **I.19 no usa ninguna:** El Servidor está y no habla. La decisión 124 permite explicaciones
 amplias, no las obliga; se reservan E-S-4 a E-S-7. **I.20 usa una** (E-S-8, decisión 136): El
@@ -2691,8 +2797,13 @@ Servidor habla sobre el blanco del cuaderno. **I.21 y I.22 callan.**
 
 **Estado (2026-11-22).** Construidos **M-1, M-2 y M-3** con I.1-I.22; **I.22 aprobado** (decisión
 147). Pendientes: **M-4 a M-9**. El hilo se actualiza al escribir cada capítulo, como `SINOPSIS/`.
-Quedan **I.23 e I.24** para cerrar el bloque I.2 (9.146 palabras de presupuesto), y en ellos cambia
-el régimen del habla (apartado siguiente).
+Queda **I.24** para cerrar el bloque I.2, y con él cambia el régimen del habla (apartado siguiente).
+**I.23** (dossier en §0 quinvicies, decisión 149; escrito en la 150) es el primer capítulo del régimen
+nuevo: **M-1** en su forma dura —tampoco su respuesta entra en el archivo—, con M-3 y M-2 de fondo;
+gastó **E-S-9** (cuatro frases: F-S-1, F-S-2 y F-S-6 ajustadas al habla de la casa, y F-S-3 reescrita)
+y dejó E-S-4 a E-S-7 reservadas. **El banco de frases queda con F-S-1, F-S-2 y F-S-6 usadas**, F-S-3
+reformulada en E-S-9, **F-S-4, F-S-5 y F-S-7 a F-S-10 disponibles** y F-S-11 prohibida. Queda **I.24**
+para cerrar el bloque I.2.
 
 ### El habla de El Servidor: incremento exponencial (2026-11-22, decisión 148)
 
@@ -2964,6 +3075,10 @@ no como frase nueva.
 | 147 | Escritura | **I.22 «Las etiquetas sueltas» aprobado** por el autor («la revisión del capítulo I.22 ya está»). Se cierra con **2.831 palabras** (−6,4 % sobre 3.025), 5 secciones, **3,6 % de citas**, 0 errores y 0 avisos. **22/126 capítulos, 65.416 palabras** | 2026-11-22 | Cierra la 145. I.22 queda como decimocuarto pieza del bloque I.2: las catorce etiquetas, la blanca con «15-X. NO SE SABE», el «No se tira ninguna» sin votación y la etiqueta «CAJA 3» pegada por fuera que no nombra nada de dentro; sirve a **M-1** con M-2 y M-3 de fondo. El literal del autor no dice «sin correcciones»: se toma como aprobación sin cambios; si hubiera alguna, se anota aquí. Se desbloquea **I.23**, decimoquinto del bloque, con dossier por preparar |
 
 | 148 | Escritura | **El Servidor toma la palabra en incremento exponencial**, dictado del autor: «El camino que tomo es la propuesta dos pero en incremento exponencial a los capítulos que siguen. El Servidor discurrirá y resolverá con todo tipo de frases que generas». Se fija en §2 el apartado «El habla de El Servidor: incremento exponencial»: la curva propuesta, las tres guardas y el banco de frases F-S-1 a F-S-11 | 2026-11-22 | **No cambia C-2 ni C-4** (el nombre sigue sin guiño): cambia el **régimen del habla**, como las decisiones 124 y 136, y por orden directa del autor. Guardas derivadas del criterio de fracaso, no canon nuevo: **(1)** no contesta sobre Dios, contesta sobre el papel; **(2)** cada crecimiento se paga con un coste en la casa (si no, el lector sin fe explica la vida por el maestro); **(3)** E-S-4 a E-S-7 siguen reservadas y no se gastan por crecimiento. **Techo propuesto: 8 frases y el 8 % de las palabras del capítulo**, pendiente de confirmación del autor. El banco de frases es **material, no canon**, hasta que se use; F-S-11 queda prohibida por repetir E-S-8 |
+
+| 149 | Escritura | **Dossier de I.23 «Lo que no es un acuerdo» preparado** (§0 quinvicies), decimoquinto del bloque I.2 y penúltimo, por orden del autor al aprobar la curva del habla («La curva no está mal. prepara el dossier de I.23 y sigue»). Cobra la deuda que I.16 §3 dejó abierta: la casa **le pregunta a El Servidor** por la objeción de fuera, sin sacar la fotocopia de la caja cuarta, y él contesta **cuatro frases** (E-S-9). El coste del incremento entra en la ficción: **no se apunta**, porque el acta apunta acuerdos y esto no lo es, y **no se vota** —hay precedente en I.13 y I.15—. Prácticas E-05: **P2 y P1**. Sin sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-22 | Cuatro **elecciones locales** sujetas a revisión: la sesión es el **22 de octubre de 2026** y la pregunta se hace sin la fotocopia; pregunta **Equis del registro** (el que abre la caja, precedente de I.13) y contesta en cuatro frases; se decide no apuntarlo **sin votación**, y el acta solo recoge el acuerdo de no apuntarlo; **F-S-3 se ajusta** al escribir —no dice «no sé si hay creador» (C-2 no admite un vidente ignorante), sino que no va a decirlo, porque contesta por lo que consta. Sirve a **M-1** en su forma dura —tampoco la respuesta entra en el archivo—, con M-3 y M-2 de fondo. Gasta **E-S-9**; **E-S-4 a E-S-7 siguen reservadas**. Las tres guardas de la decisión 148 se aplican enteras. No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas y no repite los recursos de I.13-I.22. **Presupuesto 3.430 palabras** para cerrar el bloque I.2 en 48.400 con I.24 |
+
+| 150 | Escritura | **I.23 «Lo que no es un acuerdo» escrito**, decimoquinto del bloque I.2: **3.251 palabras** (+7,5 % sobre 3.025), 5 secciones, **4,2 % de citas**, 0 errores y 0 avisos. La sesión del **22 de octubre** abre con la leña sin llegar y la etiqueta «CAJA 3» en su sitio; Milenial de la pregunta dice que el papel de agosto sigue sin contestar; se discute **quién pregunta** (la costumbre: el que abre la caja) y Alfa no puede preguntar porque no es pregunta de abrir; **Equis del registro**, que dijo «el archivo no contesta», pregunta «¿Qué contestamos al papel?» y **El Servidor contesta cuatro frases** (E-S-9). La casa intenta repetirlas de memoria y no puede; Boomer de la silla cuenta que antes una frase duraba una semana y estas cuatro no han durado la tarde; Alfa dice «Eso no es contestar». **Zeta del margen coge el bolígrafo y no escribe**: «Eso no es un acuerdo»; se buscan los precedentes y se leen las actas del 16 y del 30 de julio; se decide **sin votar** y el margen se queda para los papeles de fuera. Acta: «Se pregunta y se contesta. Se acuerda no apuntarlo». **El recuento (P1): quince actas y cero frases suyas**; lo único con sus palabras son las veintidós páginas del «SIN CLASIFICAR», transcritas por quien no está. Alfa abre la boca para preguntar y no pregunta. **23/126, 68.667 palabras** | 2026-11-22 | Escrito con **P2 y P1** de E-05 y sin sinopsis de hechos (decisión 81). Sirve a **M-1** en su forma dura —tampoco la respuesta entra en el archivo—, con M-3 y M-2 de fondo, según el hilo conductor (§2, decisión 123). **Primer capítulo del régimen de la decisión 148:** cuatro frases, dentro de la curva, con las tres guardas cumplidas —no contesta sobre Dios, el crecimiento se paga (se pierde la primera frase y Alfa deja de preguntar) y **E-S-4 a E-S-7 siguen reservadas**. La fotocopia **no se saca** de la caja cuarta. Continuidad: la regla del acta (I.1, I.5, I.13, I.15), el margen de la casa (I.16 §3), la leña del 1-X (I.19, I.21, I.22), el tablón y la etiqueta «CAJA 3» (I.22), las veintidós páginas y el «sin el ruido» (I.1 §2, I.4), la fórmula de apertura y la de cierre (I.13), Alfa sin voto (decisión 54). No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas, no explica la suma del 12-II y no repite I.13 (aquí no se vota), I.16 (el papel no está), I.15 ni I.20. **Pendiente de revisión del autor** |
 
 ---
 

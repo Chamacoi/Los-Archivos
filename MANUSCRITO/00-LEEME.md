@@ -71,11 +71,36 @@ no la consola y no la echa; El Servidor da una explicación amplia (creer y copi
 creer y copia la línea corrigiéndole las tildes. **Aprobado** el 2026-11-15 (decisión 127). Dossier
 en `../APUNTES.md` §0 vicies.
 
-Sigue I.19: «Capítulo 19. La casa de la esquina», **3.017 palabras**, escrito el 2026-11-15
+Sigue I.19: «Capítulo 19. La casa de la esquina», **3.041 palabras**, escrito el 2026-11-15
 (decisión 129) con las prácticas P7, P4 y P2 de E-05 y sin sinopsis de hechos. La casa no vuelve a
 llamar a la que pidió que no se le llamara, pero le lleva una vez una ración de caldo con una nota
 sin firma; la olla no vuelve y en octubre está de maceta en una ventana. Sirve a **M-2** del hilo
-conductor. **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0 unvicies.
+conductor. **Aprobado** el 2026-11-16 (decisión 133). Dossier en `../APUNTES.md` §0 unvicies.
+
+Sigue I.20: «Capítulo 20. El cuaderno de los errores», **3.179 palabras**, escrito el 2026-11-16
+(decisión 137) con las prácticas P8, P2 y P1 de E-05 y sin sinopsis de hechos. La casa saca la caja
+segunda por la humedad del suelo del taller y encuentra el cuaderno debajo de los discos; se lee la
+regla de la tapa y el añadido «Salvo que se pregunte», se vota no reabrirlo y El Servidor dice que no
+se apunta la falta, sino que la hubo. **Aprobado** el 2026-11-18 (decisión 138). Dossier en
+`../APUNTES.md` §0 duovicies.
+
+Sigue I.21: «Capítulo 21. Alquiler de amigos», **2.838 palabras**, escrito el 2026-11-18 (decisión
+141) con las prácticas P2 y P1 de E-05, sin sinopsis de hechos y usando `S-07`. Dentro del periódico
+que hay debajo de la caja segunda aparece un anuncio de una tienda que vendía compañía, belleza y
+exotismo, y el acta no la menciona. **Aprobado** en la v61 (decisión 142). Dossier en `../APUNTES.md`
+§0 tervicies.
+
+Sigue I.22: «Capítulo 22. Las etiquetas sueltas», **2.831 palabras**, escrito el 2026-11-18 (decisión
+145) con las prácticas P2 y P1 de E-05 y sin sinopsis de hechos. Se levanta la caja segunda del suelo
+húmedo sobre un tablón y al moverla se abre la bolsa: catorce etiquetas de cuatro manos, una en blanco,
+y no se tira ninguna. **Aprobado** en la v62 (decisión 147). Dossier en `../APUNTES.md` §0
+quatervicies.
+
+Sigue I.23: «Capítulo 23. Lo que no es un acuerdo», **3.251 palabras**, escrito el 2026-11-22
+(decisión 150) con las prácticas P2 y P1 de E-05 y sin sinopsis de hechos. Primer capítulo del
+régimen de la decisión 148: la casa le pregunta al que está sentado por el papel de fuera y él contesta
+cuatro frases que **no se apuntan**, porque el acta apunta acuerdos. Sirve a **M-1** del hilo
+conductor. **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0 quinvicies.
 
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 

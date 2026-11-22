@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 22,
-  "palabras": 65416,
+  "escritos": 23,
+  "palabras": 68667,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 22,
-      "palabras": 65416
+      "escritos": 23,
+      "palabras": 68667
     },
     {
       "id": "II",
@@ -249,11 +249,11 @@
     },
     {
       "id": "I.23",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "Lo que no es un acuerdo",
+      "escrito": true,
+      "palabras": 3251,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": 0.0747,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/23-capitulo.md"
     },
@@ -1289,7 +1289,7 @@
     }
   ],
   "tareas_abiertas": [
-    "Revisión de I.22 por el autor y, si se aprueba, **dossier de I.23** (decimoquinto del bloque I.2, título de trabajo sin fijar) y su escritura.",
+    "**Dossier de I.23** (decimoquinto del bloque I.2, título de trabajo sin fijar) y su escritura, con El Servidor hablando según la decisión 148.",
     "Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es el último paso de la obra, no un control previo. Reformulación C.)*",
     "Títulos definitivos de las partes y de los capítulos (los de trabajo son «Los que oyeron» y «Los que leyeron»).",
     "Deuda material con la naturaleza (E-02 §10.1).",

@@ -1357,3 +1357,14 @@ su dossier.
   vacío está lleno de reglas. Quien ve no tiene nada que leer») queda como E-S-2, ya dicha y no
   repetible. Actualizados `APUNTES.md`, `README.md` y esta bitácora. Próximo paso: **dossier de
   I.23**, decimoquinto del bloque I.2.
+- **Dossier de I.23 «Lo que no es un acuerdo» preparado** (§0 quinvicies, decisión 149) y **capítulo
+  escrito** (decisión 150): **3.251 palabras** (+7,5 % sobre 3.025), 5 secciones, **4,2 % de citas**, 0
+  errores y 0 avisos. Primero del régimen de la decisión 148: la sesión del **22 de octubre** discute
+  quién pregunta, lo hace Equis del registro —el que dijo «el archivo no contesta»— y El Servidor
+  contesta **cuatro frases** (E-S-9); la casa las intenta repetir de memoria y no puede, y Alfa dice
+  «Eso no es contestar». Zeta del margen coge el bolígrafo y no escribe: «Eso no es un acuerdo»; se
+  busca el precedente, **no se vota** y el acta recoge solo el acuerdo de no apuntarlo. El recuento da
+  **quince actas y cero frases suyas**. **23/126 capítulos, 68.667 palabras.** Actualizados
+  `APUNTES.md`, `README.md`, `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` (recuento) y `estado.json`.
+  Próximo paso: **I.24**, decimosexto y último del bloque I.2, con **3.614 palabras** de presupuesto
+  para cerrar el bloque en las 48.400 de `ESTRUCTURA.md`.
