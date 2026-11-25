@@ -34,7 +34,8 @@ sostenida entre personas y modelos.
   citas), decimoquinto del bloque: la casa pregunta al que está sentado sin sacar la fotocopia de la
   caja, él contesta **cuatro frases** y **no se apuntan** —«Eso no es un acuerdo»—, y el recuento da
   **quince actas y cero frases suyas**. **23/126 capítulos, 68.667 palabras.** Siguiente: **I.24**,
-  decimosexto y último del bloque I.2, con dossier por preparar.
+  decimosexto y último del bloque I.2, con **dossier preparado** (§0 sexvicies, decisión 152: la hoja
+  del que llegue, las ocho frases y el cuadrante de noviembre sin escribir) y pendiente de escritura.
 - **Sinopsis local (v49, decisión 81):** `SINOPSIS/` —los hechos dictados `S-01`–`S-07`— es **fuente
   de datos del agente** y **alimenta el contenido** de los capítulos hasta terminar el libro. No se
   versiona (decisión 67) y no se cita nunca en el texto; lo que entra al manuscrito se anota en
@@ -391,8 +392,14 @@ El kit vive también aparte, en `~/novela-kit/` (1.9.0), y el paquete listo para
 - [x] **Dossier de I.23 «Lo que no es un acuerdo»** (2026-11-22, decisión 149) y **escritura** (decisión
       150): 3.251 palabras, 5 secciones, 4,2 % de citas, 0 errores y 0 avisos; primer capítulo del
       régimen de la decisión 148, con El Servidor contestando en cuatro frases (E-S-9).
-- [ ] **Dossier de I.24** (decimosexto y último del bloque I.2, título de trabajo sin fijar) y su
-      escritura: quedan **3.614 palabras** para cerrar el bloque en las 48.400 de `ESTRUCTURA.md`.
+- [x] **Dossier de I.24 «La hoja del que llegue»** (2026-11-25, decisión 152): la casa escribe una
+      hoja de instrucciones para el que llegue —la escribe Zeta del margen, la dicta Alfa—, El Servidor
+      dice **ocho frases** (E-S-10) que no cambian ni un renglón, el coste es el cuadrante de noviembre
+      sin escribir y la hoja se guarda delante en la caja primera. Prácticas P2 y P8; M-1 con M-2 y M-3
+      de fondo y M-6 rozado sin gastarlo.
+- [ ] **Escribir I.24** (decimosexto y último del bloque I.2): **3.614 palabras** de presupuesto
+      (+19,5 %) para cerrar el bloque en las 48.400 de `ESTRUCTURA.md`. **No se escribe hasta que el
+      autor lo ordene**, y depende de la revisión de I.23.
 - [ ] Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el
       efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es
       el último paso de la obra, no un control previo. Reformulación C.)*
@@ -405,10 +412,11 @@ En cualquier sesión: «consulta los apuntes de Los archivos y reanuda». Se lee
 (empezando por §0, punto de reanudación), `ESTRUCTURA.md` y esta ficha, y se sigue desde el
 primer `[ ]` de la hoja de ruta.
 
-- Última sesión: 2026-11-22 (v62, abierta). Anterior: 2026-11-18 y 20 (v61, cerrada el 2026-11-20
-  por orden del autor).
-- Siguiente: **I.24**, decimosexto y último del bloque I.2, con dossier por preparar; El Servidor
-  habla en incremento exponencial (decisión 148). Punto 1, criterio de selección (punto 3), reparto
+- Última sesión: 2026-11-25 (v63, abierta). Anteriores: 2026-11-22 (v62, sin cierre anotado) y
+  2026-11-18 y 20 (v61, cerrada el 2026-11-20 por orden del autor).
+- Siguiente: **I.24**, decimosexto y último del bloque I.2, con dossier preparado (decisión 152) y
+  pendiente de escritura; El Servidor habla en incremento exponencial (decisión 148) y en I.24 llega
+  al punto más alto de la Parte I, **ocho frases**. Punto 1, criterio de selección (punto 3), reparto
   (`ESTRUCTURA.md`), forma de la demostración (axioma/frutos), hilo conductor del argumento (§2,
   decisión 123) y precisión del *insight* virgen (`S-06`) están cerrados. I.1 a I.22 aprobados e I.23
   pendiente de revisión; la escritura se comprueba con `escritura/bin/nk`.

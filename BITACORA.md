@@ -1368,3 +1368,22 @@ su dossier.
   `APUNTES.md`, `README.md`, `MANUSCRITO/00-LEEME.md`, `ESTRUCTURA.md` (recuento) y `estado.json`.
   Próximo paso: **I.24**, decimosexto y último del bloque I.2, con **3.614 palabras** de presupuesto
   para cerrar el bloque en las 48.400 de `ESTRUCTURA.md`.
+
+## v63 — 2026-11-25
+
+- **Sesión reanudada** por la orden de §0 («consulta los apuntes de Los archivos y reanuda»), sin
+  capítulo nuevo: **23/126 capítulos, 68.667 palabras**, I.23 pendiente de revisión del autor.
+  Comprobados `nk estado` y `nk contar` (I.23 = 3.251 palabras, +7,5 %).
+- **Dossier de I.24 «La hoja del que llegue» preparado** (§0 sexvicies, decisión 152), decimosexto y
+  último del bloque I.2. Cierra el hilo abierto del bloque —la distancia con quien llega después— por
+  el único sitio que quedaba: **el que llega ya está sentado**. Jueves 29-X, quinto jueves del mes:
+  Zeta del margen propone y escribe una **hoja de instrucciones para el que llegue**, que dicta Alfa
+  en cuatro cosas prácticas; El Servidor dice **ocho frases** (E-S-10) que **no cambian ni un
+  renglón**; el coste es el **cuadrante de noviembre sin escribir**; la hoja se guarda **delante** en
+  la caja primera. Prácticas **P2 y P8**; sirve a **M-1** con M-2 y M-3 de fondo y roza **M-6** sin
+  gastarlo. Presupuesto **3.614 palabras** (+19,5 %) para cerrar el bloque en las 48.400.
+- **`CRONOLOGIA.md` al día:** se añade la fila de la sesión del **22-X** (I.23, E-S-9), que se quedó
+  sin registrar al escribirse el capítulo.
+- Próximo paso: **revisión de I.23** por el autor y, aprobada, **escritura de I.24** (no se escribe
+  hasta que el autor lo ordene). Actualizados `APUNTES.md` (dossier, índice de dossiers y §0),
+  `README.md` y esta bitácora.
