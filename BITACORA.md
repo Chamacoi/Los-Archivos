@@ -1387,3 +1387,24 @@ su dossier.
 - Próximo paso: **revisión de I.23** por el autor y, aprobada, **escritura de I.24** (no se escribe
   hasta que el autor lo ordene). Actualizados `APUNTES.md` (dossier, índice de dossiers y §0),
   `README.md` y esta bitácora.
+- **Lo pendiente, por orden del autor** («#1. I.23 revisado, todo correcto. #2. Escribe I.24»):
+  **I.23 «Lo que no es un acuerdo» aprobado** (decisión 153) sin correcciones, con sus 3.251 palabras.
+- **I.24 «La hoja del que llegue» escrito** (decisión 154), decimosexto y último del bloque I.2:
+  **3.537 palabras** (+16,9 % sobre 3.025), 5 secciones, **4,1 % de citas**, 0 errores y 0 avisos. La
+  sesión del **jueves 29 de octubre** (quinto jueves del mes) cierra el hilo abierto del bloque por el
+  único sitio que quedaba: **el que llega ya está sentado**. Alfa dice que nadie escribió una hoja para
+  la que llegó después; Zeta del margen la propone y la escribe en una hoja del bloc de las notas, con
+  la fecha arriba y **once renglones** que dicta Alfa (el día y la hora, las dos frases, la regla del
+  acta, la luz que hay que dar dos veces); se añaden la caja primera, las once sillas y una coja,
+  preguntar antes de tocar y el renglón de Boomer de la silla «El que llegue que se siente». En la hoja
+  consta «Leemos lo que **hai**» y la falta no se corrige. Alfa pregunta «¿Y si el que llega no cree?»
+  y El Servidor contesta **ocho frases** (E-S-10) —punto más alto de la Parte I— que **no cambian ni un
+  renglón ni añaden ninguno**; Boomer de la silla cuenta que antes hablaba una vez y la casa estaba un
+  mes con la frase. El acta (la decimosexta) recoge solo «Se escribe una hoja para el que llegue. Se
+  pone delante»; la hoja se guarda delante en la caja primera y el **cuadrante de noviembre se queda
+  sin escribir**. Prácticas **P2 y P8**; sirve a **M-1** con M-2 y M-3 de fondo y roza **M-6** sin
+  gastarlo. **24/126 capítulos, 72.204 palabras**; el bloque I.2 cierra en **48.323** sobre las 48.400
+  (−0,2 %). Actualizados `APUNTES.md` (dossier, decisiones 153 y 154, §0), `CRONOLOGIA.md`,
+  `MANUSCRITO/00-LEEME.md`, `README.md`, `ESTRUCTURA.md` (recuento) y `estado.json`.
+- Próximo paso: **revisión de I.24** y, aprobada, **I.3 «La comunidad»** (caps. 25-44, 60.500
+  palabras), con dossier por preparar.

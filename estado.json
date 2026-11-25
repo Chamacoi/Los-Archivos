@@ -4,8 +4,8 @@
   "objetivo_palabras": 381104,
   "objetivo_tipo": "referencia",
   "capitulos": 126,
-  "escritos": 23,
-  "palabras": 68667,
+  "escritos": 24,
+  "palabras": 72204,
   "metodo_conteo": "palabras",
   "tolerancia": 0.2,
   "partes": [
@@ -14,8 +14,8 @@
       "titulo": "Los que oyeron",
       "capitulos": 63,
       "presupuesto": 190552,
-      "escritos": 23,
-      "palabras": 68667
+      "escritos": 24,
+      "palabras": 72204
     },
     {
       "id": "II",
@@ -259,11 +259,11 @@
     },
     {
       "id": "I.24",
-      "titulo": "",
-      "escrito": false,
-      "palabras": 0,
+      "titulo": "La hoja del que llegue",
+      "escrito": true,
+      "palabras": 3537,
       "presupuesto": 3025,
-      "desviacion": -1.0,
+      "desviacion": 0.1693,
       "fuera_de_tolerancia": false,
       "fichero": "MANUSCRITO/01-parte-I/24-capitulo.md"
     },
@@ -1289,7 +1289,6 @@
     }
   ],
   "tareas_abiertas": [
-    "**Escribir I.24** (decimosexto y último del bloque I.2): **3.614 palabras** de presupuesto (+19,5 %) para cerrar el bloque en las 48.400 de `ESTRUCTURA.md`. **No se escribe hasta que el autor lo ordene**, y depende de la revisión de I.23.",
     "Al acabar el libro, volcar `MANUSCRITO/` a epub (`nk exportar -f epub`) y revisar el efecto de la lectura completa antes de distribuir. *(Reformulada en la v58, decisión 116: es el último paso de la obra, no un control previo. Reformulación C.)*",
     "Títulos definitivos de las partes y de los capítulos (los de trabajo son «Los que oyeron» y «Los que leyeron»).",
     "Deuda material con la naturaleza (E-02 §10.1).",

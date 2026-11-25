@@ -102,6 +102,13 @@ régimen de la decisión 148: la casa le pregunta al que está sentado por el pa
 cuatro frases que **no se apuntan**, porque el acta apunta acuerdos. Sirve a **M-1** del hilo
 conductor. **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0 quinvicies.
 
+Sigue I.24: «Capítulo 24. La hoja del que llegue», **3.537 palabras**, escrito el 2026-11-25
+(decisión 154) con las prácticas P2 y P8 de E-05 y sin sinopsis de hechos. Segundo capítulo del régimen
+de la decisión 148 y punto más alto de la Parte I: la casa escribe una hoja de instrucciones para el que
+llegue —la escribe Zeta del margen, la dicta Alfa— y El Servidor dice **ocho frases** que no cambian ni un
+renglón. Cierra el bloque I.2. **Pendiente de revisión del autor.** Dossier en `../APUNTES.md` §0
+sexvicies.
+
 Desde v18 el texto se comprueba con el kit vendorizado en `../escritura/`:
 
 ```
