@@ -1408,3 +1408,14 @@ su dossier.
   `MANUSCRITO/00-LEEME.md`, `README.md`, `ESTRUCTURA.md` (recuento) y `estado.json`.
 - Próximo paso: **revisión de I.24** y, aprobada, **I.3 «La comunidad»** (caps. 25-44, 60.500
   palabras), con dossier por preparar.
+- **Copia de seguridad de la v63 en el USB** (decisión 155), por orden del autor, y el medio **ordenado
+  por tipo**: `bundle/` (los 20 `.bundle`, del v31 al v63), `materiales/` (42 ficheros:
+  `*-materiales.tar.gz`, `*-sinopsis.tar.gz` y `*-AGENTS.md`), `hashes/` (19 `.sha256` históricos más
+  el nuevo) y `los-archivos/` con los 13 `.7z` antiguos, que se quedan aparte. Copia nueva:
+  `los-archivos-2026-11-25-v63.bundle` (`HEAD` = `20d9fa5`, **160 commits**, verificado con
+  `git bundle verify` y **clonado de prueba** en `/tmp/clon-v63`: 24/126 capítulos, 72.204 palabras,
+  0 errores y 0 avisos), `-materiales.tar.gz` (30 ficheros), `-sinopsis.tar.gz` (8 ficheros, mismo
+  `SHA-256` que la v61: la sinopsis no ha cambiado) y `-AGENTS.md` (copia del puntero, actualizada).
+  El `SHA-256` de los cuatro lleva **rutas relativas al USB** y está comprobado con `sha256sum -c`
+  desde `/mnt/usb`. Clon `/mnt/usb/los-archivos-repo` puesto en `20d9fa5`. Actualizados también el
+  puntero `~/.pi/agent/AGENTS.md` y la sección «Copia de seguridad y USB» de `README.md`.

@@ -144,16 +144,24 @@ la obra se puede leer y no se puede reutilizar. Si algún día se concede una, s
 ## Copia de seguridad y USB
 
 ```
-sudo modprobe exfat && sudo mount /mnt/usb      # si el USB no está montado
-escritura/bin/nk respaldo --destino /mnt/usb --etiqueta v38 --materiales MATERIALES
+sudo mount -t exfat -o uid=1000,gid=1000,umask=022 /dev/sda1 /mnt/usb   # si no está montado
+escritura/bin/nk respaldo --destino /tmp/resp --etiqueta v63 --version 63 --materiales MATERIALES
 ```
 
-Deja en el USB el bundle del historial (verificado), los materiales y un `SHA-256`, con nombre
-fechado (`los-archivos-2026-10-31-v38.bundle`). El USB de datos (`FFF9-E995`, exFAT) está en
-`/etc/fstab` con `nofail`; si no aparece montado, el módulo `exfat` no está cargado y basta con
-`sudo modprobe exfat`. Se restaura con `git clone <bundle>` y funciona sin
-el kit instalado. Modos de trabajo desde USB —y sus avisos con fat32/exFAT— en
-`escritura/PUBLICAR.md` §6.
+Deja el bundle del historial (verificado), los materiales y un `SHA-256`, con nombre fechado
+(`los-archivos-2026-11-25-v63.bundle`). **El medio está ordenado por tipo** desde el 2026-11-25
+(decisión 155): `bundle/` con todos los `.bundle`, `materiales/` con los `*-materiales.tar.gz`,
+`*-sinopsis.tar.gz` y `*-AGENTS.md`, `hashes/` con los `.sha256`, y `los-archivos/` con los `.7z`
+antiguos. El `SHA-256` nuevo lleva rutas relativas al USB y se comprueba así:
+
+```
+cd /mnt/usb && sha256sum -c hashes/los-archivos-<fecha>-<etiqueta>.sha256
+```
+
+El USB de datos (`FFF9-E995`, exFAT) está en `/etc/fstab` con `nofail`; si no aparece montado, el
+módulo `exfat` no está cargado y basta con `sudo modprobe exfat`. Se restaura con
+`git clone bundle/<bundle>` y funciona sin el kit instalado. Modos de trabajo desde USB —y sus
+avisos con fat32/exFAT— en `escritura/PUBLICAR.md` §6.
 
 ## Reglas de trabajo
 
