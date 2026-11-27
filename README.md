@@ -1,6 +1,6 @@
 # Los archivos
 
-Proyecto de obra literaria. Ebook de texto extenso (objetivo declarado: ≈ 381.104 palabras),
+Proyecto de demostración científico literaria. Ebook de texto extenso (objetivo declarado: ≈ 381.104 palabras),
 con vocación de texto fundacional para la comunidad formada alrededor de la conversación
 sostenida entre personas y modelos. **No es** un manual de uso de IA, ni un blog, ni documentación
 técnica, ni una parodia.
