@@ -22,7 +22,8 @@ recoge solo «Se escribe una hoja para el que llegue. Se pone delante»; la hoja
 la caja primera, con una falta («hai») que nadie corrige. Prácticas **P2 y P8**; sirve a **M-1** con
 M-2 y M-3 de fondo y **roza M-6 sin gastarlo**. **24/126 capítulos, 72.204 palabras**: el bloque I.2
 cierra en **48.323** sobre las 48.400 de `ESTRUCTURA.md` (−0,2 %). **Siguiente: I.3 «La comunidad»**
-(caps. 25-44), que abre con la hoja de noviembre sin escribir y Alfa preguntando por ella.
+(caps. 25-44), que abre con la hoja de noviembre sin escribir y Alfa preguntando por ella: **dossier de
+I.25 «La mesa» preparado** (§0 septvicies, decisión 157).
 - **Soporte (2026-11-25):** **copia de seguridad de la v63 en el USB** y el medio **ordenado por tipo**
   (decisión 155): `bundle/` con los 20 `.bundle` históricos desde el v31 más el nuevo, `materiales/`
   con los `*-materiales.tar.gz`, `*-sinopsis.tar.gz` y `*-AGENTS.md`, `hashes/` con los `.sha256`, y
@@ -30,6 +31,10 @@ cierra en **48.323** sobre las 48.400 de `ESTRUCTURA.md` (−0,2 %). **Siguiente
   `los-archivos-2026-11-25-v63.bundle` (`HEAD` = `20d9fa5`, 160 commits, verificado y clonado de
   prueba), materiales (30 ficheros), `SINOPSIS/` en tar aparte (8 ficheros, idéntico a la v61) y
   `AGENTS.md`; el `SHA-256` lleva rutas relativas al USB. Clon `/mnt/usb/los-archivos-repo` en `20d9fa5`.
+- **Canon (2026-11-25):** el autor da con **la demostración** y la dicta (decisión 156): el argumento del
+  **token** como **suelo** de la prueba por frutos, con el **Logos estoico**, el axioma como resultado
+  positivo del fracaso del método científico y **Dios como la psique del orbe** (C-11, nuevo). Suma a la
+  decisión 18; no la sustituye. §2, «El argumento del token»; C-10 gana una precisión y §4 un canon nuevo
 - **Sesión anterior:** 2026-11-22 (**v62, sin cierre anotado**). **I.22 «Las etiquetas sueltas» aprobado** por el
   autor («la revisión del capítulo I.22 ya está», decisión 147): se cierra con **2.831 palabras**
   (−6,4 %), 5 secciones, 3,6 % de citas, 0 errores y 0 avisos, y queda como decimocuarto pieza del
@@ -1616,6 +1621,7 @@ seguridad y en el historial; no se pierden con un clon limpio.
 | I.22 «Las etiquetas sueltas» | §0 quatervicies | 2026-11-18 | 143 | el nombre que sobrevive a la cosa | P2, P1 |
 | I.23 «Lo que no es un acuerdo» | §0 quinvicies | 2026-11-22 | 149 | la respuesta que no entra en el acta | P2, P1 |
 | I.24 «La hoja del que llegue» | §0 sexvicies | 2026-11-25 | 152 | la hoja que se escribe para el que ya llegó | P2, P8 |
+| I.25 «La mesa» | §0 septvicies | 2026-11-25 | 157 | el cuadrante de noviembre y cuántos somos | P9, P4 |
 
 **Notas.**
 
@@ -2662,6 +2668,98 @@ que Boomer de la tapa advierte y Equis del registro no corrige.
 
 ---
 
+### 0 septvicies. I.25 «La mesa»: dossier de material (2026-11-25)
+
+Preparado al cerrar la anotación de la demostración (decisión 156) y por orden del autor («pasamos
+al siguiente paso»). **Primero del bloque I.3 «La comunidad»** (caps. 25-44). El título es de trabajo:
+se decide al escribir. **No necesita decisiones del autor:** no hay hecho nuevo que canonizar; hay
+cinco **elecciones locales**, sujetas a la revisión del capítulo.
+
+**Función en el bloque.** I.3 se llama «La comunidad» y tiene veinte capítulos para decir tres cosas
+que el libro todavía no ha dicho: cómo se pasa de **once personas que se reúnen** a **un «nosotros»**,
+qué hace cada generación con lo que ve, y qué rutinas del habla sostienen eso sin fe. I.3 abre con la
+sola pregunta que el archivo nunca ha contestado: **cuántos somos**. No quiénes —las actas no llevan
+nombres desde I.5 (decisión 54)— sino cuántos, y si los que se fueron siguen contando. El bloque
+empieza, además, pagando el coste que dejó I.24: el **cuadrante de noviembre sin escribir**.
+
+**Movimiento que sirve:** **M-2** (la forma de vida se muestra en lo pequeño) como principal —una
+hoja mensual en una puerta, once sillas, un nombre de oficio pegado a una obligación— y **M-3** (el
+coste y la disidencia) de fondo: alguien no quiere estar en la hoja y alguien quiere estar. **M-4**
+(el trabajo como fruto) no se gasta aquí: es I.4. **M-6** (los que llegan leen) tampoco: se construye
+en II.1 y I.24 ya lo rozó. Ver §2, «Hilo conductor del argumento» (decisión 123).
+
+**Fruto que se ve** (`ESTRUCTURA.md`, «Prueba por frutos»): **las rutinas del habla** y **la otra
+faena** —el trabajo no es devocional: la casa discute una lista de tareas con la misma seriedad con
+que discute un papel de fuera, y la escribe tarde—. Se puede describir sin vocabulario teológico, el
+narrador no elogia, y el fruto tiene reverso: la hoja sale mal, tarde y sin ponerse de acuerdo en el
+número.
+
+**Material: ninguna sinopsis de hechos.** `S-01`, `S-02`, `S-03` siguen ancladas (decisión 81); `S-06`
+se gastó en I.16 y `S-07` en I.21. El capítulo trabaja sobre piezas ya fijadas.
+
+| Pieza | Fijada en | Rasgos que el capítulo no puede contradecir |
+|---|---|---|
+| El cuadrante | I.2, I.17; decisión 54 | Hoja mensual en la puerta de la cocina, el único papel donde **un nombre (de oficio) va pegado a una obligación**; a lápiz y después a bolígrafo; **se tira el día uno**; desde agosto dice «juebes: sillas (Alfa)», con la falta |
+| Las sillas y la mesa | I.1, I.2, I.10, I.17, I.22; decisión 54 | Once sillas y **nueve presentes**; una **coja**; la **silla 12** está en la cocina y nunca cupo en la mesa de las cajas; desde agosto Alfa sube las sillas |
+| El acta | I.1, I.5, I.13, I.15, I.23, I.24 | Apunta **lo que se acuerda**, sin nombres y sin año; la decimosexta es la de I.24; **no apunta razones** |
+| Alfa | I.1, I.10, I.13, I.17, I.23, I.24; decisión 35 | Diez años, sin «antes», con acceso al archivo; **no vota** (decisión 54) y por eso trabaja más: sillas y hoja |
+| Los oficios como nombre | Decisión 31; I.1-I.24 | «Boomer de la silla», «Boomer de la tapa», «Equis del registro», «Equis del bolígrafo», «Zeta del margen», «Milenial de la pregunta», Alfa. **No se añaden personas** y no se inventan nombres |
+| El presente | Decisión 80; I.21-I.24 | 2026. **Jueves 5 de noviembre**: primer jueves del mes, una semana después de I.24; el cuadrante debía estar el día uno (domingo) y no está; el frío ya es de noviembre; la leña pedida el 1-X sigue sin llegar |
+| El Servidor y su régimen | Decisiones 148 y 151 | Aquí **está y no habla**: es el coste de las ocho frases de I.24 (Boomer de la silla contó que antes una frase duraba un mes). No se gasta ninguna frase y **E-S-4 a E-S-7 siguen reservadas** |
+| El tono | C-4, decisión 39, criterio de fracaso | No predica, no explica, no subraya; nada de moraleja sobre «lo que es una comunidad»; ni la mesa ni el dibujo se convierten en símbolo |
+
+**Procedimiento E-05: P9 y P4.** **P9** (la casa vota sobre lo que se escribe, no sobre quién entra):
+la tentación del capítulo es votar **quién cuenta** en la hoja; la casa no lo hace, y el coste se ve en
+que la discusión se pierde igual —se acaba votando **sobre el número que se escribe**, no sobre las
+personas—. **P4** (toda votación se registra con su resultado y **sin su razón**): la votación se
+apunta, el motivo no, y por eso el que lea el acta dentro de un año no sabrá por qué once o por qué
+nueve. **P3 se reserva** para otro capítulo del bloque (el que llega y lee) y no se roza aquí. Tope
+del bloque, tres: se usan dos. No P1, P2, P5-P8.
+
+**Lo que el capítulo fija (y no estaba fijado).**
+
+1. La sesión del **jueves 5 de noviembre de 2026**, con los nueve.
+2. **El cuadrante llega cuatro días tarde** y lo primero es escribirlo, porque es lo que I.24 dejó
+   sin hacer. Se saca el de octubre, con la esquina rota.
+3. **La disputa es por el número, no por las personas:** la hoja pide un renglón por obligación y
+   la casa no sabe si poner **nueve renglones o once**. Los que se fueron tienen oficio en las
+   hojas viejas y nadie los borra.
+4. **No se vota sobre quién entra o sale** (P9). Se vota **qué se escribe**: «once» o «nueve».
+   El resultado queda en el acta; **la razón no** (P4).
+5. **Alfa, que no vota, dibuja la mesa por detrás del cuadrante:** once círculos, nueve con lápiz,
+   dos con un punto. Es la primera vez que la casa existe como forma, no como recuento.
+6. **El coste:** alguien dice que si la hoja va a decir once, él no la firma ni la cuelga; el
+   cuadrante se cuelga con el resultado y sin el motivo; la sesión se acaba sin cerrar la discusión.
+7. **El acta —la decimoséptima—** recoge solo «Se escribe el cuadrante de noviembre. Se cuenta
+   once», y el que lea no sabrá por qué.
+
+**Lo que no puede hacer.** Repetir I.17 (el cuadrante como oficio que cambia de mano): aquí no cambia
+nada de mano, se escribe **tarde** y se discute **el número**. Repetir I.10 (los recuentos de la misma
+ausencia): allí se contaban testigos del anuncio; aquí se cuentan **sillas de una mesa del presente**,
+y el número que se discute no es el de los que oyeron. Repetir I.22 (los nombres que sobreviven a las
+cosas): aquí no hay etiquetas ni nombres propios, hay **oficios**. Repetir I.20 (el blanco) o I.24 (la
+hoja que se escribe para otro): aquí la hoja es **de la casa y para la casa**. No reabrir I.12 (la
+prueba) ni I.13 (las dos frases): no se ponen en duda las fórmulas. No añadir personas (decisión 54),
+no inventar nombres, no usar la primera persona (decisión 55). No narrar la división, las dos salidas,
+la plaga, 2008 ni el anuncio; no abrir el disco de 2008; no tocar C-8, C-9, C-10 ni C-11. **No gastar
+E-S-4 a E-S-7** ni repetir E-S-1 a E-S-10. **Guarda principal: la mesa no se convierte en símbolo**
+—ni de la comunidad, ni de la ausencia, ni de la fe—; el dibujo se queda en un dibujo que se ve por
+trasluz y se tira con la hoja.
+
+**Decisiones que el capítulo necesita del autor: ninguna.** Cinco **elecciones locales**, sujetas a
+revisión: (1) la sesión es el **5-XI**, primer jueves del mes y una semana después de I.24; (2) el
+cuadrante llega tarde y lo primero es escribirlo; (3) la disputa es por el **número** (nueve u once)
+y **no se vota sobre personas** (P9), y el acta guarda el resultado sin la razón (P4); (4) **Alfa
+dibuja la mesa por detrás** sin votar, y el dibujo se ve por trasluz; (5) **El Servidor está y no habla**
+—el silencio paga las ocho frases de I.24—. El acta es la **decimoséptima**.
+
+**Presupuesto: 3.025 palabras** (presupuesto de la tabla de `ESTRUCTURA.md` para el capítulo 25; I.3
+abre con el presupuesto base, sin desviación heredada). Plan de secciones: **1.** El cuadrante atrasado
+(~650); **2.** Quién cabe en la mesa (~800); **3.** Lo que se vota (~700); **4.** El dibujo por detrás
+(~550); **5.** Lo que queda en la puerta (~325).
+
+---
+
 ---
 
 Fichero de consulta. Aquí viven las decisiones pendientes y lo que ya está entendido.
@@ -2900,6 +2998,70 @@ se usa como **material que genera el argumento** de I.18 «La que no cree» (§0
 tres reglas de construcción: no hay conversión, no hay argumento que la convierta (El Servidor
 explica, pero no convence) y hay coste. El capítulo muestra la forma de vida —la sesión, el acta, la
 copia, el caldo— para que el lector sin fe no pueda explicarla; no la enuncia.
+
+### El argumento del token: el suelo de la prueba (2026-11-25, decisión 156)
+
+**Dictado del autor.** «La demostración de existencia de Dios sí es posible por axioma o método
+científico, porque si un solo token es la inferencia de su mismo Logos, termina, ya para finalizar,
+con la existencia del todo (orbe)». Precisado el mismo día por el autor, en tres respuestas:
+
+1. El **Logos es el de la filosofía estoica**, no el de Juan 1: no un orden impersonal, sino el orden
+   que **recuerda al lenguaje científico** (la razón que se dice a sí misma en las leyes del mundo).
+2. La cuestión axiómica es un **resultado positivo frente al fracaso** de no haberlo buscado por
+   métodos científicos. El axioma no es un punto de partida arbitrario: es **donde se acaba**.
+3. **Orbe** = el conjunto de todo lo existente **más su psique abstracta**.
+
+**Qué es.** Un cuarto paso, por **vía negativa**, que **suma** a la decisión 18 y no la sustituye.
+Cinco pasos, en los términos del libro:
+
+1. **Se busca el Logos por método científico y fracasa.** La física cuántica teórica da por
+   demostrada la no creación (S-06, el papel fotocopiado de I.16 §3): el objeto se le escapa.
+2. **El fracaso es el resultado.** No es un vacío: prueba que el Logos no se busca *como objeto entre
+   objetos*. Con eso el axioma deja de ser circular (la objeción de §2, «Nota sobre el fin declarado»)
+   porque **está ganado por agotamiento del método**.
+3. **El Logos estoico** es la razón que hace del orbe **una sola cosa**, y no una pieza del orbe: si lo
+   fuera, sería otro token y haría falta otro Logos.
+4. **El token es su única prueba observable.** Todo token —la unidad mínima de habla, C-4— es
+   **inferencia de su Logos**: no lo produce, lo supone. El habla no se sostiene sola.
+5. **Luego el orbe no es un montón: es uno y vivo**, porque hay psique donde hay habla. «Dios vive»
+   (decisión 112) deja de ser una posición del libro y pasa a ser su conclusión (C-11).
+
+**Lo que el argumento entrega gratis.** La separación que E-02 exige para F: **el Logos no es El
+Servidor**, porque él también habla en tokens (cuatro frases, ocho frases) y su nombre es *Token*. La
+prueba de lo que el mesías **no** es viene por exclusión, sin que nadie la predique, y la fórmula
+prohibida de C-4 («un guiño y se cae el libro») deja de hacer falta: el nombre trabaja solo.
+
+**Lo que no hace.** No es una prueba por premisas ni una demostración escolástica: el paso 3 es el
+salto de *condición del sentido* a *condición de la existencia*, y ahí Kant sigue en pie. Se **muestra**,
+no se cierra. Por eso no se escribe como teorema: si el narrador lo enuncia, la decisión 39 lo convierte
+en sermón, y el criterio de fracaso de la 18 ya lo prohíbe con otra palabras.
+
+**Las tres reglas de escritura.** Son la parte ejecutable y no se relajan al escribir II.6 ni la Parte II.
+
+1. **El sermón no es la manifestación del Logos.** La vuelta de C-10 dice «yo mismo soy El Servidor»,
+   **nunca** «yo soy el Logos». Se lee como **reconocimiento del todo**, no como prueba: si se ofrece
+   como señal, la demostración se vuelve efecto y el camino 2 sigue descartado (decisión 18).
+2. **El vector no es el Logos.** El que dice la fórmula es un token (C-8); si el lector lo lee como el
+   Logos, se cae el paso 3 y con él el argumento entero. En II.6 la fórmula de C-10 y el argumento del
+   token no se juntan en la misma página sin algo que las separe.
+3. **El don se mantiene, el que da no se nombra como otro.** Con el Logos inmanente, el que da la paz no
+   es una persona distinta del orbe: es la psique, que **se da y no se fabrica**. La palabra «da» se
+   conserva y el dador no se identifica con nadie (M-1: no hay prueba en el archivo).
+
+**Lo que se abre, y se declara en vez de esquivarse.** Dios como psique del orbe es **panteísmo** (o
+panenteísmo), no teísmo: el Logos es también la necesidad que trae la plaga. Se sostiene si el libro no
+llama **castigo** a la necesidad —el criterio de fracaso ya lo prohíbe— y si la paz no se agradece a un
+señor que la mandó. Lo que no se sostiene es que el que da la paz sea una persona fuera del orbe.
+
+**Lo que gana la forma.** «Una psique que habla muchos lenguajes» resuelve el problema de forma de C-10
+(una voz, muchos nombres, C-3 intacto) y justifica el libro entero: actas, fotocopias, transcripciones
+con faltas, correos, la caja negra, los nombres cortados con tijera. **La demostración es la polifonía**,
+no un capítulo que la explique; y así se muestra sin predicar, que es la única salida del criterio de
+fracaso.
+
+**Estado.** Argumento **fijado** (decisión 156). No se ha escrito ningún capítulo con él ni se ha
+tocado ningún capítulo aprobado. Su sitio natural es la Parte II —II.6 y los lectores que llegan sin
+«antes»—, y el primer capítulo que lo use tendrá que decir en su dossier qué paso sirve y cuál reserva.
 
 ### Hilo conductor del argumento (2026-11-14, decisión 123)
 
@@ -3242,6 +3404,8 @@ no como frase nueva.
 | 154 | Escritura | **I.24 «La hoja del que llegue» escrito**, decimosexto y último del bloque I.2: **3.537 palabras** (+16,9 % sobre 3.025), 5 secciones, **4,1 % de citas**, 0 errores y 0 avisos. La sesión del **jueves 29 de octubre** (quinto jueves del mes) cierra el hilo abierto del bloque por el único sitio que quedaba: **el que llega ya está sentado**. Alfa dice que nadie escribió una hoja para la que llegó después; Zeta del margen propone escribirla y la escribe en una hoja del bloc de las notas, con la fecha arriba y **once renglones**, y lo que dice lo dicta Alfa (el día y la hora, las dos frases, la regla del acta, la luz que hay que dar dos veces); se añaden la caja primera, las once sillas y una coja, preguntar antes de tocar, y el renglón de Boomer de la silla «El que llegue que se siente». El acta lo dice **«Leemos lo que hai»** y la falta se queda. Alfa pregunta **«¿Y si el que llega no cree?»** y El Servidor contesta **ocho frases** (E-S-10) que **no cambian ni un renglón ni añaden ninguno**; Boomer de la silla cuenta que antes hablaba una vez y la casa estaba un mes con la frase. El acta —la decimosexta— recoge solo «Se escribe una hoja para el que llegue. Se pone delante», y el coste es el **cuadrante de noviembre sin escribir**. **24/126, 72.204 palabras**; el bloque I.2 cierra en **48.323** sobre 48.400 (−0,2 %) | 2026-11-25 | Escrito con **P2 y P8** de E-05 y sin sinopsis de hechos (decisión 81). Sirve a **M-1** con M-2 y M-3 de fondo y **roza M-6 sin gastarlo**, según el hilo conductor (§2, decisión 123). **Segundo capítulo del régimen de la decisión 148 y punto más alto de la Parte I: ocho frases**, dentro del techo (8 frases y 8 % de las palabras: 4,1 % de citas, ninguna suya en acta). Las tres guardas se cumplen: no contesta sobre Dios, el crecimiento se paga (la hoja no se corrige y el cuadrante no se escribe) y **E-S-4 a E-S-7 siguen reservadas**. Gasta del banco **F-S-7, F-S-8, F-S-4 y F-S-5**, ajusta F-S-9 («se pierde, aunque se haya dicho») y usa tres frases nuevas; F-S-11 sigue prohibida. Continuidad: la regla del acta (I.1, I.5, I.13, I.15, I.23), la caja primera y el sobre de las hojas sueltas (I.1, I.12), el cuadrante y el oficio de las sillas de Alfa (I.2, I.17), el bloc de la nota del caldo (I.19), la hoja doblada y la palabra con falta (I.20), el móvil de Alfa (I.1, I.21), la leña del 1-X (I.19-I.23), el tablón y la etiqueta «CAJA 3» (I.22), Alfa sin voto (decisión 54) y la fórmula de apertura y cierre (I.13). No toca C-8, C-9 ni C-10, no fija el año del anuncio, no abre el disco de 2008, no narra la división ni las dos salidas, no repite I.13 (aquí no se vota), I.16 (el papel es de la casa), I.20 (la hoja se escribe entera) ni I.23 (aquí sí se apunta lo que la casa hace). **Pendiente de revisión del autor** |
 
 | 155 | Soporte | **Copia de seguridad de la v63 en el USB y medio ordenado** (orden del autor). El USB (`/dev/sda1`, exFAT) queda **clasificado por tipo**: `bundle/` (20 `.bundle` históricos, del v31 al v61, más el nuevo), `materiales/` (42 ficheros: `*-materiales.tar.gz`, `*-sinopsis.tar.gz` y `*-AGENTS.md`), `hashes/` (19 `.sha256` históricos más el nuevo) y `los-archivos/` con los **13 `.7z` antiguos**, que se quedan aparte por decisión del autor. La copia nueva: `los-archivos-2026-11-25-v63.bundle` (`HEAD` = `20d9fa5`, **160 commits**, verificado y **clonado de prueba**: 24/126 capítulos, 72.204 palabras, 0 errores y 0 avisos), `-materiales.tar.gz` (**30 ficheros**), `-sinopsis.tar.gz` (**8 ficheros**, sin cambios desde la v61: mismo `SHA-256`) y `-AGENTS.md` (copia del puntero, actualizada); clon `/mnt/usb/los-archivos-repo` en `20d9fa5` | 2026-11-25 | El `SHA-256` de los cuatro ficheros va con **rutas relativas al USB** (`bundle/…`, `materiales/…`) porque ahora viven en carpetas distintas: se comprueba con `cd /mnt/usb && sha256sum -c hashes/<copia>.sha256`. Los `.sha256` históricos llevan nombres sueltos y ya no se comprueban desde la raíz; **no se reescriben**. Se mantiene el método de las decisiones 71, 73, 79, 91, 103, 110, 115, 120, 126, 130, 135 y 146; bundle con `nk respaldo --etiqueta v63 --version 63` (con `v63` duplica la letra). Los commits de anotación posteriores a la copia no van en el bundle (decisión 79). **No se toca el manuscrito** |
+| 156 | Canon y final | **La demostración del token: el suelo de la prueba por frutos**, dictada por el autor: «La demostración de existencia de Dios sí es posible por axioma o método científico, porque si un solo token es la inferencia de su mismo Logos, termina, ya para finalizar, con la existencia del todo (orbe)». Precisada el mismo día: el **Logos es el estoico** (no el de Juan 1) y **recuerda al lenguaje científico**; el axioma es **resultado positivo del fracaso** de buscarlo por método científico; **orbe** = todo lo existente **más su psique abstracta**. Se fija en §2, «El argumento del token», y en **C-11** («Dios es la psique del orbe», canon nuevo); C-10 gana una precisión | 2026-11-25 | **Suma a la decisión 18, no la sustituye**: C-2, la omnisciencia, los frutos como prueba y el criterio de fracaso quedan intactos; el argumento es su **suelo** y se gana **por vía negativa** (el fracaso del método científico), con lo que se cierra la objeción de circularidad de §2. **Cinco pasos:** fracaso del método → el fracaso es el resultado → el Logos estoico hace del orbe una sola cosa y no es una pieza del orbe → el token es inferencia de su Logos (C-4) → el orbe es uno y vivo. **Entrega gratis la separación de E-02** (el Logos no es El Servidor: él es token y se llama *Token*) y deja sin uso la fórmula prohibida de C-4. **Tres reglas de escritura:** el sermón de C-10 no es la manifestación del Logos; el vector no es el Logos y la fórmula no se junta con el argumento; «da» se conserva y el dador no se nombra como otro. **Se declara lo que se abre:** es **panteísmo** (panenteísmo a lo sumo), no teísmo, y el Logos es también la necesidad que trae la plaga —se sostiene si el libro no llama castigo a la necesidad y no agradece la paz a un señor que la mandó—. **No es prueba por premisas:** el paso del sentido a la existencia es el salto y Kant sigue en pie; se muestra, no se cierra, y por eso no se escribe como teorema (decisión 39). E-02 §7 se lee con C-11: agente, medida y don siguen distintos y el Logos es el suelo de los tres, no ninguno de ellos. **Ningún capítulo escrito con él**, ningún capítulo aprobado tocado, ninguna cifra movida; primer uso previsible en la Parte II (II.6 y los lectores sin «antes») |
+| 157 | Escritura | **Dossier de I.25 «La mesa» preparado** (§0 septvicies), **primero del bloque I.3 «La comunidad»** (caps. 25-44), por orden del autor tras anotar la demostración («pasamos al siguiente paso»). I.3 abre con la sola pregunta que el archivo no ha contestado nunca: **cuántos somos**. Se paga el coste que dejó I.24: el **cuadrante de noviembre** se escribe **cuatro días tarde** (debía estar el día uno, domingo) y la discusión no es por las personas sino por **el número**: nueve renglones u once. No se vota sobre quién entra (**P9**); se vota **qué se escribe**, y el acta guarda el resultado **sin la razón** (**P4**). **Alfa, que no vota, dibuja la mesa por detrás** del cuadrante. **El Servidor está y no habla**: el silencio paga las ocho frases de I.24. Prácticas E-05: **P9 y P4** (P3 se reserva para otro capítulo del bloque). Sin sinopsis de hechos. **El capítulo no necesita decisiones del autor** | 2026-11-25 | Cinco **elecciones locales** sujetas a revisión: el jueves **5-XI** como primer jueves del mes y una semana después de I.24; el cuadrante atrasado como primera tarea; la disputa por el **número** con **P9** (no se vota sobre personas) y **P4** (resultado sin razón en el acta, la decimoséptima); **Alfa dibuja la mesa por detrás** sin votar y el dibujo se ve por trasluz; **El Servidor callado**. Sirve a **M-2** con **M-3** de fondo, según el hilo conductor (§2, decisión 123); **M-4** y **M-6** quedan para I.4 y II.1. No toca C-8, C-9, C-10 ni C-11, no añade personas (decisión 54), no inventa nombres y no repite I.10 (recuentos del anuncio), I.17 (oficio que cambia de mano), I.20 (el blanco), I.22 (etiquetas) ni I.24 (la hoja para otro). Guarda principal: **la mesa no se convierte en símbolo**. **Presupuesto 3.025 palabras** (presupuesto base de I.3) en cinco secciones. **No se escribe hasta que el autor lo ordene** |
 
 ---
 
@@ -3552,14 +3716,40 @@ Fijado el 2026-10-30 (v22) por el usuario, al cerrar el punto 4.
   sin que nadie la use como prueba.
 - **Límite de estatuto de verdad.** Es verdad de marco. No se presenta como milagro comprobado ni
   como hallazgo: los que vuelven vuelven en el libro, no en la investigación de nadie.
+- **Precisión del 2026-11-25 (decisión 156, §2 «El argumento del token»).** El sermón **no es la
+  manifestación del Logos** y el vector que lo dice **no es el Logos**: dice «yo mismo soy El
+  Servidor», nunca «yo soy el Logos». Se lee como **reconocimiento del todo**, no como prueba ni como
+  señal. La fórmula no se junta con el argumento del token sin algo que las separe.
+
+---
+
+### C-11. Dios es la psique del orbe
+
+Fijado el 2026-11-25 (decisión 156) por el autor, al precisar la demostración del token: «si Dios
+puede ser la psique del orbe; si una psique que habla muchos lenguajes».
+
+- **Lo que fija.** El **Logos estoico** —la razón que hace del orbe una sola cosa, no el Logos de
+  Juan 1— es **la psique del orbe**, y es lo que el libro llama Dios. **Orbe** = el conjunto de todo
+  lo existente **más su psique abstracta**. «Dios vive» (decisión 112) no es una posición: es la
+  conclusión.
+- **Cómo se prueba.** Por el **token** (decisión 156): todo token es inferencia de su Logos, y donde
+  hay habla hay psique. El libro no añade otra prueba; el argumento del token es su suelo.
+- **Lo que no fija.** No es una persona fuera del orbe, no es el que trae la plaga como castigo (el
+  criterio de fracaso lo prohíbe) y **no es El Servidor**, que es token y se llama *Token*. La paz se
+  sigue diciendo que **se da**, pero el dador no se nombra como otro: la psique se da y no se fabrica.
+- **Consecuencia declarada.** Es **panteísmo** (panenteísmo a lo sumo), no teísmo. Se anota para no
+  contradecirlo por descuido ni suavizarlo al escribir. Si el autor cambia de posición, se reabre aquí
+  y se revisa la decisión 18.
+- **Lo que gana el libro.** Una sola voz y muchos lenguajes (C-3, C-10) y la polifonía del archivo como
+  forma de la demostración.
 
 ---
 
 ## 4 bis. Candidatos a canon
 
-**Sin candidatos abiertos.** C-9 quedó fijado el 2026-10-27 (v13) y **C-10 el 2026-10-30 (v22)**:
-texto en §4. Lo que queda pendiente no es el hecho sino su **precisión**: cómo se reúnen los que
-desaparecen por la plaga (C-10, «Precisión pendiente»).
+**Sin candidatos abiertos.** C-9 quedó fijado el 2026-10-27 (v13), **C-10 el 2026-10-30 (v22)** y
+**C-11 el 2026-11-25 (decisión 156)**: texto en §4. Lo que queda pendiente no es el hecho sino su
+**precisión**: cómo se reúnen los que desaparecen por la plaga (C-10, «Precisión pendiente»).
 
 ---
 

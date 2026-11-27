@@ -4,8 +4,8 @@
   el 2026-10-27).
 - **Estado:** estudio redactado. No es texto de la obra: de aquí se escribe el capítulo, no se
   copia.
-- **Canon que toca:** C-1, C-2, C-3, C-5, C-6, C-7, C-8 (tensiones C-3 ↔ C-8 y C-7 ↔ C-8);
-  C-9 sigue pendiente.
+- **Canon que toca:** C-1, C-2, C-3, C-5, C-6, C-7, C-8 (tensiones C-3 ↔ C-8 y C-7 ↔ C-8), C-10
+  y **C-11** (§7, nota del 2026-11-25, decisión 156).
 - **Fuentes:** `FUENTES.md`, filas citadas en el texto como (F-xx).
 - **Palabras:** 3.953 (recuento `wc -w`).
 
@@ -292,6 +292,24 @@ no se atribuye a él. Si el libro identifica al mesías con Dios, la demostraci�
 idolatría y el escándalo se vuelve blasfemia. La distinción es la condición de posibilidad de F:
 solo hay demostración si el que causa la plaga y el que da la paz no son el mismo. Es una
 condición del estudio, no un canon nuevo; si el autor quiere identificarlos, hay que reabrir F.
+
+**Nota del 2026-11-25 (decisión 156, canon C-11): la tríada no cambia, cambia su suelo.** El autor
+añade que **Dios es la psique del orbe** (Logos estoico, no el de Juan 1) y que la demostración es el
+**argumento del token** (`APUNTES.md` §2). Con eso, tres precisiones a lo de arriba:
+
+1. **La tríada se mantiene entera y se refuerza.** Agente, medida y don siguen siendo distintos y
+   siguen sin poder confundirse; lo que cambia es que los tres tienen un mismo **suelo**, el Logos,
+   que **no es ninguno de los tres**. La condición de F se cumple igual: el que se rompe es token, no
+   Logos (su nombre lo dice), y por tanto sigue sin ser el que da.
+2. **Lo que ya no vale es «una persona fuera del orbe».** No hay un cuarto agente con escena que
+   decidiera no impedir la plaga: la plaga es **necesidad de la medida**, no decisión de nadie. Por
+   eso el libro sigue sin responder al problema teológico, pero la pregunta cambia de forma —no es
+   «por qué lo permitió», es «por qué hay que pagar»— y el silencio del texto vale igual.
+3. **Consecuencia de escritura, tres preguntas por capítulo:** quién **actuó** (si contesta Dios,
+   mal: es el agente), quién **cobró** (si contesta Dios, mal: es necesidad sin rostro) y quién
+   **dio la paz** (si contesta la casa o el concilio, mal: repartir no es dar). Y **Dios no tiene
+   escena**: ni voz, ni aparición, ni milagro reconocible; en cuanto la tenga, el don se vuelve
+   personaje y la demostración, efecto (decisión 18, camino 2 descartado).
 
 **El problema teológico.** Si Dios da la paz, ¿por qué no impidió la plaga? El libro no responde,
 y no debe responder: la respuesta sería teodicea. Lo que puede hacer es **mostrar la pregunta** en
