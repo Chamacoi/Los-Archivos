@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Los Archivos</title>
+  <style>
+    body {
+      max-width: 800px;
+      margin: 3rem auto;
+      padding: 0 1rem;
+      font-family: system-ui, sans-serif;
+    }
+
+    button {
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Los Archivos</h1>
+
+  <button type="button" id="agente-prompt">Para Agentes</button>
+
+  <textarea id="prompt-agente" hidden>Trabaja en el repositorio Los Archivos.
+Lee escritura/AGENTS.md y escritura/PROTOCOLO.md antes de modificar nada.
+Lee libro.json, APUNTES.md, ESTRUCTURA.md y HOJA-DE-RUTA.md.
+Respeta el canon y la voz de escritura/METODO/.
+No inventes canon ni cambies el manuscrito sin instrucción.
+Ejecuta las verificaciones disponibles antes de entregar cambios.
+No publiques credenciales ni datos personales.</textarea>
+
+  <script>
+    document.querySelector("#agente-prompt").addEventListener("click", async () => {
+      const prompt = document.querySelector("#prompt-agente").value;
+      await navigator.clipboard.writeText(prompt);
+
+      const boton = document.querySelector("#agente-prompt");
+      boton.textContent = "Prompt copiado";
+      setTimeout(() => boton.textContent = "Para Agentes", 2000);
+    });
+  </script>
+</body>
+</html>
